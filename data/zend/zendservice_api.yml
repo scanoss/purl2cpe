@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:zend:zendservice_api:1.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/ezimuel/zendservice_api
+- pkg:github/zendframework/zendservice_api

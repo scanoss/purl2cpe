@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:onyxforum_project:onyxforum:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/chaoticonyx/onyxforum

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:peepso:peepso:1.6.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:peepso:peepso:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/peepso-core
+- pkg:github/wpplugins/peepso-core

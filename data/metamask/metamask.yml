@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:metamask:metamask:-:*:*:*:*:*:*:*
+- cpe:2.3:a:metamask:metamask:10.11.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/metamask/metamask-extension
+- pkg:sourceforge/metamask-browser-ext.mirror

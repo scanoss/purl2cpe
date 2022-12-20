@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:debian:sympa:-:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:sympa:3.3.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/sympa
+- pkg:deb/ubuntu/sympa
+- pkg:github/sympa-community/sympa
+- pkg:rpm/fedora/sympa
+- pkg:rpm/opensuse/sympa

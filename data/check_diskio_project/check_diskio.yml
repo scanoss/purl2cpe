@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:check_diskio_project:check_diskio:3.2.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/matteocorti/check_diskio
+- pkg:github/openmandrivaassociation/nagios-check_diskio

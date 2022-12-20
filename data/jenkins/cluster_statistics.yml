@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:cluster_statistics:0.4.6:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:cluster_statistics:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/cluster-stats-plugin
+- pkg:github/zeroturnaround/cluster-stats

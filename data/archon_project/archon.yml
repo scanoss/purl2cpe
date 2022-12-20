@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:archon_project:archon:3.21:rev-1:*:*:*:*:*:*
+purls:
+- pkg:github/archonproject/archon
+- pkg:github/paulnsorensen/archon

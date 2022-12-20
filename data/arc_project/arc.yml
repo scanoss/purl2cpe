@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:arc_project:arc:5.21m:*:*:*:*:*:*:*
+- cpe:2.3:a:arc_project:arc:5.21n:*:*:*:*:*:*:*
+- cpe:2.3:a:arc_project:arc:5.21o:*:*:*:*:*:*:*
+- cpe:2.3:a:arc_project:arc:5.21p:*:*:*:*:*:*:*
+- cpe:2.3:a:arc_project:arc:5.21q:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/arc
+- pkg:deb/ubuntu/arc
+- pkg:github/ani6al/arc
+- pkg:rpm/fedora/arc
+- pkg:rpm/opensuse/arc
+- pkg:sourceforge/arc

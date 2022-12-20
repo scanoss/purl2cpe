@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:rezgo_project:rezgo:1.4.2:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/rezgo/rezgo-wordpress
+- pkg:github/wp-plugins/rezgo

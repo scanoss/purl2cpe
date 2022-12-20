@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:grails:pdf_plugin:0.6:*:*:*:*:*:*:*
+purls:
+- pkg:githb/glenasmith/grails-pdf
+- pkg:github/aeischeid/grails-pdfplugin

@@ -1,0 +1,19 @@
+cpes:
+- cpe:2.3:a:apache:ranger:0.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.5.3:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.6.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.6.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.6.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.6.3:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.7.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:0.7.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:1.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:ranger:1.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:apache/ranger
+- pkg:github/apache/ranger
+- pkg:maven/org.apache.ranger/ranger

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:blueteck:witze_addon:0.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/blueteck/dzcp-witze-addon

@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:yasm_project:yasm:1.3.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/yasm
+- pkg:deb/ubuntu/yasm
+- pkg:github/sailfishos-mirror/yasm
+- pkg:github/yasm/yasm
+- pkg:rpm/centos/yasm
+- pkg:rpm/fedora/yasm
+- pkg:rpm/opensuse/yasm

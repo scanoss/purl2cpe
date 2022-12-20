@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:atutor:achecker:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/inclusive-design/achecker

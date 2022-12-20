@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pngdefry_project:pngdefry:2017-03-22:*:*:*:*:*:*:*
+purls:
+- pkg:github/tatsh/pngdefry

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dennis_bruecke:jquery_countdown:7.x-1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/rashad612/jquery_countdown

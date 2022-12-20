@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ractf:core:41edf92:*:*:*:*:*:*:*
+purls:
+- pkg:github/ractf/core

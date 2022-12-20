@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:kupu_project:kupu:1.4.16:*:*:*:*:*:*:*
+purls:
+- pkg:github/collective/kupu

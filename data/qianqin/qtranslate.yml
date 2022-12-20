@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:qianqin:qtranslate:2.5.34:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:qianqin:qtranslate:2.5.39:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/qtranslate/qtranslate-xt
+- pkg:github/qtranslate-team/qtranslate-x

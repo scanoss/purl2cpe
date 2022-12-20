@@ -1,0 +1,28 @@
+cpes:
+- cpe:2.3:a:consolekit_project:consolekit:-:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.10:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.3:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.5:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.6:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.7:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.8:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.2.9:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:consolekit_project:consolekit:0.4.2:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/gustavo_duarte/consolekit
+- pkg:deb/debian/consolekit
+- pkg:github/consolekit2/consolekit2
+- pkg:github/freedesktop/consolekit
+- pkg:github/mati75/consolekit
+- pkg:rpm/opensuse/consolekit

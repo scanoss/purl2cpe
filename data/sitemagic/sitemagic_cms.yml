@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:sitemagic:sitemagic_cms:4.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/jemt/sitemagiccms

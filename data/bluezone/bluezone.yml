@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bluezone:bluezone:1.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/bluezoneglobal/bluezone-app

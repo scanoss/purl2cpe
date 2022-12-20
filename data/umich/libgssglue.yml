@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:umich:libgssglue:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:umich:libgssglue:0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:umich:libgssglue:0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:umich:libgssglue:0.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libgssglue
+- pkg:deb/ubuntu/libgssglue
+- pkg:rpm/opensuse/libgssglue

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:openstack_foreman:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/theforeman/staypuft

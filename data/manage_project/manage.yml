@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:manage_project:manage:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/yicenburan/manage

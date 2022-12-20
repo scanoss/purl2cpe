@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:retainly:retntoken:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/retainlyinc/retn-token

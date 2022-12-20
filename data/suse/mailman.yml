@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:suse:mailman:-:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:mailman:2.1.15-9.6.15.1:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:mailman:2.1.17-3.11.1:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:mailman:2.1.29-lp151.2.14:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/mailman
+- pkg:deb/ubuntu/mailman
+- pkg:github/terencehonles/mailman
+- pkg:github/tommylike/mailman
+- pkg:gitlab/mailman/mailman
+- pkg:gnu/mailman
+- pkg:pypi/mailman
+- pkg:rpm/fedora/mailman3
+- pkg:rpm/opensuse/mailman3
+- pkg:sourceforge/mailman

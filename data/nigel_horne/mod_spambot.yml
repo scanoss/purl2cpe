@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:nigel_horne:mod_spambot:0.47:*:*:*:*:*:*:*
+purls:
+- pkg:github/nigelhorne/mod_spambot
+- pkg:sourceforge/spambot

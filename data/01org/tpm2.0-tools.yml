@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:01org:tpm2.0-tools:1.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tpm2-tools
+- pkg:deb/ubuntu/tpm2-tools
+- pkg:github/tpm2-software/tpm2-tools
+- pkg:rpm/fedora/tpm2-tools
+- pkg:rpm/fedora/tpm2-tss
+- pkg:rpm/opensuse/tpm2.0-tools

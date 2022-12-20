@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:wp-publications_project:wp-publications:1.0:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:wp-publications_project:wp-publications:1.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:wp-publications_project:wp-publications:1.2:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:wp-publications_project:wp-publications:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/monperrus/wp-publications
+- pkg:github/wp-plugins/wp-publications
+- pkg:github/wpplugins/wp-publications

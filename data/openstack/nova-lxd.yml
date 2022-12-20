@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:openstack:nova-lxd:13.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/nova-lxd
+- pkg:pypi/nova-lxd

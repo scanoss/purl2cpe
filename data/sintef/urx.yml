@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:o:sintef:urx:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/sintefmanufacturing/python-urx
+- pkg:pypi/urx

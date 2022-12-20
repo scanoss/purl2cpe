@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:auto-hyperlink_urls_project:auto-hyperlink_urls:5.4.1:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/coffee2code/auto-hyperlink-urls
+- pkg:github/wpplugins/auto-hyperlink-urls

@@ -1,0 +1,19 @@
+cpes:
+- cpe:2.3:a:beyondgrep:ack:2.00:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.02:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.04:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.05_01:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.06:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.08:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.10:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.11:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.11_01:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.11_02:*:*:*:*:*:*:*
+- cpe:2.3:a:beyondgrep:ack:2.12:*:*:*:*:*:*:*
+purls:
+- pkg:cpan/ack
+- pkg:deb/debian/ack
+- pkg:deb/ubuntu/ack
+- pkg:github/beyondgrep/ack3
+- pkg:rpm/fedora/ack
+- pkg:rpm/opensuse/ack

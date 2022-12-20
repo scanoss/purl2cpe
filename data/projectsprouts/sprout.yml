@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:projectsprouts:sprout:0.7.246:-:-:*:-:ruby:*:*
+purls:
+- pkg:gem/sprout
+- pkg:github/lukebayes/project-sprouts

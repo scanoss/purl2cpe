@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:lha_for_unix_project:lha_for_unix:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/jca02266/lha
+- pkg:rpm/opensuse/lha

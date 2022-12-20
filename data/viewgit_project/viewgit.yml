@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:viewgit_project:viewgit:*:*:*:*:*:*:*:*
+- cpe:2.3:a:viewgit_project:viewgit:0.0.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/user996015/viewgit
+- pkg:sourceforge/viewgit

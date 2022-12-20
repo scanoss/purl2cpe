@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:redhat:gluster-block:*:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:gluster-block:0.5.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/gluster/gluster-block
+- pkg:rpm/fedora/gluster-block
+- pkg:rpm/opensuse/gluster-block

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:timeline_calendar_project:timeline_calendar:1.2:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:timeline_calendar_project:timeline_calendar:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/timeline-calendar

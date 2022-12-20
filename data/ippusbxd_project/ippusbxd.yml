@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:ippusbxd_project:ippusbxd:1.21.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ippusbxd
+- pkg:deb/ubuntu/ippusbxd
+- pkg:github/openprinting/ippusbxd
+- pkg:github/tillkamppeter/ippusbxd

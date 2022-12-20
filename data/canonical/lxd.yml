@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:canonical:lxd:2.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/lxc/lxd
+- pkg:rpm/opensuse/lxd

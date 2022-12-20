@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:wp_microblogs_project:wp_microblogs:0.4.0:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/wpplugins/wp-microblogs

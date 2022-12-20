@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:wikiwig_project:wikiwig:5.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/ashcairo/wikiwig
+- pkg:sourceforge/wikiwig

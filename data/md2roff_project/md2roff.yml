@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:md2roff_project:md2roff:1.7:*:*:*:*:*:*:*
+- cpe:2.3:a:md2roff_project:md2roff:1.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/henesy/md2roff
+- pkg:github/nereusx/md2roff

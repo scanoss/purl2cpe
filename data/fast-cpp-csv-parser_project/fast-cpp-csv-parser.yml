@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:fast-cpp-csv-parser_project:fast-cpp-csv-parser:*:*:*:*:*:*:*:*
+- cpe:2.3:a:fast-cpp-csv-parser_project:fast-cpp-csv-parser:2018-07-06:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/fast-cpp-csv-parser
+- pkg:deb/ubuntu/fast-cpp-csv-parser
+- pkg:github/ben-strasser/fast-cpp-csv-parser

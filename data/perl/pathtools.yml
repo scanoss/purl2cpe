@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:perl:pathtools:3.61:*:*:*:*:*:*:*
+purls:
+- pkg:cpan/pathtools
+- pkg:github/tsee/pathtools
+- pkg:gitlab/redhat/perl-pathtools
+- pkg:rpm/fedora/perl-pathtools
+- pkg:rpm/opensuse/perl-pathtools

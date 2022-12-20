@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:gpac:mp4box:*:*:*:*:*:*:*:*
+- cpe:2.3:a:gpac:mp4box:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:gpac:mp4box:1.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/gcswest/gpac
+- pkg:deb/debian/gpac
+- pkg:deb/ubuntu/gpac
+- pkg:github/felixge/gpac
+- pkg:github/gpac/gpac

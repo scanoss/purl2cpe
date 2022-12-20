@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:solidres:solidres:2.5.1:*:*:*:*:joomla\!:*:*
+purls:
+- pkg:github/hoonam/solidres

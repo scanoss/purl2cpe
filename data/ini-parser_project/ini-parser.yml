@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ini-parser_project:ini-parser:0.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:ini-parser_project:ini-parser:0.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/rawiroaisen/node-ini-parser
+- pkg:npm/ini-parser

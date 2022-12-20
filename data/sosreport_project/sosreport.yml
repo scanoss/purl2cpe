@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:sosreport_project:sosreport:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/sosreport
+- pkg:deb/ubuntu/sosreport
+- pkg:github/sosreport/sos

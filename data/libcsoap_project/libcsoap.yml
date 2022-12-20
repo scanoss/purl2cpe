@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:libcsoap_project:libcsoap:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ayang64/csoap
+- pkg:sourceforge/csoap

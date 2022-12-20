@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:gnu:hurd:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:hurd:0.9.20210404-9:*:*:*:*:*:*:*
+purls:
+- pkg:github/jeremie-koenig/hurd
+- pkg:github/joshumax/hurd
+- pkg:github/projectgnu/hurd
+- pkg:gnu/hurd

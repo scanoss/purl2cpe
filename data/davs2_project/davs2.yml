@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:davs2_project:davs2:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.6:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.6.205:*:*:*:*:*:*:*
+- cpe:2.3:a:davs2_project:davs2:1.7:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/davs2
+- pkg:deb/ubuntu/davs2
+- pkg:github/deepin-community/davs2
+- pkg:github/pkuvcl/davs2
+- pkg:github/qxwd1123/davs2
+- pkg:rpm/opensuse/davs2

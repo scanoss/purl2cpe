@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:fulusso_project:fulusso:1.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/fuluteam/fulusso

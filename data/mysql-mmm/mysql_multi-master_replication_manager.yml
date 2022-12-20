@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:freebsd:*:*
+- cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:linux:*:*
+- cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:solaris:*:*
+purls:
+- pkg:bitbucket/liuguanhu/mysql-mmm
+- pkg:github/allanhung/mysql-mmm
+- pkg:github/cenalulu/mysql-mmm
+- pkg:github/chernomor/mysql-mmm
+- pkg:rpm/fedoras/mysql-mmm
+- pkg:rpm/opensuses/mysql-mmm

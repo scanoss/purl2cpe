@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:microstrategy:enterprise_manager:2022:*:*:*:*:*:*:*
+purls:
+- pkg:github/haxpunk1337/microstrategy-enterprise-manager-2022

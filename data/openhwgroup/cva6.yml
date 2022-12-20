@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:openhwgroup:cva6:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/openhwgroup/cva6

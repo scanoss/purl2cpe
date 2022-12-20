@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:asperasoft:aspera_client:2.6.3.28253:*:*:*:*:*:*:*
+purls:
+- pkg:gem/aspera-cli
+- pkg:github/ibm/aspera-cli

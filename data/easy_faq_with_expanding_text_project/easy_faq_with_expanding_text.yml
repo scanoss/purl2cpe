@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:easy_faq_with_expanding_text_project:easy_faq_with_expanding_text:*:*:*:*:*:*:*:*
+- cpe:2.3:a:easy_faq_with_expanding_text_project:easy_faq_with_expanding_text:3.2.8.3.1:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/salvihno/easy-faq-with-expanding-text
+- pkg:github/wp-plugins/easy-faq-with-expanding-text
+- pkg:github/wpplugins/easy-faq-with-expanding-text

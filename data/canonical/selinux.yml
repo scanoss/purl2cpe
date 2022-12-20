@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:canonical:selinux:*:*:*:*:*:*:*:*
+- cpe:2.3:a:canonical:selinux:1\:0.10:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/selinux
+- pkg:github/selinuxproject/selinux

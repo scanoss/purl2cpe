@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:openplcproject:openplc_v3_firmware:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/thiagoralves/openplc_v3

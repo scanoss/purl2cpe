@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:bt_lnmp_project:bt_lnmp:-:*:*:*:*:*:*:*
+- cpe:2.3:a:bt_lnmp_project:bt_lnmp:2019-10-10:*:*:*:*:*:*:*
+purls:
+- pkg:docker/piaoyun/bt_lnmp
+- pkg:github/piaoyunsoft/bt_lnmp

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pytservce_project:pytservce:1.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/pytservce

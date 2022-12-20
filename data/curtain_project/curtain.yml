@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:curtain_project:curtain:1.0.2:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/leo/curtain
+- pkg:github/wp-plugins/curtain

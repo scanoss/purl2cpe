@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:nmap:npcap:0.992:*:*:*:*:*:*:*
+purls:
+- pkg:github/nmap/npcap

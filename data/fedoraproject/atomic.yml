@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:o:fedoraproject:atomic:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/projectatomic/atomic
+- pkg:rpm/centos/atomic

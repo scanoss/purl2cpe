@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:jabber_server:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/jabber-server-plugin

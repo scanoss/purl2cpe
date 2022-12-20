@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:cloudflare:octopki:*:*:*:*:*:*:*:*
+purls:
+- pkg:github/cloudflare/cfrpki

@@ -1,0 +1,21 @@
+cpes:
+- cpe:2.3:a:horde:horde_view:1.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:1.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:1.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:1.0.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:1.0.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_view:2.0.6:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-view
+- pkg:deb/ubuntu/php-horde-view
+- pkg:github/horde/view
+- pkg:rpm/fedora/php-horde-horde-view

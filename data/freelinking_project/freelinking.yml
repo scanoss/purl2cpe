@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:freelinking_project:freelinking:-:*:*:*:*:drupal:*:*
+purls:
+- pkg:github/eads/freelinking

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:point-cli_project:point-cli:0.0.1:*:*:*:*:ruby:*:*
+purls:
+- pkg:gem/point-cli

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:automattic:w3_super_cache:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/automattic/wp-super-cache

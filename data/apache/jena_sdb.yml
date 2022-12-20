@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:apache:jena_sdb:-:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:jena_sdb:3.17.0:*:*:*:*:*:*:*
+purls:
+- pkg:apache/jena
+- pkg:maven/org.apache.jena/jena-sdb

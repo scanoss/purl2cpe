@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:idsoftware:tech_1:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/id-software/doom

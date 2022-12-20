@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:castor_project:castor:1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:castor_project:castor:1.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:castor_project:castor:1.3.2:*:*:*:*:*:*:*
+- cpe:2.3:a:castor_project:castor:1.3.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/castor
+- pkg:deb/ubuntu/castor
+- pkg:github/castor-data-binding/castor
+- pkg:rpm/opensuse/castor

@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:citadel:webcit:-:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.02:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.10:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.11:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.12:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.22:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:7.37:*:*:*:*:*:*:*
+- cpe:2.3:a:citadel:webcit:926:*:*:*:*:*:*:*
+purls:
+- pkg:github/mingodad/citadel

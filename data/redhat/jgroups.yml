@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:redhat:jgroups:-:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:jgroups:4.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/belaban/jgroups
+- pkg:maven/org.jgroups/jgroups

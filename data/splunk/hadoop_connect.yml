@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:splunk:hadoop_connect:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/splunk/hadoop-connect-for-splunk

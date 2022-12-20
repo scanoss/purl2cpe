@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:jenkins:validating_email_parameter:1.10:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:validating_email_parameter:1.8:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:validating_email_parameter:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/validating-email-parameter-plugin
+- pkg:github/szcn/validating-email-parameter-plugin

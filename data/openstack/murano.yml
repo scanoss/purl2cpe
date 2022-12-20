@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:openstack:murano:1.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/openstack/murano
+- pkg:pypi/murano
+- pkg:rpm/opensuse/openstack-murano

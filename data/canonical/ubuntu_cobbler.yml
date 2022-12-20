@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:canonical:ubuntu_cobbler:*:*:*:*:*:*:*:*
+- cpe:2.3:a:canonical:ubuntu_cobbler:2.2.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/cobbler/cobbler
+- pkg:pypi/cobbler
+- pkg:rpm/fedora/cobbler
+- pkg:rpm/opensuse/cobbler

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:openstack:swift3:1.8:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/swift
+- pkg:deb/ubuntu/swift
+- pkg:github/openstack/swift
+- pkg:pypi/swift

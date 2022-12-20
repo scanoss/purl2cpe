@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:alchemist-server_project:alchemist-server:-:*:*:*:*:vim:*:*
+purls:
+- pkg:github/tonini/alchemist-server

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:idcos:cloudboot:-:*:*:*:*:*:*:*
+- cpe:2.3:a:idcos:cloudboot:2019-03-08:*:*:*:*:*:*:*
+purls:
+- pkg:github/idcos/cloudboot

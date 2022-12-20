@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:alibabagroup:one-java-agent:-:*:*:*:*:*:*:*
+- cpe:2.3:a:alibabagroup:one-java-agent:0.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/alibaba/one-java-agent
+- pkg:maven/com.alibaba.oneagent/one-java-agent

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pearlsw:echo:9.0:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/pearl-echo.suite

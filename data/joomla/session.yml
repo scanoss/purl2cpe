@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:joomla:session:1.3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/joomla-framework/session

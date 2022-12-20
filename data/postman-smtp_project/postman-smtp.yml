@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:postman-smtp_project:postman-smtp:2017-10-04:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:postman-smtp_project:postman-smtp:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/postman-smtp
+- pkg:github/wpplugins/postman-smtp

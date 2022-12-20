@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:backhand:mod_backhand:1.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/dlowe/apache-backhand

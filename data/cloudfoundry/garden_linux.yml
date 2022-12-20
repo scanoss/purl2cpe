@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:cloudfoundry:garden_linux:-:*:*:*:*:*:*:*
+- cpe:2.3:a:cloudfoundry:garden_linux:0.332.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/grapeup/garden-linux
+- pkg:github/cloudfoundry-attic/garden-linux

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:wingrep:windows_grep:2.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/stefankueng/grepwin
+- pkg:github/t00/grepwin
+- pkg:sourceforge/grepwin

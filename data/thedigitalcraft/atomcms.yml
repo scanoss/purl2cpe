@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:thedigitalcraft:atomcms:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/thedigicraft/atom.cms

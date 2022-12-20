@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:dialogic:powermedia_xms:3.5:*:*:*:*:*:*:*
+- cpe:2.3:a:dialogic:powermedia_xms:3.5:su1:*:*:*:*:*:*
+purls:
+- pkg:github/dialogic/dialogic-xmsclientlibrary

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:google:custom_search_engine:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/solodev/google-custom-search

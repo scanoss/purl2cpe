@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:utempter_project:utempter:-:*:*:*:*:*:*:*
+- cpe:2.3:a:utempter_project:utempter:1.1.6:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libutempter
+- pkg:deb/ubuntu/libutempter
+- pkg:github/altlinux/libutempter
+- pkg:rpm/centos/libutempter
+- pkg:rpm/fedora/libutempter
+- pkg:rpm/opensuse/libutempter

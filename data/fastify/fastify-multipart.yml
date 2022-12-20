@@ -1,0 +1,22 @@
+cpes:
+- cpe:2.3:a:fastify:fastify-multipart:0.1.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.2.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.3.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.4.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.4.1:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.5.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.5.1:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.6.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.7.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.8.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.8.1:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:0.8.2:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.0:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.1:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.2:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.3:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.4:*:*:*:*:fastify:*:*
+- cpe:2.3:a:fastify:fastify-multipart:1.0.5:*:*:*:*:fastify:*:*
+purls:
+- pkg:github/fastify/fastify-multipart
+- pkg:npm/fastify-multipart

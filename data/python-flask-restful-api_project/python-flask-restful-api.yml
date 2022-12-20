@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:python-flask-restful-api_project:python-flask-restful-api:-:*:*:*:*:*:*:*
+- cpe:2.3:a:python-flask-restful-api_project:python-flask-restful-api:2019-09-16:*:*:*:*:*:*:*
+purls:
+- pkg:github/akashtalole/python-flask-restful-api

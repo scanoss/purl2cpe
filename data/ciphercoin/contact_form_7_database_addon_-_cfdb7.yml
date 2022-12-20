@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/arshidkv12/contact-form-cfdb7
+- pkg:github/hoaitt/contact-form-cfdb7
+- pkg:github/wpplugins/contact-form-cfdb7

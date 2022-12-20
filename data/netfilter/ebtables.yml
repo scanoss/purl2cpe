@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:netfilter:ebtables:2.0.10-4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ebtables
+- pkg:deb/ubuntu/ebtables
+- pkg:github/irgeek/ebtables
+- pkg:rpm/centos/ebtables
+- pkg:rpm/fedora/ebtables
+- pkg:rpm/opensuse/ebtables
+- pkg:sourceforge/ebtables

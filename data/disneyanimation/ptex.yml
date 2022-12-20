@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:disneyanimation:ptex:2.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/wdas/ptex
+- pkg:rpm/fedora/ptex
+- pkg:rpm/opensuse/ptex

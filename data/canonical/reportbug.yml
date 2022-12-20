@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:canonical:reportbug:6.5.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/reportbug
+- pkg:deb/ubuntu/reportbug
+- pkg:github/progval/reportbug

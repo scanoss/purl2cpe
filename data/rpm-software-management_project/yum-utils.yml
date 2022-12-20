@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:rpm-software-management_project:yum-utils:*:*:*:*:*:*:*:*
+purls:
+- pkg:github/rpm-software-management/yum-utils

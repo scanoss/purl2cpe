@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:alivecor:kardia:*:*:*:*:*:*:*:*
+- cpe:2.3:a:alivecor:kardia:5.17.1-754993421:*:*:*:*:android:*:*
+- cpe:2.3:a:alivecor:kardia:-:*:*:*:*:android:*:*
+purls:
+- None

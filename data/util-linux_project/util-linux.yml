@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:util-linux_project:util-linux:2.24.2-1:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.29:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.29.1:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.29.2:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.30:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.30.1:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.30.2:*:*:*:*:*:*:*
+- cpe:2.3:a:util-linux_project:util-linux:2.31:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/util-linux
+- pkg:deb/ubuntu/util-linux
+- pkg:github/util-linux/util-linux
+- pkg:rpm/centos/util-linux
+- pkg:rpm/fedora/util-linux
+- pkg:rpm/opensuse/util-linux

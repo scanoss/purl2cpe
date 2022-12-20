@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:signond_project:signond:*:*:*:*:*:*:*:*
+- cpe:2.3:a:signond_project:signond:8.57\+15.04.20141127.1-0ubuntu1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/signond
+- pkg:gitlab/accounts-sso/signond
+- pkg:rpm/opensuse/signond

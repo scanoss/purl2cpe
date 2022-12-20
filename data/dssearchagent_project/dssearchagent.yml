@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dssearchagent_project:dssearchagent:1.0:beta10:-:*:-:wordpress:*:*
+purls:
+- pkg:github/wpplugins/dssearchagent-wordpress-edition

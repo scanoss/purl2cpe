@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:xavier_beaudouin:mod_vhs:1.0.30:*:*:*:*:*:*:*
+purls:
+- pkg:github/davies007/mod_vhs

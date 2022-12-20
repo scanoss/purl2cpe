@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:eapmd5pass_project:eapmd5pass:1.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/joswr1ght/eapmd5pass
+- pkg:gitlab/kalilinux/eapmd5pass
+- pkg:rpm/opensuse/eapmd5pass

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:presspage:bestbooks:2.6.3:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:presspage:bestbooks:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/pingleware/bestbooks
+- pkg:github/wp-plugins/bestbooks

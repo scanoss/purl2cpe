@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:atop_project:atop:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/atop
+- pkg:deb/ubuntu/atop
+- pkg:github/atoptool/atop
+- pkg:rpm/fedora/atop
+- pkg:rpm/opensuse/atop

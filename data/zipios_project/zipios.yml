@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:zipios_project:zipios:0.1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:zipios_project:zipios:0.1.6:*:*:*:*:*:*:*
+- cpe:2.3:a:zipios_project:zipios:0.1.7:*:*:*:*:*:*:*
+- cpe:2.3:a:zipios_project:zipios:2.1.7.11:*:*:*:*:*:*:*
+- cpe:2.3:a:zipios_project:zipios:2.2.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:zipios_project:zipios:2.2.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/zipios++
+- pkg:deb/ubuntu/zipios++
+- pkg:github/zipios/zipios
+- pkg:rpm/fedora/zipios
+- pkg:rpm/opensuse/zipios
+- pkg:sourceforge/zipios

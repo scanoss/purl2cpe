@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:enl_newsletter_plugin_project:enl-newsletter:1.0.0:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:enl_newsletter_plugin_project:enl-newsletter:1.0.1:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/enl-newsletter

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:rdf-graph-array_project:rdf-graph-array:0.3.0:-:*:*:*:node.js:*:*
+- cpe:2.3:a:rdf-graph-array_project:rdf-graph-array:0.3.0:rc1:*:*:*:node.js:*:*
+- cpe:2.3:a:rdf-graph-array_project:rdf-graph-array:0.3.0:rc6:*:*:*:node.js:*:*
+purls:
+- pkg:github/rdf-ext-archive/rdf-graph-array
+- pkg:npm/rdf-graph-array

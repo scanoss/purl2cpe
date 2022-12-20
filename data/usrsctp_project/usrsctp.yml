@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:usrsctp_project:usrsctp:0.9.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:usrsctp_project:usrsctp:2019-12-20:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libusrsctp
+- pkg:deb/ubuntu/libusrsctp
+- pkg:github/sctplab/usrsctp
+- pkg:rpm/fedora/usrsctp

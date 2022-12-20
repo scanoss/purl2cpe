@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:easymagazine_project:easymagazine:2012-10-26:*:*:*:*:*:*:*
+purls:
+- pkg:github/fabiomattei/easymagazine
+- pkg:gnu/easymagazine

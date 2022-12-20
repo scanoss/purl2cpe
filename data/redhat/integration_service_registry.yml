@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:integration_service_registry:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/apicurio/apicurio-registry

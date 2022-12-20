@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:css-tricks:chat2:2015-05-05:*:*:*:*:*:*:*
+purls:
+- pkg:github/css-tricks/chat2

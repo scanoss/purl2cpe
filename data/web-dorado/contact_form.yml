@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:web-dorado:contact_form:1.13.5:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:web-dorado:contact_form:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/contact-form-maker
+- pkg:github/wpplugins/contact-form-maker

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:hitshop_project:hitshop:-:*:*:*:*:*:*:*
+- cpe:2.3:a:hitshop_project:hitshop:2014-07-15:*:*:*:*:*:*:*
+- cpe:2.3:a:hitshop_project:hitshop:2014-07-16:*:*:*:*:*:*:*
+purls:
+- pkg:github/liu946/hitshop

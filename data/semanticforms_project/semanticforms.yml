@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:semanticforms_project:semanticforms:-:*:*:*:*:mediawiki:*:*
+purls:
+- pkg:github/jamesmontalvo3/semanticforms
+- pkg:github/mediawiki4intranet/semanticforms
+- pkg:rpm/opensuse/mediawiki_1_27-semanticforms

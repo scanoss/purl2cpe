@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:cesanta:mongooseos_mjs:1.26:*:*:*:*:*:*:*
+purls:
+- pkg:github/cesanta/mjs

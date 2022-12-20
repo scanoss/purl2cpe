@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:canonical:screen-resolution-extra:0.17.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/screen-resolution-extra
+- pkg:github/tseliot/screen-resolution-extra

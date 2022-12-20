@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mybb:ban_list:1.0:*:*:*:*:mybb:*:*
+purls:
+- pkg:github/0xb9/mybb-bans-list-page

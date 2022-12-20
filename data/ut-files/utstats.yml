@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ut-files:utstats:-:beta3:*:*:*:*:*:*
+- cpe:2.3:a:ut-files:utstats:-:beta4:*:*:*:*:*:*
+purls:
+- pkg:github/sn3p/utstats
+- pkg:sourceforge/utstats

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:auto_spare_parts_management_project:auto_spare_parts_management:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/pavanpatil45/auto-spare-parts-management

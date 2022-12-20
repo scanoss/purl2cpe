@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:suse:systemd-presets-branding-sle:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/systemd-presets-branding-sle

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:paul_perkins:tail_for_win32:4.2.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/paulperkins/tailforwin32
+- pkg:sourceforge/tailforwin32

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:creditwestbank:cwcms:*:*:*:*:*:*:*:*
+- cpe:2.3:a:creditwestbank:cwcms:2017-07-28:*:*:*:*:*:*:*
+purls:
+- pkg:github/creditwest/cwcms

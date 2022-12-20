@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:freebsd:cvsweb:2.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:freebsd:cvsweb:2.0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:freebsd:cvsweb:2.0.6:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/cvsweb
+- pkg:deb/ubuntu/cvsweb

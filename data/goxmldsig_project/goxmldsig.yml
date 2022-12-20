@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:goxmldsig_project:goxmldsig:-:*:*:*:*:*:*:*
+- cpe:2.3:a:goxmldsig_project:goxmldsig:1.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/icicilabs/goxmldsig
+- pkg:deb/debian/golang-github-russellhaering-goxmldsig
+- pkg:deb/ubuntu/golang-github-russellhaering-goxmldsig
+- pkg:github/russellhaering/goxmldsig
+- pkg:rpm/fedora/golang-github-russellhaering-goxmldsig

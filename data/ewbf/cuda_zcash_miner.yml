@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ewbf:cuda_zcash_miner:0.3.4b:*:*:*:*:*:*:*
+purls:
+- pkg:docker/acecile/ewbf-cuda-zcash-miner
+- pkg:github/caiqinghua/ewbf
+- pkg:github/djenriquez/ewbf-cuda-miner

@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:horde:sesha:1.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:sesha:1.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:sesha:1.0.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:horde:sesha:1.0.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:horde:sesha:1.0.0:rc3:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-sesha
+- pkg:deb/ubuntu/php-horde-sesha
+- pkg:github/horde/sesha

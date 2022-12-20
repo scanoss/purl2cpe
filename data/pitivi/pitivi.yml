@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:pitivi:pitivi:0.94:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pitivi
+- pkg:deb/ubuntu/pitivi
+- pkg:github/pitivi/pitivi
+- pkg:rpm/fedora/pitivi
+- pkg:rpm/opensuse/pitivi

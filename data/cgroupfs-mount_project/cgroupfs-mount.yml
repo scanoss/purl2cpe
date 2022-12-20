@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/cgroupfs-mount
+- pkg:deb/ubuntu/cgroupfs-mount
+- pkg:github/tianon/cgroupfs-mount

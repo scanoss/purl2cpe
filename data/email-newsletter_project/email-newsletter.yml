@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:email-newsletter_project:email-newsletter:20.15:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:email-newsletter_project:email-newsletter:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/signl/email-newsletter
+- pkg:github/wp-plugins/email-newsletter
+- pkg:github/wpplugins/email-newsletter

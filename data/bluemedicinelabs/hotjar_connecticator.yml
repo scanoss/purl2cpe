@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:bluemedicinelabs:hotjar_connecticator:1.1.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:bluemedicinelabs:hotjar_connecticator:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/internetmedicineman/hotjar-connecticator
+- pkg:github/wp-plugins/hotjar-connecticator
+- pkg:github/wpplugins/hotjar-connecticator

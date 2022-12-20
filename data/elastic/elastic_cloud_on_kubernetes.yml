@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:*:*:*:*:*:*:*:*
+- cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/elastic/cloud-on-k8s

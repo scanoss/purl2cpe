@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:nmealib_project:nmealib:0.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.4.3:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.4.4:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:nmealib_project:nmealib:0.5.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/mchalain/nmealib
+- pkg:github/paulxia/nmealib
+- pkg:github/weifengsd/nmealib
+- pkg:sourceforge/nmea

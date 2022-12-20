@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:divebook_project:divebook:1.1.4:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/divebook

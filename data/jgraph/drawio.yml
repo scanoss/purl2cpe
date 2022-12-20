@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jgraph:drawio:*:*:*:*:*:*:*:*
+purls:
+- pkg:docker/jgraph/drawio
+- pkg:github/jgraph/drawio
+- pkg:maven/org.webjars.bowergithub.jgraph/drawio

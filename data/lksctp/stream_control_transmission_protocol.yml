@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:lksctp:stream_control_transmission_protocol:-:*:*:*:*:*:*:*
+- cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.16:*:*:*:*:*:*:*
+- cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.17:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/lksctp-tools
+- pkg:deb/ubuntu/lksctp-tools
+- pkg:github/sctp/lksctp-tools
+- pkg:rpm/centos/lksctp-tools
+- pkg:rpm/fedora/lksctp-tools
+- pkg:rpm/opensuse/lksctp-tools
+- pkg:sourceforge/lksctp

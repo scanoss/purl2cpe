@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:rundeck:rundeck:*:*:*:*:*:*:*:*
+- cpe:2.3:a:rundeck:rundeck:*:*:*:*:community:*:*:*
+purls:
+- pkg:github/rundeck/rundeck
+- pkg:sourceforge/rundeck.mirror

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:gps-sdr-sim_project:gps-sdr-sim:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/osqzss/gps-sdr-sim

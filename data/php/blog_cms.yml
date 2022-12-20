@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:php:blog_cms:-:*:*:*:*:*:*:*
+- cpe:2.3:a:php:blog_cms:4.1.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/m971119/blog_cms

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:wp-useronline_project:wp-useronline:2.87.6:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:wp-useronline_project:wp-useronline:2.88.0:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/lesterchan/wp-useronline
+- pkg:github/robeliki/wp-useronline
+- pkg:github/wp-plugins/wp-useronline

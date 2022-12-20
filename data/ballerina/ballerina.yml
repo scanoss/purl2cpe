@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ballerina:ballerina:-:*:*:*:*:*:*:*
+- cpe:2.3:a:ballerina:ballerina:1.2.14:*:*:*:*:*:*:*
+purls:
+- pkg:docker/ballerina/ballerina
+- pkg:github/ballerina-platform/ballerina-lang

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:itwork:fileview:0.1.6:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/itworkcenter/fileview
+- pkg:npm/fileview

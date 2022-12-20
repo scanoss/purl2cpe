@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ontrack_project:ontrack:3.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/inoda/ontrack

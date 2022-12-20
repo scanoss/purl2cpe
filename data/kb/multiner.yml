@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:kb:multiner:*:*:*:*:*:*:*:*
+- cpe:2.3:a:kb:multiner:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/kbnlresearch/multiner

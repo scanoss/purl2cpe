@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:freelancer_clone_project:freelancer_clone:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/dealbisac/freelancer-clone

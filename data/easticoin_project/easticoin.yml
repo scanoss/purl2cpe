@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:easticoin_project:easticoin:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/cdt690601021/easticoin

@@ -1,0 +1,22 @@
+cpes:
+- cpe:2.3:a:horde:horde_tree:1.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:1.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:1.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:1.0.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:1.0.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.0:beta2:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_tree:2.0.5:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-tree
+- pkg:deb/ubuntu/php-horde-tree
+- pkg:github/horde/tree
+- pkg:rpm/fedora/php-horde-horde-tree
+- pkg:rpm/opensuse/php-horde-horde-tree

@@ -1,0 +1,20 @@
+cpes:
+- cpe:2.3:a:static-eval_project:static-eval:0.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.1.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.2.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.2.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.2.2:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.2.3:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:0.2.4:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:1.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:1.1.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:2.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:2.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:static-eval_project:static-eval:2.0.2:*:*:*:*:node.js:*:*
+purls:
+- pkg:deb/debian/node-static-eval
+- pkg:deb/ubuntu/node-static-eval
+- pkg:github/browserify/static-eval
+- pkg:maven/org.webjars.npm/static-eval
+- pkg:npm/static-eval

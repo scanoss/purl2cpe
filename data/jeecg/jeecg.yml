@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:jeecg:jeecg:*:*:*:*:*:*:*:*
+- cpe:2.3:a:jeecg:jeecg:-:*:*:*:*:*:*:*
+- cpe:2.3:a:jeecg:jeecg:3.8:*:*:*:*:*:*:*
+- cpe:2.3:a:jeecg:jeecg:4.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/jeecgboot/jeecg

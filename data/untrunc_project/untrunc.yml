@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:untrunc_project:untrunc:-:*:*:*:*:*:*:*
+- cpe:2.3:a:untrunc_project:untrunc:2018-06-07:*:*:*:*:*:*:*
+purls:
+- pkg:github/ponchio/untrunc
+- pkg:rpm/opensuse/untrunc

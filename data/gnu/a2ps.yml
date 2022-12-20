@@ -1,0 +1,18 @@
+cpes:
+- cpe:2.3:a:gnu:a2ps:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.10.3:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.10.4:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.12:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.13:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.13b:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:a2ps:4.14:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/a2ps
+- pkg:deb/ubuntu/a2ps
+- pkg:github/akimd/a2ps
+- pkg:github/gitgnu/gnu_a2ps
+- pkg:github/gnu-mirror-unofficial/a2ps
+- pkg:gnu/a2ps
+- pkg:rpm/centos/a2ps
+- pkg:rpm/fedora/a2ps
+- pkg:rpm/opensuse/a2ps

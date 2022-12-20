@@ -1,0 +1,26 @@
+cpes:
+- cpe:2.3:a:php:imagick:3.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:-:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc3:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc4:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc5:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.0:rc6:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.3:-:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.3:rc1:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.3:rc2:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.3:rc3:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.3:rc4:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.4:-:*:*:*:*:*:*
+- cpe:2.3:a:php:imagick:3.4.4:rc2:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-imagick
+- pkg:deb/ubuntu/php-imagick
+- pkg:github/imagick/imagick
+- pkg:nuget/PHP7_64BIT_IMAGICK_6937
+- pkg:opensuse/php7-imagick
+- pkg:rpm/fedora/php-pecl-imagick
+- pkg:rpm/opensuse/php8-imagick

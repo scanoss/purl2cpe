@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:drupal:data:6.x-1.0:alpha14:*:*:*:*:*:*
+purls:
+- pkg:github/drupalprojects/data

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:flutter:flutter:*:*:*:*:*:*:*:*
+- cpe:2.3:a:flutter:flutter:-:*:*:*:*:*:*:*
+- cpe:2.3:a:flutter:flutter:3.3.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/flutter/flutter
+- pkg:rpm/opensuse/flutter

@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:linux-vserver:linux-vserver:1.9.0:*:*:*:*:*:*:*
+- cpe:2.3:a:linux-vserver:linux-vserver:2.6.17:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/util-vserver
+- pkg:deb/ubuntu/util-vserver
+- pkg:github/linux-vserver/util-vserver
+- pkg:gnu/util-vserver
+- pkg:rpm/opensuse/util-vserver

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:cozy:cozy:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:docker/cozy/cozy-stack
+- pkg:github/cozy/cozy
+- pkg:github/cozy/cozy-stack

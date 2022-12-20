@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:tim_robbins:libmagic:-:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/libmagic

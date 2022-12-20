@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:google:api_search:-:*:*:*:*:*:*:*
+- cpe:2.3:a:google:api_search:1.3.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/serpapi/google-search-results-dotnet
+- pkg:github/serpapi/google-search-results-golang
+- pkg:github/serpapi/google-search-results-java
+- pkg:github/serpapi/google-search-results-php
+- pkg:github/serpapi/google-search-results-python
+- pkg:github/serpapi/google-search-results-ruby

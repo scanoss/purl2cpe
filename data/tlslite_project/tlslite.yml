@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:tlslite_project:tlslite:0.4.1:*:*:*:*:python:*:*
+- cpe:2.3:a:tlslite_project:tlslite:0.4.2:*:*:*:*:python:*:*
+- cpe:2.3:a:tlslite_project:tlslite:0.4.3:*:*:*:*:python:*:*
+- cpe:2.3:a:tlslite_project:tlslite:0.4.8:*:*:*:*:python:*:*
+- cpe:2.3:a:tlslite_project:tlslite:0.4.9:*:*:*:*:python:*:*
+purls:
+- pkg:github/trevp/tlslite
+- pkg:pypi/tlslite
+- pkg:rpm/opensuse/python-tlslite

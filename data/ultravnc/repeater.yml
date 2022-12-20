@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ultravnc:repeater:1201:*:*:*:*:*:*:*
+purls:
+- pkg:github/ultravnc/ultravnc
+- pkg:sourceforge/ultravnc

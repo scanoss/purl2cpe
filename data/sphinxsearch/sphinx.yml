@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:sphinxsearch:sphinx:3.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:sphinxsearch:sphinx:3.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:sphinxsearch:sphinx:3.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:sphinxsearch:sphinx:3.1.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/sphinx
+- pkg:deb/ubuntu/sphinx
+- pkg:docker/sphinxdoc/sphinx
+- pkg:github/sphinx-doc/sphinx
+- pkg:github/sphinxsearch/sphinx
+- pkg:pypi/sphinx
+- pkg:sourceforge/sphinx.mirror

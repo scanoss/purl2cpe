@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:phkp_project:phkp:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/remko/phkp

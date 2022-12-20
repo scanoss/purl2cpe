@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:urs_wolfer:kwebkitpart:-:*:*:*:*:*:*:*
+- cpe:2.3:a:urs_wolfer:kwebkitpart:0.9.6:beta:*:*:*:*:*:*
+purls:
+- pkg:github/groszdaniel/kwebkitpart
+- pkg:github/kde/kwebkitpart
+- pkg:rpm/fedora/kwebkitpart
+- pkg:rpm/opensuse/kwebkitpart

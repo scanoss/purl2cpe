@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:frendi:frendica:2021.01:*:*:*:*:*:*:*
+purls:
+- pkg:github/duthied/free-friendika
+- pkg:github/friendica/friendica

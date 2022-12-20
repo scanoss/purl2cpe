@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:omg:dds_security:1.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/omg-dds/dds-security
+- pkg:maven/org.omg.dds.security/dds-security-xml

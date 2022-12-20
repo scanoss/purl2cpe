@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:ricardo_villalba:smplayer:0.6.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/smplayer
+- pkg:github/smplayer-dev/smplayer
+- pkg:rpm/opensuse/smplayer
+- pkg:sourceforge/smplayer

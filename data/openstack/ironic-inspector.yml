@@ -1,0 +1,31 @@
+cpes:
+- cpe:2.3:a:openstack:ironic-inspector:-:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:5.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:5.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:5.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:5.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:6.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:6.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:6.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:6.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:6.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.2.3:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:7.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openstack:ironic-inspector:8.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ironic-inspector
+- pkg:deb/ubuntu/ironic-inspector
+- pkg:github/openstack/ironic-inspector
+- pkg:pypi/ironic-inspector

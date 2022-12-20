@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:deliciousdays:cformsii:14.7:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/cforms2

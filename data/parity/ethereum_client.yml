@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:parity:ethereum_client:1.7.8:*:*:*:*:*:*:*
+purls:
+- pkg:github/openethereum/parity-ethereum

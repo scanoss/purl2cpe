@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:keyutils_project:keyutils:-:*:*:*:*:*:*:*
+- cpe:2.3:a:keyutils_project:keyutils:1.5.10:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/keyutils
+- pkg:deb/ubuntu/keyutils
+- pkg:github/auristor/keyutils
+- pkg:github/distrotech/keyutils
+- pkg:github/neverware-mirrors/keyutils
+- pkg:gitlab/redhat/keyutils
+- pkg:rpm/centos/keyutils
+- pkg:rpm/fedora/keyutils
+- pkg:rpm/opensuse/keyutils

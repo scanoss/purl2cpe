@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:rzip_project:rzip:2.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/rzip
+- pkg:deb/ubuntu/rzip
+- pkg:github/rohilnrl/rzip
+- pkg:rpm/fedora/rzip
+- pkg:rpm/opensuse/rzip

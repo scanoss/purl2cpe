@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:myprolyz_project:myprolyz:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:myprolyz_project:myprolyz:1.1.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/myprolyz

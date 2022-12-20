@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:trac_publisher:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/trac-publisher-plugin

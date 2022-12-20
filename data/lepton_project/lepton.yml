@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:lepton_project:lepton:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:lepton_project:lepton:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:lepton_project:lepton:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:lepton_project:lepton:1.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/lepton
+- pkg:deb/ubuntu/lepton
+- pkg:github/dropbox/lepton
+- pkg:rpm/opensuse/lepton
+- pkg:sourceforge/dropbox-lepton.mirror

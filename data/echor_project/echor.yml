@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:echor_project:echor:0.1.6:*:*:*:*:ruby:*:*
+purls:
+- pkg:gem/echor

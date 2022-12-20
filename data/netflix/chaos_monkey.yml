@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:netflix:chaos_monkey:0.3:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:netflix:chaos_monkey:0.4:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/chaos-monkey-plugin

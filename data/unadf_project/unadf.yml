@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:unadf_project:unadf:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/unadf
+- pkg:deb/ubuntu/unadf

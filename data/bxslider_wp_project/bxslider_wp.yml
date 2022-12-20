@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:bxslider_wp_project:bxslider_wp:2.0.0:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:bxslider_wp_project:bxslider_wp:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/ifte510/bxslider-wp
+- pkg:github/wp-plugins/bxslider-wp

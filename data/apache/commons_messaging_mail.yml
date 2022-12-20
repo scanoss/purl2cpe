@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:apache:commons_messaging_mail:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_messaging_mail:1.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:apache/sling
+- pkg:github/apache/sling-org-apache-sling-commons-messaging-mail
+- pkg:maven/org.apache.sling/org.apache.sling.commons.messaging.mail

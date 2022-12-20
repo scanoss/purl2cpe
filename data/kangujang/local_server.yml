@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:kangujang:local_server:1.0.9:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/local-server

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:corenlp-js-interface_project:corenlp-js-interface:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/corenlp-js-interface

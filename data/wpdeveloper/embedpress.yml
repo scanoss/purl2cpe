@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:wpdeveloper:embedpress:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpdevelopers/embedpress

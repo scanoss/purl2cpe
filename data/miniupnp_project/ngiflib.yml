@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:miniupnp_project:ngiflib:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:miniupnp_project:ngiflib:0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/miniupnp/ngiflib

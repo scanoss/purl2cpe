@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:burn_project:burn:0.4.6-2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/burn
+- pkg:deb/ubuntu/burn
+- pkg:pypi/burn

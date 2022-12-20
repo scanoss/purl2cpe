@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bitrix_project:bitrix:6.5.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/ddelivery/bitrix

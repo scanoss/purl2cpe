@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:singoo:singoocms.utility:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/singoocms/singoocmsutility
+- pkg:nuget/SinGooCMS.Utility/

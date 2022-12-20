@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:opendolphin:opendolphin:-:*:*:*:*:*:*:*
+- cpe:2.3:a:opendolphin:opendolphin:2.7.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/dolphin-dev/docker-images
+- pkg:github/dolphin-dev/opendolphin
+- pkg:npm/OpenDolphin

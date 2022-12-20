@@ -1,0 +1,20 @@
+cpes:
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.6:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.7:*:*:*:*:*:*:*
+- cpe:2.3:a:nikias_bassen:usbmuxd:1.0.8:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/usbmuxd
+- pkg:deb/ubuntu/usbmuxd
+- pkg:github/libimobiledevice/usbmuxd
+- pkg:gitlab/redhat/usbmuxd
+- pkg:nuget/libusbmuxd
+- pkg:rpm/centos/usbmuxd
+- pkg:rpm/fedora/usbmuxd
+- pkg:rpm/opensuse/usbmuxd

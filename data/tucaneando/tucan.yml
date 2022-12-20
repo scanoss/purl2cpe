@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:tucaneando:tucan:0.3.10:*:*:*:*:*:*:*
+purls:
+- pkg:github/richin13/tucan

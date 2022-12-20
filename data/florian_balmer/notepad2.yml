@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:florian_balmer:notepad2:4.2.25_:*:*:*:*:*:*:*
+purls:
+- pkg:github/djs/notepad2
+- pkg:github/poychang/notepad2
+- pkg:github/timsneath/notepad2
+- pkg:nuget/notepad2
+- pkg:sourceforge/notepad2

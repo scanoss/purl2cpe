@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:debian:axiom:20100701-1.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/axiom
+- pkg:deb/ubuntu/axiom
+- pkg:github/daly/axiom
+- pkg:gnu/axiom
+- pkg:rpm/opensuse/open-axiom
+- pkg:sourceforge/axiom

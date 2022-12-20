@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:supportflow_project:supportflow:0.7:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:supportflow_project:supportflow:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/supportflow/supportflow
+- pkg:github/wp-plugins/supportflow

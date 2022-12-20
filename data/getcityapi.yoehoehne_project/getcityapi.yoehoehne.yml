@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:getcityapi.yoehoehne_project:getcityapi.yoehoehne:0.0.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/yoehoehne/cs360_getcity
+- pkg:npm/getcityapi.yoehoehne

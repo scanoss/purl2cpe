@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:openlambda_project:openlambda:2019-09-10:*:*:*:*:*:*:*
+purls:
+- pkg:github/open-lambda/open-lambda

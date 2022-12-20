@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:plone:isurlinportal:1.0.0:*:*:*:*:plone:*:*
+- cpe:2.3:a:plone:isurlinportal:1.1.0:*:*:*:*:plone:*:*
+- cpe:2.3:a:plone:isurlinportal:1.1.1:*:*:*:*:plone:*:*
+- cpe:2.3:a:plone:isurlinportal:1.2.0:*:*:*:*:plone:*:*
+- cpe:2.3:a:plone:isurlinportal:-:*:*:*:*:plone:*:*
+purls:
+- pkg:github/plone/products.isurlinportal
+- pkg:pypi/products.isurlinportal

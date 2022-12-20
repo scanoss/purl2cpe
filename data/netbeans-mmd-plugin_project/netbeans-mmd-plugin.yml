@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:netbeans-mmd-plugin_project:netbeans-mmd-plugin:1.4.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/raydac/netbeans-mmd-plugin

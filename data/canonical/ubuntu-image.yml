@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:canonical:ubuntu-image:1.0:2017-07-06:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/ubuntu-image
+- pkg:github/canonical/ubuntu-image-legacy

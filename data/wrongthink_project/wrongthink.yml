@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:wrongthink_project:wrongthink:-:*:*:*:*:*:*:*
+- cpe:2.3:a:wrongthink_project:wrongthink:2.4.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/birb-digital/wrongthink

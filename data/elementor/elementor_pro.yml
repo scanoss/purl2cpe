@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:elementor:elementor_pro:3.0.5:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/elementor/elementor
+- pkg:wordpress/elementor

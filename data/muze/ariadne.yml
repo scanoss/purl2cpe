@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:muze:ariadne:2.7.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/ariadne-cms/arc

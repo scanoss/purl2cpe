@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:vm-memory_project:vm-memory:0.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:vm-memory_project:vm-memory:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:vm-memory_project:vm-memory:0.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:vm-memory_project:vm-memory:0.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/rust-vmm/vm-memory
+- pkg:rpm/fedora/rust-vm-memory

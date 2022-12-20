@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:archmage_project:archmage:0.2.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/archmage
+- pkg:deb/ubuntu/archmage
+- pkg:github/dottedmag/archmage
+- pkg:pypi/archmage
+- pkg:rpm/fedora/archmage
+- pkg:rpm/opensuse/archmage
+- pkg:sourceforge/archmage

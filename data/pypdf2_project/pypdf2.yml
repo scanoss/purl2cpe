@@ -1,0 +1,25 @@
+cpes:
+- cpe:2.3:a:pypdf2_project:pypdf2:-:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.18:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.19:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.20:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.21:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.22:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.23:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.24:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.25:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.25.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.26.0:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.0:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.2:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.3:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.4:*:*:*:*:*:*:*
+- cpe:2.3:a:pypdf2_project:pypdf2:1.27.5:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pypdf2
+- pkg:deb/ubuntu/pypdf2
+- pkg:github/py-pdf/pypdf2
+- pkg:pypi/pypdf2
+- pkg:rpm/fedora/python-pypdf2
+- pkg:rpm/opensuse/python-pypdf2

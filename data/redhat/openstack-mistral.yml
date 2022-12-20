@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:redhat:openstack-mistral:-:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:openstack-mistral:7.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:openstack-mistral:7.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:openstack-mistral:7.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:openstack-mistral:7.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:openstack-mistral:7.0.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/openstack/mistral

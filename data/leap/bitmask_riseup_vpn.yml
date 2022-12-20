@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:leap:bitmask_riseup_vpn:0.21.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/leapcode/bitmask-vpn

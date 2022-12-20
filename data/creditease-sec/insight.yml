@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:creditease-sec:insight:2018-09-11:*:*:*:*:*:*:*
+purls:
+- pkg:github/creditease-sec/insight

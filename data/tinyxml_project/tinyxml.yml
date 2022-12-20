@@ -1,0 +1,37 @@
+cpes:
+- cpe:2.3:a:tinyxml_project:tinyxml:-:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:1.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.3.0:beta:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.3.1:beta:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.3.2:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.3.3:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.3.4:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.4.3:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.5.0:beta:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.5.3:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.6.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.6.1:*:*:*:*:*:*:*
+- cpe:2.3:a:tinyxml_project:tinyxml:2.6.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tinyxml
+- pkg:deb/debian/tinyxml2
+- pkg:deb/ubuntu/tinyxml
+- pkg:deb/ubuntu/tinyxml2
+- pkg:github/leethomason/tinyxml2
+- pkg:gitlab/redhat/tinyxml2
+- pkg:rpm/centos/tinyxml2
+- pkg:rpm/fedora/tinyxml
+- pkg:rpm/fedora/tinyxml2
+- pkg:rpm/opensuse/tinyxml
+- pkg:rpm/opensuse/tinyxml2
+- pkg:sourceforge/tinyxml

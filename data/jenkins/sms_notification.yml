@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:jenkins:sms_notification:1.0.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:sms_notification:1.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:sms_notification:1.2:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/duyvhh/jenkins-sms
+- pkg:github/jenkinsci/sms-plugin

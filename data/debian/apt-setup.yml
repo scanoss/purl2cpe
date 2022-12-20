@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:debian:apt-setup:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/apt-setup
+- pkg:deb/ubuntu/apt-setup

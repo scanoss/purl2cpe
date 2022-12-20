@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:coinlancer:coinlancer:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/coinlancer/coinlancer

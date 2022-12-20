@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:netkit_telnet_project:netkit_telnet:0.17:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/netkit-telnet
+- pkg:deb/ubuntu/netkit-telnet
+- pkg:github/marado/netkit-telnet

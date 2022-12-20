@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:apparmor:apparmor:2.11:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/apparmor
+- pkg:deb/ubuntu/apparmor
+- pkg:github/oxagast/apparmor
+- pkg:gitlab/ericrosenberg88/apparmor
+- pkg:rpm/opensuse/apparmor

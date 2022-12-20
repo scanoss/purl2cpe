@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:roaraudio:roaraudio:0.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/roaraudio
+- pkg:deb/ubuntu/roaraudio
+- pkg:github/roaraudio/roaraudio
+- pkg:rpm/opensuse/roaraudio

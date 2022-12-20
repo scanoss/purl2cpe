@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:suse:sysuser-tools:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/sysuser-tools

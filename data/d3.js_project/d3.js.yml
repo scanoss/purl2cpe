@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:d3.js_project:d3.js:1.0.2:*:*:*:*:node.js:*:*
+- cpe:2.3:a:d3.js_project:d3.js:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/d3/d3
+- pkg:maven/org.webjars.npm/d3
+- pkg:npm/d3.js

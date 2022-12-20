@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:fancybox_project:fancybox:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/colorlibhq/fancybox-for-wordpress
+- pkg:github/wp-plugins/fancybox-for-wordpress

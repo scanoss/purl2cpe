@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ts-process-promises_project:ts-process-promises:1.0.2:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/mortenhoustonludvigsen/process-promises
+- pkg:npm/ts-process-promises

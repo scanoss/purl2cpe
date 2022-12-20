@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:coapthon_project:coapthon:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:4.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:4.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:coapthon_project:coapthon:4.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/mcfreis/coapthon
+- pkg:github/tanganelli/coapthon
+- pkg:github/tanganelli/coapthon3
+- pkg:pypi/coapthon

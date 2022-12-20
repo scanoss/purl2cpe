@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:mosc_project:mosc:1.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/4y0/mosc
+- pkg:npm/mosc

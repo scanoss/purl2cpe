@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:sblim_project:small_footprint_cim_broker:1.4.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/sblim-sfcb
+- pkg:github/zaneb/sblim-sfcb
+- pkg:gitlab/redhat/sblim-sfcb
+- pkg:rpm/fedora/sblim-sfcb
+- pkg:rpm/opensuse/sblim-sfcb
+- pkg:sourceforge/sblim

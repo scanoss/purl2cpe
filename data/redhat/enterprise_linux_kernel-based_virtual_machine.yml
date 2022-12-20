@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:redhat:enterprise_linux_kernel-based_virtual_machine:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/kvm

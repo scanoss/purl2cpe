@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:gnome:evolution_data_server:3.9.1:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.2:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.3:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.4:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.5:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.90:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.91:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:evolution_data_server:3.9.92:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/evolution-data-server
+- pkg:deb/ubuntu/evolution-data-server
+- pkg:github/gnome/evolution-data-server
+- pkg:rpm/centos/evolution-data-server
+- pkg:rpm/fedora/evolution-data-server
+- pkg:rpm/opensuse/evolution-data-server

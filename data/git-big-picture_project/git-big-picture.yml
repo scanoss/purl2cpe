@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:git-big-picture_project:git-big-picture:0.10.0:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:0.10.1:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:0.8.0:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:0.9.0:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:1.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:git-big-picture_project:git-big-picture:1.1.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/git-big-picture
+- pkg:deb/ubuntu/git-big-picture
+- pkg:github/git-big-picture/git-big-picture
+- pkg:pypi/git-big-picture

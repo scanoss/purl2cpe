@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:windows-iedriver_project:windows-iedriver:2.48.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/windows-iedriver

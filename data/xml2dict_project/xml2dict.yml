@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:xml2dict_project:xml2dict:0.1.1:*:*:*:*:python:*:*
+- cpe:2.3:a:xml2dict_project:xml2dict:0.1:*:*:*:*:python:*:*
+- cpe:2.3:a:xml2dict_project:xml2dict:0.2.1:*:*:*:*:python:*:*
+- cpe:2.3:a:xml2dict_project:xml2dict:0.2.2:*:*:*:*:python:*:*
+purls:
+- pkg:github/mcspring/xml2dict
+- pkg:pypi/xml2dict
+- pkg:rpm/opensuse/python-xml2dict

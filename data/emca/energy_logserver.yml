@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:emca:energy_logserver:6.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/emca-it/energy-log-server-6.x
+- pkg:github/emca-it/energy-log-server-7.x

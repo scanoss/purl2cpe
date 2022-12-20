@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:smallsrv:small_http_server:3.06:*:*:*:*:*:*:*
+purls:
+- pkg:github/maxfeoktistov/smallsrv
+- pkg:sourceforge/smallsrv

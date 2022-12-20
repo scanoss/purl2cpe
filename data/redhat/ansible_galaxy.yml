@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:ansible_galaxy:3.3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/ansible/galaxy

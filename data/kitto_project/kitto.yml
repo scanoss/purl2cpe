@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:kitto_project:kitto:0.5.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/kittoframework/kitto

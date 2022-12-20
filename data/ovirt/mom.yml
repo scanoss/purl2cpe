@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ovirt:mom:*:*:*:*:*:*:*:*
+- cpe:2.3:a:ovirt:mom:0.3.0-1:*:*:*:*:*:*:*
+purls:
+- pkg:github/ovirt/mom

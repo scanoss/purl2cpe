@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dimac:jmail.net:1.1.0:*:*:*:professional:*:*:*
+purls:
+- pkg:github/ctigrisht/jmail.net

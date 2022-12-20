@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:rdflib_project:rdflib:4.2.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/rdflib
+- pkg:deb/ubuntu/rdflib
+- pkg:github/rdflib/rdflib
+- pkg:pypi/rdflib
+- pkg:rpm/fedora/python-rdflib
+- pkg:rpm/opensuse/python-rdflib

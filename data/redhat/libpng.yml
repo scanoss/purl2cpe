@@ -1,0 +1,23 @@
+cpes:
+- cpe:2.3:a:redhat:libpng:-:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:10.1.0.13.11:*:i386:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:10.1.0.13.11:*:i386_dev:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:10.1.0.13.8:*:i386:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:10.1.0.13.8:*:i386_dev:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-16:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-16:*:i386:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-16:*:i386_dev:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-20:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-20:*:i386:*:*:*:*:*
+- cpe:2.3:a:redhat:libpng:1.2.2-20:*:i386_dev:*:*:*:*:*
+purls:
+- pkg:bitbucket/qtip/libpng
+- pkg:cpan/image-png-ibpng
+- pkg:deb/debian/libpng1.6
+- pkg:deb/ubuntu/libpng1.6
+- pkg:gem/libpng-ruby
+- pkg:github/glennrp/libpng
+- pkg:gitlab/redhat/libpng
+- pkg:rpm/fedora/libpng
+- pkg:rpm/opensuse/libpng
+- pkg:sourceforge/libpng

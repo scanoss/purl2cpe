@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:puppycms:puppycms:5.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/choregus/puppycms

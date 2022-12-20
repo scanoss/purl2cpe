@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:fedup_project:fedup:0.9.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/rhinstaller/fedup

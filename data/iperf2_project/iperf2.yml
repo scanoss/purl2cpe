@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:iperf2_project:iperf2:2.0.10:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.11:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.12:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.13:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.6:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.7:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.8:*:*:*:*:*:*:*
+- cpe:2.3:a:iperf2_project:iperf2:2.0.9:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/gopher/iperf2
+- pkg:github/daynix/iperf2
+- pkg:github/justinc1/iperf2
+- pkg:github/lynxis/iperf2
+- pkg:sourceforge/iperf2

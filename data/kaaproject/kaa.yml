@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:kaaproject:kaa:1.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/kaaproject/kaa

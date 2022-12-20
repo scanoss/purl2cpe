@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:st:stm32cubewb:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/stmicroelectronics/stm32cubewb

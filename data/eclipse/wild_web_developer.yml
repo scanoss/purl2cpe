@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:eclipse:wild_web_developer:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/eclipse/wildwebdeveloper

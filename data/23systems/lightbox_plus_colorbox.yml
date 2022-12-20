@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:23systems:lightbox_plus_colorbox:2.7.2:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:23systems:lightbox_plus_colorbox:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:23systems/lightbox-plus-for-wordpress

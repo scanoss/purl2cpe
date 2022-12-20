@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:horde:pssword:1.0.0:alpha1:*:*:*:*:*:*
+- cpe:2.3:a:horde:pssword:1.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:pssword:1.0.0:rc1:*:*:*:*:*:*
+- cpe:2.3:a:horde:pssword:1.0.0:rc2:*:*:*:*:*:*
+- cpe:2.3:a:horde:pssword:1.0.0:rc3:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-passwd
+- pkg:deb/ubuntu/php-horde-passwd
+- pkg:github/horde/passwd
+- pkg:rpm/fedora/php-horde-passwd

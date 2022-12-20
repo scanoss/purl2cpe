@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:getwooplugins:woo-variation-swatches:1.0.61:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/strarsis/woo-variation-swatches

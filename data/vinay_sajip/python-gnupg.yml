@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:vinay_sajip:python-gnupg:0.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:vinay_sajip:python-gnupg:0.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:vinay_sajip:python-gnupg:0.3.2:*:*:*:*:*:*:*
+- cpe:2.3:a:vinay_sajip:python-gnupg:0.3.3:*:*:*:*:*:*:*
+- cpe:2.3:a:vinay_sajip:python-gnupg:0.3.4:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/vinay.sajip/python-gnupg
+- pkg:deb/debian/python-gnupg
+- pkg:deb/ubuntu/python-gnupg
+- pkg:github/vsajip/python-gnupg
+- pkg:pypi/python-gnupg
+- pkg:rpm/fedora/python-gnupg
+- pkg:rpm/opensuse/python-python-gnupg

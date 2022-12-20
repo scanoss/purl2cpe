@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ignitedcms_project:ignitedcms:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:ignitedcms_project:ignitedcms:2017-02-19:*:*:*:*:*:*:*
+purls:
+- pkg:github/ignitedcms/ignitedcms

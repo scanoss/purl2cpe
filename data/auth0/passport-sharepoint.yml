@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:auth0:passport-sharepoint:-:*:*:*:*:*:*:*
+- cpe:2.3:a:auth0:passport-sharepoint:0.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:auth0:passport-sharepoint:0.4.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/queport/passport-sharepoint
+- pkg:github/wp-plugins/shareaholic
+- pkg:npm/passport-sharepoint

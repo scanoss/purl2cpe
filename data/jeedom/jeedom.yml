@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jeedom:jeedom:-:*:*:*:*:*:*:*
+- cpe:2.3:a:jeedom:jeedom:4.0.38:*:*:*:*:*:*:*
+purls:
+- pkg:docker/jeedom/jeedom
+- pkg:github/jeedom/core

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mootools:mootools-more:1.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/mootools/mootools-more

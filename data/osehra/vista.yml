@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:osehra:vista:-:*:*:*:*:*:*:*
+purls:
+- pkg:docker/osehra/osehravista
+- pkg:github/worldvista/vista

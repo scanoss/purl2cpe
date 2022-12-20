@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:simplenetwork_project:simplenetwork:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/kashimastro/simplenetwork

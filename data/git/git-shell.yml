@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:git:git-shell:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/git/git

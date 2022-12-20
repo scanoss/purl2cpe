@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:python_imaging_project:python_imaging:1.1.7:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/python-imaging
+- pkg:deb/ubuntu/python-imaging
+- pkg:github/whatupdave/pil
+- pkg:rpm/fedora/python-imaging
+- pkg:rpm/opensuse/python-imaging

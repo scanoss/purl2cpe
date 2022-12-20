@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.0:beta1:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.0:beta2:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_mail_autoconfig:1.0.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-mail-autoconfig
+- pkg:deb/ubuntu/php-horde-mail-autoconfig
+- pkg:github/horde/mail_autoconfig
+- pkg:rpm/fedora/php-horde-horde-mail-autoconfig

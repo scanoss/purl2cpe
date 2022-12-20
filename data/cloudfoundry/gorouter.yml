@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:cloudfoundry:gorouter:*:*:*:*:*:*:*:*
+- cpe:2.3:a:cloudfoundry:gorouter:0.206.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/cloudfoundry/gorouter

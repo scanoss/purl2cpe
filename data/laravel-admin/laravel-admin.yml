@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:laravel-admin:laravel-admin:1.7.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/z-song/laravel-admin

@@ -1,0 +1,17 @@
+cpes:
+- cpe:2.3:a:aquamaniac:gwenhywfar:4.12.0:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:4.20.0:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:4.20.1:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:4.20.2:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:aquamaniac:gwenhywfar:5.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/aqbanking/gwenhywfar
+- pkg:github/cstim/gwenhywfar
+- pkg:github/tribut/gwenhywfar
+- pkg:rpm/fedora/gwenhywfar
+- pkg:rpm/opensuse/gwenhywfar

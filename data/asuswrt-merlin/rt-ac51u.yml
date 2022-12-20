@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:h:asuswrt-merlin:rt-ac51u:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/rmerl/asuswrt-merlin
+- pkg:github/rmerl/asuswrt-merlin.ng

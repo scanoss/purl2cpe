@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:zend:zendservice_audioscrobbler:2.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/zendframework/zendservice_audioscrobbler

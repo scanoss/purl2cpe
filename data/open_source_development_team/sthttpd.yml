@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:open_source_development_team:sthttpd:2.26:*:*:*:*:*:*:*
+- cpe:2.3:a:open_source_development_team:sthttpd:2.26.1:*:*:*:*:*:*:*
+- cpe:2.3:a:open_source_development_team:sthttpd:2.26.2:*:*:*:*:*:*:*
+- cpe:2.3:a:open_source_development_team:sthttpd:2.26.3:*:*:*:*:*:*:*
+- cpe:2.3:a:open_source_development_team:sthttpd:2.26.4:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/wilhelmy/sthttpd
+- pkg:github/blueness/sthttpd
+- pkg:github/nikdoof/docker-sthttpd
+- pkg:sourceforge/sthttpd

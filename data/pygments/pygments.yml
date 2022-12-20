@@ -1,0 +1,26 @@
+cpes:
+- cpe:2.3:a:pygments:pygments:1.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.6:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:1.6:rc1:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:2.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pygments:pygments:2.0:rc1:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/python-pygments
+- pkg:deb/ubuntu/python-pygments
+- pkg:gem/pygments.rb
+- pkg:github/pksunkara/pygments.js
+- pkg:github/pygments/pygments
+- pkg:gitlab/redhat/pygments
+- pkg:maven/org.pygments/pygments
+- pkg:maven/pygments/pygments
+- pkg:npm/pygments
+- pkg:nuget/pygments-net
+- pkg:pypi/pygments
+- pkg:rpm/fedora/python-pygments
+- pkg:rpm/opensuse/python-pygments
+- pkg:sourceforge/pygments

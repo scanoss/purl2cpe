@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:maxfoundry:maxgalleria:6.2.5:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/maxgalleria
+- pkg:github/wpplugins/maxgalleria

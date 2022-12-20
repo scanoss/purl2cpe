@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:doorgets:doorgets:7.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/doorgets/cms
+- pkg:sourceforge/doorgets-cms

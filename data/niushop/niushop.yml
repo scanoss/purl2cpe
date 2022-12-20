@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:niushop:niushop:1.11:*:*:*:*:*:*:*
+purls:
+- pkg:github/niuteam/niushop

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:onap:application_controller:-:*:*:*:*:*:*:*
+purls:
+- pkg:maven/org.onap.appc/onap-appc-core

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:codehaus:xfire:1.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:codehaus:xfire:1.2.5:*:*:*:*:*:*:*
+- cpe:2.3:a:codehaus:xfire:1.2.6:*:*:*:*:*:*:*
+purls:
+- pkg:maven/org.codehaus.xfire/xfire-core

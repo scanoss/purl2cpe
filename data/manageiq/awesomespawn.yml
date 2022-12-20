@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:manageiq:awesomespawn:1.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:manageiq:awesomespawn:1.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:manageiq:awesomespawn:1.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:manageiq:awesomespawn:1.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:manageiq:awesomespawn:1.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:manageiq:awesomespawn:1.5.0:*:*:*:*:*:*:*
+purls:
+- pkg:gem/awesome_spawn
+- pkg:github/manageiq/awesome_spawn
+- pkg:rpm/opensuse/rubygem-awesome_spawn

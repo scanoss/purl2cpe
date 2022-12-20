@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:gnu:flash_player:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:flash_player:0.7.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/gnash
+- pkg:deb/ubuntu/gnash
+- pkg:github/charmander/gnash
+- pkg:github/gnu-mirror-unofficial/gnash
+- pkg:github/markpagebxl/gnash
+- pkg:github/timretout/gnash
+- pkg:gnu/gnash
+- pkg:rpm/opensuse/gnash

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:hashover_project:hashover:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/jacobwb/hashover
+- pkg:github/jacobwb/hashover-next

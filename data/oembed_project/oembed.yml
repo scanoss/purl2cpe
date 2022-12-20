@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:oembed_project:oembed:2019-03-14:*:*:*:*:ckeditor:*:*
+- cpe:2.3:a:oembed_project:oembed:*:*:*:*:*:ckeditor:*:*
+purls:
+- pkg:github/w8tcha/ckeditor-oembed-plugin

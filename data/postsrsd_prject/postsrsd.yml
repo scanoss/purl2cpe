@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:postsrsd_prject:postsrsd:*:*:*:*:*:*:*:*
+purls:
+- pkg:deb/Debian/postsrsd
+- pkg:deb/ubuntu/postsrsd
+- pkg:github/roehling/postsrsd
+- pkg:rpm/fedora/postsrsd
+- pkg:rpm/opensuse/postsrsd

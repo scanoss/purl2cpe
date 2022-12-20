@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dirphp_project:dirphp:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/dirphp

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:omniauth-weibo-oauth2_project:omniauth-weibo-oauth2:0.4.6:*:*:*:*:ruby:*:*
+purls:
+- pkg:gem/omniauth-weibo-oauth2
+- pkg:github/beenhero/omniauth-weibo-oauth2

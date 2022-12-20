@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ilch:cms:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ilchcms/ilch-2.0

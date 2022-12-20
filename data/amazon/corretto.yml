@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*
+- cpe:2.3:a:amazon:corretto:8:*:*:*:*:*:*:*
+purls:
+- pkg:docker/amazoncorretto
+- pkg:github/corretto/corretto-11
+- pkg:github/corretto/corretto-8

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:devspace:devspace:4.13.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/loft-sh/devspace

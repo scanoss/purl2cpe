@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:upcoming_events_project:upcoming_events:1.32:*:*:*:*:mybb:*:*
+- cpe:2.3:a:upcoming_events_project:upcoming_events:1.33:*:*:*:*:mybb:*:*
+- cpe:2.3:a:upcoming_events_project:upcoming_events:-:*:*:*:*:mybb:*:*
+purls:
+- pkg:github/0xb9/mybb_plugin-upcoming_events
+- pkg:github/psde/mybb_upcoming_events
+- pkg:github/starpaul20/upcoming-events

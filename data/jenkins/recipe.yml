@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:recipe:1.0:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:recipe:1.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:recipe:1.2:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/recipe-plugin

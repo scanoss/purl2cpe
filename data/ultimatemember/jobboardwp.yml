@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ultimatemember:jobboardwp:1.0.7:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:ultimatemember:jobboardwp:*:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:ultimatemember:jobboardwp:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/ultimatemember/jobboardwp

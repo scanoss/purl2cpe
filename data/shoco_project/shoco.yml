@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:shoco_project:shoco:2017-07-17:*:*:*:*:*:*:*
+purls:
+- pkg:github/ed-von-schleck/shoco

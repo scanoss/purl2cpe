@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:easydigitaldownloads:digital_store:-:*:*:*:*:easy_digital_downloads:*:*
+purls:
+- pkg:github/awesomemotive/easy-digital-downloads
+- pkg:github/awesomemotive/edd-digital-store
+- pkg:github/wp-plugins/easy-digital-downloads

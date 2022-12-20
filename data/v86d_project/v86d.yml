@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:v86d_project:v86d:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.10:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.7:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.8:*:*:*:*:*:*:*
+- cpe:2.3:a:v86d_project:v86d:0.1.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/v86d
+- pkg:deb/ubuntu/v86d
+- pkg:github/mjanusz/v86d
+- pkg:rpm/opensuse/v86d

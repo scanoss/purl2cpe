@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:debian:strongswan:5.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/strongswan
+- pkg:deb/ubuntu/strongswan
+- pkg:docker/mberner/strongswan
+- pkg:github/strongswan/strongswan
+- pkg:rpm/fedora/strongswan
+- pkg:rpm/opensuse/strongswan

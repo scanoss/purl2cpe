@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:debian:kde4libs:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/kde4libs
+- pkg:deb/ubuntu/kde4libs
+- pkg:github/kde/kdelibs
+- pkg:rpm/fedora/kdelibs
+- pkg:rpm/opensuse/kdelibs

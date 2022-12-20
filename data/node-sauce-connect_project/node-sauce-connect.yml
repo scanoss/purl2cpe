@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:node-sauce-connect_project:node-sauce-connect:0.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:node-sauce-connect_project:node-sauce-connect:0.1.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/ddopson/node-sauce-connect

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:linbit:drbd8:2.6.26:*:*:*:*:*:*:*
+purls:
+- pkg:github/linbit/drbd
+- pkg:github/linbit/drbd-8.4
+- pkg:rpm/fedora/drbd
+- pkg:rpm/opensuse/drbd

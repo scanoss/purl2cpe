@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:heirloom:mailx:12.0:*:*:*:*:*:*:*
+- cpe:2.3:a:heirloom:mailx:12.1:*:*:*:*:*:*:*
+- cpe:2.3:a:heirloom:mailx:12.2:*:*:*:*:*:*:*
+- cpe:2.3:a:heirloom:mailx:12.3:*:*:*:*:*:*:*
+- cpe:2.3:a:heirloom:mailx:12.4:*:*:*:*:*:*:*
+- cpe:2.3:a:heirloom:mailx:12.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/blackhat-blade/mailx
+- pkg:github/scallywag/mailx
+- pkg:gitlab/redhat/mailx
+- pkg:rpm/centos/mailx
+- pkg:rpm/fedora/mailx
+- pkg:rpm/opensuse/mailx
+- pkg:sourceforge/nail

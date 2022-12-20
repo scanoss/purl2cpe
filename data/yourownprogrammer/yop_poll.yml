@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:yourownprogrammer:yop_poll:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/yop-poll
+- pkg:github/wpplugins/yop-poll

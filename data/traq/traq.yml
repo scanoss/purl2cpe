@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:traq:traq:3.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/nirix/traq
+- pkg:github/nirix/traq
+- pkg:gitlab/nirix/traq

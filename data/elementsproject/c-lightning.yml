@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:elementsproject:c-lightning:*:*:*:*:*:*:*:*
+- cpe:2.3:a:elementsproject:c-lightning:0.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/elementsproject/lightning
+- pkg:rpm/opensuse/c-lightning

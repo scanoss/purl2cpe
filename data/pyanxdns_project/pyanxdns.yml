@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:pyanxdns_project:pyanxdns:0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/egeback/pyanxdns
+- pkg:pypi/pyanxdns

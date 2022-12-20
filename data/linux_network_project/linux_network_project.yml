@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:linux_network_project:linux_network_project:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/renleilei1992/linux_network_project

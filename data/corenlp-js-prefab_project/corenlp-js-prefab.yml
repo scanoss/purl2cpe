@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:corenlp-js-prefab_project:corenlp-js-prefab:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/thaer899/corenlp-js-prefab
+- pkg:npm/corenlp-js-prefab

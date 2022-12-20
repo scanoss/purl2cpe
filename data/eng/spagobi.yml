@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:eng:spagobi:4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:eng:spagobi:4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:eng:spagobi:5.0:*:*:*:*:*:*:*
+purls:
+- pkg:docker/spagobilabs/spagobi
+- pkg:github/spagobilabs/spagobi

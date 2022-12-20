@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:audiocoding:freeware_advanced_audio_coder:1.28:*:*:*:*:*:*:*
+- cpe:2.3:a:audiocoding:freeware_advanced_audio_coder:1.29.9.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/faac
+- pkg:deb/ubuntu/faac
+- pkg:github/arcen/faac
+- pkg:github/knik0/faac
+- pkg:rpm/opensuse/faac
+- pkg:sourceforge/faac

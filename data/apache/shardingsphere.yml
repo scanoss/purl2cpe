@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:apache:shardingsphere:4.0.0:-:*:*:*:*:*:*
+- cpe:2.3:a:apache:shardingsphere:4.0.0:rc3:*:*:*:*:*:*
+purls:
+- pkg:apache/shardingsphere
+- pkg:github/apache/shardingsphere
+- pkg:maven/org.apache.shardingsphere/shardingsphere
+- pkg:sourceforge/shardingsphere.mirror

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:vocabularyserver:tematres:3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/tematres/tematres-vocabulary-server
+- pkg:sourceforge/tematres

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:node-opcua_project:mode-opcua:*:*:*:*:*:node.js:*:*
+purls:
+- pkg:bitbucket/jm-hansen-as/node-opcua
+- pkg:github/node-opcua/node-opcua
+- pkg:npm/node-opcua

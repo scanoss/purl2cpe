@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:testplatform_project:testplatform:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/zippies/testplatform

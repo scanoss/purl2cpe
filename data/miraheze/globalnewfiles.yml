@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:miraheze:globalnewfiles:-:*:*:*:*:mediawiki:*:*
+purls:
+- pkg:github/miraheze/globalnewfiles

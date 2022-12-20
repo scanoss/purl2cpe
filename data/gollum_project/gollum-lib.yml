@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:gollum_project:gollum-lib:4.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ruby-gollum-lib
+- pkg:deb/ubuntu/ruby-gollum-lib
+- pkg:gem/gollum-lib
+- pkg:github/gollum/gollum-lib
+- pkg:rpm/opensuse/rubygem-gollum-lib

@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:tt-rss:tiny_tiny_rss:-:*:*:*:*:*:*:*
+- cpe:2.3:a:tt-rss:tiny_tiny_rss:17.4:*:*:*:*:*:*:*
+- cpe:2.3:a:tt-rss:tiny_tiny_rss:2020-09-16:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tt-rss
+- pkg:deb/ubuntu/tt-rss
+- pkg:github/rss-org/tt-rss
+- pkg:github/torne/tiny-tiny-rss
+- pkg:rpm/opensuse/tt-rss

@@ -1,0 +1,20 @@
+cpes:
+- cpe:2.3:a:apache:mod_fcgid:2016-07-07:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.3:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.4:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.5:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.6:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.7:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.8:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:mod_fcgid:2.3.9:*:*:*:*:*:*:*
+purls:
+- pkg:apache/httpd
+- pkg:github/apache/httpd-mod_fcgid
+- pkg:github/pagespeed/mod_fcgid
+- pkg:gitlab/redhat/mod_fcgid
+- pkg:googlesource/mod_fcgid
+- pkg:rpm/fedora/mod_fcgid
+- pkg:rpm/opensuse/mod_fcgid
+- pkg:sourceforge/mod-fcgid

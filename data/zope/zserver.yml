@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:zope:zserver:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:zope:zserver:11.1:*:*:*:*:*:*:*
+- cpe:2.3:a:zope:zserver:1.1b1:*:*:*:*:*:*:*
+purls:
+- pkg:github/zopefoundation/zserver
+- pkg:pypi/zserver

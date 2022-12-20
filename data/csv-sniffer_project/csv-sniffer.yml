@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:csv-sniffer_project:csv-sniffer:0.0.1:*:*:*:*:rust:*:*
+- cpe:2.3:a:csv-sniffer_project:csv-sniffer:0.1.1:*:*:*:*:rust:*:*
+purls:
+- pkg:gem/csv_sniffer
+- pkg:github/tim-ojo/csv_sniffer

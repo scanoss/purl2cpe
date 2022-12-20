@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:codders-dataset_project:codders-dataset:1.3.2.1:*:*:*:*:ruby:*:*
+purls:
+- pkg:gem/codders-dataset
+- pkg:github/aiwilliams/dataset
+- pkg:github/codders/dataset

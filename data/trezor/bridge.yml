@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:trezor:bridge:2.0.27:*:*:*:*:windows:*:*
+purls:
+- pkg:github/trezor/webwallet-data

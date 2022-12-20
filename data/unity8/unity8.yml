@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:unity8:unity8:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ubports/unity8
+- pkg:gitlab/ubports/lomiri
+- pkg:gitlab/ubports/unity8

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:suse:pam-config:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/suse/pam-config
+- pkg:rpm/opensuse/pam-config

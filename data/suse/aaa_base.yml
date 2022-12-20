@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:suse:aaa_base:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/opensuse/aaa_base
+- pkg:rpm/opensuse/aaa_base

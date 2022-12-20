@@ -1,0 +1,23 @@
+cpes:
+- cpe:2.3:a:libspf2_project:libspf2:-:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:0.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.10:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.11:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.3:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.5:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.6:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.7:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.8:*:*:*:*:*:*:*
+- cpe:2.3:a:libspf2_project:libspf2:1.2.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libspf2
+- pkg:deb/ubuntu/libspf2
+- pkg:github/shevek/libspf2
+- pkg:rpm/fedora/libspf2
+- pkg:rpm/opensuse/libspf2

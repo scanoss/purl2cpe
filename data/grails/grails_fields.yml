@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:grails:grails_fields:2.2.7:*:*:*:*:grails:*:*
+purls:
+- pkg:github/grails-fields-plugin/grails-fields

@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:high_resolution_streaming_image_server_project:high_resolution_streaming_image_server:-:*:*:*:*:*:*:*
+- cpe:2.3:a:high_resolution_streaming_image_server_project:high_resolution_streaming_image_server:2022-01-14:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/tcpan/iipsrv
+- pkg:github/bcli4d/iipsrv
+- pkg:github/ruven/iipsrv
+- pkg:rpm/fedora/iipsrv
+- pkg:sourceforge/iipimage

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ts-nodash_library_project:ts-nodash_library:*:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/badopcode/nodash
+- pkg:npm/ts-nodash

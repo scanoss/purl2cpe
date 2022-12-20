@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:nixos:nixos:17.03:*:*:*:*:*:*:*
+purls:
+- pkg:github/nixos/nixpkgs

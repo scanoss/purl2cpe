@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:opentype_sanitiser_project:opentype_sanitiser:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/opentype-sanitizer
+- pkg:github/khaledhosny/ots
+- pkg:github/pld-linux/otsanitizer
+- pkg:pypi/opentype-sanitizer
+- pkg:rpm/fedora/opentype-sanitizer

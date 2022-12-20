@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:cltphp:cltphp:*:*:*:*:*:*:*:*
+- cpe:2.3:a:cltphp:cltphp:6.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/792947573/cltphp
+- pkg:github/cltphp/cltphp

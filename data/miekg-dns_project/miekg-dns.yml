@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:miekg-dns_project:miekg-dns:*:*:*:*:*:*:*:*
+- cpe:2.3:a:miekg-dns_project:miekg-dns:1.1.25:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/golang-github-miekg-dns
+- pkg:deb/ubuntu/golang-github-miekg-dns
+- pkg:github/miekg/dns
+- pkg:rpm/fedora/golang-github-miekg-dns

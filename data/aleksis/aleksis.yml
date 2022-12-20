@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:aleksis:aleksis:-:*:*:*:*:*:*:*
+- cpe:2.3:a:aleksis:aleksis:2.8.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/aleksis-org/aleksis
+- pkg:pypi/aleksis

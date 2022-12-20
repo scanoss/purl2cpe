@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:christianwebministries:proclaim:9.1.1:*:*:*:*:joomla\!:*:*
+purls:
+- pkg:github/joomla-bible-study/proclaim

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:onap:service_design_and_creation:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/onap/sdc

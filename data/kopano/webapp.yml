@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:kopano:webapp:3.3.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/kopano-webapp
+- pkg:deb/ubuntu/kopano-webapp
+- pkg:github/kopano-dev/kopano-webapp
+- pkg:rpm/opensuse/kopano-webapp

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:open.edx:ironwood:.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/lawlden/ironwood

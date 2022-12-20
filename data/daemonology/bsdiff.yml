@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:daemonology:bsdiff:4.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/mendsley/bsdiff

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:grabacr.net:kancolleviewer:3.8.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/grabacr07/kancolleviewer

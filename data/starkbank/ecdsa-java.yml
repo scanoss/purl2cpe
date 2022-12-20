@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:starkbank:ecdsa-java:1.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/starkbank/ecdsa-java

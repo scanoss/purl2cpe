@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:python:rply:0.7.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/python-rply
+- pkg:deb/ubuntu/python-rply
+- pkg:pypi/rply
+- pkg:rpm/fedora/python-rply
+- pkg:rpm/opensuse/python-rply

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:santafox:santafox:2.02:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/oslix/santafox-cms
+- pkg:bitbucket/wdmg/santafox.cms

@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:bastian_kleineidam:linkchecker:4.4:*:*:*:*:*:*:*
+- cpe:2.3:a:bastian_kleineidam:linkchecker:4.5:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/linkchecker
+- pkg:deb/ubuntu/linkchecker
+- pkg:docker/linkchecker/linkchecker
+- pkg:github/linkchecker/linkchecker
+- pkg:github/wummel/linkchecker
+- pkg:pypi/linkchecker
+- pkg:rpm/fedora/linkchecker
+- pkg:rpm/opensuse/linkchecker
+- pkg:sourceforge/linkchecker

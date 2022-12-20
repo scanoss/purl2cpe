@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:crocontrol:asterix:2.8.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/croatiacontrolltd/asterix

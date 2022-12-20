@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dynamic_content_element_project:dynamic_content_element:*:*:*:*:*:typo3:*:*
+purls:
+- pkg:github/a-r-m-i-n/dce

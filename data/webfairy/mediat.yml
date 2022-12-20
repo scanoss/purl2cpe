@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:webfairy:mediat:1.4.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/webfairynet/mediat

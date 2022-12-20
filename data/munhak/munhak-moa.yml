@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:munhak:munhak-moa:-:*:*:*:*:*:*:*
+- cpe:2.3:a:munhak:munhak-moa:2022-05-03:*:*:*:*:*:*:*
+purls:
+- pkg:github/woduq1414/munhak-moa

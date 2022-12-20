@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:djangoproject:piston:0.2.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/python-django-piston
+- pkg:deb/ubuntu/python-django-piston
+- pkg:github/django-piston/django-piston
+- pkg:github/mozilla/django-piston
+- pkg:pypi/django-piston
+- pkg:rpm/opensuse/python-django-piston

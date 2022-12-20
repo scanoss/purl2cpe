@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:macdown_project:macdown:0.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/macdownapp/macdown

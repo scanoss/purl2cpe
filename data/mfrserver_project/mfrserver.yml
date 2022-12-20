@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:mfrserver_project:mfrserver:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:mfrserver_project:mfrserver:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/mfrserver

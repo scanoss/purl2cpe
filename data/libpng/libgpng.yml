@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:libpng:libgpng:1.6.34:*:*:*:*:*:*:*
+purls:
+- pkg:github/glennrp/libpng

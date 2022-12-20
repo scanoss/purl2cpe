@@ -1,0 +1,17 @@
+cpes:
+- cpe:2.3:a:untangle_project:untangle:0.1:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:0.2:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:0.3.1:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:0.3:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:0.4.0:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:1.0.0:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:1.1.0:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:1.1.1:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:1.2.0:*:*:*:*:python:*:*
+- cpe:2.3:a:untangle_project:untangle:1.2.1:*:*:*:*:python:*:*
+purls:
+- pkg:deb/debian/python-untangle
+- pkg:deb/ubuntu/python-untangle
+- pkg:github/stchris/untangle
+- pkg:pypi/untangle
+- pkg:rpm/opensuse/python-untangle

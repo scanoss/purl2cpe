@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ctfd:rctf:-:*:*:*:*:*:*:*
+- cpe:2.3:a:ctfd:rctf:2.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/redpwn/rctf

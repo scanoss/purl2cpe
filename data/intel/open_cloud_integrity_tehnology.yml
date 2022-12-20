@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:intel:open_cloud_integrity_tehnology:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/opencit/opencit

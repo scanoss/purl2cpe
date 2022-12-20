@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:xchat:xchat_gnome:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/xchat-gnome/xchat-gnome
+- pkg:rpm/opensuse/xchat-gnome

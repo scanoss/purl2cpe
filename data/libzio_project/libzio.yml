@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:libzio_project:libzio:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/libzio
+- pkg:sourceforge/libzio

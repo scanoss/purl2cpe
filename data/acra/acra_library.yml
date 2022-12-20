@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:acra:acra_library:-:-:*:*:*:android:*:*
+purls:
+- pkg:github/acra/acra

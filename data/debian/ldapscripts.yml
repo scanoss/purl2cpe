@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:debian:ldapscripts:-:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:ldapscripts:1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:ldapscripts:1.7:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ldapscripts
+- pkg:deb/ubuntu/ldapscripts
+- pkg:github/martymac/ldapscripts
+- pkg:github/smillie/ldapscripts
+- pkg:sourceforge/ldapscripts

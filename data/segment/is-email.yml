@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:segment:is-email:0.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:segment:is-email:0.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:segment:is-email:0.1.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:segment:is-email:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:segment:is-email:1.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:segment:is-email:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/segmentio/is-email
+- pkg:npm/is-email

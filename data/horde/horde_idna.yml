@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:horde:horde_idna:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_idna:1.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-idna
+- pkg:deb/ubuntu/php-horde-idna
+- pkg:github/horde/idna
+- pkg:rpm/fedora/php-horde-horde-idna

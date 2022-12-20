@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:libimobiledevice:libusbmuxd:1.0.10:*:*:*:*:*:*:*
+- cpe:2.3:a:libimobiledevice:libusbmuxd:1.0.9:*:*:*:*:*:*:*
+- cpe:2.3:a:libimobiledevice:libusbmuxd:2.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:libimobiledevice:libusbmuxd:2.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:libimobiledevice:libusbmuxd:2.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/radj/libusbmuxd
+- pkg:deb/debian/libusbmuxd
+- pkg:deb/ubuntu/libusbmuxd
+- pkg:github/libimobiledevice/libusbmuxd
+- pkg:nuget/libusbmuxd
+- pkg:rpm/centos/libusbmuxd
+- pkg:rpm/fedora/libusbmuxd
+- pkg:rpm/opensuse/libusbmuxd

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:qtranslate_project:qtranslate:2.5.39:*:*:*:*:*:*:*
+purls:
+- pkg:github/qtranslate/qtranslate-xt
+- pkg:github/qtranslate-team/qtranslate-x

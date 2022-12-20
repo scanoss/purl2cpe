@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:broadcom:bcm43684_firmware:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/e7mer/owfuzz

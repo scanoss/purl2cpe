@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:debian:python-imaging:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pillow
+- pkg:deb/ubuntu/pillow
+- pkg:github/python-pillow/pillow
+- pkg:pypi/pillow
+- pkg:rpm/centos/python-pillow
+- pkg:rpm/fedora/python-pillow
+- pkg:rpm/opensuse/python-pillow
+- pkg:sourceforge/pillow.mirror

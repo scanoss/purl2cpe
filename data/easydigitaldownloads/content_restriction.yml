@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:easydigitaldownloads:content_restriction:-:*:*:*:*:easy_digital_downloads:*:*
+purls:
+- pkg:github/garyjones/edd-content-restriction

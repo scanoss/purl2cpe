@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:bitbucket:xnbd:0.1.0:pre:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/xnbd
+- pkg:deb/ubuntu/xnbd
+- pkg:github/takahiro-hirofuchi/xnbd

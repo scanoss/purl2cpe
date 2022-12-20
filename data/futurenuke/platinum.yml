@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:futurenuke:platinum:7.6.b.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/tgates71/pnpv1

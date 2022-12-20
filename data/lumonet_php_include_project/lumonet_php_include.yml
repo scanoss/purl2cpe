@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:lumonet_php_include_project:lumonet_php_include:1.2.0:*:*:*:*:typo3:*:*
+purls:
+- pkg:github/retiolum/typo3-lumophpinclude

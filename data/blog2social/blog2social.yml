@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:blog2social:blog2social:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/blog2social
+- pkg:github/wpplugins/blog2social

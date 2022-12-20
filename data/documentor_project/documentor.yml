@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:documentor_project:documentor:*:*:*:*:*:*:*:*
+- cpe:2.3:a:documentor_project:documentor:1.5.3:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/documentor-lite

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:flog_project:flog:0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/wpplugins/flog

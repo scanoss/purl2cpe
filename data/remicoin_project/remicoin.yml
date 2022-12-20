@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:remicoin_project:remicoin:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/remicoin/remicoin-contract

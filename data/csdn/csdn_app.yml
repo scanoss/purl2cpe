@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:csdn:csdn_app:4.10.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/csdntm/csdn-app

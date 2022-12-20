@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:exadel:flamingo_amf-serializer:2.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/xhly/amf-serializer
+- pkg:github/zerksud/amf-serializer
+- pkg:maven/com.exadel.flamingo.flex/amf-serializer

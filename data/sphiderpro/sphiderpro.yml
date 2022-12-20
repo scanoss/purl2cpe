@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:sphiderpro:sphiderpro:*:*:*:*:*:*:*:*
+- cpe:2.3:a:sphiderpro:sphiderpro:3.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/sphiderpro/sphiderpro
+- pkg:sourceforge/sphiderpro

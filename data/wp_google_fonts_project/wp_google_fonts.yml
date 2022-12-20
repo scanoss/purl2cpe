@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:wp_google_fonts_project:wp_google_fonts:*:*:*:*:*:*:*:*
+- cpe:2.3:a:wp_google_fonts_project:wp_google_fonts:3.1.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/adrian3/wp-google-fonts
+- pkg:github/wp-plugins/wp-google-fonts

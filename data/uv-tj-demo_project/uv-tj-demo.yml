@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:uv-tj-demo_project:uv-tj-demo:1.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/uv-tj-demo

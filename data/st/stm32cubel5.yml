@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:st:stm32cubel5:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/stmicroelectronics/stm32cubel5

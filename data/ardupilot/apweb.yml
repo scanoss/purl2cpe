@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ardupilot:apweb:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ardupilot/apweb

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pivotal:bits_service:2.14.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/cloudfoundry-incubator/bits-service-release

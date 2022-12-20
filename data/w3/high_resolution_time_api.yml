@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:w3:high_resolution_time_api:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/w3c/hr-time

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:h:asuswrt-merlin_project:rt-ac1900:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/rmerl/asuswrt-merlin

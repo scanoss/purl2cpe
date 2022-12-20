@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:miniupnp_project:minissdpd:1.2.20130907-3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/miniupnpd
+- pkg:deb/ubuntu/miniupnpd
+- pkg:github/miniupnp/miniupnp
+- pkg:rpm/fedora/miniupnpd
+- pkg:rpm/opensuse/miniupnpd

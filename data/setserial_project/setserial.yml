@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:setserial_project:setserial:2.17:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/setserial
+- pkg:deb/ubuntu/setserial
+- pkg:github/distrotech/setserial
+- pkg:github/openeuler-networking/setserial
+- pkg:gitlab/redhat/setserial
+- pkg:rpm/fedora/setserial
+- pkg:rpm/opensuse/setserial
+- pkg:sourceforge/setserial

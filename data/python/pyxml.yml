@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:python:pyxml:-:*:*:*:*:*:*:*
+- cpe:2.3:a:python:pyxml:0.8.4:*:*:*:*:*:*:*
+purls:
+- pkg:pypi/pyxml
+- pkg:rpm/fedora/pyxml
+- pkg:sourceforge/pyxml

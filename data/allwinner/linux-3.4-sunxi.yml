@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:allwinner:linux-3.4-sunxi:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/allwinner-zh/linux-3.4-sunxi

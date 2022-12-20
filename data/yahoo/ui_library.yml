@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:yahoo:ui_library:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/yui/yui3
+- pkg:npm/yui

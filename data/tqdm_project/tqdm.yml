@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:tqdm_project:tqdm:4.10:*:*:*:*:*:*:*
+- cpe:2.3:a:tqdm_project:tqdm:4.4.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tqdm
+- pkg:deb/ubuntu/tqdm
+- pkg:docker/tqdm/tqdm
+- pkg:github/tqdm/tqdm
+- pkg:pypi/tqdm
+- pkg:rpm/fedora/python-tqdm
+- pkg:rpm/opensuse/python-tqdm
+- pkg:sourceforge/tqdm.mirror

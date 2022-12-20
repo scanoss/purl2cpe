@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:gbraad:gauth:0.9.9:beta:*:*:*:*:*:*
+purls:
+- pkg:github/gbraad/gauth
+- pkg:github/gbraadnl/gauth

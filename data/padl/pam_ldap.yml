@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:padl:pam_ldap:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/padl/pam_ldap
+- pkg:rpm/opensuse/pam_ldap

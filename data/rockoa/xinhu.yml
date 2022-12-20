@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:rockoa:xinhu:2.1.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/rainrocka/xinhu

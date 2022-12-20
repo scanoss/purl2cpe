@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:delete_log:1.0:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:delete_log:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/delete-log-plugin
+- pkg:github/lvotypko/delete-log-plugin

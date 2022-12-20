@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:sp8de:sp8de:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/dwfault/airtokens

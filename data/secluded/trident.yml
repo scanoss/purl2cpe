@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:secluded:trident:1.4.6:rc1:*:*:*:*:*:*
+purls:
+- pkg:github/tridentli/trident

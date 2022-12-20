@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:objective-see:procinfo:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/objective-see/procinfo

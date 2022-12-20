@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:cloudfoundry:silk-release:0.1.0:*:*:*:*:cloudfoundry:*:*
+purls:
+- pkg:github/cloudfoundry/silk-release

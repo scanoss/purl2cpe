@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:cybercraftit:content-grabber:1.0:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/content-grabber

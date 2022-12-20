@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:google:pdfium:-:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/joycodex/libpdfium
+- pkg:github/pdfium/pdfium
+- pkg:googlesource/pdfium

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redaxo:redaxo_cms:4.7.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/redaxo/redaxo4

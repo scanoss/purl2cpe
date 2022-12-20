@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:intel:quickassist_technology_engine:0.5.18:*:*:*:*:*:*:*
+purls:
+- pkg:github/01org/qat_engine

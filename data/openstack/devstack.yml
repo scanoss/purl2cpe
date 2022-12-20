@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:openstack:devstack:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/openstack/devstack
+- pkg:pypi/devstack-tools

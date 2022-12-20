@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:xheditor:xheditor:1.2.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/yaniswang/xheditor

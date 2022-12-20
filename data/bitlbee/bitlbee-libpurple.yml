@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:bitlbee:bitlbee-libpurple:3.5:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/bitlbee
+- pkg:deb/ubuntu/bitlbee
+- pkg:docker/ezkrg/bitlbee-libpurple
+- pkg:github/ezkrg/docker-bitlbee-libpurple

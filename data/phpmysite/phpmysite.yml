@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:phpmysite:phpmysite:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/barbo/phpmysite
+- pkg:sourceforge/phpmysite

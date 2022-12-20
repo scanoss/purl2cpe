@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:aspl:libaxl:0.6.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/asples/libaxl

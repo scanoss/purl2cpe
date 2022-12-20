@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:pasdoc_project:pasdoc:0.14:*:*:*:*:*:*:*
+- cpe:2.3:a:pasdoc_project:pasdoc:0.14.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pasdoc
+- pkg:deb/ubuntu/pasdoc
+- pkg:github/pasdoc/pasdoc
+- pkg:sourceforge/pasdoc

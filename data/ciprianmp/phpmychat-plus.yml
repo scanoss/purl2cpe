@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ciprianmp:phpmychat-plus:1.98:*:*:*:*:*:*:*
+purls:
+- pkg:github/phpmychat-plus/phpmychat-plus
+- pkg:sourceforge/phpmychat

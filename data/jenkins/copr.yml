@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:jenkins:copr:0.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:copr:0.2:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:copr:0.3:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:copr:0.6.1:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/copr-plugin
+- pkg:github/msrb/copr-plugin

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:henk:git_extensions:2.17:*:*:*:*:*:*:*
+purls:
+- pkg:github/gitextensions/gitextensions

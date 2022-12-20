@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:codecanyon:phpsound:1.0.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/bluredcodes/phpsound
+- pkg:github/waqasakbar52/phpsound

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ballcat:codegen:-:*:*:*:*:*:*:*
+- cpe:2.3:a:ballcat:codegen:1.0.0:-:*:*:*:*:*:*
+purls:
+- pkg:github/ballcat-projects/ballcat-codegen

@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:optipng:optipng:0.6:*:*:*:*:*:*:*
+- cpe:2.3:a:optipng:optipng:0.6.1:*:*:*:*:*:*:*
+- cpe:2.3:a:optipng:optipng:0.7.0:*:*:*:*:*:*:*
+- cpe:2.3:a:optipng:optipng:0.7.1:*:*:*:*:*:*:*
+- cpe:2.3:a:optipng:optipng:0.7.2:*:*:*:*:*:*:*
+- cpe:2.3:a:optipng:optipng:hg:*:*:*:*:*:*:*
+purls:
+- pkg:Deb/debian/optipng
+- pkg:deb/ubuntu/optipng
+- pkg:github/countingpine/optipng
+- pkg:github/johnpaulada/optipng
+- pkg:rpm/Fedora/optipng
+- pkg:rpm/opensuse/optipng
+- pkg:sourceforge/optipng

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:openzeppelin:openzeppelin-solidity:2.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/openzeppelin/openzeppelin-contracts
+- pkg:npm/openzeppelin-solidity

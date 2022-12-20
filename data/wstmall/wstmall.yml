@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:wstmall:wstmall:1.9.1_170316:*:*:*:*:*:*:*
+purls:
+- pkg:github/wstmall/wstmall

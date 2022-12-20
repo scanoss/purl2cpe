@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:simplcommerce:simplcommerce:1.0.0:rc:*:*:*:*:*:*
+purls:
+- pkg:github/simplcommerce/simplcommerce

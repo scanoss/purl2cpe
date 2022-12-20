@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:o:realtek:rtl8723de_firmware:-:*:*:*:*:*:*:*
+- cpe:2.3:o:realtek:rtl8723de_firmware:4.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/smlinux/rtl8723de

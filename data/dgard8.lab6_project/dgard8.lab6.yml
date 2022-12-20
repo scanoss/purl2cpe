@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:dgard8.lab6_project:dgard8.lab6:0.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:dgard8.lab6_project:dgard8.lab6:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/dgard8/lab6
+- pkg:npm/dgard8.lab6

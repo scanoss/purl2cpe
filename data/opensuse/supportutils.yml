@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:opensuse:supportutils:*:*:*:*:*:*:*:*
+- cpe:2.3:a:opensuse:supportutils:3.1-5.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/opensuse/supportutils
+- pkg:rpm/opensuse/supportutils

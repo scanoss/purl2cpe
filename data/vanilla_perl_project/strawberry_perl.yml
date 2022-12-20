@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:vanilla_perl_project:strawberry_perl:*:*:*:*:*:*:*:*
+- cpe:2.3:a:vanilla_perl_project:strawberry_perl:5.10.256:*:*:*:*:*:*:*
+- cpe:2.3:a:vanilla_perl_project:strawberry_perl:5.12.1:*:*:*:*:*:*:*
+- cpe:2.3:a:vanilla_perl_project:strawberry_perl:5.12.512:*:*:*:*:*:*:*
+- cpe:2.3:a:vanilla_perl_project:strawberry_perl:5.12.768:*:*:*:*:*:*:*
+purls:
+- pkg:cpan/perl-dist-strawberry
+- pkg:github/strawberryperl/perl-dist-strawberry

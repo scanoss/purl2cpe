@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:wstmart:wstmart:2.0.7:*:*:*:*:*:*:*
+- cpe:2.3:a:wstmart:wstmart:2.0.8_181212:*:*:*:*:*:*:*
+purls:
+- pkg:github/wstmall/wstmart

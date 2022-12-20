@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:kiwix:kiwix:0.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/kiwix-tools
+- pkg:deb/ubuntu/kiwix-tools
+- pkg:docker/kiwix/kiwix-serve
+- pkg:githubkiwix/kiwix-tools
+- pkg:rpm/fedora/kiwix-tools
+- pkg:rpm/opensuse/kiwix-tools
+- pkg:sourceforge/kiwix

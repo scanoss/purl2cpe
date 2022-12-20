@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:projectatomic:oci-register-machine:-:*:*:*:*:*:*:*
+- cpe:2.3:a:projectatomic:oci-register-machine:0.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/projectatomic/oci-register-machine
+- pkg:github/sallyom/oci-register-machine-hook

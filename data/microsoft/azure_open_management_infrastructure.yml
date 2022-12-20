@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:microsoft:azure_open_management_infrastructure:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/microsoft/omi

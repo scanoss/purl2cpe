@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ranko:rkcms:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/aubreyjun/cms

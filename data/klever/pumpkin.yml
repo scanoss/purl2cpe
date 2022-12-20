@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:klever:pumpkin:2.7.2:*:*:*:*:*:*:*
+- cpe:2.3:a:klever:pumpkin:2.7.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/hacker/pumpkin

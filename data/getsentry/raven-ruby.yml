@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:getsentry:raven-ruby:0.12.1:*:*:*:*:ruby:*:*
+purls:
+- pkg:deb/debian/ruby-sentry-raven
+- pkg:deb/ubuntu/ruby-sentry-raven
+- pkg:gem/sentry-raven
+- pkg:github/getsentry/sentry-ruby
+- pkg:rpm/opensuse/rubygem-sentry-raven

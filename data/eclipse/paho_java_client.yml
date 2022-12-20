@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:eclipse:paho_java_client:1.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/eclipse/paho.mqtt.java

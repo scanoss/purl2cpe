@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:libmimedir_project:libmimedir:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/libmimedir
+- pkg:sourceforge/libmimedir

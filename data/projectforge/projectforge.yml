@@ -1,0 +1,18 @@
+cpes:
+- cpe:2.3:a:projectforge:projectforge:3.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.4.3:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:3.5.3:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:projectforge:projectforge:5.3:*:*:*:*:*:*:*
+purls:
+- pkg:docker/kreinhard/projectforge
+- pkg:docker/micromata/projectforge
+- pkg:github/micromata/projectforge
+- pkg:sourceforge/pforge

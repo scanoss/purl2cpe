@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:apache:hupa:*:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:hupa:0.0.3:*:*:*:*:*:*:*
+purls:
+- pkg:apache/james
+- pkg:github/apache/james-hupa
+- pkg:maven/org.apache.james.hupa/hupa

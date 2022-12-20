@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:topnew:sidu:6.0:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/sidu

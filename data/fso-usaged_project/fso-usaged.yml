@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:fso-usaged_project:fso-usaged:0.12.0-2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/fso-usaged
+- pkg:github/slyon/debian-fso-usaged

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:chatopera:cosin:3.10.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/chatopera/cskefu

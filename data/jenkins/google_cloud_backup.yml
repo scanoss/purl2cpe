@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:google_cloud_backup:0.6:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:google_cloud_backup:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/astroilov/google-persistent-master-plugin
+- pkg:github/jenkinsci/google-cloud-backup-plugin

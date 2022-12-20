@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:e-plugins:wp_membership:1.2.3:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/wp-members

@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:trilexnet:letodms:3.3.11:*:*:*:*:*:*:*
+- cpe:2.3:a:trilexnet:letodms:3.3.6:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/letodms
+- pkg:deb/ubuntu/letodms
+- pkg:github/trilexlabs/letodms
+- pkg:sourceforge/mydms

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:massif_project:massif:0.0.1-1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/gaelb/massif
+- pkg:npm/massif

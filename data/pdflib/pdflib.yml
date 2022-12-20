@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:pdflib:pdflib:3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:pdflib:pdflib:7.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:cpan/pdflib
+- pkg:gem/pdflib_wrapper
+- pkg:gnu/pypdflib
+- pkg:npm/pdflib
+- pkg:nuget/PDFLib
+- pkg:pypi/pdflib
+- pkg:sourceforge/pdflib

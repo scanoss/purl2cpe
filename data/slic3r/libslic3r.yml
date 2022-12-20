@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:slic3r:libslic3r:1.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:slic3r:libslic3r:*:2021-02-24:*:*:*:*:*:*
+- cpe:2.3:a:slic3r:libslic3r:2021-02-24:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/slic3r
+- pkg:deb/ubuntu/slic3r
+- pkg:github/slic3r/slic3r
+- pkg:rpm/fedora/slic3r
+- pkg:rpm/opensuse/slic3r

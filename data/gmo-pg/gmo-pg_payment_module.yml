@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:gmo-pg:gmo-pg_payment_module:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gmo-pg:gmo-pg_payment_module:2.3.17:*:*:*:*:*:*:*
+- cpe:2.3:a:gmo-pg:gmo-pg_payment_module:3.5.23:*:*:*:*:*:*:*
+purls:
+- pkg:gem/gmo-pg
+- pkg:github/kissy2go/gmo-pg

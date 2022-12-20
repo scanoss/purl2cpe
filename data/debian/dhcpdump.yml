@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:debian:dhcpdump:1.8:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:dhcpdump:1.8-2.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/dhcpdump
+- pkg:deb/ubuntu/dhcpdump
+- pkg:github/huiji12321/dhcpdump
+- pkg:github/yashin-alexander/dhcpdump

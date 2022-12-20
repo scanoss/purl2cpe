@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:gnome:tomboy:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:tomboy:1.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:tomboy:1.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:tomboy:1.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:tomboy:1.5.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tomboy
+- pkg:deb/ubuntu/tomboy
+- pkg:github/matteonardi/tomboy
+- pkg:github/tomboy-notes/tomboy
+- pkg:rpm/fedora/tomboy
+- pkg:rpm/opensuse/tomboy

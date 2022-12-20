@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:reqmgr2_project:reqmgr2:1.4.0:rc2:*:*:*:python:*:*
+- cpe:2.3:a:reqmgr2_project:reqmgr2:1.4.1:rc5:*:*:*:python:*:*
+purls:
+- pkg:github/dmwm/wmcore
+- pkg:pypi/reqmgr2

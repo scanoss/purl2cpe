@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:fte:fte_text_editor:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/gered/fte
+- pkg:github/icculus/fte
+- pkg:sourceforge/fte

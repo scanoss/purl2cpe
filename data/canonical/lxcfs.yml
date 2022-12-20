@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:canonical:lxcfs:0.11:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/lxcfs
+- pkg:deb/ubuntu/lxcfs
+- pkg:github/lxc/lxcfs
+- pkg:rpm/fedora/lxcfs
+- pkg:rpm/opensuse/lxcfs

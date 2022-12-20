@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:cryptogs:cryptogs:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/austintgriffith/cryptogs

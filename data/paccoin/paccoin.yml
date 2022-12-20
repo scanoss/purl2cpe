@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:paccoin:paccoin:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/paccoincommunity/paccoin
+- pkg:github/wmcorless/paccoin

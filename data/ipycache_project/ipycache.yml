@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ipycache_project:ipycache:2016-05-31:*:*:*:*:*:*:*
+purls:
+- pkg:github/rossant/ipycache
+- pkg:pypi/ipycache

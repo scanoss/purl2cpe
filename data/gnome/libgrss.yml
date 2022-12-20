@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:gnome:libgrss:0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:libgrss:0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:libgrss:0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:libgrss:0.6:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:libgrss:0.7.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libgrss
+- pkg:deb/ubuntu/libgrss
+- pkg:github/gnome/libgrss
+- pkg:rpm/fedora/libgrss
+- pkg:rpm/opensuse/libgrss

@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:libcacard_project:libcacard:2.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:libcacard_project:libcacard:2.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:libcacard_project:libcacard:2.5.2:*:*:*:*:*:*:*
+- cpe:2.3:a:libcacard_project:libcacard:2.5.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libcacard
+- pkg:deb/ubuntu/libcacard
+- pkg:github/elmarco/libcacard
+- pkg:github/freedesktop/spice-libcacard
+- pkg:github/jakuje/libcacard
+- pkg:gitlab/redhat/libcacard
+- pkg:rpm/centos/libcacard
+- pkg:rpm/fedora/libcacard
+- pkg:rpm/opensuse/libcacard

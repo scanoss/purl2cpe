@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:jenkins:jianliao_notification:*:*:*:*:*:*:*:*
+- cpe:2.3:a:jenkins:jianliao_notification:1.0:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:jianliao_notification:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:jenkins:jianliao_notification:1.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:jianliao_notification:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/jianliao-plugin
+- pkg:github/nlmartian/jenkins-jianliao-plugin

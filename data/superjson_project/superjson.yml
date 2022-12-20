@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:superjson_project:superjson:*:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/blitz-js/superjson
+- pkg:npm/superjson

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:synchro:bbs:3.16c:*:*:*:*:windows:*:*
+purls:
+- pkg:github/synchronetbbs/sbbs
+- pkg:gitlab/SynchronetBBS/sbbs
+- pkg:sourceforge/synchronet

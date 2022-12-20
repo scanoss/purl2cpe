@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:onthegosystems:sitepress-multilingual-cms:2.9.3:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:onthegosystems:sitepress-multilingual-cms:3.2.6:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:onthegosystems:sitepress-multilingual-cms:4.3.7:b.1:*:*:*:wordpress:*:*
+- cpe:2.3:a:onthegosystems:sitepress-multilingual-cms:4.3.7:-:*:*:*:wordpress:*:*
+- cpe:2.3:a:onthegosystems:sitepress-multilingual-cms:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/alexandergross/sitepress-multilingual-cms
+- pkg:github/asanchez75/sitepress-multilingual-cms
+- pkg:github/jneto81/sitepress-multilingual-cms
+- pkg:github/wpplugins/sitepress-multilingual-cms

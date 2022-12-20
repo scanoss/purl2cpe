@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:microsoft:.net_education_bundle_sdk_install_tool:0.6.0:*:*:*:*:visual_studio_code:*:*
+- cpe:2.3:a:microsoft:.net_education_bundle_sdk_install_tool:0.7.0:*:*:*:*:visual_studio_code:*:*
+purls:
+- pkg:github/dotnet/vscode-dotnet-runtime

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:paloaltonetworks:minemeld:0.9.60:*:*:*:*:*:*:*
+purls:
+- pkg:github/paloaltonetworks/minemeld

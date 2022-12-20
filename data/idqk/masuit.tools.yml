@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:idqk:masuit.tools:*:*:*:*:*:*:*:*
+- cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ldqk0/masuit.tools
+- pkg:github/ldqk/masuit.tools

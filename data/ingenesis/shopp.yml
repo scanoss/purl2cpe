@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:ingenesis:shopp:1.4:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:ingenesis:shopp:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/ingenesis/shopp
+- pkg:github/wp-plugins/shopp

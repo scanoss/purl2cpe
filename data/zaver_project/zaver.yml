@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:zaver_project:zaver:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/hackeryard/zaver
+- pkg:github/zyearn/zaver

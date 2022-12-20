@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:tinyshop_project:tinyshop:1.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/jianyan74/tinyshop
+- pkg:github/stavyan/tinyshop-uniapp

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:mysiteforme_project:mysiteforme:-:*:*:*:*:*:*:*
+- cpe:2.3:a:mysiteforme_project:mysiteforme:2.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/easyteam2019/mysiteforme
+- pkg:github/wangl1989/mysiteforme
+- pkg:github/whadmin/mysiteforme1

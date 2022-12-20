@@ -1,0 +1,15 @@
+cpes:
+- cpe:2.3:a:rizin:rizin:-:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rizin:rizin:0.4.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/rizinorg/rizin
+- pkg:gitlab/kalilinux/rizin
+- pkg:rpm/fedora/rizin
+- pkg:rpm/opensuse/rizin

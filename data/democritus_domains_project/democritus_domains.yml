@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:democritus_domains_project:democritus_domains:0.1.0:*:*:*:*:python:*:*
+purls:
+- 'pkg:github/democritus-project/d8s-domains '
+- pkg:pypi/d8s-domains

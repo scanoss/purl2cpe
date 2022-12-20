@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:virt-manager:2.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:gitlab/redhat/virt-manager

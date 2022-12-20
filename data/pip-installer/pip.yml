@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:pip-installer:pip:*:*:*:*:*:*:*:*
+- cpe:2.3:a:pip-installer:pip:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:pip-installer:pip:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pip-installer:pip:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:pip-installer:pip:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pip-installer:pip:1.2:*:*:*:*:*:*:*
+purls:
+- pkg:Deb/debian/python-pip
+- pkg:deb/ubuntu/python-pip
+- pkg:github/pypa/pip
+- pkg:pypi/pip
+- pkg:rpm/fedora/python-pip
+- pkg:rpm/opensuse/python-pip

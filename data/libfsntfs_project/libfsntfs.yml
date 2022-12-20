@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:libfsntfs_project:libfsntfs:20180420:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libfsntfs
+- pkg:deb/ubuntu/libfsntfs
+- pkg:github/libyal/libfsntfs
+- pkg:nuget/libfsntfs
+- pkg:rpm/opensuse/libfsntfs

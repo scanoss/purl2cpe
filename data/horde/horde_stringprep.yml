@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:horde:horde_stringprep:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_stringprep:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_stringprep:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_stringprep:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:horde:horde_stringprep:1.0.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/horde/stringprep
+- pkg:rpm/fedora/php-horde-horde-stringprep
+- pkg:rpm/opensuse/php-horde-horde-stringprep

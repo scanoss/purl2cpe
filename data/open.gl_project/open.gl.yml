@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:open.gl_project:open.gl:2017-02-12:*:*:*:*:*:*:*
+purls:
+- pkg:github/overv/open.gl

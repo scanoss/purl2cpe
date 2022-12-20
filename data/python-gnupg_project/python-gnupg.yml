@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:python-gnupg_project:python-gnupg:0.3.5:*:*:*:*:*:*:*
+- cpe:2.3:a:python-gnupg_project:python-gnupg:0.3.6:*:*:*:*:*:*:*
+purls:
+- pkg:pypi/gnupg
+- pkg:rpm/fedora/python-gnupg
+- pkg:rpm/opensuse/python-gnupg
+- pkg:rpm/opensuse/python-python-gnupg
+- pkg:sourceforge/py-gnupg

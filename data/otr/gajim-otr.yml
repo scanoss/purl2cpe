@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:otr:gajim-otr:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/gajim/gajim
+- pkg:github/gajim/gajim-plugins

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:wffserve_project:wffserve:1.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/wffserve

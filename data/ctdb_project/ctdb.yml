@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:ctdb_project:ctdb:2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:ctdb_project:ctdb:2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:ctdb_project:ctdb:2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:ctdb_project:ctdb:2.3:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/samba
+- pkg:deb/ubuntu/samba
+- pkg:github/itfanr/ctdb
+- pkg:github/rootfs/ctdb
+- pkg:github/wolfmuel/ctdb
+- pkg:rpm/centos/ctdb
+- pkg:rpm/opensuse/ctdb

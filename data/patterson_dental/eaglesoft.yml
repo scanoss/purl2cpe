@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:patterson_dental:eaglesoft:17.0:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/eaglesoft

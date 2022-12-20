@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:jenkins-reviewbot:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/vmware-archive/jenkins-reviewbot

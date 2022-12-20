@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:sa-exim_project:sa-exim:4.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/sa-exim
+- pkg:deb/ubuntu/sa-exim
+- pkg:github/pld-linux/sa-exim
+- pkg:sourceforge/sa-exim

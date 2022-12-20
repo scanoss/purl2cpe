@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:jorani:jorani:0.6.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/bbalet/jorani
+- pkg:sourceforge/jorani

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:aspose:aspose.words:18.11.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/aspose-words/aspose.words-for-c

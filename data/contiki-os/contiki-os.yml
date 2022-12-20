@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:contiki-os:contiki-os:3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/contiki-os/contiki

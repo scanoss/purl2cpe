@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:yast:yast2:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/yast/yast-yast2

@@ -1,0 +1,28 @@
+cpes:
+- cpe:2.3:a:servicenow:servicenow:jakarta:p1:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p2:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p3:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p3a:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p3b:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p4:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p5:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p6:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p6a:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p7:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:jakarta:p8:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_1:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1a:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1b:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_2:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_2_hotfix_1:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_3:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_3_hotfix_1:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_3_hotfix_2:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_3_hotfix_3:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_3_hotfix_4:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_4:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_4a:*:*:*:*:*:*
+- cpe:2.3:a:servicenow:servicenow:san_diego:patch_6:*:*:*:*:*:*
+purls:
+- pkg:gitlab/gitlab-com/servicenow

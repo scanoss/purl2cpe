@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:drupal:realname:6.x-1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/gapple/drupal-realname
+- pkg:github/voxpelli/drupal-realname

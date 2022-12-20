@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mao10:mao10cms:6.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/cbor88/mao10cms

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:vncterm_project:vncterm:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:vncterm_project:vncterm:0.9.10:*:*:*:*:*:*:*
+purls:
+- pkg:github/libvnc/vncterm
+- pkg:rpm/opensuse/vncterm

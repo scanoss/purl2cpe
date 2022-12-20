@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:locutus_project:locutus:*:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/locutusjs/locutus
+- pkg:npm/locutus

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:homeadvisor:homeadvisor_mobile:3.0.3:*:*:*:*:android:*:*
+purls:
+- pkg:github/mercyware/homeadvisorsmobile

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:alf-banco:alf-banco:*:*:*:*:*:*:*:*
+- cpe:2.3:a:alf-banco:alf-banco:8.2.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/ph0nkybit/proof-of-concepts

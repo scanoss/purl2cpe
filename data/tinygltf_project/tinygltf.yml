@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:tinygltf_project:tinygltf:2.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:tinygltf_project:tinygltf:2.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/lindenlab/3p-tinygltf
+- pkg:deb/debian/tinygltf
+- pkg:deb/ubuntu/tinygltf
+- pkg:github/syoyo/tinygltf

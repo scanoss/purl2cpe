@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:simple_popup_project:simple_popup:-:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/simple-popup

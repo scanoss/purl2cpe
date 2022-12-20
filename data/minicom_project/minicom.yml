@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:minicom_project:minicom:*:*:*:*:*:*:*:*
+- cpe:2.3:a:minicom_project:minicom:2.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/minicom
+- pkg:deb/ubuntu/minicom
+- pkg:github/dereknex/minicom
+- pkg:github/distrotech/minicom
+- pkg:gitlab/redhat/minicom
+- pkg:rpm/centos/minicom
+- pkg:rpm/fedora/minicom
+- pkg:rpm/opensuse/minicom

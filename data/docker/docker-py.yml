@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:docker:docker-py:0.5.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/docker/docker-py
+- pkg:pypi/docker-py
+- pkg:rpm/opensuse/python-docker-py

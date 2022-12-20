@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:microsoft:quantum_development_kit:-:*:*:*:*:visual_studio_code:*:*
+purls:
+- pkg:github/microsoft/qsharp-compiler
+- pkg:nugets/Microsoft.Quantum.Compiler

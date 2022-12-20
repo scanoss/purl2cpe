@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:getobject_project:getobject:0.1.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:deb/debian/node-getobject
+- pkg:deb/ubuntu/node-getobject
+- pkg:github/cowboy/node-getobject
+- pkg:maven/org.webjars.npm/getobject
+- pkg:npm/getobject
+- pkg:rpm/fedora/nodejs-getobject

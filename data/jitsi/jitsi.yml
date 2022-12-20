@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:jitsi:jitsi:2.10.5550:*:*:*:*:*:*:*
+- cpe:2.3:a:jitsi:jitsi:2.5.5061:*:*:*:*:*:*:*
+- cpe:2.3:a:jitsi:jitsi:2.9.5544:*:*:*:*:*:*:*
+purls:
+- pkg:github/jitsi/jitsi
+- pkg:rpm/opensuse/jitsi

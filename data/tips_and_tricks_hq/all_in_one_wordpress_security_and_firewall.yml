@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.2:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.7:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.9:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/adhi1234/all-in-one-wp-security-and-firewall
+- pkg:github/wp-plugins/all-in-one-wp-security-and-firewall
+- pkg:github/wpplugins/all-in-one-wp-security-and-firewall

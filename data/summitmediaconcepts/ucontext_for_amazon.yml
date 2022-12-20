@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:summitmediaconcepts:ucontext_for_amazon:3.9.1:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/ucontext-for-amazon

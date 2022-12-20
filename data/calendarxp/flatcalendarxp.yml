@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:calendarxp:flatcalendarxp:9.9.290:*:*:*:*:*:*:*
+purls:
+- pkg:github/victorwon/calendarxp

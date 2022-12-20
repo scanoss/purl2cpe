@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:kth:wavesurfer:1.8.8:p4:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/wavesurfer
+- pkg:deb/ubuntu/wavesurfer
+- pkg:rpm/opensuse/wavesurfer
+- pkg:sourceforge/wavesurfer

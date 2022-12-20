@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dswjcms_project:dswjcms:1.6.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/tifaweb/dswjcms

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:tardiff_project:tardiff:-:*:*:*:*:*:*:*
+- cpe:2.3:a:tardiff_project:tardiff:0.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tardiff
+- pkg:deb/ubuntu/tardiff

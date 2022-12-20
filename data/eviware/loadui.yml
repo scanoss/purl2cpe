@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:eviware:loadui:1.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/bojoer/loadui

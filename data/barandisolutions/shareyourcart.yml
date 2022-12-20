@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:barandisolutions:shareyourcart:1.7.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/wp-plugins/shareyourcart

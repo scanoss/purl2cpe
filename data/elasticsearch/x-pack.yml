@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:elasticsearch:x-pack:5.5.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/elastic/elasticsearch-x-pack-php

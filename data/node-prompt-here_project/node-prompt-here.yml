@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:node-prompt-here_project:node-prompt-here:1.0.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/s-a/node-prompt-here
+- pkg:npm/node-prompt-here

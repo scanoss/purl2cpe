@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:python:py-bcrypt:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:python:py-bcrypt:0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:python:py-bcrypt:0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:python:py-bcrypt:0.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/erlichmen/py-bcrypt
+- pkg:pypi/py-bcrypt
+- pkg:rpm/fedora/py-bcrypt
+- pkg:rpm/opensuse/py-bcrypt

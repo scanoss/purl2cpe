@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:alsa-project:alsa-lib:1.0.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/alsa-project/alsa-lib
+- pkg:gitlab/redhat/alsa-lib
+- pkg:rpm/centos/alsa-lib
+- pkg:rpm/fedora/alsa-lib

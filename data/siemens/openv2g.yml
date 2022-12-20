@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:siemens:openv2g:0.9.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/martin-p/openv2g
+- pkg:sourceforge/openv2g

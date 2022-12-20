@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:eshtery.she7ata:eshtery_cms:-:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/eshtery

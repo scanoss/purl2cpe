@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:lansuite:lansuite:3.3.2:*:*:*:*:*:*:*
+purls:
+- pkg:docker/lansuite/lansuite
+- pkg:github/lansuite/lansuite

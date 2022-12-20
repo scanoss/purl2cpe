@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:php-sqrl_project:php-sqrl:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/trianglman/sqrl

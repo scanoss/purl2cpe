@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:gifdec_project:gifdec:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/lecram/gifdec

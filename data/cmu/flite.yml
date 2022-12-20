@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:cmu:flite:1.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/flite
+- pkg:deb/ubuntu/flite
+- pkg:github/bfoz/flite
+- pkg:rpm/centos/flite
+- pkg:rpm/fedora/flite
+- pkg:rpm/opensuse/flite

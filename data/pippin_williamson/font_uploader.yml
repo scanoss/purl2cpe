@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pippin_williamson:font_uploader:1.2.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/wpplugins/font-uploader

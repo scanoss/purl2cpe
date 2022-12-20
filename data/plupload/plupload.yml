@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:plupload:plupload:2.1.8:*:*:*:*:*:*:*
+purls:
+- pkg:github/moxiecode/plupload
+- pkg:maven/org.webjars.bower/plupload
+- pkg:npm/plupload
+- pkg:nuget/Plupload
+- pkg:sourceforge/plupload.mirror

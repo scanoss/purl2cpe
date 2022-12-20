@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:covid19_testing_management_system_project:covid19_testing_management_system:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/nishitaodedara6920/covid19-testing-management-system
+- pkg:github/srnoori/covid19-testing-management-system-php

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:unikey:unikey:3.63:*:*:*:*:*:*:*
+purls:
+- pkg:github/xmirror/unikey
+- pkg:sourceforge/unikey

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:reffers_project:reffers:2020-12-01:*:*:*:*:rust:*:*
+- cpe:2.3:a:reffers_project:reffers:-:*:*:*:*:rust:*:*
+purls:
+- pkg:github/diwic/reffers-rs

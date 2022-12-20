@@ -1,0 +1,21 @@
+cpes:
+- cpe:2.3:a:lz4_project:lz4:1.7.3:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.7.4:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.7.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.7.5:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.8.0:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.8.1:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.8.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.8.2:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.8.3:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.9.0:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.9.1:*:*:*:*:*:*:*
+- cpe:2.3:a:lz4_project:lz4:1.9.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/lz4
+- pkg:deb/ubuntu/lz4
+- pkg:github/lz4/lz4
+- pkg:nuget/lz4
+- pkg:rpm/centos/lz4
+- pkg:rpm/fedora/lz4
+- pkg:rpm/opensuse/lz4

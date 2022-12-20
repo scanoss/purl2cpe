@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:changepop-back_project:changepop-back:-:*:*:*:*:*:*:*
+- cpe:2.3:a:changepop-back_project:changepop-back:2019-06-04:*:*:*:*:*:*:*
+purls:
+- pkg:github/unizar-30226-2019-06/changepop-back

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:zulip:zulip_desktop:*:*:*:*:*:*:*:*
+purls:
+- pkg:github/zulip/zulip-desktop

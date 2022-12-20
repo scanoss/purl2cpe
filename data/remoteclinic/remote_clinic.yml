@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:remoteclinic:remote_clinic:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/remoteclinic/remoteclinic

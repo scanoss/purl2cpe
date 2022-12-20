@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mozilla:hubs_cloud:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/mozilla/hubs-cloud

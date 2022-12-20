@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:easydigitaldownloads:simple_shipping:-:*:*:*:*:easy_digital_downloads:*:*
+purls:
+- pkg:github/andresdouglas/edd-simple-shipping

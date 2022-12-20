@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:lazy-init_project:lazy-init:0.1.0:*:*:*:*:rust:*:*
+- cpe:2.3:a:lazy-init_project:lazy-init:0.1.1:*:*:*:*:rust:*:*
+- cpe:2.3:a:lazy-init_project:lazy-init:0.2.0:*:*:*:*:rust:*:*
+- cpe:2.3:a:lazy-init_project:lazy-init:0.3.0:*:*:*:*:rust:*:*
+- cpe:2.3:a:lazy-init_project:lazy-init:0.4.0:*:*:*:*:rust:*:*
+- cpe:2.3:a:lazy-init_project:lazy-init:0.5.0:*:*:*:*:rust:*:*
+purls:
+- pkg:github/khuey/lazy-init
+- pkg:rpm/fedora/rust-lazy-init
+- pkg:rpm/opensuse/rust-lazy-init

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:fedoraproject:selinux-policy:2020-08-24:*:*:*:*:*:*:*
+- cpe:2.3:a:fedoraproject:selinux-policy:3.14:*:*:*:*:*:*:*
+purls:
+- pkg:github/fedora-selinux/selinux-policy

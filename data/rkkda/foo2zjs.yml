@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:rkkda:foo2zjs:20090908dfsg-5.1\+squeeze0:*:*:*:*:debian:*:*
+- cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-1:*:*:*:*:debian:*:*
+- cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-3ubuntu1:*:*:*:*:ubuntu:*:*
+purls:
+- pkg:deb/debian/foo2zjs
+- pkg:deb/ubuntu/foo2zjs
+- pkg:github/gigahawk/foo2zjs
+- pkg:github/koenkooi/foo2zjs
+- pkg:rpm/fedora/foo2zjs
+- pkg:rpm/opensuse/foo2zjs

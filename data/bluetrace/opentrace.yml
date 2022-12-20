@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bluetrace:opentrace:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/opentrace-community/opentrace-cloud-functions

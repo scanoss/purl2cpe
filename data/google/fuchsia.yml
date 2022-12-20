@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:o:google:fuchsia:-:*:*:*:*:*:*:*
+- cpe:2.3:o:google:fuchsia:2022-01-03:*:*:*:*:*:*:*
+- cpe:2.3:o:google:fuchsia:4.1:*:*:*:*:*:*:*
+- cpe:2.3:o:google:fuchsia:4.1.1:*:*:*:*:*:*:*
+- cpe:2.3:o:google:fuchsia:4.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/vsrinivas/fuchsia
+- pkg:googlesource/fuchsia

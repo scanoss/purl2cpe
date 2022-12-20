@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:idleman:leed:1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:idleman:leed:1.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/leedrss/leed

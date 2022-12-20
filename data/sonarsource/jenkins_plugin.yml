@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:sonarsource:jenkins_plugin:-:-:-:*:-:sonarqube:*:*
+purls:
+- pkg:github/jenkinsci/sonarqube-plugin

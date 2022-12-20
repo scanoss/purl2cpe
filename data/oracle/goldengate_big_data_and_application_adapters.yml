@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:oracle:goldengate_big_data_and_application_adapters:23.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/oracle/bdglue

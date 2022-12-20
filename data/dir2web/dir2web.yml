@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:dir2web:dir2web:3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/david-ciamberlano/dir2web
+- pkg:sourceforge/dir2web

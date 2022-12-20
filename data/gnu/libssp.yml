@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:gnu:libssp:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:libssp:4.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:libssp:4.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/gcc-mirror/gcc

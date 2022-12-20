@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ecommerce_codeigniter_bootstrap_project:ecommerce_codeigniter_bootstrap:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/bharggav/ecommerce-codeigniter-bootstrap
+- pkg:github/kirilkirkov/ecommerce-codeigniter-bootstrap

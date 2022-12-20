@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:python-mode_project:python-mode:2012-12-19:*:*:*:*:*:*:*
+purls:
+- pkg:github/python-mode/python-mode

@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:grandnode:grandnode:4.40:*:*:*:*:*:*:*
+purls:
+- pkg:docker/grandnode/develop
+- pkg:docker/grandnode/grandnode
+- pkg:docker/grandnode/grandnode2
+- pkg:github/grandnode/grandnode
+- pkg:github/grandnode/grandnode2
+- pkg:sourceforge/grandnode

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:miniftpd_project:miniftpd:-:*:*:*:*:*:*:*
+- cpe:2.3:a:miniftpd_project:miniftpd:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/gabe-commiter/miniftpd
+- pkg:github/zling/miniftpd

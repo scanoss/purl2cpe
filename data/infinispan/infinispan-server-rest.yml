@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:infinispan:infinispan-server-rest:*:*:*:*:*:*:*:*
+- cpe:2.3:a:infinispan:infinispan-server-rest:10.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/infinispan/infinispan
+- pkg:maven/org.infinispan/infinispan-server-rest

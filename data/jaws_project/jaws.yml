@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:jaws_project:jaws:1.8.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/jaws-project/jaws
+- pkg:sourceforge/jaws-project

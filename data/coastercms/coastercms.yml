@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:coastercms:coastercms:5.8.18:*:*:*:*:*:*:*
+purls:
+- pkg:github/coastercms/coastercms

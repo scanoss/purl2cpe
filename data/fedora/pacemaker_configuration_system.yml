@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:fedora:pacemaker_configuration_system:0.9.137:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pcs
+- pkg:deb/ubuntu/pcs
+- pkg:github/clusterlabs/pcs
+- pkg:rpm/fedora/pcs

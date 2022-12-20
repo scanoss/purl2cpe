@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:suse:system-group-hardware:20170617:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/opensuse/system-users

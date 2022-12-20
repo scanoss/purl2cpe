@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:h:asuswrt-merlin:rt_ac1200g:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/rmerl/asuswrt-merlin
+- pkg:github/rmerl/asuswrt-merlin.ng

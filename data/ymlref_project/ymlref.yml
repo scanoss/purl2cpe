@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ymlref_project:ymlref:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/dexter2206/ymlref
+- pkg:pypi/ymlref

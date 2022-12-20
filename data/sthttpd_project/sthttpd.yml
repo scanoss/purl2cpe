@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:sthttpd_project:sthttpd:-:*:*:*:*:*:*:*
+- cpe:2.3:a:sthttpd_project:sthttpd:2.27.1:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/wilhelmy/sthttpd
+- pkg:github/blueness/sthttpd

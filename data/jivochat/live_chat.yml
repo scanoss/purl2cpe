@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:jivochat:live_chat:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/jivochat
+- pkg:github/wpplugins/jivochat

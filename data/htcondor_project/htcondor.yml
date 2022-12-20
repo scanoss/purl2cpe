@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:htcondor_project:htcondor:8.9.2:*:*:*:*:*:*:*
+- cpe:2.3:a:htcondor_project:htcondor:8.9.3:*:*:*:*:*:*:*
+- cpe:2.3:a:htcondor_project:htcondor:8.9.7:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/condor
+- pkg:Deb/ubuntu/condor
+- pkg:github/htcondor/htcondor
+- pkg:rpm/opensuse/htcondor

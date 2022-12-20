@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:timedmediahandler_project:timedmediahandler:-:*:*:*:*:mediawiki:*:*
+purls:
+- pkg:github/wikimedia/mediawiki-extensions-timedmediahandler

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:set_project:set:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:set_project:set:1.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:set_project:set:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/strikeentco/set
+- pkg:npm/%40strikeentco/set

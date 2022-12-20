@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:bladeenc:bladeenc:0.92.7:*:*:*:*:*:*:*
+- cpe:2.3:a:bladeenc:bladeenc:0.93.10:*:*:*:*:*:*:*
+- cpe:2.3:a:bladeenc:bladeenc:0.94.0:*:*:*:*:*:*:*
+- cpe:2.3:a:bladeenc:bladeenc:0.94.1:*:*:*:*:*:*:*
+- cpe:2.3:a:bladeenc:bladeenc:0.94.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/begasus/bladeenc
+- pkg:github/meyskens/bladeenc

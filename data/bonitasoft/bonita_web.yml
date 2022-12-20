@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bonitasoft:bonita_web:2021.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/bonitasoft/bonita-web

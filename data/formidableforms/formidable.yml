@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:formidableforms:formidable:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/formidable
+- pkg:github/wpplugins/formidable

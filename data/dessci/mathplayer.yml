@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dessci:mathplayer:2.1d:*:*:*:*:*:*:*
+purls:
+- pkg:github/youngdigitalplanet/mathplayer

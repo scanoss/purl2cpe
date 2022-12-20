@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:snipsnap:snipsnap:0.5.2a:*:*:*:*:*:*:*
+- cpe:2.3:a:snipsnap:snipsnap:1.0b1:*:*:*:*:*:*:*
+- cpe:2.3:a:snipsnap:snipsnap:1.0b2:*:*:*:*:*:*:*
+purls:
+- pkg:github/thinkberg/snipsnap
+- pkg:sourceforge/snipsnap

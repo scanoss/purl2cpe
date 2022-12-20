@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:unboxinteractive:petfinder-listings:1.0.18:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:unboxinteractive:petfinder-listings:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/petfinder-listings

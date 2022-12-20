@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:mrxvt_project:mrxvt:0.5.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/mrxvt
+- pkg:github/razvanm/mrxvt
+- pkg:rpm/fedora/mrxvt
+- pkg:sourceforge/materm

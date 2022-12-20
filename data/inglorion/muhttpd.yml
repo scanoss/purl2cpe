@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:inglorion:muhttpd:-:*:*:*:*:*:*:*
+- cpe:2.3:a:inglorion:muhttpd:1.1.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/jsoref/muhttpd
+- pkg:sourceforge/muhttpd

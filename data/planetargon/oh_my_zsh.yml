@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:planetargon:oh_my_zsh:*:*:*:*:*:*:*:*
+- cpe:2.3:a:planetargon:oh_my_zsh:-:*:*:*:*:*:*:*
+- cpe:2.3:a:planetargon:oh_my_zsh:2021-11-11:*:*:*:*:*:*:*
+purls:
+- pkg:github/ohmyzsh/ohmyzsh
+- pkg:rpm/opensuse/ohmyzsh

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:apache:sling_jcr_contentloader:2.1.4:*:*:*:*:*:*:*
+purls:
+- pkg:apache/sling
+- pkg:github/apache/sling-org-apache-sling-jcr-contentloader
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader

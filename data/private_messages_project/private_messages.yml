@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:private_messages_project:private_messages:2.1.10:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/rilwis/private-messages-for-wordpress
+- pkg:github/wpplugins/private-messages-for-wordpress

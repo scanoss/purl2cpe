@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dproxy-nexgen_project:dproxy-nexgen:-:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/dproxy

@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:gnu:gnulib:*:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnulib:2018-09-23:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/bamvor/gnulib
+- pkg:deb/debian/gnulib
+- pkg:deb/ubuntu/gnulib
+- pkg:github/coreutils/gnulib
+- pkg:github/digitalocean/gnulib
+- pkg:github/gagern/gnulib
+- pkg:github/val-verde/gnulib
+- pkg:gnu/gnulib
+- pkg:rpm/fedora/gnulib
+- pkg:rpm/opensuse/gnulib

@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:pi-hole:adminlte:*:*:*:*:*:*:*:*
+- cpe:2.3:a:pi-hole:adminlte:-:*:*:*:*:*:*:*
+- cpe:2.3:a:pi-hole:adminlte:5.12:*:*:*:*:*:*:*
+- cpe:2.3:a:pi-hole:adminlte:5.13:*:*:*:*:*:*:*
+purls:
+- pkg:github/pi-hole/adminlte
+- pkg:rpm/opensuse/pi-hole-adminlte

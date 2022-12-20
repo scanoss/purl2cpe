@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:pom2config:1.2:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/pom2config-plugin

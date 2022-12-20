@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:zint:barcode_generator:2.9.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/zint
+- pkg:deb/ubuntu/zint
+- pkg:github/woo-j/zint
+- pkg:github/zint/zint
+- pkg:rpm/fedora/zint
+- pkg:rpm/opensuse/zint
+- pkg:sourceforge/zint

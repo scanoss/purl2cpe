@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:loadedcommerce:loaded7:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/loadedcommerce/loaded7

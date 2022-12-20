@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:nekohtml_project:nekohtml:1.9.21:*:*:*:*:nokogiri:*:*
+- cpe:2.3:a:nekohtml_project:nekohtml:1.9.22.noko2:*:*:*:*:nokogiri:*:*
+- cpe:2.3:a:nekohtml_project:nekohtml:1.9.22:*:*:*:*:nokogiri:*:*
+- cpe:2.3:a:nekohtml_project:nekohtml:-:*:*:*:*:nokogiri:*:*
+purls:
+- pkg:deb/debian/nekohtml
+- pkg:deb/ubuntu/nekohtml
+- pkg:github/roberthschmidt/nekohtml
+- pkg:github/sparklemotion/nekohtml
+- pkg:maven/net.sourceforge.nekohtml/nekohtml
+- pkg:rpm/fedora/nekohtml
+- pkg:rpm/opensuse/nekohtml
+- 'pkg:sourceforge/nekohtml '

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:o:asuswrt-merlin_project:asuswrt-merlin_firmware:-:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/red54/asuswrt-merlin
+- pkg:github/rmerl/asuswrt-merlin
+- pkg:github/rmerl/asuswrt-merlin.ng

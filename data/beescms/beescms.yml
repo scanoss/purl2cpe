@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:beescms:beescms:4.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/itfooter/beescms
+- pkg:github/source-trace/beescms

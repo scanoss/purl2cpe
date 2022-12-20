@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:recall-products_project:recall-products:0.8:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/recall-products

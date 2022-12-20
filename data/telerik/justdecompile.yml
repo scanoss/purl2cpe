@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:telerik:justdecompile:2018.2.803.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/telerik/justdecompileengine

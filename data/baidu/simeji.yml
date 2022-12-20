@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:baidu:simeji:1.0.0.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/object1037/bnasimeji

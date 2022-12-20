@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dokan-dev:dokanfs:0.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/dokan-dev/dokany

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:rhn-client-tools:-:*:*:*:*:*:*:*
+purls:
+- pkg:gitlab/redhat/rhn-client-tools

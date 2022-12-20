@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:catalyst:mahara:19.10.2:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/banterweb/mahara
+- pkg:github/maharaproject/mahara

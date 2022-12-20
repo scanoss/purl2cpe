@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:responsive:responsive_menu:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/responsivemenu/responsive-menu

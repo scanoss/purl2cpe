@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:musl-libc:musl_libc:*:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/musl
+- pkg:deb/ubuntu/musl
+- pkg:github/bminor/musl
+- pkg:github/ifduyue/musl
+- pkg:rpm/fedora/musl
+- pkg:rpm/opensuse/musl

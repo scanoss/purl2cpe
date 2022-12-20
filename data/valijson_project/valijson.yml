@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:valijson_project:valijson:0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/tristanpenman/valijson

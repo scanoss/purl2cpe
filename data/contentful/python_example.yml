@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:contentful:python_example:2020-05-21:*:*:*:*:*:*:*
+purls:
+- pkg:github/contentful/the-example-app.py

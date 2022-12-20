@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:starkbank:ecdsa-node:1.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/starkbank/ecdsa-node

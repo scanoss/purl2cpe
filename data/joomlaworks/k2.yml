@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:joomlaworks:k2:2.8.0:*:*:*:*:joomla\!:*:*
+purls:
+- pkg:github/getk2/k2

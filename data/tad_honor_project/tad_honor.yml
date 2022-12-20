@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:tad_honor_project:tad_honor:-:*:*:*:*:*:*:*
+- cpe:2.3:a:tad_honor_project:tad_honor:1.46:*:*:*:*:*:*:*
+- cpe:2.3:a:tad_honor_project:tad_honor:1.47:*:*:*:*:*:*:*
+purls:
+- pkg:github/tad0616/tad_honor

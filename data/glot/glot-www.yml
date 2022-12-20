@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:glot:glot-www:2018-05-19:*:*:*:*:*:*:*
+purls:
+- pkg:github/glotcode/glot-www

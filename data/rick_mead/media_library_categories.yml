@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:rick_mead:media_library_categories:1.1.1:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/wp-media-library-categories

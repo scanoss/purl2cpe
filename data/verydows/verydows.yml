@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:verydows:verydows:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/verytops/verydows

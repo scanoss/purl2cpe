@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jspxcms:jspxcms:9.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/ujcms/ujcms

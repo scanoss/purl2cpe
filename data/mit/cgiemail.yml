@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:mit:cgiemail:-:*:*:*:*:*:*:*
+- cpe:2.3:a:mit:cgiemail:1.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/nrcocker/cgiemail-1.6
+- pkg:gnu/cgiemail

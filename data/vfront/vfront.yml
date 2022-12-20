@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:vfront:vfront:0.99.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/marciuz/vfront
+- pkg:sourceforge/vfront

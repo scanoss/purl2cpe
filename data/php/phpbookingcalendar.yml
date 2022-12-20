@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:php:phpbookingcalendar:-:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/phpbookingcalendar

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:imagecms:imagecms:4.0.0:b:*:*:*:*:*:*
+- cpe:2.3:a:imagecms:imagecms:4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:imagecms:imagecms:4.5.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/imagecms/imagecms

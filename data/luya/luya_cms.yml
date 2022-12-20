@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:luya:luya_cms:1.0.12:*:*:*:*:*:*:*
+purls:
+- pkg:github/luyadev/luya

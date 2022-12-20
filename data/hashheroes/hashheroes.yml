@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:hashheroes:hashheroes:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/khakiprojects/hash-heroes
+- pkg:npm/hash-heroes

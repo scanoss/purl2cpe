@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:slf4j:slf4j-ext:1.8.0:alpha0:*:*:*:*:*:*
+- cpe:2.3:a:slf4j:slf4j-ext:1.8.0:beta0:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libslf4j-java
+- pkg:deb/ubuntu/libslf4j-java
+- pkg:github/qos-ch/slf4j
+- pkg:maven/org.slf4j/slf4j-parent
+- pkg:rpm/centos/slf4j-ext
+- pkg:rpm/fedora/slf4j-ext
+- pkg:rpm/opensuse/slf4j-ext

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:integration_camel_k:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/apache/camel-k

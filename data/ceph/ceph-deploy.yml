@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:ceph:ceph-deploy:1.5.22:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/ceph-deploy
+- pkg:github/ceph/ceph-deploy
+- pkg:pypi/ceph-deploy
+- pkg:rpm/fedora/ceph-deploy
+- pkg:rpm/opensuse/ceph-deploy

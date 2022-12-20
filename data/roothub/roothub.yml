@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:roothub:roothub:2.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/miansen/roothub
+- pkg:github/mirandastock/roothub

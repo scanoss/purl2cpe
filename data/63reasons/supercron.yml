@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:63reasons:supercron:-:*:*:*:*:*:*:*
+purls:
+- pkg:drupal/supercron

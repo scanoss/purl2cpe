@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ebics_java_project:ebics_java:-:*:*:*:*:*:*:*
+- cpe:2.3:a:ebics_java_project:ebics_java:1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/ebics-java/ebics-java-client

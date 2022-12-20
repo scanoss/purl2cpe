@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:luadec_project:luadec:0.9.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/viruscamp/luadec

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:apptha:wordpress_video_gallery:2.7:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/apptha/apptha-video-gallery

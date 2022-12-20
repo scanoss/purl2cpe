@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:fomori:cherrymusic:0.35.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/devsnd/cherrymusic
+- pkg:pypi/cherrymusic

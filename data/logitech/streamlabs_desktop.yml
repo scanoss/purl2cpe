@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:logitech:streamlabs_desktop:1.9.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/stream-labs/desktop

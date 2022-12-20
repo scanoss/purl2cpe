@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:o:arm:mbed-os:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/armmbed/mbed-os

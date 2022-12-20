@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:padl:nss_ldap:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/padl/nss_ldap
+- pkg:rpm/opensuse/nss_ldap

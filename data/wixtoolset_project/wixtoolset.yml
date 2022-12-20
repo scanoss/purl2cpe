@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:wixtoolset_project:wixtoolset:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:wixtoolset_project:wixtoolset:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/adamthesax/node-wixtoolset
+- pkg:npm/wixtoolset

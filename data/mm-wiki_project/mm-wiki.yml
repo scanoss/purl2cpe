@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:mm-wiki_project:mm-wiki:0.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/gamegad/mm-wiki
+- pkg:github/gzy403999903/mm-wiki
+- pkg:github/phachon/mm-wiki

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:uyuni_project:uyuni:2021.08:*:*:*:*:*:*:*
+purls:
+- pkg:github/uyuni-project/uyuni

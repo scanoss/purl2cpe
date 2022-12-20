@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:postgresql:psqlodbc:8.3.400:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/psqlodbc
+- pkg:deb/ubuntu/psqlodbc
+- pkg:github/distrotech/psqlodbc
+- pkg:rpm/opensuse/psqlodbc

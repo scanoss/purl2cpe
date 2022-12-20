@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:ceph:civetweb:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/civetweb
+- pkg:deb/ubuntu/civetweb
+- pkg:docker/nicholasamorim/civetweb
+- pkg:github/ceph/civetweb
+- pkg:rpm/opensuse/civetweb
+- pkg:sourceforge/civetweb

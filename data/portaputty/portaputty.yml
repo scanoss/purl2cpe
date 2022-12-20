@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:portaputty:portaputty:1.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/potatosalad/portaputty

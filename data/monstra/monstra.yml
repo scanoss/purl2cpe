@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:monstra:monstra:2.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:2.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:2.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:2.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:3.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:3.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:3.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:monstra:monstra:3.0.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/monstra-cms/monstra
+- pkg:sourceforge/monstra-cms

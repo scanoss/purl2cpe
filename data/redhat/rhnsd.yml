@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:redhat:rhnsd:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/gooselinux/rhnsd
+- pkg:gitlab/redhat/rhnsd

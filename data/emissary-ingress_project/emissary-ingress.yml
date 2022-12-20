@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:emissary-ingress_project:emissary-ingress:*:*:*:*:*:*:*:*
+- cpe:2.3:a:emissary-ingress_project:emissary-ingress:-:*:*:*:*:*:*:*
+- cpe:2.3:a:emissary-ingress_project:emissary-ingress:1.13.9:*:*:*:*:*:*:*
+purls:
+- pkg:github/emissary-ingress/emissary

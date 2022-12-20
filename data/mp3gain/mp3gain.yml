@@ -1,0 +1,30 @@
+cpes:
+- cpe:2.3:a:mp3gain:mp3gain:1.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.2.1:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.2.2:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.2.3:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.2.5:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.3.0:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.3.1:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.3.2:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.3.4:beta:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.4.3:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.4.4:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.4.5:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.4.6:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.1:*:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.2:-:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.2:r1:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.2:r2:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.2:rc1:*:*:*:*:*:*
+- cpe:2.3:a:mp3gain:mp3gain:1.5.2:rc2:*:*:*:*:*:*
+purls:
+- pkg:deb/Debian/mp3gain
+- pkg:deb/ubuntu/mp3gain
+- pkg:github/strohel/mp3gain
+- pkg:rpm/fedora/mp3gain
+- pkg:Rpm/opensuse/mp3gain
+- pkg:sourceforge/mp3gain

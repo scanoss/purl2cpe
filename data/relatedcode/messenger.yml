@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/relatedcode/messenger

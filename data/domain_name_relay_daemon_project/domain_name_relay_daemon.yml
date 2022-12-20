@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:domain_name_relay_daemon_project:domain_name_relay_daemon:2.20.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/benjaminpetrin-zz/dnrd
+- pkg:github/montdidier/dnrd
+- pkg:github/trustin/dnrd
+- pkg:sourceforge/dnrd

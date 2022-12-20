@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:imgurl_project:imgurl:2.31:*:*:*:*:*:*:*
+purls:
+- pkg:github/helloxz/imgurl

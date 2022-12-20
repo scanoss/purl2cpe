@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:xiaocms:xiaocms:20141229:*:*:*:*:*:*:*
+purls:
+- pkg:github/rebill/xiaocms-x1

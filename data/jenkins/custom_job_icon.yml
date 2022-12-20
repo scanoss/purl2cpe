@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:custom_job_icon:0.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:custom_job_icon:0.2:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jcsirot/custom-job-icon-plugin
+- pkg:github/jenkinsci/custom-job-icon-plugin

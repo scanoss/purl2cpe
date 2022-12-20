@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dropbear_project:dropbear:*:*:*:*:*:*:*:*
+purls:
+- pkg:github/mkj/dropbear

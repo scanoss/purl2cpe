@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:5000_trillion_yen_converter_project:5000_trillion_yen_converter:1.0.6:*:*:*:*:chrome:*:*
+- cpe:2.3:a:5000_trillion_yen_converter_project:5000_trillion_yen_converter:1.0.7:*:*:*:*:chrome:*:*
+purls:
+- pkg:github/nekowen/5000-trillion-yen-converter

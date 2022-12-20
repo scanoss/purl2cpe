@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:kgb_project:kgb:1.0b4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/kgb
+- pkg:deb/ubuntu/kgb
+- pkg:github/randallflagg/kgbarchiver
+- pkg:sourceforge/kgbarchiver

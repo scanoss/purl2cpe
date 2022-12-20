@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:accesspressthemes:ap_custom_testimonial:1.4.6:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/ap-custom-testimonial

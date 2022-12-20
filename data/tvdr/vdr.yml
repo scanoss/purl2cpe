@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:tvdr:vdr:1.4.7:*:*:*:*:*:*:*
+- cpe:2.3:a:tvdr:vdr:1.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/vdr
+- pkg:deb/ubuntu/vdr
+- pkg:github/vdr-projects/vdr
+- pkg:rpm/fedora/vdr
+- pkg:rpm/opensuse/vdr

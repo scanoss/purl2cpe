@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:fruits_bazar_project:fruits_bazar:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/creativesaiful/ecommerce-project-with-php-and-mysqli-fruits-bazar-

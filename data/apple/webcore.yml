@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:apple:webcore:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/apple-opensource-mirror/webcore

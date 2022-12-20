@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:morganstanley:hobbes:2020-05-21:*:*:*:*:*:*:*
+purls:
+- pkg:github/morganstanley/hobbes

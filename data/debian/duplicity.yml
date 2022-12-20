@@ -1,0 +1,13 @@
+cpes:
+- cpe:2.3:a:debian:duplicity:-:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:duplicity:0.4.3-1:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:duplicity:0.6.24:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/duplicity
+- pkg:deb/ubuntu/duplicity
+- pkg:github/henrysher/duplicity
+- pkg:gnu/duplicity
+- pkg:pypi/duplicity
+- pkg:rpm/fedora/duplicity
+- pkg:rpm/opensuse/duplicity
+- pkg:sourceforge/ftplicity

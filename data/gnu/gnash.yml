@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:gnu:gnash:0.8.10:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnash:0.8.5:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnash:0.8.7:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnash:0.8.8:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnash:0.8.9:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:gnash:0.8.9:rc4:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/gnash
+- pkg:deb/ubuntu/gnash
+- pkg:github/charmander/gnash
+- pkg:github/gnu-mirror-unofficial/gnash
+- pkg:github/markpagebxl/gnash
+- pkg:github/timretout/gnash
+- pkg:gnu/gnash
+- pkg:rpm/opensuse/gnash

@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:debian:fuse:2.9.3-14:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/fuse
+- pkg:deb/ubuntu/fuse
+- pkg:github/libfuse/libfuse
+- pkg:rpm/centos/fuse
+- pkg:rpm/fedora/fuse
+- pkg:rpm/opensuse/fuse

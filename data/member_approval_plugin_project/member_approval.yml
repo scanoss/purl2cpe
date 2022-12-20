@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:member_approval_plugin_project:member_approval:131109:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/member-approval

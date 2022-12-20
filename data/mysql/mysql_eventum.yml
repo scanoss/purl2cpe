@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mysql:mysql_eventum:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/eventum/eventum

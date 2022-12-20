@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:openslides:openslides:3.2:*:*:*:*:*:*:*
+purls:
+- pkg:docker/openslides/openslides
+- pkg:github/openslides/openslides

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:castillobueno:ccmplayer:1.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/rotekoppen/ccmplayer

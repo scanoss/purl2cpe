@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:jpeg:jpeg-xl:0.3.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/jpeg-xl
+- pkg:github/libjxl/libjxl
+- pkg:gitlab/wg1/jpeg-xl
+- pkg:rpm/opensuse/libjxl

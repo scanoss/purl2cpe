@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:jenkins:cons3rt:1.0.0:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:cons3rt:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/cons3rt/cons3rt-jenkins-plugin
+- pkg:github/jenkinsci/cons3rt-plugin

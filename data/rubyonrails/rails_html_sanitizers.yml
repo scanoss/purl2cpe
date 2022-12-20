@@ -1,0 +1,21 @@
+cpes:
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.0:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.1:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.2:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.3:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.4:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.1.0:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.2.0:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.3.0:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.0:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.1:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.2:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.3:*:*:*:*:rails:*:*
+- cpe:2.3:a:rubyonrails:rails_html_sanitizers:-:*:*:*:*:rails:*:*
+purls:
+- pkg:deb/debian/ruby-rails-html-sanitizer
+- pkg:deb/ubuntu/ruby-rails-html-sanitizer
+- pkg:gem/rails-html-sanitizer
+- pkg:github/rails/rails-html-sanitizer
+- pkg:rpm/fedora/rubygem-rails-html-sanitizer
+- pkg:rpm/opensuse/rubygem-rails-html-sanitizer

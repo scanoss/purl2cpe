@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:flycms_project:flycms:20190503:*:*:*:*:*:*:*
+purls:
+- pkg:github/sunkaifei/flycms

@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:ritecms:ritecms:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:ritecms:ritecms:1.0:b:*:*:*:*:*:*
+- cpe:2.3:a:ritecms:ritecms:2.2.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/compleatguru/ritecms
+- pkg:github/handylulu/ritecms
+- pkg:sourceforge/ritecms

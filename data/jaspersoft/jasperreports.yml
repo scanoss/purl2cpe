@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:jaspersoft:jasperreports:4.7.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/jasperreports
+- pkg:deb/ubuntu/jasperreports
+- pkg:github/tibcosoftware/jasperreports
+- pkg:maven/net.sf.jasperreports/jasperreports
+- pkg:sourceforge/jasperreports

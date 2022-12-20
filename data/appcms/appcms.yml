@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:appcms:appcms:2.0.101:*:*:*:*:*:*:*
+purls:
+- pkg:github/source-trace/appcms

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:d-coda:contactme:2.3:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/wp-contactme

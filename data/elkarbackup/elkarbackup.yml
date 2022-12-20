@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:elkarbackup:elkarbackup:1.3.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/elkarbackup/elkarbackup

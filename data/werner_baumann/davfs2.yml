@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:werner_baumann:davfs2:1.4.6:*:*:*:*:*:*:*
+- cpe:2.3:a:werner_baumann:davfs2:1.4.7:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/davfs2
+- pkg:deb/ubuntu/davfs2
+- pkg:github/thehyve/davfs2
+- pkg:github/volga629/davfs2
+- pkg:gnu/davfs2
+- pkg:rpm/fedora/davfs2
+- pkg:rpm/opensuse/davfs2
+- pkg:sourceforge/dav

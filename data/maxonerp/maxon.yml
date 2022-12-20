@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:maxonerp:maxon:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/zadr50/maxon
+- pkg:sourceforge/maxon

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:simpleledger:slp-validate:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:simpleledger:slp-validate:1.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:simpleledger:slp-validate:1.2.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/simpleledger/slp-validate.js
+- pkg:npm/slp-validate

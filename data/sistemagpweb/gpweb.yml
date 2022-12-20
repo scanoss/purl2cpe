@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:sistemagpweb:gpweb:8.4.61:*:*:*:*:*:*:*
+purls:
+- pkg:docker/lavanco/gpweb

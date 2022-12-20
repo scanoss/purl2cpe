@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:walk_score_project:walk_score:0.5.5:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/mahalie/walk-score-plugin-for-wordpress
+- pkg:github/wpplugins/walk-score

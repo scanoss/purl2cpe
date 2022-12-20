@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:digitalocean:toxcore:*:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/libtoxcore
+- pkg:deb/ubuntu/libtoxcore
+- pkg:github/irungentoo/toxcore
+- pkg:github/toktok/c-toxcore
+- pkg:rpm/fedoras/toxcore
+- pkg:rpm/opensuses/toxcore

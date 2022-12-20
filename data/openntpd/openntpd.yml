@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:openntpd:openntpd:6.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/ubuntu/openntpd
+- pkg:github/openntpd-portable/openntpd-openbsd
+- pkg:github/openntpd-portable/openntpd-portable
+- pkg:rpm/opensuse/openntpd

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:beroux:rename-it:3.32:*:*:*:*:*:*:*
+purls:
+- pkg:github/wernight/renameit

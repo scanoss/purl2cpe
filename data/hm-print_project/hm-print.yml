@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:hm-print_project:hm-print:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:hm-print_project:hm-print:1.2a:*:*:*:*:*:*:*
+purls:
+- pkg:github/homematic-community/hm-print

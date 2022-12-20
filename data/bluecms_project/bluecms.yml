@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bluecms_project:bluecms:1.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/source-trace/bluecms

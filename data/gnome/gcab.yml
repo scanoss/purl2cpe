@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:gnome:gcab:0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:gnome:gcab:0.7.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/gcab
+- pkg:deb/ubuntu/gcab
+- pkg:github/gnome/gcab
+- pkg:rpm/fedora/gcab
+- pkg:rpm/opensuse/gcab

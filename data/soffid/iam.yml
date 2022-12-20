@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:soffid:iam:1.7.4:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/soffid

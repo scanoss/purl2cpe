@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:mpmath:mpmath:1.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/mpmath
+- pkg:deb/ubuntu/mpmath
+- pkg:github/fredrik-johansson/mpmath
+- pkg:pypi/mpmath
+- pkg:rpm/fedora/python-mpmath
+- pkg:rpm/opensuse/python-mpmath

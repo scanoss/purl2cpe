@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:testzentrum-odw:testerfassung:2021-03:*:*:*:*:*:*:*
+purls:
+- pkg:github/drk-odenwaldkreis/testerfassung

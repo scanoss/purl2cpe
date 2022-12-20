@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:tcpreplay:tcpreplay:3.4.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/tcpreplay
+- pkg:deb/ubuntu/tcpreplay
+- pkg:github/appneta/tcpreplay
+- pkg:rpm/fedora/tcpreplay
+- pkg:rpm/opensuse/tcpreplay
+- pkg:sourceforge/tcpreplay

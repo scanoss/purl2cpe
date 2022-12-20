@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:phoeniixx:filter_portfolio_gallery:1.5:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:phoeniixx:filter_portfolio_gallery:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/jeweltheme/wp-portfolio-gallery
+- pkg:github/wp-plugins/portfolio-gallery
+- pkg:github/wp-plugins/wp-portfolio-gallery

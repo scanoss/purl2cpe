@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:miraheze:managewiki:-:*:*:*:*:*:*:*
+- cpe:2.3:a:miraheze:managewiki:2021-04-28:*:*:*:*:*:*:*
+purls:
+- pkg:github/miraheze/managewiki

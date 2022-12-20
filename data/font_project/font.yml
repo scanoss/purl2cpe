@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:font_project:font:7.5:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/font

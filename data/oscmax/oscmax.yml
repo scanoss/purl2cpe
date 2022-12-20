@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:oscmax:oscmax:2.5.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/oscmax/oscmax2
+- pkg:github/oscmax/oscmax2

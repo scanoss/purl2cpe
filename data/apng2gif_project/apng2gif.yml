@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:apng2gif_project:apng2gif:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.6:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.7:*:*:*:*:*:*:*
+- cpe:2.3:a:apng2gif_project:apng2gif:1.8:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/apng2gif
+- pkg:deb/ubuntu/apng2gif
+- pkg:github/suchipi/node-apng2gif
+- pkg:npm/apng2gif
+- pkg:sourceforge/apng2gif

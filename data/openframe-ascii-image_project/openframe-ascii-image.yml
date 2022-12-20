@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:openframe-ascii-image_project:openframe-ascii-image:0.1.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:npm/openframe-ascii-image

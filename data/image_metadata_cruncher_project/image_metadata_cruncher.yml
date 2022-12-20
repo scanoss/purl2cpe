@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:image_metadata_cruncher_project:image_metadata_cruncher:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/peterhudec/image-metadata-cruncher

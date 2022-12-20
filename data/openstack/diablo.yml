@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:openstack:diablo:2011.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/cloudbuilders/openstack-puppet

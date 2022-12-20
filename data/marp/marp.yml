@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:marp:marp:0.0.10:*:*:*:*:*:*:*
+purls:
+- pkg:github/marp-team/marp

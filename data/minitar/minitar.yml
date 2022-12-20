@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:minitar:minitar:0.5.4:*:*:*:*:ruby:*:*
+purls:
+- pkg:deb/debian/ruby-minitar
+- pkg:deb/ubuntu/ruby-minitar
+- pkg:gem/minitar
+- pkg:github/halostatue/minitar
+- pkg:rpm/opensuse/rubygem-minitar

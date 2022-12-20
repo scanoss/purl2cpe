@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:mitre:cve_services:1.1.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/cveproject/cve-services

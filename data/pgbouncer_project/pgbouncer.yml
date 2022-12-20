@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:pgbouncer_project:pgbouncer:1.5.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pgbouncer
+- pkg:deb/ubuntu/pgbouncer
+- pkg:github/pgbouncer/pgbouncer
+- pkg:gitlab/gitlab-gold/pgbouncer
+- pkg:rpm/fedora/pgbouncer
+- pkg:rpm/opensuse/pgbouncer

@@ -1,0 +1,21 @@
+cpes:
+- cpe:2.3:a:gnu:grub2:-:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:1.98:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:1.99:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.00:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.01:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.02:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.04:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.06:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.06-150400.7.1:*:*:*:*:*:*:*
+- cpe:2.3:a:gnu:grub2:2.06-18.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/grub2
+- pkg:deb/ubuntu/grub2
+- pkg:github/3mdeb/grub2
+- pkg:github/fanjinfei/grub2
+- pkg:github/flihp/grub2
+- pkg:gitlab/kalilinux/grub2
+- pkg:gnu/grub
+- pkg:rpm/fedora/grub2
+- pkg:rpm/opensuse/grub2

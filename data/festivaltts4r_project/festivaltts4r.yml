@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:festivaltts4r_project:festivaltts4r:-:*:*:*:*:ruby:*:*
+purls:
+- pkg:github/spejman/festivaltts4r

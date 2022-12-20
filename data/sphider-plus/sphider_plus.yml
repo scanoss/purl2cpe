@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:sphider-plus:sphider_plus:-:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/sphider-plu

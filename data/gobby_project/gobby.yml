@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:gobby_project:gobby:0.4.11:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/gobby
+- pkg:deb/ubuntu/gobby
+- pkg:github/gobby/gobby

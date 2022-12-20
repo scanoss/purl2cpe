@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:ksh_project:ksh:20120801:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/ksh
+- pkg:deb/ubuntu/ksh
+- pkg:github/ksh2020/ksh
+- pkg:gitlab/redhat/ksh
+- pkg:rpm/centos/ksh
+- pkg:rpm/fedora/ksh

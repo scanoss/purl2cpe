@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:pwgen_project:pwgen:2.06:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/pwgen
+- pkg:deb/ubuntu/pwgen
+- pkg:rpm/opensuse/pwgen
+- pkg:sourceforge/pwgen

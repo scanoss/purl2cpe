@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pagetriage_project:pagetriage:-:*:*:*:*:mediawiki:*:*
+purls:
+- pkg:github/wikimedia/mediawiki-extensions-pagetriage

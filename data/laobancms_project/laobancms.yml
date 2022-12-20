@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:laobancms_project:laobancms:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/onkyoworm/poc

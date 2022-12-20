@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:tcoffee:t-coffee:11.00.8cbe486-1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/t-coffee
+- pkg:deb/ubuntu/t-coffee
+- pkg:github/cbcrg/tcoffee

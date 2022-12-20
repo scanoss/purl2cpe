@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:jenkins:oracle_cloud_infrastructure_compute_classic:1.0.0:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin
+- pkg:github/oracle/oci-compute-classic-jenkins-plugin

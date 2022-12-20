@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:google-closure-tools-latest_project:google-closure-tools-latest:0.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:google-closure-tools-latest_project:google-closure-tools-latest:0.1.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/vsonix-bub/node-google-closure-tools-latest
+- pkg:npm/google-closure-tools-latest

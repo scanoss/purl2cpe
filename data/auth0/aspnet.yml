@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:auth0:aspnet:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/auth0/auth0-aspnet

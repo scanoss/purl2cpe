@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:google:voice_builder:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/google/voice-builder
+- pkg:googlesource/voice-builder

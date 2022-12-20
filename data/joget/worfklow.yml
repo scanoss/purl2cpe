@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:joget:worfklow:6.0.20:*:*:*:*:*:*:*
+purls:
+- pkg:github/jogetworkflow/jogetworkflow
+- pkg:github/jogetworkflow/jw-community

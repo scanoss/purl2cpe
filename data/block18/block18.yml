@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:block18:block18:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/block18/block18

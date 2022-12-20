@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:rivetcode:rivettracker:*:*:*:*:*:*:*:*
+- cpe:2.3:a:rivetcode:rivettracker:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rivetcode:rivettracker:0.8:*:*:*:*:*:*:*
+- cpe:2.3:a:rivetcode:rivettracker:1.03:*:*:*:*:*:*:*
+purls:
+- pkg:github/ahmyi/rivettracker
+- pkg:github/fmohican/rivettracker
+- pkg:sourceforge/rivettracker

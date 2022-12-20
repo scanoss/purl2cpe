@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:bearadmin_project:bearadmin:0.5:*:*:*:*:*:*:*
+purls:
+- pkg:github/yupoxiong/bearadmin

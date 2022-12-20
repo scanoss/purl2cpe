@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:apache:mod_imap:-:*:*:*:*:*:*:*
+purls:
+- pkg:apache/httpd
+- pkg:github/apache/httpd

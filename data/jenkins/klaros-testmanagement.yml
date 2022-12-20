@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:klaros-testmanagement:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/klaros-testmanagement-plugin

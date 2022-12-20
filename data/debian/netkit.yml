@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:debian:netkit:-:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:netkit:0.07:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:netkit:0.17:*:*:*:*:*:*:*
+purls:
+- pkg:github/marado/netkit-telnet
+- pkg:github/maxonthegit/netkit-core

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:tigera:calico_enterprise:-:*:*:*:*:*:*:*
+- cpe:2.3:a:tigera:calico_enterprise:3.11.4:*:*:*:*:*:*:*
+- cpe:2.3:a:tigera:calico_enterprise:3.12.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/projectcalico/calico
+- pkg:github/tigera/calico

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:gigpress:gigpress:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/the-events-calendar/gigpress
+- pkg:github/wp-plugins/gigpress
+- pkg:github/wpplugins/gigpress

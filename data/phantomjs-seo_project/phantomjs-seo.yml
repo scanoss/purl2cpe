@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:phantomjs-seo_project:phantomjs-seo:1.0.0:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/areverberi/phantomjs-seo
+- pkg:npm/phantomjs-seo

@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:marlam:msmtp:1.8.2:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/pombredanne/msmtp
+- pkg:deb/debian/msmtp
+- pkg:deb/ubuntu/msmtp
+- pkg:github/marlam/msmtp-mirror
+- pkg:rpm/fedora/msmtp
+- pkg:rpm/opensuse/msmtp

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:glimmrtv:flextv:-:beta:*:*:*:*:*:*
+purls:
+- pkg:github/d8ahazard/flextv

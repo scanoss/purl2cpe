@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:cskaza:cszcms:1.2.9:*:*:*:*:*:*:*
+purls:
+- pkg:docker/cskaza/cszcms
+- pkg:github/cskaza/cszcms
+- pkg:github/jitrawan/cszcms

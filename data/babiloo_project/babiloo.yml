@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:babiloo_project:babiloo:-:*:*:*:*:*:*:*
+- cpe:2.3:a:babiloo_project:babiloo:2.0.11:*:*:*:*:*:*:*
+- cpe:2.3:a:babiloo_project:babiloo:2.0.9:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/babiloo
+- pkg:rpm/opensuse/babiloo
+- pkg:sourceforge/babiloo

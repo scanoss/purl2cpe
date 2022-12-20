@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:tuyoshi:jquery_picture_cut:1.1:beta:*:*:*:*:*:*
+purls:
+- pkg:github/tuyoshivinicius/jquery-picture-cut

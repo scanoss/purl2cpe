@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:starkbank:ecdsa-dotnet:1.3.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/starkbank/ecdsa-dotnet

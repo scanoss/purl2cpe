@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:arastta:ecommerce:1.6.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/arastta/arastta

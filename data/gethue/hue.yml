@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:gethue:hue:3.12:*:*:*:*:*:*:*
+purls:
+- pkg:github/gethue/hue

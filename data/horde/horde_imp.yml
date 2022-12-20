@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:horde:horde_imp:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/php-horde-imp
+- pkg:deb/ubuntu/php-horde-imp
+- pkg:github/horde/imp
+- pkg:rpm/fedora/php-horde-imp

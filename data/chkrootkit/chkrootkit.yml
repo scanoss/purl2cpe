@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:chkrootkit:chkrootkit:0.49:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/chkrootkit
+- pkg:deb/ubuntu/chkrootkit
+- pkg:github/magentron/chkrootkit
+- pkg:rpm/fedora/chkrootkit
+- pkg:rpm/opensuse/chkrootkit

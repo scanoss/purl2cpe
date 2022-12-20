@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:protonvpn:protonvpn:1.5.1:*:*:*:*:*:*:*
+purls:
+- pkg:docker/tprasadtp/protonvpn
+- pkg:github/protonvpn/android-app
+- pkg:github/protonvpn/ios-app
+- pkg:github/protonvpn/mac-app
+- pkg:github/tprasadtp/protonvpn-docker

@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:kiwi_project:kiwi:1.9.22:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/kiwi
+- pkg:github/osinside/kiwi
+- pkg:pypi/kiwi
+- pkg:rpm/fedora/kiwi
+- pkg:rpm/opensuse/python-kiwi

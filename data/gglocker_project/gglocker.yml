@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:gglocker_project:gglocker:-:*:*:*:*:iphone_os:*:*
+purls:
+- pkg:github/ggreco/gglocker

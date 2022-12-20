@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:kumbiaphp:kumbiaphp:1.1.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/kumbiaphp/kumbiaphp
+- pkg:sourceforge/kumbia

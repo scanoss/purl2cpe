@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:wso2:app_manager:1.2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/wso2/product-app-manager

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:iec104_project:iec104:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/airpig2011/iec104

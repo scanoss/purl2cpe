@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:gallerycms_project:gallerycms:2.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/bensonarts/gallerycms
+- pkg:sourceforge/gallerycms

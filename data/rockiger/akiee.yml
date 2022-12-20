@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:rockiger:akiee:0.0.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/rockiger/akiee

@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:tortoisesvn:tortoisesvn:1.12.1:*:*:*:*:*:*:*
+- cpe:2.3:a:tortoisesvn:tortoisesvn:*:*:windows:*:*:*:*:*
+purls:
+- pkg:github/stefankueng/tortoisesvn
+- pkg:github/svn2github/tortoisesvn
+- pkg:github/tortoisegit/tortoisesvn
+- pkg:sourceforge/tortoisesvn

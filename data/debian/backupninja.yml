@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:debian:backupninja:-:*:*:*:*:*:*:*
+- cpe:2.3:a:debian:backupninja:0.8:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/domi/backupninja
+- pkg:deb/debian/backupninja
+- pkg:deb/ubuntu/backupninja
+- pkg:githubm/lelutin/backupninja
+- pkg:rpm/fedora/backupninja
+- pkg:rpm/opensuse/backupninja

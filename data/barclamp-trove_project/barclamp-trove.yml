@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:barclamp-trove_project:barclamp-trove:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/crowbar/barclamp-trove
+- pkg:github/crowbar/crowbar-openstack

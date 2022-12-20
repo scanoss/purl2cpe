@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:trim-off-newlines_project:trim-off-newlines:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:trim-off-newlines_project:trim-off-newlines:1.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:trim-off-newlines_project:trim-off-newlines:1.0.2:*:*:*:*:node.js:*:*
+- cpe:2.3:a:trim-off-newlines_project:trim-off-newlines:1.0.3:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/stevemao/trim-off-newlines
+- pkg:maven/org.webjars.npm/trim-off-newlines
+- pkg:npm/trim-off-newlines

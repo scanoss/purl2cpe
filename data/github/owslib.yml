@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:github:owslib:0.24.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/python-owslib
+- pkg:deb/ubuntu/python-owslib
+- pkg:github/geopython/owslib
+- pkg:opensuse/python-owslib
+- pkg:pypi/owslib
+- pkg:sourceforge/owslib

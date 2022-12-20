@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:cncf:envoy:1.13.0:*:*:*:*:*:*:*
+purls:
+- pkg:docker/envoyproxy/envoy
+- pkg:github/envoyproxy/envoy
+- pkg:sourceforge/envoy.mirror

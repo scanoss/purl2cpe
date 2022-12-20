@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:nasa:kodiak:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/nasa/kodiak

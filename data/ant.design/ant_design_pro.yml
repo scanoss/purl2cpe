@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:ant.design:ant_design_pro:4.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/nozdemir/ant-design-pro
+- pkg:github/ant-design/ant-design-pro

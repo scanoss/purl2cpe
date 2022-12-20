@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:rise:ultimate_project_manager:1.8:*:*:*:*:*:*:*
+purls:
+- pkg:github/blondelseumo/ultimate-project-manager-crm
+- pkg:github/elitedevsolution/rise-ultimate-project-manager

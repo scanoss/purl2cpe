@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:nex-forms_lite_project:nex-forms_lite:2.1.0:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/x-forms-express
+- pkg:github/wpplugins/x-forms-express

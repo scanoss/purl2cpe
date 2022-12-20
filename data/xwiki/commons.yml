@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:xwiki:commons:12.10.10:*:*:*:*:*:*:*
+- cpe:2.3:a:xwiki:commons:13.0:*:*:*:*:*:*:*
+- cpe:2.3:a:xwiki:commons:13.4.4:*:*:*:*:*:*:*
+- cpe:2.3:a:xwiki:commons:13.5:*:*:*:*:*:*:*
+- cpe:2.3:a:xwiki:commons:13.8:*:*:*:*:*:*:*
+- cpe:2.3:a:xwiki:commons:2.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/xwiki/xwiki-commons

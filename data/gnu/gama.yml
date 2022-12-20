@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:gnu:gama:2.04:*:*:*:*:*:*:*
+purls:
+- pkg:github/gitgnu/gnu_gama
+- pkg:github/gnu-mirror-unofficial/gama
+- pkg:gnu/gama
+- pkg:rpm/opensuse/gama

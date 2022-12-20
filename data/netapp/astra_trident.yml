@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:netapp:astra_trident:-:*:*:*:*:*:*:*
+purls:
+- pkg:docker/netapp/trident
+- pkg:github/netapp/trident

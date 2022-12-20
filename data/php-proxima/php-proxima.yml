@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:php-proxima:php-proxima:-:*:*:*:*:*:*:*
+- cpe:2.3:a:php-proxima:php-proxima:6.0:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/phpproxima

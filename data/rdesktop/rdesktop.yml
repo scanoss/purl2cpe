@@ -1,0 +1,24 @@
+cpes:
+- cpe:2.3:a:rdesktop:rdesktop:1.0.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.3.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.5.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.6.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.7.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.7.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.8.0:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.8.1:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.8.2:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.8.3:*:*:*:*:*:*:*
+- cpe:2.3:a:rdesktop:rdesktop:1.8.4:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/rdesktop
+- pkg:deb/ubuntu/rdesktop
+- pkg:github/rdesktop/rdesktop
+- pkg:rpm/fedora/rdesktop
+- pkg:rpm/opensuse/rdesktop
+- pkg:sourceforge/rdesktop

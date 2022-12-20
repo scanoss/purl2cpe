@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:redhat:coreos-installer:*:*:*:*:*:*:*:*
+- cpe:2.3:a:redhat:coreos-installer:0.10.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/coreos/coreos-installer
+- pkg:rpm/centos/coreos-installer
+- pkg:rpm/fedora/coreos-installer
+- pkg:rpm/opensuse/coreos-installer

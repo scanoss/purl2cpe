@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:vertrigoserv_project:vertrigoserv:2.17:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/vertrigo

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:windows-seleniumjar-mirror_project:windows-seleniumjar-mirror:2.52.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:windows-seleniumjar-mirror_project:windows-seleniumjar-mirror:2.52.1:*:*:*:*:node.js:*:*
+purls:
+- pkg:github/isnit0/windows_seleniumjar
+- pkg:npm/windows-seleniumjar-mirror

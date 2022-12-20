@@ -1,0 +1,10 @@
+cpes:
+- cpe:2.3:a:xfce:xfce4-settings:-:*:*:*:*:*:*:*
+- cpe:2.3:a:xfce:xfce4-settings:4.16.4:*:*:*:*:*:*:*
+- cpe:2.3:a:xfce:xfce4-settings:4.17.0:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/xfce4-settings
+- pkg:deb/ubuntu/xfce4-settings
+- pkg:github/xfce-mirror/xfce4-settings
+- pkg:rpm/fedora/xfce4-settings
+- pkg:rpm/opensuse/xfce4-settings

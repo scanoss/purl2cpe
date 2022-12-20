@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/boinc
+- pkg:deb/ubuntu/boinc
+- pkg:github/boinc/boinc

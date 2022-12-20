@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:kensite_cms_project:kensite_cms:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/seeyoui/kensite_cms

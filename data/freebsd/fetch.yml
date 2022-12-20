@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:freebsd:fetch:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/jrmarino/fetch-freebsd

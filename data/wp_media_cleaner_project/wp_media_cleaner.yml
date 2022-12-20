@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:wp_media_cleaner_project:wp_media_cleaner:2.2.6:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/syntax53/wp-media-cleaner
+- pkg:github/wp-plugins/wp-media-cleaner

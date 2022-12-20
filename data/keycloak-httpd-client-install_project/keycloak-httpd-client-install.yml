@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.6:*:*:*:*:*:*:*
+- cpe:2.3:a:keycloak-httpd-client-install_project:keycloak-httpd-client-install:0.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/jdennis/keycloak-httpd-client-install
+- pkg:github/latchset/keycloak-httpd-client-install
+- pkg:gitlab/redhat/keycloak-httpd-client-install
+- pkg:pypi/keycloak-httpd-client-install
+- pkg:rpm/centos/keycloak-httpd-client-install
+- pkg:rpm/fedora/keycloak-httpd-client-install
+- pkg:rpm/opensuse/keycloak-httpd-client-install

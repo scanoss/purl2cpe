@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:netsurf-browser:libnsbmp:0.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/netsurf-plan9/libnsbmp
+- pkg:rpm/opensuse/libnsbmp

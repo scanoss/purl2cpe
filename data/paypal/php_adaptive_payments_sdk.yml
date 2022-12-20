@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:paypal:php_adaptive_payments_sdk:3.9.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/adaptivepayments-sdk-dotnet
+- pkg:github/adaptivepayments-sdk-java
+- pkg:github/paypal/adaptivepayments-sdk-php
+- pkg:nuget/PayPalAdaptivePaymentsSDK

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:silabs:gecko_bootloader:-:*:*:*:*:*:*:*
+- cpe:2.3:a:silabs:gecko_bootloader:4.0.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/siliconlabs/gecko_sdk

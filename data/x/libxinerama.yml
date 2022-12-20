@@ -1,0 +1,14 @@
+cpes:
+- cpe:2.3:a:x:libxinerama:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:x:libxinerama:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:x:libxinerama:1.0.99.1:*:*:*:*:*:*:*
+- cpe:2.3:a:x:libxinerama:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:x:libxinerama:1.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:x:libxinerama:1.1.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/freedesktop/libxinerama
+- pkg:github/freedesktop/xorg-libxinerama
+- pkg:github/val-verde/libxinerama
+- pkg:rpm/centos/libxinerama
+- pkg:rpm/fedora/libxinerama
+- pkg:rpm/opensuse/libxinerama

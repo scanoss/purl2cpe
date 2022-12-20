@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:yast2-rmt_project:yast2-rmt:-:*:*:*:*:*:*:*
+- cpe:2.3:a:yast2-rmt_project:yast2-rmt:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:yast2-rmt_project:yast2-rmt:1.2.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/yast/yast-rmt
+- pkg:rpm/opensuse/yast2-rmt

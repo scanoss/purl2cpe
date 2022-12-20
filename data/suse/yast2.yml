@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:o:suse:yast2:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/yast/yast-yast2
+- pkg:rpm/opensuse/yast2

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:w3:jigsaw:2.2.5:*:*:*:*:*:*:*
+purls:
+- pkg:maven/org.w3c.jigsaw/jigsaw

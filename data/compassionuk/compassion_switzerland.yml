@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:compassionuk:compassion_switzerland:10.01.4:*:*:*:*:odoo:*:*
+purls:
+- pkg:github/compassionch/compassion-switzerland

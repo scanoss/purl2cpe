@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:nss_compat_ossl_project:nss_compat_ossl:-:*:*:*:*:*:*:*
+purls:
+- pkg:rpm/centos/nss_compat_ossl
+- pkg:rpm/opensuse/nss_compat_ossl

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:cardinal_cms_project:cardinal_cms:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:cardinal_cms_project:cardinal_cms:1.2:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/cardinalcms

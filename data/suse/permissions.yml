@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:suse:permissions:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/opensuse/permissions
+- pkg:rpm/opensuse/permissions

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:osmand:osmand:-:*:*:*:*:*:*:*
+- cpe:2.3:a:osmand:osmand:2.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/osmandapp/osmand

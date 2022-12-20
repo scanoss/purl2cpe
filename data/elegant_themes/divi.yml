@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:elegant_themes:divi:*:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:elegant_themes:divi:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/redelivre/wp-divi

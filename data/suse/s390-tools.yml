@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:suse:s390-tools:-:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:s390-tools:2.1.0-18.29.1:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:s390-tools:2.11.0-9.20.1:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/s390-tools
+- pkg:deb/ubuntu/s390-tools
+- pkg:github/ibm-s390-linux/s390-tools
+- pkg:rpm/opensuse/s390-tools

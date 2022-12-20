@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:rabbitmq-c_project:rabbitmq-c:0.9.0:*:*:*:*:*:*:*
+purls:
+- pkg:bitbucket/dewn49/rabbitmq-c
+- pkg:github/alanxz/rabbitmq-c
+- pkg:rpm/opensuse/rabbitmq-c

@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:metarhia:metacalc:-:*:*:*:*:*:*:*
+- cpe:2.3:a:metarhia:metacalc:0.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:metarhia:metacalc:0.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/metarhia/metacalc
+- pkg:npm/metacalc

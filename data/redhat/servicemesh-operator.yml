@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:redhat:servicemesh-operator:2.0.5.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/openshift/origin-server

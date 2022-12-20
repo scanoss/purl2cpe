@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:convos:chat:*:*:*:*:*:*:*:*
+- cpe:2.3:a:convos:chat:6.32:*:*:*:*:*:*:*
+purls:
+- pkg:docker/convos/convos
+- pkg:github/convos-chat/convos

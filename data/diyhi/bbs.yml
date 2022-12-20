@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:diyhi:bbs:5.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/diyhi/bbs

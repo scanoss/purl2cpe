@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:info-zip:wiz:5.0.3:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/infozip

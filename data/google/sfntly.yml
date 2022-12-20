@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:google:sfntly:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/googlefonts/sfntly
+- pkg:googlesource/sfntly

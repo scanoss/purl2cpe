@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:umplayer_project:umplayer:0.98:*:*:*:*:*:*:*
+purls:
+- pkg:github/minos-org/umplayer
+- pkg:sourceforge/umplayer

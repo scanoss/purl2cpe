@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:jenkins:aws-device-farm:-:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/awslabs/aws-device-farm-jenkins-plugin
+- pkg:github/jenkinsci/aws-device-farm-plugin

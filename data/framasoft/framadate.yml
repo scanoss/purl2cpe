@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:framasoft:framadate:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/ethibox/framadate
+- pkg:github/framasoft/framadate

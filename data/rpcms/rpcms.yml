@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:rpcms:rpcms:*:*:*:*:*:*:*:*
+- cpe:2.3:a:rpcms:rpcms:3.0.2:*:*:*:*:*:*:*
+purls:
+- pkg:github/dear-hu/rpcms
+- pkg:github/ralap-z/rpcms

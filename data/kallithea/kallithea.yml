@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:kallithea:kallithea:0.3.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/msabramo/kallithea
+- pkg:github/nexmirror/kallithea
+- pkg:github/t-kenji/kallithea-mirror
+- pkg:pypi/Kallithea

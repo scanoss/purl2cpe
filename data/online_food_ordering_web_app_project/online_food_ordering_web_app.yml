@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:online_food_ordering_web_app_project:online_food_ordering_web_app:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/kaushikjadhav01/online-food-ordering-web-app

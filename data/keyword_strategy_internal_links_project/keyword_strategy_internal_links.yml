@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:keyword_strategy_internal_links_project:keyword_strategy_internal_links:2.0:-:-:*:-:wordpress:*:*
+purls:
+- pkg:github/keywordstrategy/wordpress-internal-links
+- pkg:github/wp-plugins/keyword-strategy-internal-links

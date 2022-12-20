@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:eblock:eos4j:2018-07-12:*:*:*:*:*:*:*
+purls:
+- pkg:github/espritblock/eos4j
+- pkg:maven/io.github.qyvlik/io.eblock.eos-eos4j

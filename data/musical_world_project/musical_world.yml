@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:musical_world_project:musical_world:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/thealoneprogrammer/musical-world

@@ -1,0 +1,12 @@
+cpes:
+- cpe:2.3:a:atom:electron:*:*:*:*:*:*:*:*
+- cpe:2.3:a:atom:electron:0.33.4:*:*:*:*:*:*:*
+- cpe:2.3:a:atom:electron:1.8.2:beta1:*:*:*:*:*:*
+- cpe:2.3:a:atom:electron:1.8.2:beta2:*:*:*:*:*:*
+- cpe:2.3:a:atom:electron:1.8.2:beta3:*:*:*:*:*:*
+purls:
+- pkg:github/electron/electron
+- pkg:gitlab/immersaview/electron
+- pkg:npm/electron
+- pkg:rpm/opensuse/nodejs-electron
+- pkg:sourceforge/electron.mirror

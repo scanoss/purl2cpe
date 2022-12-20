@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:ibax:go-ibax:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/ibax-io/go-ibax

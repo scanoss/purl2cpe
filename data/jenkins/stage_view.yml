@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jenkins:stage_view:2.26:*:*:*:*:jenkins:*:*
+purls:
+- pkg:github/jenkinsci/pipeline-stage-view-plugin

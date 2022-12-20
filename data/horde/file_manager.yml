@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:horde:file_manager:5.2.21:*:*:*:*:groupware:*:*
+purls:
+- pkg:deb/debian/php-horde-groupware
+- pkg:deb/ubuntu/php-horde-groupware
+- pkg:github/horde/groupware

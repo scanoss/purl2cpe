@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:codeplea:genann:2018-07-08:*:*:*:*:*:*:*
+purls:
+- pkg:github/codeplea/genann

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:dirlist:dirlist_php:0.1.1:*:*:*:*:*:*:*
+purls:
+- pkg:sourceforge/dir-list

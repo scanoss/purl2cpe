@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:typomedia:wordpress_meta_robots:2.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:typomedia:wordpress_meta_robots:-:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wpplugins/wordpress-meta-robots

@@ -1,0 +1,16 @@
+cpes:
+- cpe:2.3:a:pyyaml:libyaml:0.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.4:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.5:*:*:*:*:*:*:*
+- cpe:2.3:a:pyyaml:libyaml:0.1.6:*:*:*:*:*:*:*
+purls:
+- pkg:cpan/yaml-libyaml
+- pkg:deb/debian/libyaml
+- pkg:deb/ubuntu/libyaml
+- pkg:github/yaml/libyaml
+- pkg:pypi/pylibyaml
+- pkg:rpm/fedora/libyaml
+- pkg:rpm/opensuse/libyaml

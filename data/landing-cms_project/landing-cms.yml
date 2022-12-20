@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:landing-cms_project:landing-cms:0.0.6:*:*:*:*:*:*:*
+purls:
+- pkg:github/elias-black/landing-cms

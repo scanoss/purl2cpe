@@ -1,0 +1,29 @@
+cpes:
+- cpe:2.3:a:byvoid:open_chinese_convert:0.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.4.0:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.4.1:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.4.2:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:0.4.3:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.3-1:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.4:*:*:*:*:*:*:*
+- cpe:2.3:a:byvoid:open_chinese_convert:1.0.5:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/opencc
+- pkg:deb/ubuntu/opencc
+- pkg:docker/peterdavehello/opencc
+- pkg:github/byvoid/opencc
+- pkg:maven/com.github.houbb/opencc4j
+- pkg:npm/opencc
+- pkg:pypi/opencc
+- pkg:rpm/fedora/opencc
+- pkg:rpm/opensuse/opencc

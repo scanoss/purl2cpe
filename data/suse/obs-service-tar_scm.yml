@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:suse:obs-service-tar_scm:-:*:*:*:*:*:*:*
+- cpe:2.3:a:suse:obs-service-tar_scm:0.9.2.1537788075.fefaa74:*:*:*:*:*:*:*
+purls:
+- pkg:github/opensuse/obs-service-tar_scm
+- pkg:rpm/fedora/obs-service-tar_scm
+- pkg:rpm/opensuse/obs-service-tar_scm

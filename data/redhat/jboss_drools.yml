@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:redhat:jboss_drools:-:*:*:*:*:*:*:*
+purls:
+- pkg:github/bobmcwhirter/drools
+- pkg:github/maciejwalkowiak/junit-drools

@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:eclipse:birt:*:*:*:*:*:*:*:*
+purls:
+- pkg:github/eclipse/birt
+- pkg:maven/org.eclipse.birt/org.eclipse.birt-parent

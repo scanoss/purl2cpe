@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:emqx:emqx:3.0.0:*:*:*:*:*:*:*
+purls:
+- pkg:docker/emqx/emqx
+- pkg:github/emqx/emqx
+- pkg:sourceforge/emqx

@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:phpabook_project:phpabook:0.9:*:*:*:*:*:*:*
+- cpe:2.3:a:phpabook_project:phpabook:0.9i:*:*:*:*:*:*:*
+purls:
+- pkg:github/makoa/phpabook
+- pkg:sourceforge/phpabook

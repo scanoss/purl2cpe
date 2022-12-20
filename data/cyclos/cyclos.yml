@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:cyclos:cyclos:4.0.0:*:*:*:pro:*:*:*
+- cpe:2.3:a:cyclos:cyclos:4.14.7:*:*:*:pro:*:*:*
+purls:
+- pkg:docker/cyclos/cyclos
+- pkg:github/jelastic-jps/cyclos
+- pkg:sourceforge/cyclos

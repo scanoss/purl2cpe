@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:orbitscripts:orbit_open_ad_server:1.1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:orbitscripts:orbit_open_ad_server:1.1.1:*:*:*:*:*:*:*
+purls:
+- pkg:github/benbowler/open-ad-server

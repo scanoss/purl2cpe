@@ -1,0 +1,23 @@
+cpes:
+- cpe:2.3:a:gulpjs:glob-parent:1.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:1.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:1.2.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:1.3.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:2.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:3.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:3.0.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:3.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:4.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:5.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:5.1.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:5.1.1:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:5.1.2:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:6.0.0:*:*:*:*:node.js:*:*
+- cpe:2.3:a:gulpjs:glob-parent:-:*:*:*:*:node.js:*:*
+purls:
+- pkg:deb/debian/node-glob-parent
+- pkg:deb/ubuntu/node-glob-parent
+- pkg:github/gulpjs/glob-parent
+- pkg:maven/org.webjars.npm/glob-parent
+- pkg:npm/glob-parent
+- pkg:rpm/fedora/nodejs-glob-parent

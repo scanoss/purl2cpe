@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:joruri:joruri_mail:2.1.4:*:*:*:*:*:*:*
+purls:
+- pkg:github/joruri/joruri-cms

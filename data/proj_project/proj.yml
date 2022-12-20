@@ -1,0 +1,7 @@
+cpes:
+- cpe:2.3:a:proj_project:proj:-:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/proj
+- pkg:deb/ubuntu/proj
+- pkg:github/osgeo/proj
+- pkg:rpm/opensuse/proj

@@ -1,0 +1,18 @@
+cpes:
+- cpe:2.3:a:apache:commons_fileupload:1.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.1.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.2.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.2.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.3:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.3.2:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:commons_fileupload:1.3.3:*:*:*:*:*:*:*
+purls:
+- pkg:apache/commons
+- pkg:deb/debian/libcommons-fileupload-java
+- pkg:deb/ubuntu/libcommons-fileupload-java
+- pkg:github/apache/commons-fileupload
+- pkg:rpm/fedora/apache-commons-fileupload
+- pkg:rpm/opensuse/apache-commons-fileupload

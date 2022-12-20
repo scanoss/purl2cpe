@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:jedit:jedit:4.3.2:*:*:*:*:*:*:*
+purls:
+- pkg:deb/debian/jedit
+- pkg:deb/ubuntu/jedit
+- pkg:github/vanzin/jedit
+- pkg:rpm/opensuse/jedit
+- pkg:sourceforge/jedit

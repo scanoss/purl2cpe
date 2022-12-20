@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:shinken-monitoring:shinken_monitoring:2.4.3:*:*:*:*:*:*:*
+purls:
+- pkg:github/naparuba/shinken
+- pkg:pypi/shinken
+- pkg:rpm/fedora/shinken
+- pkg:rpm/opensuse/shinken
+- pkg:sourceforge/shinken

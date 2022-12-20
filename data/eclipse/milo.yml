@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:eclipse:milo:*:*:*:*:*:*:*:*
+- cpe:2.3:a:eclipse:milo:0.6.8:*:*:*:*:*:*:*
+purls:
+- pkg:github/eclipse/milo

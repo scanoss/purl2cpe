@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:pluxxml:pluxxml:5.7:*:*:*:*:*:*:*
+purls:
+- pkg:github/pluxml/pluxml

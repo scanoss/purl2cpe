@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:apache:rocketmq:4.2.0:*:*:*:*:*:*:*
+- cpe:2.3:a:apache:rocketmq:4.6.0:*:*:*:*:*:*:*
+purls:
+- pkg:apache/rocketmq
+- pkg:docker/apache/rocketmq
+- pkg:github/apache/rocketmq
+- pkg:maven/org.apache.rocketmq/rocketmq-all

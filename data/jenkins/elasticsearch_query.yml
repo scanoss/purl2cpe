@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:jenkins:elasticsearch_query:1.1:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:elasticsearch_query:1.2:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:elasticsearch_query:-:*:*:*:*:jenkins:*:*
+- cpe:2.3:a:jenkins:elasticsearch_query:*:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/jenkinsci/elasticsearch-query-plugin
+- pkg:github/mikee805/elasticsearch-query-plugin

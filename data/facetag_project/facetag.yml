@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:facetag_project:facetag:0.0.3:*:*:*:*:piwigo:*:*
+purls:
+- pkg:github/pommes-frites/piwigo-facetag

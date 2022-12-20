@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:logmein:join.me:3.16.0.5505:*:*:*:*:*:*:*
+purls:
+- pkg:github/joinme/joinme.github.io

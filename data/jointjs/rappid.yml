@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:jointjs:rappid:3.3.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/clientio/joint

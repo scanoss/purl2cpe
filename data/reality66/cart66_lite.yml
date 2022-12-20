@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:reality66:cart66_lite:1.5.1.17:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:reality66:cart66_lite:1.5.3:*:*:*:*:wordpress:*:*
+purls:
+- pkg:github/wp-plugins/cart66-lite

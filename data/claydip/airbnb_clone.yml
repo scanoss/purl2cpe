@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:claydip:airbnb_clone:1.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/deven-debug/airbnb-clone

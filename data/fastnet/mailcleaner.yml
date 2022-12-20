@@ -1,0 +1,5 @@
+cpes:
+- cpe:2.3:a:fastnet:mailcleaner:2018092601:*:*:*:*:*:*:*
+purls:
+- pkg:github/mailcleaner/mailcleaner
+- pkg:sourceforge/osmailcleaner

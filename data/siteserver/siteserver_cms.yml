@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:siteserver:siteserver_cms:6.15.51:*:*:*:*:*:*:*
+- cpe:2.3:a:siteserver:siteserver_cms:6.9.0:*:*:*:*:*:*:*
+purls:
+- pkg:github/siteserver/cms
+- pkg:nuget/SS.CMS
