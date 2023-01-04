@@ -2,3 +2,4 @@ purls:
 - pkg:deb/debian/mini-httpd
 - pkg:deb/ubuntu/mini-httpd
 - pkg:github/peter-leonov/mini_httpd
+- pkg:generic/acme.com/mini_httpd
