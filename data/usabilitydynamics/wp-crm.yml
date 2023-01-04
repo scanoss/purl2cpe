@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:usabilitydynamics:wp-crm:1.2.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:usabilitydynamics:wp-crm:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-crm/wp-crm
-- pkg:github/wp-plugins/wp-crm

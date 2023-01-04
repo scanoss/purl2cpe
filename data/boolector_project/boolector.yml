@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:boolector_project:boolector:3.0.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/boolector
-- pkg:deb/ubuntu/boolector
-- pkg:github/boolector/boolector
-- pkg:pypi/pyboolector

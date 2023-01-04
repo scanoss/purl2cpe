@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:liferay:liferay:5.1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/liferay/liferay-portal
-- pkg:sourceforge/lportal

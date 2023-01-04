@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:thinkst:canarytokens:-:*:*:*:*:*:*:*
-- cpe:2.3:a:thinkst:canarytokens:2019-03-01:*:*:*:*:*:*:*
-- cpe:2.3:a:thinkst:canarytokens:2022-07-01:*:*:*:*:*:*:*
-purls:
-- pkg:docker/thinkst/canarytokens
-- pkg:github/thinkst/canarytokens

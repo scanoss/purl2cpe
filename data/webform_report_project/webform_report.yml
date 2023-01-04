@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:webform_report_project:webform_report:7.x-1.x-dev:*:*:*:*:drupal:*:*
-purls:
-- pkg:github/d6lts/webform_report

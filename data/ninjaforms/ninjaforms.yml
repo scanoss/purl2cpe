@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:ninjaforms:ninjaforms:*:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/julieni/ninja-forms
-- pkg:github/wp-plugins/ninja-forms

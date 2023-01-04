@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:config-handler_project:config-handler:-:*:*:*:*:*:*:*
-- cpe:2.3:a:config-handler_project:config-handler:1.0.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/jarradseers/config-handler
-- pkg:npm/config-handler

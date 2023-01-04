@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:o:suse:linux_enterprise_server_for_sap:12:*:*:*:*:*:*:*
-purls:
-- pkg:rpm/opensuse/release-notes-sles-for-sap

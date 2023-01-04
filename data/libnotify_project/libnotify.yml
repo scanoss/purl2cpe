@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:libnotify_project:libnotify:1.0.4:*:*:*:*:node.js:*:*
-- cpe:2.3:a:libnotify_project:libnotify:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/mytrile/node-libnotify
-- pkg:npm/libnotify

@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:loklak_project:loklak:-:*:*:*:*:*:*:*
-- cpe:2.3:a:loklak_project:loklak:1.0:-:*:*:*:*:*:*
-- cpe:2.3:a:loklak_project:loklak:1.0:prerelease:*:*:*:*:*:*
-- cpe:2.3:a:loklak_project:loklak:2020-01-22:*:*:*:*:*:*:*
-purls:
-- pkg:docker/loklak/loklak_server
-- pkg:github/loklak/loklak_server

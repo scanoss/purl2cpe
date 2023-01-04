@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:designsandcode:forget-about-shorcode-buttons:*:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/forget-about-shortcode-buttons
-- pkg:github/wpplugins/forget-about-shortcode-buttons

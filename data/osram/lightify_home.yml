@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:osram:lightify_home:1.6.1:*:*:*:*:*:*:*
-purls:
-- pkg:cpan/device::osram::lightify
-- pkg:github/bczapp/pylightify
-- pkg:pypi/lightify
-- pkg:rpm/opensuse/perl-device-osram-lightify

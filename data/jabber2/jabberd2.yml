@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:jabber2:jabberd2:2.1.19:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/jabberd2
-- pkg:deb/ubuntu/jabberd2
-- pkg:github/jabberd2/jabberd2

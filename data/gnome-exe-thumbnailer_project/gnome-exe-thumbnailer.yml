@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:gnome-exe-thumbnailer_project:gnome-exe-thumbnailer:0.9.4:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/exe-thumbnailer
-- pkg:deb/ubuntu/exe-thumbnailer
-- pkg:github/exe-thumbnailer/exe-thumbnailer
-- pkg:rpm/opensuse/exe-thumbnailer

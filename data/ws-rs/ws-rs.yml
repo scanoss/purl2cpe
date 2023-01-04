@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:ws-rs:ws-rs:*:*:*:*:*:rust:*:*
-purls:
-- pkg:github/housleyjk/ws-rs

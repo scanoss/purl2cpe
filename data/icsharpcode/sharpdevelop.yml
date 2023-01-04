@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:icsharpcode:sharpdevelop:3.2.6466:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/saydulk/sharpdevelop
-- pkg:github/icsharpcode/sharpdevelop
-- pkg:nuget/SharpZipLib
-- pkg:sourceforge/sharpdevelop

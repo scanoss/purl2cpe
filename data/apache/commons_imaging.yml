@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:commons_imaging:0.97:*:*:*:*:*:*:*
-purls:
-- pkg:apache/commons
-- pkg:github/apache/commons-imaging
-- pkg:maven/org.apache.commons/commons-imaging

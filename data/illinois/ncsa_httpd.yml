@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:illinois:ncsa_httpd:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/prppedro/ncsa-httpd
-- pkg:github/toodumbforaname/ncsa-httpd

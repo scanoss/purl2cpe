@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:trustedsec:trevorc2:1.1:*:*:*:*:*:*:*
-- cpe:2.3:a:trustedsec:trevorc2:1.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/trustedsec/trevorc2

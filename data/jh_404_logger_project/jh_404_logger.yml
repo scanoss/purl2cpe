@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:jh_404_logger_project:jh_404_logger:1.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:jh_404_logger_project:jh_404_logger:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/jh-404-logger
-- pkg:github/wpplugins/jh-404-logger

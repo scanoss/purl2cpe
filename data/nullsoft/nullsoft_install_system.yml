@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:nullsoft:nullsoft_install_system:2.30:*:*:*:*:*:*:*
-- cpe:2.3:a:nullsoft:nullsoft_install_system:2.46:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/nsis
-- pkg:deb/ubuntu/nsis
-- pkg:github/kichik/nsis
-- pkg:sourceforge/nsis

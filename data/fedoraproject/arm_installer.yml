@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:fedoraproject:arm_installer:1.99.16:*:*:*:*:*:*:*
-purls:
-- pkg:github/sorki/fedora-arm-installer

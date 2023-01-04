@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:gsi-openssh_project:gsi-openssh:7.9:p1:*:*:*:*:*:*
-purls:
-- pkg:github/openssh/openssh-portable
-- pkg:rpm/fedora/gsi-openssh
-- pkg:rpm/opensuse/gsi-openssh

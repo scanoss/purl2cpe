@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:unp:-:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:unp:1.0.12:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/unp
-- pkg:deb/ubuntu/unp

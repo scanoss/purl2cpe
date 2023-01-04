@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:ankane:blazer:*:*:*:*:*:*:*:*
-- cpe:2.3:a:ankane:blazer:2.6.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/ankane/blazer
-- pkg:gem/blazer
-- pkg:github/ankane/blazer
-- pkg:github/ankane/blazer-docker

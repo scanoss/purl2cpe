@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:tiny_c_compiler_project:tiny_c_compiler:0.9.27:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/minux/tinycc
-- pkg:github/mirror/tinycc
-- pkg:github/tinycc/tinycc
-- pkg:gnu/tinycc
-- pkg:rpm/opensuse/tinycc

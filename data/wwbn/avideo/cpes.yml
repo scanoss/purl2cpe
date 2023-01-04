@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:wwbn:avideo:-:*:*:*:*:*:*:*
+- cpe:2.3:a:wwbn:avideo:10.1:*:*:*:*:*:*:*
+- cpe:2.3:a:wwbn:avideo:10.2:*:*:*:*:*:*:*
+- cpe:2.3:a:wwbn:avideo:11.6:*:*:*:*:*:*:*
+- cpe:2.3:a:wwbn:avideo:8.9:*:*:*:*:*:*:*

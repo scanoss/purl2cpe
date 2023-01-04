@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:libexcel_project:libexcel:0.01:*:*:*:*:*:*:*
-purls:
-- pkg:github/devinsmith/libexcel
-- pkg:sourceforge/libexcel

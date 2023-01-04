@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:iceape:1.0.9:*:*:*:*:*:*:*
-purls:
-- pkg:github/pld-linux/iceape

@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:mor-pah.net:dmitry_deepmagic_information_gathering_tool:1.3a:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/dmitry
-- pkg:deb/ubuntu/dmitry
-- pkg:github/jaygreig86/dmitry
-- pkg:gitlab/kalilinux/dmitry

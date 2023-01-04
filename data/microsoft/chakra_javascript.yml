@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:chakra_javascript:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/chakra-core/chakracore
-- pkg:nuget/Microsoft.ChakraCore

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:diffie-hellman_key_exchange_project:diffie-hellman_key_exchange:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/troyfernandes/diffie-hellman-key-exchange

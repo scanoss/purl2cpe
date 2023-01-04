@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:linuxfoundation:nats.ws:-:*:*:*:*:*:*:*
-- cpe:2.3:a:linuxfoundation:nats.ws:1.0.0-111:*:*:*:*:*:*:*
-purls:
-- pkg:github/nats-io/nats.ws
-- pkg:npm/nats.ws

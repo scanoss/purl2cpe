@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:veracode-scanner:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/veracode-scanner-plugin
-- pkg:github/mbockus/veracode-scanner

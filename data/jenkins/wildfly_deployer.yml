@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:wildfly_deployer:1.0.2:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:wildfly_deployer:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/dandillingham/wildfly-deployer-plugin
-- pkg:github/jenkinsci/wildfly-deployer-plugin

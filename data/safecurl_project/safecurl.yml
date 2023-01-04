@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:safecurl_project:safecurl:0.9:*:*:*:*:*:*:*
-- cpe:2.3:a:safecurl_project:safecurl:0.9.1:*:*:*:*:*:*:*
-- cpe:2.3:a:safecurl_project:safecurl:0.9.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/j0k3r/safecurl
-- pkg:github/vanilla/safecurl
-- pkg:github/wkcaj/safecurl

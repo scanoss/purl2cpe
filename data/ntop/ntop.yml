@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:ntop:ntop:-:*:*:*:*:*:*:*
-- cpe:2.3:a:ntop:ntop:3.3.10:*:*:*:*:*:*:*
-purls:
-- pkg:github/emanuele-f/ntop
-- pkg:github/lucab/ntop
-- pkg:gitlab/kalilinux/ghidra

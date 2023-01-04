@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:owasp:java_html_sanitizer:-:*:*:*:*:*:*:*
-- cpe:2.3:a:owasp:java_html_sanitizer:20200713.1:*:*:*:*:*:*:*
-- cpe:2.3:a:owasp:java_html_sanitizer:20211018.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/owasp-java-html-sanitizer
-- pkg:deb/ubuntu/owasp-java-html-sanitizer
-- pkg:github/owasp/java-html-sanitizer
-- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer

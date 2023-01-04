@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:opennms:opennms_horizon:*:*:*:*:*:*:*:*
-- cpe:2.3:a:opennms:opennms_horizon:26.1.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/opennms/horizon
-- pkg:github/opennms-forge/docker-horizon-core-web
-- pkg:github/opennms/opennms
-- pkg:npm/opennms
-- pkg:sourceforge/opennms

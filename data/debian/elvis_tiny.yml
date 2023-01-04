@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:elvis_tiny:-:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:elvis_tiny:1.4.9:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/elvis-tiny
-- pkg:deb/ubuntu/elvis-tiny

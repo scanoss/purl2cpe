@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:fleetco:fleet_maintenance_management:1.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/neuharthr/fleetco
-- pkg:sourceforge/fleetco

@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:suse:shadow:4.2.1-27.9.1:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:shadow:4.5-5.39:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:shadow:4.6:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/shadow
-- pkg:deb/ubuntu/shadow
-- pkg:github/shadow-maint/shadow
-- pkg:rpm/opensuse/shadow

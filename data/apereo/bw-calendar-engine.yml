@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:apereo:bw-calendar-engine:3.12.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/bedework/bw-calendar-engine
-- pkg:maven/org.bedework.caleng/bw-calendar-engine

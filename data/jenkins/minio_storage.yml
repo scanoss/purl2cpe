@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:minio_storage:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/minio-storage-plugin
-- pkg:github/minio/minio-jenkins

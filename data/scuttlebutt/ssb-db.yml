@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:scuttlebutt:ssb-db:20.0.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/ssbc/ssb-db
-- pkg:npm/ssb-db

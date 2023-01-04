@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:adobe:xmp_toolkit_sdk:*:*:*:*:*:*:*:*
-purls:
-- pkg:github/adobe/xmp-toolkit-sdk

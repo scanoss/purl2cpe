@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:partclone:partclone:0.2.87:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/partclone
-- pkg:deb/ubuntu/partclone
-- pkg:github/thomas-tsai/partclone
-- pkg:rpm/fedora/partclone
-- pkg:rpm/opensuse/partclone
-- pkg:sourceforge/partclone

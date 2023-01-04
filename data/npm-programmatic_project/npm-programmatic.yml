@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:npm-programmatic_project:npm-programmatic:0.0.12:*:*:*:*:*:*:*
-purls:
-- pkg:github/manak/npm-programmatic
-- pkg:npm/npm-programmatic

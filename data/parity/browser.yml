@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:parity:browser:1.6.10:*:*:*:*:*:*:*
-purls:
-- pkg:github/parity-js/shell

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:wordpress:plugin_newsletter_plugin:1.5:*:*:*:*:*:*:*
-purls:
-- pkg:github/wp-plugins/newsletter

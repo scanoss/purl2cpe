@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:seeftl_project:seeftl:0.1.1:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/xiangpaopao/seeftl
-- pkg:npm/seeftl

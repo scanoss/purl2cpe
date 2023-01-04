@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:umbraco:umbraco:*:*:*:*:*:*:*:*
-- cpe:2.3:a:umbraco:umbraco:7.3.8:*:*:*:*:*:*:*
-purls:
-- pkg:github/umbraco/umbraco-cms
-- pkg:nuget/UmbracoCms

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:azure_sdk_for_.net:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/azure/azure-sdk-for-net
-- pkg:nuget/Microsoft.Rest.ClientRuntime

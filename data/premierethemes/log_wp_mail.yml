@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:premierethemes:log_wp_mail:0.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:premierethemes:log_wp_mail:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/wp-mail-logging

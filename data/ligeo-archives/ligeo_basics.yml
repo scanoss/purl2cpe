@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:ligeo-archives:ligeo_basics:02_01-2022:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/lief
-- pkg:deb/ubuntu/lief
-- pkg:github/lief-project/lief
-- pkg:rpm/opensuse/lief

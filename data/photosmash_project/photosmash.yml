@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:photosmash_project:photosmash:1.01:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/photosmash-galleries
-- pkg:github/wpplugins/photosmash-galleries

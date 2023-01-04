@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:serverless_offline_project:serverless_offline:8.0.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/dherault/serverless-offline
-- pkg:npm/serverless_offline

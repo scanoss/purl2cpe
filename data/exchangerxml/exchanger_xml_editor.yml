@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:exchangerxml:exchanger_xml_editor:3.3.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/marrionnous/exchangerxml
-- pkg:github/robert197/exchangerxml

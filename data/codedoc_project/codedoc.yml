@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:codedoc_project:codedoc:3.2:*:*:*:*:*:*:*
-purls:
-- pkg:githubconnect-platform/codedoc
-- pkg:npm/%40codedoc/core

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:ukg:vault-cli:*:*:*:*:*:python:*:*
-purls:
-- pkg:github/peopledoc/vault-cli
-- pkg:pypi/vault-cli

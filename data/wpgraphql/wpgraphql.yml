@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:wpgraphql:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-graphql/wp-graphql

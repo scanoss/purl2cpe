@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:xbindkeys-config:0.1.3-2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/xbindkeys-config
-- pkg:deb/ubuntu/xbindkeys-config
-- pkg:github/rgeorgiev583/xbindkeys_config

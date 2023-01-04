@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:hummus_project:hummus:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/galkahana/hummusjs
-- pkg:npm/hummus

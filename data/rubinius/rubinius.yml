@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:rubinius:rubinius:-:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/sciensa/rubinius
-- pkg:gem/rubinius
-- pkg:github/rubinius/rubinius

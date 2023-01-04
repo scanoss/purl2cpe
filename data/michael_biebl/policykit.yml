@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:michael_biebl:policykit:0.103:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/policykit-1
-- pkg:deb/ubuntu/policykit-1
-- pkg:github/gooroom/policykit-1
-- pkg:gitlab/kalilinux/policykit-1
-- pkg:rpm/centos/policykit
-- pkg:rpm/opensuse/policykit

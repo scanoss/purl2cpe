@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:pardus:liderahenk:-:*:*:*:*:*:*:*
-- cpe:2.3:a:pardus:liderahenk:2.1.15:*:*:*:*:*:*:*
-purls:
-- pkg:github/pardus-liderahenk/ahenk
-- pkg:github/pardus-liderahenk/lider-ahenk-installer

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:batch:batch_library:-:*:*:*:*:android:*:*
-purls:
-- pkg:github/batchlabs/batch-android-sdk

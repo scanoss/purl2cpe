@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:webchess_project:webchess:1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/thorium/webchess
-- pkg:sourceforge/webchess

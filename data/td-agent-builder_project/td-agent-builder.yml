@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:td-agent-builder_project:td-agent-builder:2020-12-18:*:*:*:*:fluentd:*:*
-- cpe:2.3:a:td-agent-builder_project:td-agent-builder:-:*:*:*:*:fluentd:*:*
-purls:
-- pkg:github/fluent-plugins-nursery/fluent-package-builder
-- pkg:github/kenhys/td-agent-builder

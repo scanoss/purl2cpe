@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:directory_ldap_api:1.0.0:m30:*:*:*:*:*:*
-- cpe:2.3:a:apache:directory_ldap_api:1.0.2:*:*:*:*:*:*:*
-purls:
-- pkg:apache/directory
-- pkg:github/apache/directory-ldap-api
-- pkg:maven/org.apache.directory.api/apache-ldap-api

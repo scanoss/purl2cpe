@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:libesedb_project:libesedb:2018-04-01:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/libesedb
-- pkg:deb/ubuntu/libesedb
-- pkg:github/libyal/libesedb
-- pkg:rpm/fedora/libesedb
-- pkg:rpm/opensuse/libesedb

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:michael_vogt:ubuntu-system-service:0.2.2:*:*:*:*:*:*:*
-- cpe:2.3:a:michael_vogt:ubuntu-system-service:0.2.3:*:*:*:*:*:*:*
-- cpe:2.3:a:michael_vogt:ubuntu-system-service:0.2.4:*:*:*:*:*:*:*
-purls:
-- pkg:deb/ubuntu/ubuntu-system-service

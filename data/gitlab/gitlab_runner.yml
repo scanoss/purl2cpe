@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:gitlab:gitlab_runner:*:*:*:*:*:*:*:*
-- cpe:2.3:a:gitlab:gitlab_runner:14.3.4:*:*:*:*:*:*:*
-purls:
-- pkg:github/gitlabhq/gitlab-runner
-- pkg:github/janwillies/gitlab-runner
-- pkg:github/lunixbochs/gitlab-runner
-- pkg:gitlab/gitlab-org/gitlab-runner
-- pkg:rpm/opensuse/gitlab-runner

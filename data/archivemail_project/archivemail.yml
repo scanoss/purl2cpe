@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:archivemail_project:archivemail:0.6.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/archivemail
-- pkg:deb/ubuntu/archivemail
-- pkg:github/fxkr/archivemail
-- pkg:github/taxweb/archivemail
-- pkg:rpm/opensuse/archivemail
-- pkg:sourceforge/archivemail

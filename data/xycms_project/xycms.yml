@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:xycms_project:xycms:1.7:*:*:*:*:*:*:*
-purls:
-- pkg:github/mg0324/xycms
-- pkg:github/xythobuz/xycms

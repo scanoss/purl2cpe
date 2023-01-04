@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:rtpproxy:rtpproxy:2.2:alpha.20160822:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/rtpproxy
-- pkg:deb/ubuntu/rtpproxy
-- pkg:github/sippy/rtpproxy
-- pkg:rpm/fedora/rtpproxy
-- pkg:rpm/opensuse/rtpproxy

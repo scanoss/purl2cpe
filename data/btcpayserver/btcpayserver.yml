@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:btcpayserver:btcpayserver:*:*:*:*:*:*:*:*
-purls:
-- pkg:docker/btcpayserver/btcpayserver
-- pkg:github/btcpayserver/btcpayserver

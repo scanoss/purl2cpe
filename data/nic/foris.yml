@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:nic:foris:*:*:*:*:*:*:*:*
-- cpe:2.3:a:nic:foris:101.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/cz-nic/foris

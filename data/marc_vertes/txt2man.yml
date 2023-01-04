@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:marc_vertes:txt2man:1.5.5:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/txt2man
-- pkg:deb/ubuntu/txt2man
-- pkg:github/mvertes/txt2man
-- pkg:rpm/fedora/txt2man
-- pkg:rpm/opensuse/txt2man

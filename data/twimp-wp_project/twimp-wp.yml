@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:twimp-wp_project:twimp-wp:0.1:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/twimp-wp
-- pkg:github/wpplugins/twimp-wp

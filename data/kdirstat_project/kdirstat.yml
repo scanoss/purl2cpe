@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:kdirstat_project:kdirstat:2.7.0:*:*:*:*:*:*:*
-- cpe:2.3:a:kdirstat_project:kdirstat:2.7.3:*:*:*:*:*:*:*
-purls:
-- pkg:github/shundhammer/qdirstat
-- pkg:github/softace/kdirstat
-- pkg:rpm/opensuse/kdirstat

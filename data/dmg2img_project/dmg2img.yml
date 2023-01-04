@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:dmg2img_project:dmg2img:-:*:*:*:*:*:*:*
-- cpe:2.3:a:dmg2img_project:dmg2img:20170502:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/dmg2img
-- pkg:deb/ubuntu/dmg2img
-- pkg:github/lekensteyn/dmg2img
-- pkg:rpm/fedora/dmg2img
-- pkg:rpm/opensuse/dmg2img

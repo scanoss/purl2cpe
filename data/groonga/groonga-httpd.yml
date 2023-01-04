@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:groonga:groonga-httpd:6.5.1-1:*:*:*:*:debian:*:*
-purls:
-- pkg:deb/debian/groonga
-- pkg:deb/ubuntu/groonga
-- pkg:github/groonga/groonga
-- pkg:rpm/fedora/groonga

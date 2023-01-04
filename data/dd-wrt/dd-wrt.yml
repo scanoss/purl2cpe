@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:o:dd-wrt:dd-wrt:*:*:*:*:*:*:*:*
-- cpe:2.3:o:dd-wrt:dd-wrt:-:*:*:*:*:*:*:*
-- cpe:2.3:o:dd-wrt:dd-wrt:16214:*:*:*:*:*:*:*
-- cpe:2.3:o:dd-wrt:dd-wrt:24:sp2:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/gumbie/dd-wrt
-- pkg:github/mirror/dd-wrt

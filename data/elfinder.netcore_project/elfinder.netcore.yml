@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:elfinder.netcore_project:elfinder.netcore:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/gordon-matt/elfinder.netcore
-- pkg:nuget/elFinder.NetCore

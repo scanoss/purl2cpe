@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:cron_project:cron:3.0pl1-128.:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/cron
-- pkg:deb/ubuntu/cron

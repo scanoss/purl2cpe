@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:selection_tasks:1.0:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:selection_tasks:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/selection-tasks-plugin

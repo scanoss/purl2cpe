@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:sling_servlets_post:*:*:*:*:*:*:*:*
-- cpe:2.3:a:apache:sling_servlets_post:2.3.20:*:*:*:*:*:*:*
-purls:
-- pkg:apache/sling
-- pkg:github/apache/sling-org-apache-sling-servlets-post
-- pkg:maven/org.apache.sling/org.apache.sling.servlets.post

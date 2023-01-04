@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:kde:amarok:2.8.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/amarok
-- pkg:deb/ubuntu/amarok
-- pkg:github/kde/amarok
-- pkg:rpm/fedora/amarok
-- pkg:rpm/opensuse/amarok
-- pkg:sourceforge/amarok

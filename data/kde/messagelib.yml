@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:kde:messagelib:5.5.1:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/kf5-messagelib
-- pkg:deb/ubuntu/kf5-messagelib
-- pkg:github/kde/messagelib
-- pkg:rpm/fedora/kf5-messagelib
-- pkg:rpm/opensuse/messagelib

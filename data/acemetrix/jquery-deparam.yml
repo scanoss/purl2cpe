@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:acemetrix:jquery-deparam:0.5.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/acemetrix/jquery-deparam
-- pkg:npm/jquery-deparam

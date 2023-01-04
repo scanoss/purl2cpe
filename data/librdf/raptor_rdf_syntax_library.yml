@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15:*:*:*:*:*:*:*
-- cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15-27.eln108:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/raptor2
-- pkg:deb/ubuntu/raptor2
-- pkg:github/dajobe/raptor
-- pkg:rpm/fedora/raptor
-- pkg:rpm/opensuse/raptor

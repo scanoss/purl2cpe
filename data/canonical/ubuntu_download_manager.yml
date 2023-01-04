@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:canonical:ubuntu_download_manager:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/ubports/ubuntu-download-manager

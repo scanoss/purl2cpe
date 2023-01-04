@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:godaddy:node-config-shield:0.2.2:*:*:*:*:node.js:*:*
-- cpe:2.3:a:godaddy:node-config-shield:0.2.3:*:*:*:*:node.js:*:*
-- cpe:2.3:a:godaddy:node-config-shield:*:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/godaddy/node-config-shield
-- pkg:npm/config-shield

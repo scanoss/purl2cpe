@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:yiqicms_project:yiqicms:2015-10-07:*:*:*:*:*:*:*
-- cpe:2.3:a:yiqicms_project:yiqicms:2015-10-14:*:*:*:*:*:*:*
-- cpe:2.3:a:yiqicms_project:yiqicms:2016-11-02:*:*:*:*:*:*:*
-purls:
-- pkg:github/wacj1425/yiqicms

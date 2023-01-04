@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:azure_sentinel:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/azure/azure-sentinel

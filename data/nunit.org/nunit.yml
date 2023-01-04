@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:nunit.org:nunit:2.4.8:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/nunit
-- pkg:deb/ubuntu/nunit
-- pkg:github/nunit/nunit
-- pkg:rpm/fedora/nunit
-- pkg:rpm/opensuse/nunit

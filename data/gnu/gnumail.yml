@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:gnu:gnumail:-:*:*:*:*:*:*:*
-- cpe:2.3:a:gnu:gnumail:1.1.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/gnumail
-- pkg:deb/ubuntu/gnumail
-- pkg:github/josh64x2/gnumail

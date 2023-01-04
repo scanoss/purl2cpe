@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:cloud_foundry:bosh_system_metrics_server:*:*:*:*:*:*:*:*
-- cpe:2.3:a:cloud_foundry:bosh_system_metrics_server:0.1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/cloudfoundry/bosh-system-metrics-server-release

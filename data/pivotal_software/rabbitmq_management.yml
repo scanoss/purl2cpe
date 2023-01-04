@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:pivotal_software:rabbitmq_management:3.4.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/rabbitmq/rabbitmq-management
-- pkg:rpm/opensuse/rabbitmq-management

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:redhat:thunderbird:-:*:*:*:*:*:*:*
-purls:
-- pkg:gitlab/redhat/thunderbird

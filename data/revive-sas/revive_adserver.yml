@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:revive-sas:revive_adserver:*:*:*:*:*:*:*:*
-- cpe:2.3:a:revive-sas:revive_adserver:4.2.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/adjs/revive-adserver
-- pkg:github/revive-adserver/revive-adserver

@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:xunruicms:xunruicms:4.3.1:*:*:*:*:*:*:*
+- cpe:2.3:a:xunruicms:xunruicms:4.3.13:*:*:*:*:*:*:*
+- cpe:2.3:a:xunruicms:xunruicms:4.5.6:*:*:*:*:*:*:*

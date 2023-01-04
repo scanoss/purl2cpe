@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:webtrees:webtrees:1.5.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/fisharebest/webtrees
-- pkg:rpm/opensuse/webtrees

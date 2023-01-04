@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:tin:2.4.1:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/tin
-- pkg:deb/ubuntu/tin
-- pkg:rpm/fedora/tin
-- pkg:rpm/opensuse/tin

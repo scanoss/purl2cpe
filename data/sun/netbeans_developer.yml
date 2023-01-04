@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:sun:netbeans_developer:-:*:*:*:*:*:*:*
-- cpe:2.3:a:sun:netbeans_developer:3.0_beta:*:*:*:*:*:*:*
-purls:
-- pkg:apache/netbeans
-- pkg:deb/debian/netbeans
-- pkg:deb/ubuntu/netbeans
-- pkg:github/apache/netbeans
-- pkg:rpm/opensuse/netbeans

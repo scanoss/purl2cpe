@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:windows-latestchromedriver_project:windows-latestchromedriver:0.1.0:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/isnit0/windows_latestchromedriver
-- pkg:npm/windows-latestchromedriver

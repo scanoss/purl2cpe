@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:bladex:springblade:3.2.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/chillzhuang/springblade
-- pkg:sourceforge/springblade.mirror

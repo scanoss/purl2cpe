@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:netkit-ftp:netkit_ftp:-:*:*:*:*:*:*:*
-- cpe:2.3:a:netkit-ftp:netkit_ftp:0.17:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/netkit-ftp
-- pkg:deb/ubuntu/netkit-ftp
-- pkg:github/mmaraya/netkit-ftp

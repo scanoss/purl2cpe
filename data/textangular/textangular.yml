@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:textangular:textangular:1.3.6:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/teamwaveinc/textangular
-- pkg:github/textangular/textangular
-- pkg:gitlab/alugha/textAngular
-- pkg:maven/org.webjars.bower/textAngular
-- pkg:maven/org.webjars.npm/textangular
-- pkg:npm/textangular

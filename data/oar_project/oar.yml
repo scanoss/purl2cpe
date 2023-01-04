@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:oar_project:oar:2.5.6:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/oar
-- pkg:deb/ubuntu/oar
-- pkg:github/oar-team/oar

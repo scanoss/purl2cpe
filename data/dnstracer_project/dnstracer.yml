@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:dnstracer_project:dnstracer:1.9:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/dnstracer
-- pkg:deb/ubuntu/dnstracer
-- pkg:github/orc/dnstracer
-- pkg:gitlab/kalilinux/dnstracer
-- pkg:rpm/fedora/dnstracer
-- pkg:rpm/opensuse/dnstracer

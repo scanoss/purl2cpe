@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:docker:composer:*:*:*:*:*:*:*:*
-purls:
-- pkg:docker/composer
-- pkg:github/composer/docker

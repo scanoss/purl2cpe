@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:x11-common:-:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:x11-common:1\:7.6\+12:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/xorg
-- pkg:deb/ubuntu/xorg
-- pkg:rpm/opensuse/x11-common

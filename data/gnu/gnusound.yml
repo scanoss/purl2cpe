@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:gnu:gnusound:0.7.5:*:*:*:*:*:*:*
-purls:
-- pkg:github/gnu-mirror-unofficial/gnusound
-- pkg:gnu/gnusound

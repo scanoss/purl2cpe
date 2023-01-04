@@ -1,0 +1,3 @@
+cpes:
+- cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*
+- cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:*:*:*:*:*:*:*

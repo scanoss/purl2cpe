@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:dicom:dcmtk:3.6.0:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/svetoslav_nikolov/dcmtk
-- pkg:deb/debian/dcmtk
-- pkg:deb/ubuntu/dcmtk
-- pkg:github/dcmtk/dcmtk
-- pkg:rpm/fedora/dcmtk
-- pkg:rpm/opensuse/dcmtk

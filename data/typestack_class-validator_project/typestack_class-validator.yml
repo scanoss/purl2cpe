@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:typestack_class-validator_project:typestack_class-validator:0.10.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/typestack/class-validator
-- pkg:maven/org.webjars.npm/class-validator
-- pkg:npm/class-validator

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:restkit:restkit:-:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/tharpapawo/restkit
-- pkg:github/restkit/restkit
-- pkg:sourceforge/restkit.mirror

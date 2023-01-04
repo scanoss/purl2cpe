@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:wp_subtitle_project:wp_subtitle:3.4.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:wp_subtitle_project:wp_subtitle:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/benhuson/wp-subtitle
-- pkg:github/wp-plugins/wp-subtitle
-- pkg:github/wpplugins/wp-subtitle

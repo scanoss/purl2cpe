@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:observium:observium:20.8.10631:*:*:*:community:*:*:*
-- cpe:2.3:a:observium:observium:20.8.10631:*:*:*:enterprise:*:*:*
-- cpe:2.3:a:observium:observium:20.8.10631:*:*:*:professional:*:*:*
-purls:
-- pkg:github/danielhuisman/observium-community-edition
-- pkg:github/observium/turnkey
-- pkg:github/turnkeylinux-apps/observium

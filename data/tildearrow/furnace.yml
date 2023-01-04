@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:tildearrow:furnace:dev73:*:*:*:*:*:*:*
-purls:
-- pkg:github/tildearrow/furnace
-- pkg:rpm/opensuse/furnace

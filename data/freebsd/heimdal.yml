@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:freebsd:heimdal:-:*:*:*:*:*:*:*
-- cpe:2.3:a:freebsd:heimdal:0.4e:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/heimdal
-- pkg:deb/ubuntu/heimdal
-- pkg:github/heimdal/heimdal
-- pkg:rpm/fedora/heimdal
-- pkg:rpm/opensuse/heimdal

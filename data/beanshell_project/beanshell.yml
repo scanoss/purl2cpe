@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:beanshell_project:beanshell:2.0b5:*:*:*:*:*:*:*
-purls:
-- pkg:github/beanshell/beanshell
-- pkg:maven/org.beanshell/beanshell

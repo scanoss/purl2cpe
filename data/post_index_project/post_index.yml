@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:post_index_project:post_index:0.7.5:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:post_index_project:post_index:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/post-index
-- pkg:github/wpplugins/post-index

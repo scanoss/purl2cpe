@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:cloudberrylab:backup:6.1.2.34:*:*:*:*:*:*:*
-purls:
-- pkg:docker/jlesage/cloudberry-backup
-- pkg:github/jlesage/docker-cloudberry-backup

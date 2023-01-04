@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:db_backup_project:db_backup:4.5:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/wp-database-backup
-- pkg:github/wpplugins/wp-database-backup
-- pkg:github/wp-plugins/wp-db-backup
-- pkg:github/wpplugins/wp-db-backup

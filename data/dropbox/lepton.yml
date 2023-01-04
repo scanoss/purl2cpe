@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:dropbox:lepton:1.2.1:*:*:*:*:*:*:*
-- cpe:2.3:a:dropbox:lepton:1.2.1-185:*:*:*:*:*:*:*
-purls:
-- pkg:github/dropbox/lepton
-- pkg:rpm/opensuse/lepton

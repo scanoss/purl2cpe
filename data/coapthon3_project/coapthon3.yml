@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:coapthon3_project:coapthon3:1.0:*:*:*:*:*:*:*
-- cpe:2.3:a:coapthon3_project:coapthon3:1.0.1:*:*:*:*:*:*:*
-- cpe:2.3:a:coapthon3_project:coapthon3:1.01:*:*:*:*:*:*:*
-purls:
-- pkg:github/mcfreis/coapthon3
-- pkg:github/tanganelli/coapthon3
-- pkg:pypi/coapthon3
-- pkg:rpm/fedora/python-coapthon3

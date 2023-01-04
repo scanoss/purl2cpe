@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:adacore:gnat_studio:5.1.0:*:*:*:*:*:*:*
-- cpe:2.3:a:adacore:gnat_studio:5.2.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/gnat-gps
-- pkg:deb/ubuntu/gnat-gps
-- pkg:github/adacore/gps
-- pkg:sourceforge/gnat-gps

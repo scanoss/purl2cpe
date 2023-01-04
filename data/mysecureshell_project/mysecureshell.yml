@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:mysecureshell_project:mysecureshell:1.31:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/mysecureshell
-- pkg:deb/ubuntu/mysecureshell
-- pkg:github/mysecureshell/mysecureshell
-- pkg:sourceforge/mysecureshell

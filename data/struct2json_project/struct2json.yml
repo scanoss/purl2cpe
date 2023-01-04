@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:struct2json_project:struct2json:-:*:*:*:*:*:*:*
-- cpe:2.3:a:struct2json_project:struct2json:2020-11-18:*:*:*:*:*:*:*
-purls:
-- pkg:github/armink/struct2json

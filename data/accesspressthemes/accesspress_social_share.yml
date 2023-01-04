@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:accesspressthemes:accesspress_social_share:4.5.5:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/accesspress-social-share
-- pkg:github/wpplugins/accesspress-social-share

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:semantic_versioning:1.13:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:semantic_versioning:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/semantic-versioning-plugin

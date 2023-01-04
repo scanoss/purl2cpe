@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:osisoft:pi_to_ocs:1.1.36.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/osisoft/ocs-docs
-- pkg:github/osisoft/sample-ocs-sample_libraries-python
-- pkg:pypi/ocs-sample-library-hub

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:openmrs:openmrs_module_reporting:1.12.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/openmrs/openmrs-module-reporting

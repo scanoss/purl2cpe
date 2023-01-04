@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:hotel_management_system_project:hotel_management_system:-:*:*:*:*:*:*:*
-- cpe:2.3:a:hotel_management_system_project:hotel_management_system:1.0:*:*:*:*:*:*:*
-- cpe:2.3:a:hotel_management_system_project:hotel_management_system:2.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/tramyardg/hotel-mgmt-system

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:tmpreaper:1.6.13\+nmu1:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/tmpreaper
-- pkg:deb/ubuntu/tmpreaper

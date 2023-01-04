@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:makepasswd_project:makepasswd:1.10:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/makepasswd
-- pkg:deb/ubuntu/makepasswd
-- pkg:docker/atmoz/makepasswd
-- pkg:github/opensourcealchemist/makepasswd

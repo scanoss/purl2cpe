@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:express-mock-middleware_project:express-mock-middleware:0.0.6:*:*:*:*:*:*:*
-purls:
-- pkg:github/lingyucoder/express-mock-middleware

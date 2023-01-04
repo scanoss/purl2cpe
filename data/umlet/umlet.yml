@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:umlet:umlet:*:*:*:*:*:*:*:*
-- cpe:2.3:a:umlet:umlet:14.3:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/umlet
-- pkg:deb/ubuntu/umlet
-- pkg:github/umlet/umlet
-- pkg:rpm/opensuse/umlet
-- pkg:sourceforge/umlet

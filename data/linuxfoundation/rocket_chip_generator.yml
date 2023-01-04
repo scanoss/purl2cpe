@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:linuxfoundation:rocket_chip_generator:-:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/taylor-bsg/rocket-chip
-- pkg:github/chipsalliance/rocket-chip

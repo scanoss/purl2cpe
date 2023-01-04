@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:webpagetest_project:webpagetest:3.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/webpagetest/agent
-- pkg:github/wpo-foundation/webpagetest

@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:gnome:libglib2:2.56.3:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/glib2.0
-- pkg:deb/ubuntu/glib2.0
-- pkg:github/gnome/glib
-- pkg:rpm/opensuse/libglib2.0-0

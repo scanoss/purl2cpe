@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:speed-dreams:speed_dreams:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/argos-research/speed-dreams
-- pkg:rpm/fedora/speed-dreams
-- pkg:rpm/opensuse/speed-dreams
-- pkg:sourceforge/speed-dreams

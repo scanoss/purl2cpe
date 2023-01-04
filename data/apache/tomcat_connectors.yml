@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:tomcat_connectors:1.2.40:*:*:*:*:*:*:*
-purls:
-- pkg:apache/tomcat
-- pkg:github/apache/tomcat-connectors

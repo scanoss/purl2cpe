@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:babelcli_project:babelcli:1.0.0:*:*:*:*:node.js:*:*
-- cpe:2.3:a:babelcli_project:babelcli:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/npm/security-holder
-- pkg:npm/babelcli

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:gig:jumpscale:7:*:*:*:*:*:*:*
-purls:
-- pkg:github/jumpscale7/jumpscale_portal

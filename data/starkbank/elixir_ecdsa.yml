@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:starkbank:elixir_ecdsa:1.0.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/starkbank/ecdsa-elixir

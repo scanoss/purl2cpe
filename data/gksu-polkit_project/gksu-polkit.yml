@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:gksu-polkit_project:gksu-polkit:-:*:*:*:*:*:*:*
-- cpe:2.3:a:gksu-polkit_project:gksu-polkit:0.0.3:*:*:*:*:*:*:*
-purls:
-- pkg:github/fhdk/gksu-polkit
-- pkg:rpm/opensuse/gksu-polkit

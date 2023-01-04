@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:linuxcontainers:cgmanager:0.32:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/cgmanager
-- pkg:github/lxc/cgmanager
-- pkg:rpm/opensuse/cgmanager

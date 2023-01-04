@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:emorym:android_pusher:-:-:*:*:*:android:*:*
-purls:
-- pkg:github/kevinsawicki/android_pusher
-- pkg:github/linki/android_pusher
-- pkg:maven/com.github.kevinsawicki/android-pusher

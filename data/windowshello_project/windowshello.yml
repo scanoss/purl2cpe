@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:windowshello_project:windowshello:*:*:*:*:*:*:*:*
-- cpe:2.3:a:windowshello_project:windowshello:1.0.4:*:*:*:*:*:*:*
-purls:
-- pkg:github/sepppenner/windowshello
-- pkg:nuget/HaemmerElectronics.SeppPenner.WindowsHello

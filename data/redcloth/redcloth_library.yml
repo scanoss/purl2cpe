@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:redcloth:redcloth_library:4.2.9:*:*:*:*:ruby:*:*
-purls:
-- pkg:deb/debian/ruby-redcloth
-- pkg:deb/ubuntu/ruby-redcloth
-- pkg:gem/RedCloth
-- pkg:github/jgarber/redcloth
-- pkg:rpm/fedora/rubygem-redcloth
-- pkg:rpm/opensuse/rubygem-redcloth

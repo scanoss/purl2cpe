@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ltsp:ldm:2.18.06:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/ldm
-- pkg:deb/ubuntu/ldm
-- pkg:github/ltsp/ltsp

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:pfsense:suricata_package:1.0.5:*:*:*:*:*:*:*
-- cpe:2.3:a:pfsense:suricata_package:1.0.6:*:*:*:*:*:*:*
-purls:
-- pkg:github/pfsense/pfsense-packages

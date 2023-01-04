@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:redhat:ceph-iscsi-cli:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/ceph/ceph-iscsi
-- pkg:rpm/opensuse/ceph-iscsi-cli

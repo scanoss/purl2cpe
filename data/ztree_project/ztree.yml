@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:ztree_project:ztree:3.5.19.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/ztree/ztree_v3
-- pkg:maven/org.webjars.npm/ztree__ztree_v3
-- pkg:npm/%40ztree/ztree_v3
-- pkg:nuget/Jquery.Ztree

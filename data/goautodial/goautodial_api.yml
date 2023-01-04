@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:goautodial:goautodial_api:*:*:*:*:*:*:*:*
-- cpe:2.3:a:goautodial:goautodial_api:2:*:*:*:*:*:*:*
-purls:
-- pkg:gem/view_component
-- pkg:github/goautodial/goapiv2
-- pkg:rpm/opensuse/rubygem-view_component

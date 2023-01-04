@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:steam_group_viewer_project:steam_group_viewer:2.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:steam_group_viewer_project:steam_group_viewer:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/steam-group-viewer
-- pkg:github/WPPlugins/steam-group-viewer

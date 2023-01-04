@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:didiwiki_project:didiwiki:-:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/pepa65/didiwiki
-- pkg:deb/debian/didiwiki
-- pkg:deb/ubuntu/didiwiki
-- pkg:github/openedhand/didiwiki
-- pkg:github/pepa65/didiwiki
-- pkg:github/vbourachot/didiwikimd

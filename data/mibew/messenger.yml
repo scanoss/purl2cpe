@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:mibew:messenger:*:*:*:*:*:*:*:*
-- cpe:2.3:a:mibew:messenger:3.2.7:*:*:*:*:*:*:*
-purls:
-- pkg:github/mibew/mibew
-- pkg:sourceforge/mibew

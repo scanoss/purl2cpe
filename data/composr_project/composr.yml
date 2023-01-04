@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:composr_project:composr:10.0.30:*:*:*:*:*:*:*
-- cpe:2.3:a:composr_project:composr:10.0.36:*:*:*:*:*:*:*
-purls:
-- pkg:github/ocproducts/composr
-- pkg:gitlab/composr-foundation/composr

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:catchplugins:catch_web_tools:2.7:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:catchplugins:catch_web_tools:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/catch-web-tools
-- pkg:github/wpplugins/catch-web-tools

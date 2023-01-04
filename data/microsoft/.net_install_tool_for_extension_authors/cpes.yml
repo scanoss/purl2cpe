@@ -1,0 +1,3 @@
+cpes:
+- cpe:2.3:a:microsoft:.net_install_tool_for_extension_authors:1.1.0:*:*:*:*:visual_studio_code:*:*
+- cpe:2.3:a:microsoft:.net_install_tool_for_extension_authors:1.2.0:*:*:*:*:visual_studio_code:*:*

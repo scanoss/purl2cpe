@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:freedesktop:virglrenderer:0.5.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/virglrenderer
-- pkg:deb/ubuntu/virglrenderer
-- pkg:github/freedesktop/virglrenderer
-- pkg:rpm/fedora/virglrenderer
-- pkg:rpm/opensuse/virglrenderer

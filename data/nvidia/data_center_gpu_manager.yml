@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:nvidia:data_center_gpu_manager:*:*:*:*:*:*:*:*
-- cpe:2.3:a:nvidia:data_center_gpu_manager:2.3.4:*:*:*:*:*:*:*
-purls:
-- pkg:github/nvidia/dcgm
-- pkg:github/rohankumardubey/dcgm

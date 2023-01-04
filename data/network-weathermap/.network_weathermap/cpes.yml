@@ -1,0 +1,4 @@
+cpes:
+- cpe:2.3:a:network-weathermap:.network_weathermap:0.97:a:*:*:*:*:*:*
+- cpe:2.3:a:network-weathermap:.network_weathermap:0.97:b:*:*:*:*:*:*
+- cpe:2.3:a:network-weathermap:.network_weathermap:0.97:c:*:*:*:*:*:*

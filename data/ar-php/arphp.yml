@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:ar-php:arphp:3.6.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/khaled-alshamaa/ar-php

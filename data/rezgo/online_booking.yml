@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:rezgo:online_booking:1.8:-:-:*:-:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/rezgo-online-booking
-- pkg:github/wpplugins/rezgo-online-booking

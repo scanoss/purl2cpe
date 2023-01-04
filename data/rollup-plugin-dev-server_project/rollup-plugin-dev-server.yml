@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:rollup-plugin-dev-server_project:rollup-plugin-dev-server:0.4.3:*:*:*:*:node.js:*:*
-- cpe:2.3:a:rollup-plugin-dev-server_project:rollup-plugin-dev-server:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/genie88/rollup-plugin-server
-- pkg:npm/rollup-plugin-dev-server

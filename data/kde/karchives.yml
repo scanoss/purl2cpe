@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:kde:karchives:5.24:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/karchive
-- pkg:deb/ubuntu/karchive
-- pkg:github/sailfishos-mirror/karchive
-- pkg:rpm/fedora/kf5-karchive
-- pkg:rpm/opensuse/karchive

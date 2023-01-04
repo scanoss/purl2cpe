@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:ruby-rbot:rbot:-:*:*:*:*:*:*:*
-purls:
-- pkg:docker/rubybot/rbot
-- pkg:github/bmoyles/rbot

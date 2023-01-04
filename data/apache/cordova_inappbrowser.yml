@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:cordova_inappbrowser:3.0.0:*:*:*:*:android:*:*
-purls:
-- pkg:apache/cordova
-- pkg:github/apache/cordova-plugin-inappbrowser

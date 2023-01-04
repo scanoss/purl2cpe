@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:try_my_recipe_project:try_my_recipe:-:*:*:*:*:*:*:*
-- cpe:2.3:a:try_my_recipe_project:try_my_recipe:1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/hvpande123/try-my-recipe

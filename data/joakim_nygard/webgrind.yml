@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:joakim_nygard:webgrind:1.0.2:*:*:*:*:*:*:*
-purls:
-- pkg:docker/jokkedk/webgrind
-- pkg:github/jokkedk/webgrind

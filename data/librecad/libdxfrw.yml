@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:librecad:libdxfrw:2.2.0-rc2-19-ge02f3580:*:*:*:*:*:*:*
-purls:
-- pkg:github/codelibs/libdxfrw
-- pkg:github/librecad/libdxfrw
-- pkg:github/qgis/libdxfrw
-- pkg:rpm/fedora/libdxfrw
-- pkg:rpm/opensuse/libdxfrw
-- pkg:sourceforge/libdxfrw

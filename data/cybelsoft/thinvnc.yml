@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:cybelsoft:thinvnc:1.0:b1:*:*:*:*:*:*
-purls:
-- pkg:github/bewest/thinvnc
-- pkg:github/zekiguven/thinvnc
-- pkg:sourceforge/thinvnc

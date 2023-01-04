@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:pagelines:pagelines:1.1.4:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/pagelines-plus
-- pkg:github/wpplugins/pagelines-plus

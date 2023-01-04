@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:guilt:-:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:guilt:0.27:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/guilt
-- pkg:deb/ubuntu/guilt
-- pkg:rpm/fedora/guilt
-- pkg:rpm/opensuse/guilt

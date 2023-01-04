@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:cyberpower:powerpanel:3.4.0:*:*:*:business:*:*:*
-purls:
-- pkg:github/nathanvaughn/powerpanel-business-docker

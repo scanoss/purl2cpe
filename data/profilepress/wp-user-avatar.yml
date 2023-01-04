@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:profilepress:wp-user-avatar:*:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/bangbay/wp-user-avatar
-- pkg:github/flippercode/wp-user-avatar

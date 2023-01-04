@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*
-- cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*
-purls:
-- pkg:github/openvz/vzkernel
-- pkg:github/zoobab/vzkernel

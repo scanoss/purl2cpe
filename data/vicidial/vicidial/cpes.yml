@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:vicidial:vicidial:*:*:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:-:*:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.14-783a:*:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.14:783a:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.14b0.5:*:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.14b0.5:-:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.14b0.5:3555:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.7:-:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.7:rc1:*:*:*:*:*:*
+- cpe:2.3:a:vicidial:vicidial:2.8:403a:*:*:*:*:*:*

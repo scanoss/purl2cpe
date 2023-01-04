@@ -1,0 +1,3 @@
+purls:
+- pkg:github/arendst/tasmota
+- pkg:sourceforge/tasmota.mirror

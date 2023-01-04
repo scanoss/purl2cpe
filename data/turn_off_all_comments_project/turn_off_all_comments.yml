@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:turn_off_all_comments_project:turn_off_all_comments:1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/emersonthis/turn-off-comments
-- pkg:github/wp-plugins/turn-off-comments-for-all-posts

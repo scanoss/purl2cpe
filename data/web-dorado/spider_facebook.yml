@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:web-dorado:spider_facebook:1.0.10:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/spider-facebook
-- pkg:github/wpplugins/spider-facebook

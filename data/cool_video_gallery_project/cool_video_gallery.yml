@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:cool_video_gallery_project:cool_video_gallery:1.9:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/mattclements/cool-video-plugin
-- pkg:github/wpplugins/cool-video-gallery

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:libsdl:sdl2_image:2.0.4:*:*:*:*:*:*:*
-purls:
-- pkg:github/libsdl-org/sdl_image
-- pkg:rpm/fedora/sdl2_image
-- pkg:rpm/opensuse/sdl2_image

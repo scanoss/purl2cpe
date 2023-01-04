@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:quiz_project:quiz:-:*:*:*:*:mediawiki:*:*
-purls:
-- pkg:github/wikimedia/mediawiki-extensions-quiz

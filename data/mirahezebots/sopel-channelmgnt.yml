@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:mirahezebots:sopel-channelmgnt:*:*:*:*:*:*:*:*
-purls:
-- pkg:github/fossbots/sopel-channelmgnt
-- pkg:pypi/sopel-plugins.channelmgnt

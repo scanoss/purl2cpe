@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:o:nitrokey:fido2_firmware:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/nitrokey/nitrokey-fido2-firmware

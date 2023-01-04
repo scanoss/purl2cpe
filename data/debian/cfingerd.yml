@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:cfingerd:1.4.3-3:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/cfingerd
-- pkg:deb/ubuntu/cfingerd
-- pkg:github/pld-linux/cfingerd

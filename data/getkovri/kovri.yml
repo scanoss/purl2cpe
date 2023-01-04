@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:getkovri:kovri:-:*:*:*:*:*:*:*
-purls:
-- pkg:docker/geti2p/kovri
-- pkg:github/chris-barry/kovri
-- pkg:github/monero-project/kovri

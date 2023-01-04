@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:yii_software:yii:2.0.10:*:*:*:*:*:*:*
-purls:
-- pkg:github/yiisoft/yii2
-- pkg:sourceforge/yii-2.mirror

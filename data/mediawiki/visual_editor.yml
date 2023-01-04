@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:mediawiki:visual_editor:1.34:*:*:*:*:mediawiki:*:*
-purls:
-- pkg:github/wikimedia/mediawiki-extensions-visualeditor

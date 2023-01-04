@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:facebook:facebook_platform:1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/facebook/facebook-android-sdk
-- pkg:github/facebook/facebook-ios-sdk

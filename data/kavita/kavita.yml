@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:kavita:kavita:*:*:*:*:*:*:*:*
-purls:
-- pkg:docker/kizaing/kavita
-- pkg:github/kareadita/kavita
-- pkg:sourceforge/kavita.mirror

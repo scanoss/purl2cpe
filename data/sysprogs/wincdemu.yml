@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:sysprogs:wincdemu:3.6:*:*:*:*:*:*:*
-purls:
-- pkg:github/sysprogs/wincdemu
-- pkg:github/yggdrazil/wincdemu
-- pkg:sourceforge/wincdemu

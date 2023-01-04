@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:clutter_project:clutter:-:*:*:*:*:*:*:*
-- cpe:2.3:a:clutter_project:clutter:1.16.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/gnome/clutter
-- pkg:gitlab/redhat/clutter
-- pkg:rpm/centos/clutter
-- pkg:rpm/fedora/clutter
-- pkg:rpm/opensuse/clutter

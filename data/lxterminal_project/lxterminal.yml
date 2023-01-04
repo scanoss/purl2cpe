@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:lxterminal_project:lxterminal:0.3.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/lxterminal
-- pkg:deb/ubuntu/lxterminal
-- pkg:github/lxde/lxterminal
-- pkg:rpm/fedora/lxterminal
-- pkg:rpm/opensuse/lxterminal
-- pkg:sourceforge/lxde

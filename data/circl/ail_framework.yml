@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:circl:ail_framework:2.8:*:*:*:*:*:*:*
-purls:
-- pkg:docker/lifenz/ail-framework
-- pkg:github/circl/ail-framework
-- pkg:github/ngsimon/ail-framework

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:zenspider:ruby_parser-legacy:1.0.0:*:*:*:*:ruby:*:*
-purls:
-- pkg:gem/ruby_parser-legacy
-- pkg:github/zenspider/ruby_parser-legacy

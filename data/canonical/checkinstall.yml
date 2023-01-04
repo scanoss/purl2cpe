@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:canonical:checkinstall:1.6.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/giuliomoro/checkinstall
-- pkg:github/ruxkor/checkinstall

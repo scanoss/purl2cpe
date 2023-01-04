@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:azure_sdk_for_java:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/azure/azure-sdk-for-java

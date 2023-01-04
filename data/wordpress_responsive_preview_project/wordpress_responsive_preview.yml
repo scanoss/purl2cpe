@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:wordpress_responsive_preview_project:wordpress_responsive_preview:1.1:-:-:*:-:wordpress:*:*
-purls:
-- pkg:github/jordesign/wp-responsive-preview
-- pkg:github/wpplugins/wp-responsive-preview

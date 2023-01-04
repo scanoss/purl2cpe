@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:knime:analytics_platform:*:*:*:*:*:*:*:*
-purls:
-- pkg:github/knime/knime-core

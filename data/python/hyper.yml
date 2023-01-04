@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:python:hyper:0.4:*:*:*:*:*:*:*
-- cpe:2.3:a:python:hyper:0.6:*:*:*:*:*:*:*
-purls:
-- pkg:github/python-hyper/hyper
-- pkg:pypi/hyper

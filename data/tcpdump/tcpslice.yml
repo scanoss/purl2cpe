@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:tcpdump:tcpslice:*:*:*:*:*:*:*:*
-- cpe:2.3:a:tcpdump:tcpslice:1.5:*:*:*:*:*:*:*
-purls:
-- pkg:github/speedywizard/tcpslice
-- pkg:github/the-tcpdump-group/tcpslice

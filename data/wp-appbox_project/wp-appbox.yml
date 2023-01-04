@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:wp-appbox_project:wp-appbox:*:*:*:*:*:*:*:*
-- cpe:2.3:a:wp-appbox_project:wp-appbox:4.3.20:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:wp-appbox_project:wp-appbox:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/mysticmetal/wp-appbox
-- pkg:github/wp-plugins/wp-appbox
-- pkg:github/wpplugins/wp-appbox

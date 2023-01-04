@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:native-opencv_project:native-opencv:3.0.0b:*:*:*:*:node.js:*:*
-- cpe:2.3:a:native-opencv_project:native-opencv:3.0.0:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/bloodaxe/npm-native-opencv
-- pkg:npm/native-opencv

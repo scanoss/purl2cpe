@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:afterlogic:webmail:7.7:*:*:*:*:*:*:*
-purls:
-- pkg:github/afterlogic/webmail-lite
-- pkg:github/afterlogic/webmail-lite-8

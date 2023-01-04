@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:lightbox_photo_gallery_project:lightbox_photo_gallery:1.0:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wpplugins/gallery-lightbox-slider
-- pkg:github/wp-plugins/simple-lightbox-gallery

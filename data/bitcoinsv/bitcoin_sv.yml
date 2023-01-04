@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:bitcoinsv:bitcoin_sv:*:*:*:*:*:*:*:*
-- cpe:2.3:a:bitcoinsv:bitcoin_sv:0.1.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/bitcoin-sv/bitcoin-sv

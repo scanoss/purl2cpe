@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:mark_evans:fog-dragonfly:0.8.1:*:*:*:*:ruby:*:*
-- cpe:2.3:a:mark_evans:fog-dragonfly:0.8.2:*:*:*:*:ruby:*:*
-purls:
-- pkg:gem/fog-dragonfly
-- pkg:github/markevans/dragonfly

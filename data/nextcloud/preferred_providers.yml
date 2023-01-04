@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:nextcloud:preferred_providers:1.6.0:*:*:*:*:*:*:*
-- cpe:2.3:a:nextcloud:preferred_providers:1.7.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/nextcloud/preferred_providers

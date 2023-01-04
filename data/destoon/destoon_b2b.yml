@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:destoon:destoon_b2b:7.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/nsf-trc/destoon
-- pkg:github/zrysmt/destoon

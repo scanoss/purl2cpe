@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:h:asuswrt-merlin:rt-n12hp:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/rmerl/asuswrt-merlin
-- pkg:github/rmerl/asuswrt-merlin.ng

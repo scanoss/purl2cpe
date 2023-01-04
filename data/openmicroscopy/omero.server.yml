@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:openmicroscopy:omero.server:5.0.0:*:*:*:*:*:*:*
-- cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*
-- cpe:2.3:a:openmicroscopy:omero.server:5.6.1:*:*:*:*:*:*:*
-purls:
-- pkg:docker/openmicroscopy/omero-server
-- pkg:github/ome/omero-server
-- pkg:maven/org.openmicroscopy/omero-server
-- pkg:pypi/omero-server

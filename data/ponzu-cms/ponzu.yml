@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ponzu-cms:ponzu:0.11.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/ponzu/ponzu
-- pkg:github/ponzu-cms/ponzu
-- pkg:sourceforge/ponzu.mirror

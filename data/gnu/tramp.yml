@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:gnu:tramp:-:*:*:*:*:*:*:*
-- cpe:2.3:a:gnu:tramp:2.1.10:*:*:*:*:*:*:*
-purls:
-- pkg:github/gitgnu/gnu_tramp
-- pkg:gnu/tramp

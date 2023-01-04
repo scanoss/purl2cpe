@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:wpsolr:wpsolr-search-engine:7.6:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/summerflowers/wpsolr-search-engine
-- pkg:github/wp-plugins/wpsolr-search-engine
-- pkg:github/wpplugins/wpsolr-search-engine

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:codecabin_:wp_live_chat_support:7.0.06:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/jarrydlong/wp-live-chat-support
-- pkg:github/wp-plugins/wp-live-chat-support
-- pkg:github/wpplugins/wp-live-chat-support

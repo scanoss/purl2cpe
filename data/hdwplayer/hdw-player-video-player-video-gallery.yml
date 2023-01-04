@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:hdwplayer:hdw-player-video-player-video-gallery:2.4.2:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/hdw-player-video-player-video-gallery
-- pkg:github/wpplugins/hdw-player-video-player-video-gallery

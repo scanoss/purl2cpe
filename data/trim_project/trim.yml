@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:trim_project:trim:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/component/trim
-- pkg:github/trott/trim
-- pkg:maven/org.webjars.npm/trim
-- pkg:npm/trim

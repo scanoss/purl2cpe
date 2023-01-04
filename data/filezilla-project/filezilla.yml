@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:filezilla-project:filezilla:3.59.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/filezilla
-- pkg:deb/ubuntu/filezilla
-- pkg:github/basvodde/filezilla
-- pkg:rpm/fedora/filezilla
-- pkg:rpm/opensuse/filezilla
-- pkg:sourceforge/filezilla

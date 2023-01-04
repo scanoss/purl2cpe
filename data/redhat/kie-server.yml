@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:redhat:kie-server:*:*:*:*:*:*:*:*
-- cpe:2.3:a:redhat:kie-server:7.21.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/kiegroup/droolsjbpm-integration
-- pkg:maven/org.kie.server/kie-server-parent

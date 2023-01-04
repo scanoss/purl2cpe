@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:rubyonrails:jquery-ujs:1.0.3:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/node-jquery-ujs
-- pkg:deb/ubuntu/node-jquery-ujs
-- pkg:gem/jquery-rails
-- pkg:github/rails/jquery-rails
-- pkg:maven/org.webjars.npm/jquery-ujs

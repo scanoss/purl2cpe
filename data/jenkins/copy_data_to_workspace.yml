@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:copy_data_to_workspace:1.0:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:copy_data_to_workspace:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/copy-data-to-workspace-plugin

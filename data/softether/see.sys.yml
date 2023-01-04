@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:softether:see.sys:-:*:*:*:*:*:*:*
-- cpe:2.3:a:softether:see.sys:4.25:*:*:*:*:*:*:*
-purls:
-- pkg:github/softethervpn/softethervpn
-- pkg:github/softethervpn/softethervpn_stable

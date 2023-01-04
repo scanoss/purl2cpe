@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ethereum:ethereumj:1.8.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/ethereum/ethereumj
-- pkg:github/hashgraph/ethereumj
-- pkg:maven/com.hedera.hashgraph/ethereumj-core

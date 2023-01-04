@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:bookly_project:bookly:*:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/stancel/bookly-responsive-appointment-booking-tool
-- pkg:github/wpplugins/bookly-responsive-appointment-booking-tool

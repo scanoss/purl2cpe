@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:factorfx:open_computer_software_inventory_next_generation:2.7:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/ocsinventory-server
-- pkg:deb/ubuntu/ocsinventory-server
-- pkg:github/ocsinventory-ng/ocsinventory-server

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:azure_arc:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/microsoft/azure_arc

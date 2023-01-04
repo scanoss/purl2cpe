@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:image-export_project:image-export:1.1:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/image-export

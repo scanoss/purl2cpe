@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:microsoft:open_enclave_sdk:-:*:*:*:*:*:*:*
-- cpe:2.3:a:microsoft:open_enclave_sdk:0.7.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/openenclave/openenclave
-- pkg:nuget/open-enclave

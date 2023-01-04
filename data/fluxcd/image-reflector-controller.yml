@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:fluxcd:image-reflector-controller:0.1.0:*:*:*:*:*:*:*
-- cpe:2.3:a:fluxcd:image-reflector-controller:0.22.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/fluxcd/flux2

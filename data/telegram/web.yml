@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:telegram:web:0.7.0:*:*:*:*:*:*:*
-purls:
-- pkg:github.com/zhukov/webogram

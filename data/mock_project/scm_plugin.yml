@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:mock_project:scm_plugin:-:*:*:*:*:mock:*:*
-purls:
-- pkg:github/rpm-software-management/mock

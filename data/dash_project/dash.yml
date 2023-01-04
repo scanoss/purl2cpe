@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:dash_project:dash:-:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/dash
-- pkg:deb/ubuntu/dash
-- pkg:github/mgree/libdash
-- pkg:rpm/fedora/dash
-- pkg:rpm/opensuse/dash

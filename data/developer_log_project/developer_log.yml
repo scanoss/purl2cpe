@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:developer_log_project:developer_log:2.11.3:*:*:*:*:typo3:*:*
-purls:
-- pkg:github/cobwebch/devlog
-- pkg:github/typo3-extensions/devlog

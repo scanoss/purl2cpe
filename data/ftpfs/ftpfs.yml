@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:ftpfs:ftpfs:-:*:*:*:*:*:*:*
-- cpe:2.3:a:ftpfs:ftpfs:0.1.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/defiant-labs/ftpfs-linux
-- pkg:github/melodiadev/ftpfs
-- pkg:github/mniec/ftpfs

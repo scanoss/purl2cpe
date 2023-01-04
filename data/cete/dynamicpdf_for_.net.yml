@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:cete:dynamicpdf_for_.net:5.1.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/dynamicpdf/coresuite-dotnet-core-framework

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:scniro-validator_project:scniro-validator:1.0.0:*:*:*:*:node.js:*:*
-- cpe:2.3:a:scniro-validator_project:scniro-validator:1.0.1:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/scniro/scniro-validator
-- pkg:npm/scniro-validator

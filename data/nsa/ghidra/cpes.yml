@@ -1,0 +1,6 @@
+cpes:
+- cpe:2.3:a:nsa:ghidra:9.0:*:*:*:*:*:*:*
+- cpe:2.3:a:nsa:ghidra:9.0.1:*:*:*:*:*:*:*
+- cpe:2.3:a:nsa:ghidra:9.0.2:*:*:*:*:*:*:*
+- cpe:2.3:a:nsa:ghidra:9.0.3:*:*:*:*:*:*:*
+- cpe:2.3:a:nsa:ghidra:9.0.4:*:*:*:*:*:*:*

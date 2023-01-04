@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:invitebox:invitebox:1.4.1:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:invitebox:invitebox:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/refer-a-friend-widget-for-wp
-- pkg:github/wpplugins/refer-a-friend-widget-for-wp

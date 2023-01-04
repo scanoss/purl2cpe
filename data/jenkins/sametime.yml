@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:sametime:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/sametime-plugin

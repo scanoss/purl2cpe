@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:osscube:custom_sitemap:7.x-1.0:*:*:*:*:drupal:*:*
-purls:
-- pkg:github/marcinkazmierski/sitemap_theme
-- pkg:github/samuelmc/custom_sitemap

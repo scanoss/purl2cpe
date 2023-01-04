@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:hznuoj_project:hznuoj:1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/hznuoj-dev/hznuoj
-- pkg:github/lixin-wei/hznuoj

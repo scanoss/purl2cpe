@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:mail_commander:1.0.0:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/mail-commander-plugin
-- pkg:github/sikakura/mailcommander

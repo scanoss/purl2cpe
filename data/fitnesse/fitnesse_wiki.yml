@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:fitnesse:fitnesse_wiki:20131110:*:*:*:*:*:*:*
-- cpe:2.3:a:fitnesse:fitnesse_wiki:20140201:*:*:*:*:*:*:*
-purls:
-- pkg:github/unclebob/fitnesse
-- pkg:maven/org.fitnesse/fitnesse

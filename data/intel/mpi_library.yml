@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:intel:mpi_library:2017:*:*:*:*:*:*:*
-purls:
-- pkg:github/intel/mpi

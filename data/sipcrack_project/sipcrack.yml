@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:sipcrack_project:sipcrack:0.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/sipcrack
-- pkg:deb/ubuntu/sipcrack
-- pkg:github/marciosouza20/sipcrack

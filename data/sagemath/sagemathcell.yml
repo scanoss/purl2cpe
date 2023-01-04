@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:sagemath:sagemathcell:-:*:*:*:*:*:*:*
-purls:
-- pkg:docker/korniichuk/sagemathcell
-- pkg:github/sagemath/sage
-- pkg:pypi/sagecell

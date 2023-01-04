@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:starteam:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/starteam-plugin

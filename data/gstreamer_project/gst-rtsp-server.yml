@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:gstreamer_project:gst-rtsp-server:1.14.5:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/mviewdev/gst-rtsp-server
-- pkg:deb/debian/gst-rtsp-server1.0
-- pkg:deb/ubuntu/gst-rtsp-server1.0
-- pkg:github/gstreamer/gst-rtsp-server
-- pkg:rpm/opensuse/gst-rtsp-server

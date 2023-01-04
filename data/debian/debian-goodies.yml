@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:debian:debian-goodies:-:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:debian-goodies:0.27:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:debian-goodies:0.33:*:*:*:*:*:*:*
-- cpe:2.3:a:debian:debian-goodies:0.34:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/debian-goodies
-- pkg:deb/ubuntu/debian-goodies
-- pkg:github/tpo/debian-goodies

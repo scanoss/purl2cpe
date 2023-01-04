@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:suse:openqa:*:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:openqa:2019-07-22:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/openqa
-- pkg:deb/ubuntu/openqa
-- pkg:github/os-autoinst/openqa
-- pkg:rpm/fedora/openqa
-- pkg:rpm/opensuse/openqa

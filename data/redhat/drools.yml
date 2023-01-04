@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:redhat:drools:6.1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/kiegroup/drools

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ipip_project:ipip:3.0.0:*:*:*:*:node.js:*:*
-- cpe:2.3:a:ipip_project:ipip:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/ym/node-ipip
-- pkg:npm/ipip

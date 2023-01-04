@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:pw3270_project:pw3270:-:*:*:*:*:*:*:*
-- cpe:2.3:a:pw3270_project:pw3270:5.1:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/pw3270/pw3270-application
-- pkg:github/perrywerneck/pw3270
-- pkg:rpm/fedora/pw3270
-- pkg:rpm/opensuse/pw3270

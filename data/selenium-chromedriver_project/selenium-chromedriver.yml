@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:selenium-chromedriver_project:selenium-chromedriver:0.0.1:*:*:*:*:node.js:*:*
-- cpe:2.3:a:selenium-chromedriver_project:selenium-chromedriver:0.0.2:*:*:*:*:node.js:*:*
-- cpe:2.3:a:selenium-chromedriver_project:selenium-chromedriver:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/jugglinmike/selenium-chromedriver
-- pkg:npm/selenium-chromedriver
-- pkg:nuget/Selenium.WebDriver.ChromeDriver

@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:getbootstrap:bootstrap-sass:3.2.0.3:*:*:*:*:ruby:*:*
-purls:
-- pkg:deb/debian/ruby-bootstrap-sass
-- pkg:deb/ubuntu/ruby-bootstrap-sass
-- pkg:gem/bootstrap-sass
-- pkg:github/twbs/bootstrap-sass
-- pkg:rpm/opensuse/rubygem-bootstrap-sass

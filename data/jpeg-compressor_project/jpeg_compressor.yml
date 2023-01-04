@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:jpeg-compressor_project:jpeg_compressor:0.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/kornelski/jpeg-compressor

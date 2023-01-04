@@ -1,0 +1,9 @@
+cpes:
+- cpe:2.3:a:openmrs:reference_application:*:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.3:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.4:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.5:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.6.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.7.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.8.0:*:*:*:*:*:*:*
+- cpe:2.3:a:openmrs:reference_application:2.9.0:*:*:*:*:*:*:*

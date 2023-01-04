@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jox_project:jox:1.16:*:*:*:*:*:*:*
-purls:
-- pkg:maven/com.wutka/jox
-- pkg:sourceforge/jox

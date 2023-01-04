@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:hyper.sh_commons:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/hyperhq/hyper-commons-plugin
-- pkg:github/jenkinsci/hyper-commons-plugin

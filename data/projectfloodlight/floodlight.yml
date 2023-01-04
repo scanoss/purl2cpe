@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:projectfloodlight:floodlight:1.2:*:*:*:*:*:*:*
-purls:
-- pkg:docker/pierrecdn/floodlight
-- pkg:github/floodlight/floodlight
-- pkg:sourceforge/floodlight

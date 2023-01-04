@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:vtenext:vtenext:19:*:*:*:community:*:*:*
-- cpe:2.3:a:vtenext:vtenext:20:*:*:*:community:*:*:*
-purls:
-- pkg:github/manueltag/vtenext
-- pkg:github/vtecrm/vtenext
-- pkg:sourceforge/vtecrm

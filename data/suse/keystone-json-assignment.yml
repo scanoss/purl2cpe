@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:suse:keystone-json-assignment:-:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:keystone-json-assignment:0.0.2:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:keystone-json-assignment:0.0.3:*:*:*:*:*:*:*
-- cpe:2.3:a:suse:keystone-json-assignment:2019-02-18:*:*:*:*:*:*:*
-purls:
-- pkg:github/suse-cloud/keystone-json-assignment
-- pkg:pypi/keystone-json-assignment
-- pkg:rpm/opensuse/python-keystone-json-assignment

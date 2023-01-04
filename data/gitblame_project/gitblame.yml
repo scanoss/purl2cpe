@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:gitblame_project:gitblame:0.1.0:*:*:*:*:node.js:*:*
-- cpe:2.3:a:gitblame_project:gitblame:0.1.1:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/xjamundx/gitblame
-- pkg:npm/gitblame

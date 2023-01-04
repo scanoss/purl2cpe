@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jsgui-lang-essentials_project:jsgui-lang-essentials:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/metabench/jsgui-lang-essentials
-- pkg:npm/jsgui-lang-essentials

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:eclipse:lyo:1.0.0:*:*:*:*:*:*:*
-- cpe:2.3:a:eclipse:lyo:4.1.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/eclipse/lyo
-- pkg:maven/org.eclipse.lyo/lyo-parent

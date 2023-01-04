@@ -1,0 +1,8 @@
+cpes:
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.10:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.1.9:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.0:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.1:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:4.2.2:*:*:*:*:wordpress:*:*
+- cpe:2.3:a:usabilitydynamics:wp-invoice:-:*:*:*:*:wordpress:*:*

@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:matrix:gomatrixserverlib:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/matrix-org/gomatrixserverlib

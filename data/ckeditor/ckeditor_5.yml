@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:ckeditor:ckeditor_5:*:*:*:*:*:*:*:*
-purls:
-- pkg:github/ckeditor/ckeditor5
-- pkg:npm/ckeditor5

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:xcftools_project:xcftools:1.0.7:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/xcftools
-- pkg:deb/ubuntu/xcftools
-- pkg:github/j-jorge/xcftools

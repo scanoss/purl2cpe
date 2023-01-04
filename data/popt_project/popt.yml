@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:popt_project:popt:1.16:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/popt
-- pkg:deb/ubuntu/popt
-- pkg:github/rpm-software-management/popt
-- pkg:gitlab/redhat/popt
-- pkg:rpm/fedora/popt
-- pkg:rpm/opensuse/popt

@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:unzoo:unzoo:-:*:*:*:*:*:*:*
-- cpe:2.3:a:unzoo:unzoo:4.4:*:*:*:*:*:*:*
-- cpe:2.3:a:unzoo:unzoo:4.4-2:*:*:*:*:*:*:*
-purls:
-- pkg:github//linvjw/unzoo
-- pkg:github/museoa/unzoo
-- pkg:rpm/fedora/unzoo
-- pkg:rpm/opensuse/unzoo

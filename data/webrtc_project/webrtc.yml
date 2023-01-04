@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:webrtc_project:webrtc:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/w3c/webrtc-pc

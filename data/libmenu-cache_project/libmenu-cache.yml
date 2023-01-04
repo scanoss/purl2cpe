@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:libmenu-cache_project:libmenu-cache:1.0.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/menu-cache
-- pkg:deb/ubuntu/menu-cache
-- pkg:github/lxde/menu-cache
-- pkg:rpm/fedora/menu-cache
-- pkg:rpm/opensuse/menu-cache

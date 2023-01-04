@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:divinglog:diving_log:6.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/infern1/phpdivinglog
-- pkg:sourceforge/phpdivinglog

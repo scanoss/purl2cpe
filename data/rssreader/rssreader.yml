@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:rssreader:rssreader:-:*:*:*:*:*:*:*
-- cpe:2.3:a:rssreader:rssreader:1.0.88:*:*:*:*:*:*:*
-purls:
-- pkg:github/w3stling/rssreader
-- pkg:maven/pl.domyno/rssreader-android
-- pkg:sourceforge/flingrssreader

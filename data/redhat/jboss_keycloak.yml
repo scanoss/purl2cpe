@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:redhat:jboss_keycloak:-:*:*:*:*:*:*:*
-purls:
-- pkg:docker/boss/keycloak
-- pkg:github/keycloak/keycloak-containers

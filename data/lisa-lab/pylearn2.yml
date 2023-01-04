@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:lisa-lab:pylearn2:-:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/csusm_hdmi_bnn/pylearn2
-- pkg:github/lisa-lab/pylearn2

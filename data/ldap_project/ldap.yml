@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:ldap_project:ldap:2.8.17:*:*:*:*:typo3:*:*
-purls:
-- pkg:github/typo3-svn-archive/eu_ldap

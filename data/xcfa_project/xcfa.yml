@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:xcfa_project:xcfa:-:*:*:*:*:*:*:*
-- cpe:2.3:a:xcfa_project:xcfa:5.0.1:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/xcfa
-- pkg:deb/ubuntu/xcfa

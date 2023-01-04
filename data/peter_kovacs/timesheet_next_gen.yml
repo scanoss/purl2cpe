@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:peter_kovacs:timesheet_next_gen:1.5.2:*:*:*:*:*:*:*
-purls:
-- pkg:github/nzn1/timesheetnextgen
-- pkg:sourceforge/tsheetx

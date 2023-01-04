@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:flask-mongo-skel_project:flask-mongo-skel:-:*:*:*:*:*:*:*
-- cpe:2.3:a:flask-mongo-skel_project:flask-mongo-skel:2012-11-01:*:*:*:*:*:*:*
-purls:
-- pkg:github/pleomax00/flask-mongo-skel

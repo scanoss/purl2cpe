@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ithemes:authorize.net:1.1.0:*:*:*:*:wordpress:*:*
-- cpe:2.3:a:ithemes:authorize.net:-:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/free-woocommerce-extensions/authorizenet-payment-gateway-for-woocommerce
-- pkg:github/wp-plugins/authorizenet-payment-gateway-for-woocommerce

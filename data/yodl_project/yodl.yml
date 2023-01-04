@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:yodl_project:yodl:3.06.00:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/yodl
-- pkg:deb/ubuntu/yodl
-- pkg:github/fbb-git/yodl
-- pkg:gitlab/fbb-git/yodl
-- pkg:rpm/opensuse/yodl
-- pkg:sourceforge/yodl

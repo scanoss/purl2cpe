@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:arduino_json_project:arduino_json:4.4:*:*:*:*:*:*:*
-purls:
-- pkg:bitbucket/aquatek/arduinojson
-- pkg:bitbucket/mcissek/arduinojson
-- pkg:github/bblanchon/arduinojson
-- pkg:sourceforge/arduinojson.mirror

@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:standard_taglibs:1.2.1:*:*:*:*:*:*:*
-purls:
-- pkg:apache/tomcat
-- pkg:github/apache/tomcat-taglibs-standard
-- pkg:maven/org.apache.taglibs/org.apache.taglibs.standard

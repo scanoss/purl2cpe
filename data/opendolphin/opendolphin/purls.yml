@@ -1,0 +1,4 @@
+purls:
+- pkg:github/dolphin-dev/docker-images
+- pkg:github/dolphin-dev/opendolphin
+- pkg:npm/OpenDolphin

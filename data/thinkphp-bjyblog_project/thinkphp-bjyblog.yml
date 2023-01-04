@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:thinkphp-bjyblog_project:thinkphp-bjyblog:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/baijunyao/thinkphp-bjyblog
-- pkg:github/hujianli94/thinkphp-bjyblog
-- pkg:github/kkmrtan/thinkphp-bjyblog

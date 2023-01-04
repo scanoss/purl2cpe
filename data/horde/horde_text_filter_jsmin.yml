@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:horde:horde_text_filter_jsmin:1.0.0:*:*:*:*:*:*:*
-- cpe:2.3:a:horde:horde_text_filter_jsmin:1.0.1:*:*:*:*:*:*:*
-- cpe:2.3:a:horde:horde_text_filter_jsmin:1.0.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/php-horde-text-filter-jsmin
-- pkg:deb/ubuntu/php-horde-text-filter-jsmin
-- pkg:github/horde/text_filter_jsmin

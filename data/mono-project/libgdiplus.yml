@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:mono-project:libgdiplus:2.6.7:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/libgdiplus
-- pkg:deb/ubuntu/libgdiplus
-- pkg:github/mono/libgdiplus
-- pkg:rpm/fedora/libgdiplus
-- pkg:rpm/opensuse/libgdiplus

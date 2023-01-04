@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:fortress:2.0.5:*:*:*:*:*:*:*
-purls:
-- pkg:github/apache/directory-fortress-core
-- pkg:maven/excalibur-fortress/excalibur-fortress

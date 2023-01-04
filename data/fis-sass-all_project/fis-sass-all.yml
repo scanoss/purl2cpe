@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:fis-sass-all_project:fis-sass-all:0.2.0:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/fis-dev/fis-sass

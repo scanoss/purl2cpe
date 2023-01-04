@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:fuseiso_project:fuseiso:20070708:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/fuseiso
-- pkg:deb/ubuntu/fuseiso
-- pkg:github/kaos-community-packages/fuseiso
-- pkg:rpm/opensuse/fuseiso
-- pkg:sourceforge/fuseiso

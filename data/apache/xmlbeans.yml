@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:xmlbeans:2.6.0:*:*:*:*:*:*:*
-purls:
-- pkg:apache/xmlbeans
-- pkg:deb/debian/xmlbeans
-- pkg:deb/ubuntu/xmlbeans
-- pkg:github/apache/xmlbeans
-- pkg:maven/org.apache.xmlbeans/xmlbeans
-- pkg:rpm/opensuse/xmlbeans

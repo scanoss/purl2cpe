@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:google:web_server:2.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/gwtproject/gwt
-- pkg:maven/com.google.gwt/gwt

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:democritus_uuids_project:democritus_uuids:0.1.0:*:*:*:*:python:*:*
-purls:
-- pkg:github/democritus-project/d8s-uuids
-- pkg:pypi/d8s-uuids

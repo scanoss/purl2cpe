@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:apptha:contus_video_gallery:2.5:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/aydns7/contus-video-gallery
-- pkg:github/sanyaade-teachings/contus-video-gallery
-- pkg:github/wp-plugins/contus-video-gallery

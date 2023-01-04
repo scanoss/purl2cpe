@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:9base_project:9base:1\:6-6:*:*:*:*:*:*:*
-- cpe:2.3:a:9base_project:9base:1\:6-7:*:*:*:*:*:*:*
-purls:
-- pkg:alpine/9base
-- pkg:alpinelinux/9base
-- pkg:deb/debian/9base
-- pkg:github/z101/9base
-- pkg:suckless/9base

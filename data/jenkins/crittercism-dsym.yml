@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:crittercism-dsym:-:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/crittercism-dsym-plugin
-- pkg:github/mhassanpur/crittercism-dsym

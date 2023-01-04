@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:epignosis:efront:3.6.15.2:*:*:*:open_source:*:*:*
-purls:
-- pkg:github/caernel/efront_open_source

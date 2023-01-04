@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:wideimage_project:wideimage:11.02.19:*:*:*:*:*:*:*
-purls:
-- pkg:github/smottt/wideimage
-- pkg:sourceforge/wideimage

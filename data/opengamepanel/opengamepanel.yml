@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:opengamepanel:opengamepanel:2021-08-14:*:*:*:*:linux_kernel:*:*
-- cpe:2.3:a:opengamepanel:opengamepanel:-:*:*:*:*:linux_kernel:*:*
-purls:
-- pkg:github/opengamepanel/ogp-agent-linux

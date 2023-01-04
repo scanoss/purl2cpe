@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:synaptivemedical:clearcanvas:3.0:alpha:*:*:*:*:*:*
-purls:
-- pkg:github/clearcanvas/clearcanvas
-- pkg:sourceforge/clearcanvas

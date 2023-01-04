@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:tad_web_project:tad_web:*:*:*:*:*:*:*:*
-- cpe:2.3:a:tad_web_project:tad_web:-:*:*:*:*:*:*:*
-- cpe:2.3:a:tad_web_project:tad_web:1.76:*:*:*:*:*:*:*
-purls:
-- pkg:github/tad0616/tad_web

@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:freelan:freelan:2.2:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/freelan
-- pkg:deb/ubuntu/freelan
-- pkg:docker/freelan/freelan
-- pkg:github/freelan-developers/freelan

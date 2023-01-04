@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:apache:whisker:-:*:*:*:*:*:*:*
-- cpe:2.3:a:apache:whisker:0.2:*:*:*:*:*:*:*
-purls:
-- pkg:apache/creadur
-- pkg:github/apache/creadur-whisker

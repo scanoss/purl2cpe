@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:limbas:limbas:4.3.36.1319:*:*:*:*:*:*:*
-purls:
-- pkg:github/limbas/limbas
-- pkg:sourceforge/limbas

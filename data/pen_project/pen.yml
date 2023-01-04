@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:pen_project:pen:0.18.0:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/pen
-- pkg:deb/ubuntu/pen
-- pkg:github/ulrice/pen
-- pkg:rpm/opensuse/pen

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:trust_form_project:trust_form:2.0:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/tiwakawa/trust-form
-- pkg:github/wp-plugins/trust-form

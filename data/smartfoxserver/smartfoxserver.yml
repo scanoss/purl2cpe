@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:smartfoxserver:smartfoxserver:2.17.0:*:*:*:*:*:*:*
-purls:
-- pkg:docker/tyroonis/smartfoxserver2x
-- pkg:github/jelastic-jps/smartfoxserver-2x
-- pkg:nuget/Sfs2X

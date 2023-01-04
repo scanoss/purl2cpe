@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:ruby-lang:trunk:-:*:*:*:*:*:*:*
-- cpe:2.3:a:ruby-lang:trunk:50292:*:*:*:*:*:*:*
-purls:
-- pkg:docker/esolang/ruby-trunk

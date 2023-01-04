@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:morningstarsecurity:whatweb:0.4.9:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/whatweb
-- pkg:deb/ubuntu/whatweb
-- pkg:github/urbanadventurer/whatweb
-- pkg:rpm/opensuse/whatweb

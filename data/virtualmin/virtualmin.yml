@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:virtualmin:virtualmin:6.03:*:*:*:*:*:*:*
-purls:
-- pkg:github/virtualmin/virtualmin-gpl

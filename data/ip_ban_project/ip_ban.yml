@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:ip_ban_project:ip_ban:1.2.3:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/andrewcy86/simple-ip-ban
-- pkg:github/wp-plugins/simple-ip-ban
-- pkg:github/wpplugins/simple-ip-ban

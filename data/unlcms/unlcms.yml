@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:unlcms:unlcms:7.31:*:*:*:*:*:*:*
-- cpe:2.3:a:unlcms:unlcms:7.32:*:*:*:*:*:*:*
-- cpe:2.3:a:unlcms:unlcms:7.33:*:*:*:*:*:*:*
-- cpe:2.3:a:unlcms:unlcms:7.59:*:*:*:*:*:*:*
-purls:
-- pkg:github/unlcms/unl-cms

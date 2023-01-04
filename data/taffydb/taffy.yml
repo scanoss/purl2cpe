@@ -1,6 +1,0 @@
-cpes:
-- cpe:2.3:a:taffydb:taffy:2.6.2:*:*:*:*:node.js:*:*
-- cpe:2.3:a:taffydb:taffy:-:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/piscis/taffydb-node
-- pkg:npm/taffy

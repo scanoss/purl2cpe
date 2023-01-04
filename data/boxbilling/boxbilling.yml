@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:boxbilling:boxbilling:*:*:*:*:*:*:*:*
-- cpe:2.3:a:boxbilling:boxbilling:0.0.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/boxbilling/boxbilling

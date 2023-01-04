@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:jxplorer:jxplorer:3.2.1:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/jxplorer
-- pkg:deb/ubuntu/jxplorer
-- pkg:github/pegacat/jxplorer
-- pkg:rpm/opensuse/jxplorer
-- pkg:sourceforge/jxplorer

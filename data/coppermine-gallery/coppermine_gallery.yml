@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:coppermine-gallery:coppermine_gallery:*:*:*:*:*:*:*:*
-- cpe:2.3:a:coppermine-gallery:coppermine_gallery:1.4.26:*:*:*:*:*:*:*
-purls:
-- pkg:github/coppermine-gallery/cpg1.6.x

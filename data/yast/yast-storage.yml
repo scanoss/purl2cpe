@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:yast:yast-storage:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/yast/yast-storage-ng

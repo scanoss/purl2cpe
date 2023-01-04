@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:jenkins:opsgenie:1.1:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:opsgenie:1.2:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:opsgenie:1.5:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:opsgenie:1.8:*:*:*:*:jenkins:*:*
-- cpe:2.3:a:jenkins:opsgenie:1.9:*:*:*:*:jenkins:*:*
-purls:
-- pkg:github/jenkinsci/opsgenie-plugin
-- pkg:github/opsgenie/opsgenie-jenkins-plugin

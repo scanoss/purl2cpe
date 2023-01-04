@@ -1,4 +1,0 @@
-cpes:
-- cpe:2.3:a:php-nuke:php-nuke:8.1:*:*:*:*:*:*:*
-purls:
-- pkg:github/phpnuke/phpnuke

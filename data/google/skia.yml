@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:google:skia:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/google/skia
-- pkg:googlesource/skia

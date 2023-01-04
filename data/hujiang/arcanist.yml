@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:hujiang:arcanist:0.0.1:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/hujiang-fe/arcanist
-- pkg:npm/arcanist

@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:windows-seleniumjar_project:windows-seleniumjar:2.48.2:*:*:*:*:node.js:*:*
-purls:
-- pkg:github/isnit0/windows_seleniumjar
-- pkg:npm/windows-seleniumjar

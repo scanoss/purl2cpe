@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:suse:susefirewall2:-:*:*:*:*:*:*:*
-purls:
-- pkg:github/opensuse/susefirewall2
-- pkg:rpm/opensuse/susefirewall2

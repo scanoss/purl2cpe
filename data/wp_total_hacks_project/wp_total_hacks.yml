@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:wp_total_hacks_project:wp_total_hacks:4.7.2:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/wp-total-hacks
-- pkg:github/wpplugins/wp-total-hacks

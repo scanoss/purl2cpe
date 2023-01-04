@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:devhubapp:devhub:0.102.0:*:*:*:*:*:*:*
-purls:
-- pkg:github/devhubapp/devhub
-- pkg:sourceforge/devhub.mirror

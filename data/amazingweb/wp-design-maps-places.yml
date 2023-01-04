@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:amazingweb:wp-design-maps-places:1.2:*:*:*:*:wordpress:*:*
-purls:
-- pkg:github/wp-plugins/wp-design-maps-places
-- pkg:github/wpplugins/wp-design-maps-places

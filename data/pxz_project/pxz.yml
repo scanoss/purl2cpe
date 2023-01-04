@@ -1,8 +1,0 @@
-cpes:
-- cpe:2.3:a:pxz_project:pxz:4.999.99:beta3:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/pxz
-- pkg:deb/ubuntu/pxz
-- pkg:github/yenforyang/debian-pxz
-- pkg:rpm/fedora/pxz
-- pkg:rpm/opensuse/pxz

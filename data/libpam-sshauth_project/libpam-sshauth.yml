@@ -1,5 +1,0 @@
-cpes:
-- cpe:2.3:a:libpam-sshauth_project:libpam-sshauth:-:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/libpam-sshauth
-- pkg:deb/ubuntu/libpam-sshauth

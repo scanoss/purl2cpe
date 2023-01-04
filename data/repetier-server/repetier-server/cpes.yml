@@ -1,0 +1,11 @@
+cpes:
+- cpe:2.3:a:repetier-server:repetier-server:-:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.51:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.60:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.65:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.70:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.75:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.80:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.85:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.90:*:*:*:*:*:*:*
+- cpe:2.3:a:repetier-server:repetier-server:0.91:*:*:*:*:*:*:*

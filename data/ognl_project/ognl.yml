@@ -1,9 +1,0 @@
-cpes:
-- cpe:2.3:a:ognl_project:ognl:3.0.11:*:*:*:*:*:*:*
-purls:
-- pkg:apache/commons-ognl
-- pkg:deb/debian/ognl
-- pkg:deb/ubuntu/ognl
-- pkg:github/jkuhnert/ognl
-- pkg:maven/ognl/ognl
-- pkg:rpm/opensuse/apache-commons-ognl

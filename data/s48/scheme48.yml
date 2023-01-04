@@ -1,7 +1,0 @@
-cpes:
-- cpe:2.3:a:s48:scheme48:-:*:*:*:*:*:*:*
-purls:
-- pkg:deb/debian/scheme48
-- pkg:deb/ubuntu/scheme48
-- pkg:github/shixiongfei-forks/scheme48
-- pkg:rpm/opensuse/scheme48
