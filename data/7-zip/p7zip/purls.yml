@@ -1,9 +1,10 @@
 purls:
+- pkg:generic/7-zip.org/7zip
 - pkg:gitee/han_jin_fei/p7zip
 - pkg:github/freayd/p7zip
 - pkg:github/jbdemonte/p7zip
 - pkg:github/jinfeihan57/p7zip
 - pkg:github/mcmilk/7-zip
 - pkg:sourceforge/p7zip
+- pkg:sourcefogre/7zip
 - pkg:sourceforge/sevenzip
-- pkg:generig/7-zip.org/7zip
