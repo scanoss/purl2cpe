@@ -6,3 +6,4 @@ purls:
 - pkg:github/mcmilk/7-zip
 - pkg:sourceforge/p7zip
 - pkg:sourceforge/sevenzip
+- pkg:generig/7-zip.org/7zip
