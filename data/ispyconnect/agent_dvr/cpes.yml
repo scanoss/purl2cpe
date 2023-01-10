@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ispyconnect:agent_dvr:2.7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ispyconnect:agent_dvr:2.7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ispyconnect:agent_dvr:7.2.2.0:*:*:*:*:*:*:*

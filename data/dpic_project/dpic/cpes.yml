@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:dpic_project:dpic:2019-06-20:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpic_project:dpic:2019-07-20:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpic_project:dpic:2019-07-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpic_project:dpic:2019-08-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpic_project:dpic:2019-11-30:*:*:*:*:*:*:*

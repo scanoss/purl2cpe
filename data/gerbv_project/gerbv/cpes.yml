@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.0:forked_dev:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.1:-:*:*:*:*:*:forked
+  - cpe:2.3:a:gerbv_project:gerbv:2.7.1:forked_dev:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerbv_project:gerbv:2.8.0:-:*:*:*:*:*:forked
+  - cpe:2.3:a:gerbv_project:gerbv:2.8.0:forked_dev:*:*:*:*:*:*

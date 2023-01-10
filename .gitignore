@@ -1,0 +1,11 @@
+*.db
+.idea
+.vscode/
+tmp/
+__pycache__
+venv/
+*.zip
+*.tar
+*.tgz
+*.gz
+

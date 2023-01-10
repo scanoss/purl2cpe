@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:newrelic:.net_agent:6.2.26.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/newrelic/newrelic-dotnet-agent
+  - pkg:nuget/NewRelic.Agent

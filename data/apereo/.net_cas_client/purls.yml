@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apereo/dotnet-cas-client
+  - pkg:nuget/DotNetCasClient

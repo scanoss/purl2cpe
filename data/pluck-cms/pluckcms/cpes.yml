@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:pluck-cms:pluckcms:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluck-cms:pluckcms:4.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluck-cms:pluckcms:4.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluck-cms:pluckcms:4.7.4:*:*:*:*:*:*:*

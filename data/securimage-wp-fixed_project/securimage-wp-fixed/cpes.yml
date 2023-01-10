@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:securimage-wp-fixed_project:securimage-wp-fixed:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securimage-wp-fixed_project:securimage-wp-fixed:-:*:*:*:*:wordpress:*:*

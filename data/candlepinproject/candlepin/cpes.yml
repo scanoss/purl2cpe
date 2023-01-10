@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:candlepinproject:candlepin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.4.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:3.1.28-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:3.2.21-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:4.1.8-1:*:*:*:*:*:*:*

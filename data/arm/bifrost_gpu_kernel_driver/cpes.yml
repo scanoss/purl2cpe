@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r0p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r40p0:*:*:*:*:*:*:*

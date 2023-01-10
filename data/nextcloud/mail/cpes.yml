@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:nextcloud:mail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:mail:1.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:mail:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:mail:1.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:mail:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:mail:1.13.6:*:*:*:*:*:*:*

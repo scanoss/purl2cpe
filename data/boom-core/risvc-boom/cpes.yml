@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:boom-core:risvc-boom:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:boom-core:risvc-boom:3.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:rabbitmq-c_project:rabbitmq-c:0.9.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mgetty_project:mgetty:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mgetty_project:mgetty:1.2.1:*:*:*:*:*:*:*

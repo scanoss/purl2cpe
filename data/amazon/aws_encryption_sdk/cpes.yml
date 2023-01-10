@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amazon:aws_encryption_sdk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_encryption_sdk:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_encryption_sdk:2.0.0:*:*:*:*:*:*:*

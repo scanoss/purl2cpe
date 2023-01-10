@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libav-tools
+  - pkggithub/libav/libav
+  - pkg:rpm/opensuse/libav

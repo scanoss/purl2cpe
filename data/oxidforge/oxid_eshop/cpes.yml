@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13895:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13895:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13895:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13934:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13934:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_13934:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_14260:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_14260:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.0_14260:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.1_14455:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.1_14455:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.1_14455:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.2_14842:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.2_14842:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.2_14842:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.2_14967:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.0.2_14967:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.1.0_15990:*:enterprise_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.0.1.0_15990:*:pro_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:44.0.1.0_15990:*:community_edition:*:*:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.9.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:4.9.8:*:*:*:professional:*:*:*
+  - cpe:2.3:a:oxidforge:oxid_eshop:5.2.8:*:*:*:enterprise:*:*:*
