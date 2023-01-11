@@ -256,7 +256,17 @@ cpes:
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone25:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone26:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone27:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone28:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone29:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone30:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone31:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone32:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone33:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone34:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone35:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone36:*:*:*:*:*:*
+  - cpe:2.3:a:typelevel:http4s:1.0.0:milestone37:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:typelevel:http4s:1.0.0:milestone6:*:*:*:*:*:*
