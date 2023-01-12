@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openharmony:openharmony:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openharmony:openharmony:*:*:*:*:-:*:*:*
   - cpe:2.3:a:openharmony:openharmony:1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openharmony:openharmony:1.1.0:long_term_support:*:*:*:*:*:*
