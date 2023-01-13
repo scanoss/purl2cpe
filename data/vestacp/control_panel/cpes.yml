@@ -27,6 +27,7 @@ cpes:
   - cpe:2.3:a:vestacp:control_panel:0.9.8-23:*:*:*:*:*:*:*
   - cpe:2.3:a:vestacp:control_panel:0.9.8-24:*:*:*:*:*:*:*
   - cpe:2.3:a:vestacp:control_panel:0.9.8-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:vestacp:control_panel:0.9.8-26-43:*:*:*:*:*:*:*
   - cpe:2.3:a:vestacp:control_panel:0.9.8-3:*:*:*:*:*:*:*
   - cpe:2.3:a:vestacp:control_panel:0.9.8-4:*:*:*:*:*:*:*
   - cpe:2.3:a:vestacp:control_panel:0.9.8-5:*:*:*:*:*:*:*

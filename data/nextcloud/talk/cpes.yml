@@ -128,6 +128,7 @@ cpes:
   - cpe:2.3:a:nextcloud:talk:14.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:14.1.0:*:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:2.0.0:-:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:2.0.0:beta4:*:*:*:android:*:*

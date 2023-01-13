@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:venice_project:venice:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:venice_project:venice:-:*:*:*:*:*:*:*
   - cpe:2.3:a:venice_project:venice:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:venice_project:venice:0.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:venice_project:venice:0.7.2:*:*:*:*:*:*:*

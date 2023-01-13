@@ -118,7 +118,13 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p24:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p25:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p26:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p27:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p28:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p29:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p3:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p30:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p31:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.0.0:p32:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.0.0:p6:*:*:*:*:*:*
@@ -135,6 +141,21 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.1.0:b8:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:b9:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p1:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p10:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p11:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p12:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p13:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p14:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p15:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p16:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p17:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p18:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p2:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p3:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p4:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p5:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p6:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p7:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p8:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p9:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:i1:*:*:*:*:*:*

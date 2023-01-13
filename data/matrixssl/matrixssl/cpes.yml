@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:matrixssl:matrixssl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:matrixssl:matrixssl:-:*:*:*:*:*:*:*
   - cpe:2.3:a:matrixssl:matrixssl:3.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:matrixssl:matrixssl:3.8.2:*:*:*:*:*:*:*
