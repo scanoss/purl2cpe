@@ -70,3 +70,7 @@ cpes:
   - cpe:2.3:o:riot-os:riot:2020.04:*:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2021.01:*:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2021.01:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.01:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.01:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.01:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.01:rc4:*:*:*:*:*:*
