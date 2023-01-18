@@ -43,6 +43,7 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:2.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.13.10:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.4:*:*:*:*:*:*:*
@@ -50,6 +51,7 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:2.13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.13.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.13.9:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.14.2:*:*:*:*:*:*:*
@@ -57,20 +59,28 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:2.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.14.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.15.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.17.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.3.1:*:*:*:*:*:*:*
@@ -136,3 +146,5 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:2.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:3.0.2:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:zip4j_project:zip4j:*:*:*:*:*:*:*:*
   - cpe:2.3:a:zip4j_project:zip4j:-:*:*:*:*:*:*:*
   - cpe:2.3:a:zip4j_project:zip4j:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zip4j_project:zip4j:1.0.1:*:*:*:*:*:*:*
