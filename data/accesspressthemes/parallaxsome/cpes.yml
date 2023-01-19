@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:accesspressthemes:parallaxsome:1.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accesspressthemes:parallaxsome:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accesspressthemes:parallaxsome:-:*:*:*:*:wordpress:*:*

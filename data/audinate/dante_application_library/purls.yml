@@ -1,0 +1,11 @@
+purls:
+  - pkg:cpan/crypt-sodium
+  - pkg:deb/debian/libsodium
+  - pkg:deb/ubuntu/libsodium
+  - pkg:github/jedisct1/libsodium
+  - pkg:gitlab/redhat/libsodium
+  - pkg:maven/org.webjars.npm/libsodium
+  - pkg:npm/libsodium
+  - pkg:nuget/libsodium
+  - pkg:rpm/fedora/libsodium
+  - pkg:rpm/opensuse/libsodium

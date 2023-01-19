@@ -11,4 +11,5 @@ cpes:
   - cpe:2.3:a:brew:mruby:2.1.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:brew:mruby:3.0.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:brew:mruby:3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:brew:mruby:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:brew:mruby:-:*:*:*:*:ruby:*:*

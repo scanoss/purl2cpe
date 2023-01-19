@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:0.10.10:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dgarijo/widoco
+  - pkg:maven/com.github.dgarijo/widoco

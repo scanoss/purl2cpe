@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/dgen
+  - pkg:sourceforge/dgen

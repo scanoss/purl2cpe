@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/python-future
+  - pkg:github/pythoncharmers/python-future
