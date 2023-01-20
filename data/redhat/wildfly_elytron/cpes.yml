@@ -151,6 +151,7 @@ cpes:
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:wildfly_elytron:1.15.15:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_elytron:1.15.4:*:*:*:*:*:*:*

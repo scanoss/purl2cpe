@@ -80,6 +80,7 @@ cpes:
   - cpe:2.3:a:redhat:keycloak:1.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:1.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:20.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.1.0:cr1:*:*:*:*:*:*

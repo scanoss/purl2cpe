@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gpg4win:gpg4win:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gpg4win:gpg4win:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gpg4win:gpg4win:1.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gpg4win:gpg4win:2.0.1:*:*:*:*:*:*:*

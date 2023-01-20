@@ -10,6 +10,12 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:jakarta:p6a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:jakarta:p7:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:jakarta:p8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:quebec:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:patch_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:patch_4:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1a:*:*:*:*:*:*
