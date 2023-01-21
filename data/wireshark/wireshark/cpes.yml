@@ -343,3 +343,5 @@ cpes:
   - cpe:2.3:a:wireshark:wireshark:3.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:3.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:3.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.0.1:*:*:*:*:*:*:*

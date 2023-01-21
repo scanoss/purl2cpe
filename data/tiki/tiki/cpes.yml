@@ -26,6 +26,7 @@ cpes:
   - cpe:2.3:a:tiki:tiki:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:beta2:*:*:*:*:*:*

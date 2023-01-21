@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:eshop_project:eshop:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eshop_project:eshop:*:*:*:*:*:-:*:*
+  - cpe:2.3:a:eshop_project:eshop:-:*:*:*:*:-:*:*
   - cpe:2.3:a:eshop_project:eshop:2.11.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:eshop_project:eshop:2.11.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:eshop_project:eshop:2.11.2:*:*:*:*:wordpress:*:*

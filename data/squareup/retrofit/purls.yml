@@ -1,5 +1,3 @@
 purls:
   - pkg:github/square/retrofit
-  - pkg:maven/com.squareup.retrofit2/retrofit2
-  - pkg:nuget/Square.Retrofit
-  - pkg:nuget/Square.Retrofit2
+  - pkg:maven/com.squareup.retrofit2/retrofit
