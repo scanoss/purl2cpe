@@ -77,9 +77,31 @@ cpes:
   - cpe:2.3:a:link_library_project:link_library:7.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:beta1:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:beta2:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:beta3:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:beta4:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:-:*:*:*:*:wordpress:*:*

@@ -167,6 +167,7 @@ cpes:
   - cpe:2.3:a:gnupg:gnupg:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.1.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.1.11:*:*:*:*:*:*:*
@@ -208,10 +209,14 @@ cpes:
   - cpe:2.3:a:gnupg:gnupg:2.2.23:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.2.40:*:*:*:lts:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.2.41:*:*:*:lts:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.3.8:*:*:*:-:*:*:*
   - cpe:2.3:a:gnupg:gnupg:*:*:*:*:lts:*:*:*
