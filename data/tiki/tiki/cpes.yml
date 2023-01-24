@@ -14,19 +14,53 @@ cpes:
   - cpe:2.3:a:tiki:tiki:17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:18.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:18.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:18.9:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:19.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:20.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:21.7:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:23.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:24.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:25.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:25.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:25.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:3.0:beta2:*:*:*:*:*:*
