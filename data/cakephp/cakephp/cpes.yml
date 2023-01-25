@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cakephp:cakephp:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cakephp:cakephp:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:cakephp:cakephp:1.2.1:-:*:*:*:*:*:*
   - cpe:2.3:a:cakephp:cakephp:1.2.10:-:*:*:*:*:*:*
