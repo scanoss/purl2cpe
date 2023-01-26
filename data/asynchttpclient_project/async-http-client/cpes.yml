@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:asynchttpclient_project:async-http-client:*:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:1.2.0:*:*:*:*:*:*:*

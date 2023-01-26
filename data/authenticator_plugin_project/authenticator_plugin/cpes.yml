@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:authenticator_plugin_project:authenticator_plugin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:authenticator_plugin_project:authenticator_plugin:-:*:*:*:*:*:*:*

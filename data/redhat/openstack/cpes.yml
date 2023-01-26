@@ -10,6 +10,7 @@ cpes:
   - cpe:2.3:a:redhat:openstack:12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack:13:*:*:*:els:*:*:*
   - cpe:2.3:a:redhat:openstack:14:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:15:*:*:*:*:*:*:*
@@ -18,6 +19,8 @@ cpes:
   - cpe:2.3:a:redhat:openstack:16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:16.2:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:16.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack:17:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack:17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack:3.0:*:*:*:*:*:*:*

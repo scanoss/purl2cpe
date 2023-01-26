@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:a:redhat:openstack_platform:16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack_platform:16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openstack_platform:16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:17.0:*:*:*:*:*:*:*
