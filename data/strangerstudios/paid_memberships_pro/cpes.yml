@@ -230,4 +230,22 @@ cpes:
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.6.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:*:*:*:*:*:wordpress:*:*
