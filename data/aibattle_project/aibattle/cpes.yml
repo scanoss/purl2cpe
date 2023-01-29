@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:aibattle_project:aibattle:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aibattle_project:aibattle:-:*:*:*:*:*:*:*
