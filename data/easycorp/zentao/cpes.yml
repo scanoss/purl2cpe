@@ -79,6 +79,21 @@ cpes:
   - cpe:2.3:a:easycorp:zentao:15.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:16.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:16.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:17.8:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:18.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:20.0:-:*:*:*:*:*:*

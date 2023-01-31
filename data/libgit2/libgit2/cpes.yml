@@ -90,3 +90,4 @@ cpes:
   - cpe:2.3:a:libgit2:libgit2:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libgit2:libgit2:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libgit2:libgit2:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2:libgit2:1.5.0:*:*:*:*:*:*:*
