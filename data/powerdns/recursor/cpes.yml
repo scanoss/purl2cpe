@@ -140,3 +140,4 @@ cpes:
   - cpe:2.3:a:powerdns:recursor:4.7.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:4.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:4.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:powerdns:recursor:4.8.0:*:*:*:*:*:*:*
