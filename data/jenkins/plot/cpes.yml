@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:jenkins:plot:2.1.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:plot:2.1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:plot:2.1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:plot:-:*:*:*:*:jenkins:*:*

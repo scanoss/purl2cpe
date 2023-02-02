@@ -19,3 +19,5 @@ cpes:
   - cpe:2.3:a:jenkins:sonar_gerrit:2.2.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:sonar_gerrit:2.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:sonar_gerrit:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:sonar_gerrit:377.v8f3808963dc5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:sonar_gerrit:-:*:*:*:*:jenkins:*:*

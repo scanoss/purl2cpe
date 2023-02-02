@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:2.4:*:*:*:*:jenkins:*:*
