@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openstack:cinder:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:10.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:10.0.0:beta2:*:*:*:*:*:*
