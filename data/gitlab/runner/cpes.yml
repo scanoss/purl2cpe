@@ -254,6 +254,11 @@ cpes:
   - cpe:2.3:a:gitlab:runner:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:runner:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:runner:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:runner:15.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:runner:15.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:runner:15.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:runner:15.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:runner:15.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:runner:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:runner:1.6.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:runner:1.6.0:rc1:*:*:*:*:*:*

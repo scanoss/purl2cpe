@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift:4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:4.1.37:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:4.2.21:*:*:*:*:*:*:*

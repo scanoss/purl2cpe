@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:jenkins:azure_ad:234.vb_ece34ecd5ff:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:241.vb_e5cd7c35b_2e:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:267.v5b_dfb_514d9fd:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:303.va_91ef20ee49f:*:*:*:*:jenkins:*:*
