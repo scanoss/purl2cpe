@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:digint:btrbk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:digint:btrbk:0.31.2:*:*:*:*:*:*:*

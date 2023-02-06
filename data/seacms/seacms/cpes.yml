@@ -6,6 +6,7 @@ cpes:
   - cpe:2.3:a:seacms:seacms:11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:seacms:seacms:12.7:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:2021-05-30:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:210530:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:3.1:*:*:*:*:*:*:*

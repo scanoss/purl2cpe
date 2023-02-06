@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bumsys_project:bumsys:1.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:bumsys_project:bumsys:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bumsys_project:bumsys:1.0.2:beta:*:*:*:*:*:*

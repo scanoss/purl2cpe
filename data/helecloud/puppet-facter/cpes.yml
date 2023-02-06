@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:helecloud:puppet-facter:*:*:*:*:*:node.js:*:*
