@@ -43,4 +43,9 @@ cpes:
   - cpe:2.3:a:sanitize_project:sanitize:4.6.5:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sanitize_project:sanitize:4.6.6:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sanitize_project:sanitize:5.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:5.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:5.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sanitize_project:sanitize:5.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:5.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:5.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:6.0.0:*:*:*:*:ruby:*:*

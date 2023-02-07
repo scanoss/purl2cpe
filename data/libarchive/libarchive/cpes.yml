@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libarchive:libarchive:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libarchive:libarchive:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libarchive:libarchive:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libarchive:libarchive:2.6.2:*:*:*:*:*:*:*

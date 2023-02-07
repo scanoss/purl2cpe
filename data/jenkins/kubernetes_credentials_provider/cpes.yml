@@ -21,4 +21,5 @@ cpes:
   - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.201.v11b_14c7a_0772:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.206.v7ce2cf7b_0c8b:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.208.v128ee9800c04:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:*:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:kubernetes_credentials_provider:-:*:*:*:*:jenkins:*:*

@@ -77,3 +77,4 @@ cpes:
   - cpe:2.3:a:ampache:ampache:5.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ampache:ampache:5.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ampache:ampache:5.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ampache:ampache:5.5.6:*:*:*:*:*:*:*
