@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:zh-jieli:fw-ac63_bt_sdk:*:*:*:*:*:*:*:*
   - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:-:*:*:*:*:*:*:*
   - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.3.0:*:*:*:*:*:*:*

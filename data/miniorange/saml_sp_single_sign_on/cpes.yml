@@ -44,4 +44,8 @@ cpes:
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.82:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.83:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.84:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:*:*:*:*:multisite:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:*:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:*:*:*:*:standard:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:-:*:*:*:*:wordpress:*:*

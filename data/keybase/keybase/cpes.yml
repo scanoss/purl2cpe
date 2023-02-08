@@ -194,3 +194,4 @@ cpes:
   - cpe:2.3:a:keybase:keybase:*:*:*:*:*:linux:*:*
   - cpe:2.3:a:keybase:keybase:*:*:*:*:*:macos:*:*
   - cpe:2.3:a:keybase:keybase:*:*:*:*:*:windows:*:*
+  - cpe:2.3:o:keybase:keybase:*:*:*:*:*:*:*:*
