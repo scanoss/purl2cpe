@@ -18,4 +18,5 @@ cpes:
   - cpe:2.3:a:os4ed:opensis:7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:os4ed:opensis:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:8.0:*:*:*:community:*:*:*

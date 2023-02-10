@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jellyfin:jellyfin:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:-:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.0.1:*:*:*:*:*:*:*

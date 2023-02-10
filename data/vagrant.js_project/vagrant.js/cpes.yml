@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:vagrant.js_project:vagrant.js:*:*:*:*:*:node.js:*:*

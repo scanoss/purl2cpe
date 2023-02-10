@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:dotcms:dotcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:*:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:1.5.0:*:*:*:*:*:*:*

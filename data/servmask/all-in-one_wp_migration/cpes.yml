@@ -20,3 +20,6 @@ cpes:
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.57:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.58:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.59:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:all-in-one_wp_migration:7.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:all-in-one_wp_migration:7.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:all-in-one_wp_migration:7.62:*:*:*:*:wordpress:*:*
