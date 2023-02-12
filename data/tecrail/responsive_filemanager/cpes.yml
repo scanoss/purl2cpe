@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tecrail:responsive_filemanager:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tecrail:responsive_filemanager:9.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tecrail:responsive_filemanager:.9.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tecrail:responsive_filemanager:9.10.1:*:*:*:*:*:*:*
