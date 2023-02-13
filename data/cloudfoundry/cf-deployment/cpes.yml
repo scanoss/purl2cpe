@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cloudfoundry:cf-deployment:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:0.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:0.0.1:*:*:*:*:*:*:*

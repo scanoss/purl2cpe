@@ -52,6 +52,8 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:10.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:10.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:10.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:10.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:10.5.15:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:10.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:10.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:10.5.4:*:*:*:*:*:*:*

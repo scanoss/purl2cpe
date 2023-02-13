@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:xuxueli:xxl-job:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xuxueli:xxl-job:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xuxueli:xxl-job:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xuxueli:xxl-job:2.3.1:*:*:*:*:*:*:*

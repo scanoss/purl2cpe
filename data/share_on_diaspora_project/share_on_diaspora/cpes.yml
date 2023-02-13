@@ -27,4 +27,5 @@ cpes:
   - cpe:2.3:a:share_on_diaspora_project:share_on_diaspora:0.7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:share_on_diaspora_project:share_on_diaspora:0.7.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:share_on_diaspora_project:share_on_diaspora:0.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:share_on_diaspora_project:share_on_diaspora:0.7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:share_on_diaspora_project:share_on_diaspora:0.7:*:*:*:*:wordpress:*:*
