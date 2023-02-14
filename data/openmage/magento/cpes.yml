@@ -74,7 +74,15 @@ cpes:
   - cpe:2.3:a:openmage:magento:19.4.11:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.12:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.13:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.14:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.15:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.16:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.18:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.19:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.20:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:19.4.21:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.4:*:*:*:lts:*:*:*
@@ -84,6 +92,15 @@ cpes:
   - cpe:2.3:a:openmage:magento:19.4.8:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:19.4.9:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:20.0.0:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.10:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.11:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.12:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.13:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.14:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.15:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.16:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:20.0.18:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:20.0.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:20.0.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:20.0.3:*:*:*:lts:*:*:*

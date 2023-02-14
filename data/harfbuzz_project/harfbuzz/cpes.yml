@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:-:*:*:*:*:*:*:*
   - cpe:2.3:a:harfbuzz_project:harfbuzz:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:harfbuzz_project:harfbuzz:0.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:harfbuzz_project:harfbuzz:0.9.10:*:*:*:*:*:*:*
@@ -150,3 +151,10 @@ cpes:
   - cpe:2.3:a:harfbuzz_project:harfbuzz:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:harfbuzz_project:harfbuzz:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:harfbuzz_project:harfbuzz:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:harfbuzz_project:harfbuzz:6.0.0:*:*:*:*:*:*:*
