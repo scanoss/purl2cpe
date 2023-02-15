@@ -71,4 +71,8 @@ cpes:
   - cpe:2.3:a:insert_pages_project:insert_pages:3.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:insert_pages_project:insert_pages:3.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:insert_pages_project:insert_pages:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insert_pages_project:insert_pages:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insert_pages_project:insert_pages:3.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insert_pages_project:insert_pages:3.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insert_pages_project:insert_pages:3.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:insert_pages_project:insert_pages:-:*:*:*:*:wordpress:*:*

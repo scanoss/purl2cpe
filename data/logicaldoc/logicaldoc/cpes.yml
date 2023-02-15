@@ -71,3 +71,5 @@ cpes:
   - cpe:2.3:a:logicaldoc:logicaldoc:8.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:logicaldoc:logicaldoc:8.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:logicaldoc:logicaldoc:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:logicaldoc:logicaldoc:8.7.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:logicaldoc:logicaldoc:8.8.2:*:*:*:enterprise:*:*:*

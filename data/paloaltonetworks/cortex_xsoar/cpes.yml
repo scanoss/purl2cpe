@@ -39,5 +39,7 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2889656:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3049220:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3124193:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.8.0:176620:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.8.0:3261002:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.9.0:130766:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.9.0:177754:*:*:*:*:*:*

@@ -84,4 +84,26 @@ cpes:
   - cpe:2.3:a:cryptography_project:cryptography:3.3.2:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography_project:cryptography:3.3:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography_project:cryptography:3.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:3.4.8:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography_project:cryptography:3.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:35.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:36.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:36.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:36.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:37.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:37.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:37.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:37.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:37.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:38.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:38.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:38.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:38.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:38.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography_project:cryptography:39.0.0:*:*:*:*:python:*:*

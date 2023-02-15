@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gimmie_project:gimmie:*:*:*:*:*:vbulletin:*:*
+  - cpe:2.3:a:gimmie_project:gimmie:-:*:*:*:*:vbulletin:*:*

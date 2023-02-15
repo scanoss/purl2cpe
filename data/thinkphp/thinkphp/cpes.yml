@@ -98,3 +98,4 @@ cpes:
   - cpe:2.3:a:thinkphp:thinkphp:6.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkphp:thinkphp:6.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkphp:thinkphp:6.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkphp:thinkphp:6.1.0:*:*:*:*:*:*:*
