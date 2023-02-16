@@ -142,4 +142,12 @@ cpes:
   - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.8.5:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.8.6:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.8.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc2:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc3:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc4:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc5:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc6:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc7:*:*:*:kubernetes:*:*
   - cpe:2.3:a:linuxfoundation:argo_continuous_delivery:-:*:*:*:*:kubernetes:*:*
