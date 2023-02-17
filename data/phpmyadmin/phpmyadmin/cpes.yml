@@ -497,6 +497,7 @@ cpes:
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.11:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.5:*:*:*:*:*:*:*

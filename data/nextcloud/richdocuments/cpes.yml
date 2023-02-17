@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nextcloud:richdocuments:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:richdocuments:1.11.27:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:richdocuments:1.11.28:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:richdocuments:1.11.29:*:*:*:*:*:*:*

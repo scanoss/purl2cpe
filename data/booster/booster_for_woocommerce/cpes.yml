@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:booster:booster_for_woocommerce:1.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:1.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booster:booster_for_woocommerce:1.1.7:*:*:*:elite:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:1.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:1.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:1.3.0:*:*:*:*:wordpress:*:*
@@ -187,6 +188,7 @@ cpes:
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booster:booster_for_woocommerce:5.6.5:*:*:*:plus:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.7:*:*:*:*:wordpress:*:*

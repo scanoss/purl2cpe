@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2022-07-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:2022-11-07:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.1-dev-rev232-gfcaa01ebb-master:*:*:*:*:*:*:*

@@ -6,6 +6,7 @@ cpes:
   - cpe:2.3:a:facebook:hermes:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hermes:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hermes:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facebook:hermes:0.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hermes:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hermes:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hermes:0.4.0:*:*:*:*:*:*:*

@@ -357,6 +357,7 @@ cpes:
   - cpe:2.3:a:hashicorp:consul:1.13.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.13.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.13.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.13.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:community:*:*:*

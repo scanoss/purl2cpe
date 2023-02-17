@@ -448,3 +448,4 @@ cpes:
   - cpe:2.3:a:activerecord_project:activerecord:7.0.3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:activerecord_project:activerecord:7.0.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:activerecord_project:activerecord:7.0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:activerecord_project:activerecord:*:*:*:*:*:ruby:*:*
