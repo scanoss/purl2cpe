@@ -180,3 +180,4 @@ cpes:
   - cpe:2.3:a:rack_project:rack:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rack_project:rack:2.2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rack_project:rack:2.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rack_project:rack:*:*:*:*:*:ruby:*:*

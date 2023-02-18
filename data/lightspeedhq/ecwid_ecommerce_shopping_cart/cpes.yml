@@ -102,6 +102,7 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.2:*:*:*:*:wordpress:*:*
@@ -122,9 +123,11 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.12:*:*:*:*:wordpress:*:*
@@ -145,6 +148,7 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.27:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.4:*:*:*:*:wordpress:*:*
@@ -154,7 +158,12 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.11.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.2.4:*:*:*:*:wordpress:*:*
