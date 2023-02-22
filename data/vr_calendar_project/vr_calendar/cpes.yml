@@ -14,4 +14,5 @@ cpes:
   - cpe:2.3:a:vr_calendar_project:vr_calendar:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vr_calendar_project:vr_calendar:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vr_calendar_project:vr_calendar:2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vr_calendar_project:vr_calendar:2.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vr_calendar_project:vr_calendar:-:*:*:*:*:wordpress:*:*

@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:nukeviet:nukeviet:4.4.03:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.4.04:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.4.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nukeviet:nukeviet:4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.5.00:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.5.01:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.5.02:*:*:*:*:*:*:*

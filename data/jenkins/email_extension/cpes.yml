@@ -96,6 +96,26 @@ cpes:
   - cpe:2.3:a:jenkins:email_extension:2.73:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.74:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.75:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.76:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.77:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.78:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.79:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.80:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.81:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.82:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.83:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.84:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.85:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.86:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.87:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.88:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.89.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.89.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.89:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.90:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.91:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.92:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.93:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.9:*:*:*:*:jenkins:*:*

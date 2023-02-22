@@ -49,3 +49,4 @@ cpes:
   - cpe:2.3:a:linux-pam:linux-pam:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-pam:linux-pam:1.5.2:*:*:*:*:*:*:*

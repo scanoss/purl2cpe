@@ -21,3 +21,4 @@ cpes:
   - cpe:2.3:a:wampserver:wampserver:3.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wampserver:wampserver:3.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:wampserver:wampserver:3.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:wampserver:wampserver:3.2.6:*:*:*:*:*:*:*

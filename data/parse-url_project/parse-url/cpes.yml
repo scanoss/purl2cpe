@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:parse-url_project:parse-url:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:parse-url_project:parse-url:7.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:parse-url_project:parse-url:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:parse-url_project:parse-url:8.0.0:*:*:*:*:*:*:*

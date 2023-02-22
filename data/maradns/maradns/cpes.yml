@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:maradns:maradns:-:*:*:*:*:*:*:*
   - cpe:2.3:a:maradns:maradns:0.0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:maradns:maradns:0.0.02:*:*:*:*:*:*:*
   - cpe:2.3:a:maradns:maradns:0.0.03:*:*:*:*:*:*:*

@@ -17,5 +17,6 @@ cpes:
   - cpe:2.3:a:mz-automation:libiec61850:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:libiec61850:1.4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:libiec61850:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:libiec61850:1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:libiec61850:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:libiec61850:1.5.1:*:*:*:*:*:*:*
