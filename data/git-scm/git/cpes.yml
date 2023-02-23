@@ -758,6 +758,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.30.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.30.5:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.30.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.30.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.30.8:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.0:rc2:*:*:*:*:*:*
@@ -772,6 +774,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.31.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.31.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.31.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.31.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.31.7:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.32.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.32.0:rc0:*:*:*:*:*:*
@@ -782,6 +786,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.32.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.32.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.32.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.32.6:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.33.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.33.0:rc0:*:*:*:*:*:*
@@ -792,6 +798,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.33.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.33.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.33.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.33.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.33.7:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.34.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.34.0:rc0:*:*:*:*:*:*
@@ -802,6 +810,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.34.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.34.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.34.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.34.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.34.7:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.35.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.35.0:rc0:*:*:*:*:*:*
@@ -812,6 +822,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.35.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.35.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.35.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.35.7:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.36.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.36.0:rc0:*:*:*:*:*:*
@@ -820,6 +832,8 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.36.2:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.36.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.36.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.36.5:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.37.0:-:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.37.0:rc0:*:*:*:*:*:*
@@ -827,10 +841,16 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.37.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.37.1:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.37.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.37.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.37.6:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.38.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.38.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.39.2:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.4.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.4.0:rc1:*:*:*:*:*:*
