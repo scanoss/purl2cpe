@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:21.06:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.06.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.06.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:21.06.12:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.06.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.06.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.06.5:*:*:*:*:*:*:*
@@ -47,6 +48,7 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:21.09:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:21.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:21.11:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.01:*:*:*:*:*:*:*
@@ -55,13 +57,16 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:22.03.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.03.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.03.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:22.03.4:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.03:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.05:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.06:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:22.08:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.09:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:22.10:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3.1:*:*:*:*:*:*:*
@@ -105,6 +110,7 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:4.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:4.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:5.0.0:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.0.3:*:*:*:*:*:*:*
@@ -113,6 +119,7 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:5.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:5.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:5.2.3:*:*:*:*:*:*:*

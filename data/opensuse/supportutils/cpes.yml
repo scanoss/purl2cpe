@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:opensuse:supportutils:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:supportutils:3.0.10-95.51.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:supportutils:3.1-5.7.1:*:*:*:*:*:*:*

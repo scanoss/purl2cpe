@@ -348,6 +348,7 @@ cpes:
   - cpe:2.3:a:sequelizejs:sequelize:4.44.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:4.44.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:4.44.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:4.44.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:4.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:4.4.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:4.4.6:*:*:*:*:node.js:*:*
@@ -425,14 +426,31 @@ cpes:
   - cpe:2.3:a:sequelizejs:sequelize:5.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.13:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.21.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.12:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.21.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.21.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:5.22.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:5.2.4:*:*:*:*:node.js:*:*
@@ -481,5 +499,113 @@ cpes:
   - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta2:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta6:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.0.0:beta7:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.0:beta2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.12.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.14.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.16.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.16.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.19.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.19.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.20.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.21.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.22.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.23.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.23.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.23.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.24.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.25.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.26.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.27.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.28.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.28.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.28.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.6.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha10:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha11:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha12:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha13:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha14:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha15:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha16:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha17:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha18:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha19:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha2.1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha2.2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha6:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha7:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha8:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:alpha9:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:oc_test_1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:oc_test_2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:oc_test_3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:7.0.0:oc_test_4:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:*:*:*:*:*:node.js:*:*

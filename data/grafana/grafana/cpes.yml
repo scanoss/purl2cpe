@@ -498,6 +498,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:8.5.13:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.14:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:8.5.16:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.4:*:*:*:*:*:*:*
