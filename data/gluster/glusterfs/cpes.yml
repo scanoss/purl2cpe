@@ -1,5 +1,7 @@
 cpes:
   - cpe:2.3:a:gluster:glusterfs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluster:glusterfs:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluster:glusterfs:11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gluster:glusterfs:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gluster:glusterfs:2.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gluster:glusterfs:2.0.0:rc3:*:*:*:*:*:*

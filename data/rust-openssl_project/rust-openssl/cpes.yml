@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.10:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.11:*:*:*:*:rust:*:*

@@ -146,12 +146,20 @@ cpes:
   - cpe:2.3:a:plone:plone:5.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:a1:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1a1:*:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1a1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:a2:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1a2:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:b2:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1b2:beta3:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:b3:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1b3:beta2:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:b4:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1b4:rc2:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1rc1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone:5.1rc2:-:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.2:-:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plone:plone:5.2.1:*:*:*:*:*:*:*
