@@ -50,4 +50,10 @@ cpes:
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev33:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev34:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev35:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev38:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev39:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev40:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev41:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev42:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev43:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:-:*:*:*:*:python:*:*

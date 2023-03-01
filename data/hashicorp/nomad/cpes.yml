@@ -225,6 +225,7 @@ cpes:
   - cpe:2.3:a:hashicorp:nomad:1.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.4.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.4.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.4.1:*:*:*:enterprise:*:*:*

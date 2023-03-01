@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openssl_project:openssl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl_project:openssl:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl_project:openssl:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl_project:openssl:0.1.0:*:*:*:*:*:*:*

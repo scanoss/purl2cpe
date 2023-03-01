@@ -19,3 +19,4 @@ cpes:
   - cpe:2.3:a:glance_project:glance:3.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:glance_project:glance:3.0.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:glance_project:glance:3.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.8:*:*:*:*:node.js:*:*

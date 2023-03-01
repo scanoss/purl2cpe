@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:ujcms:ujcms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ujcms:ujcms:4.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:5.5.0:*:*:*:*:*:*:*

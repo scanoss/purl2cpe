@@ -88,6 +88,11 @@ cpes:
   - cpe:2.3:a:mendix:mendix:7.23.28:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:7.23.29:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:7.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:7.23.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:7.23.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:7.23.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:7.23.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:7.23.34:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:7.23.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:7.23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:7.23.6:*:*:*:*:*:*:*

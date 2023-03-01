@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pivotal:spring_security_oauth:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:spring_security_oauth:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:spring_security_oauth:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:spring_security_oauth:1.0.2:*:*:*:*:*:*:*

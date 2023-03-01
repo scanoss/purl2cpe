@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:a:mz-automation:lib60870:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:lib60870:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mz-automation:lib60870:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.3.2:*:*:*:*:*:*:*
