@@ -56,3 +56,4 @@ cpes:
   - cpe:2.3:a:count:countly_server:22.03.7:*:*:*:*:*:*:*
   - cpe:2.3:a:count:countly_server:22.03.8:*:*:*:*:*:*:*
   - cpe:2.3:a:count:countly_server:22.03.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:count:countly_server:*:*:*:*:community:*:*:*

@@ -565,6 +565,7 @@ cpes:
   - cpe:2.3:a:sequelizejs:sequelize:6.28.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.28.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.28.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.29.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.2:*:*:*:*:node.js:*:*

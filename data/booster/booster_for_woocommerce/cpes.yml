@@ -192,6 +192,8 @@ cpes:
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:5.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booster:booster_for_woocommerce:5.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booster:booster_for_woocommerce:6.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:*:*:*:*:elite:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:*:*:*:*:plus:wordpress:*:*
   - cpe:2.3:a:booster:booster_for_woocommerce:-:*:*:*:*:wordpress:*:*

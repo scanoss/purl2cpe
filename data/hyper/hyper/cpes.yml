@@ -118,6 +118,14 @@ cpes:
   - cpe:2.3:a:hyper:hyper:0.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hyper:hyper:0.14.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:hyper:hyper:0.14.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.13:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.15:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.16:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.17:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:0.14.18:*:*:*:*:rust:*:*
   - cpe:2.3:a:hyper:hyper:0.14.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:hyper:hyper:0.14.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:hyper:hyper:0.14.3:*:*:*:*:rust:*:*

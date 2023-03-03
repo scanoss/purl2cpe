@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:palletsprojects:werkzeug:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:-:*:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:0.10.1:*:*:*:*:*:*:*
@@ -70,3 +71,12 @@ cpes:
   - cpe:2.3:a:palletsprojects:werkzeug:2.0.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:2.0.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.2.2:*:*:*:*:*:*:*

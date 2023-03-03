@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:modoboa:modoboa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.0.4:*:*:*:*:modoboa:*:*
   - cpe:2.3:a:modoboa:modoboa:*:*:*:*:*:modoboa:*:*
