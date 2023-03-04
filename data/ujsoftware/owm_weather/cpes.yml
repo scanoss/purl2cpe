@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:a:ujsoftware:owm_weather:5.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ujsoftware:owm_weather:5.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ujsoftware:owm_weather:5.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ujsoftware:owm_weather:5.6.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ujsoftware:owm_weather:5.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ujsoftware:owm_weather:5.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ujsoftware:owm_weather:5.6.3:*:*:*:*:wordpress:*:*

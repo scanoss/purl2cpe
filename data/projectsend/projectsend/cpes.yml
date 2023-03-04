@@ -25,6 +25,11 @@ cpes:
   - cpe:2.3:a:projectsend:projectsend:r1070:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r1270:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r1295:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r1335:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r1415:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r1420:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r1584:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r1605:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r375:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r405:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r412:*:*:*:*:*:*:*

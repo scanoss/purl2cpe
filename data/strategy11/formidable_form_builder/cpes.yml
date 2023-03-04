@@ -191,5 +191,35 @@ cpes:
   - cpe:2.3:a:strategy11:formidable_form_builder:5.0.06:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:5.0.07:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:5.0.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.0.09:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.0.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.02.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:-:*:*:*:*:wordpress:*:*

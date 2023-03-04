@@ -66,4 +66,9 @@ cpes:
   - cpe:2.3:a:vtiger:vtiger_crm:7.1.0:hotfix3:*:*:*:*:*:*
   - cpe:2.3:a:vtiger:vtiger_crm:7.1.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:vtiger:vtiger_crm:7.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:7.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:7.3.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:vtiger:vtiger_crm:7.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:7.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:7.4.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:7.5.0:*:*:*:*:*:*:*

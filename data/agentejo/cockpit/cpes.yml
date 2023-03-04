@@ -6,6 +6,9 @@ cpes:
   - cpe:2.3:a:agentejo:cockpit:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:0.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:0.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:0.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:0.5.1:*:*:*:*:*:*:*

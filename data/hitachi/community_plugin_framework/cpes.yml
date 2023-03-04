@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:hitachi:community_plugin_framework:5.1.2.1-r:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:5.2.0.0-r:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:5.2.0.1-r:*:*:*:*:*:*:*
+  - cpe:2.3:a:hitachi:community_plugin_framework:5.2.0.2-77-r:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:5.2.0.2-r:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:5.2.1.0-r:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:5.2.1.1-r:*:*:*:*:*:*:*
@@ -369,6 +370,8 @@ cpes:
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-284:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-285:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-286:*:*:*:*:*:*:*
+  - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-71:*:*:*:*:*:*:*
+  - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-72:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-73:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-74:*:*:*:*:*:*:*
   - cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-75:*:*:*:*:*:*:*

@@ -45,3 +45,4 @@ cpes:
   - cpe:2.3:a:arm:trusted_firmware-a:2.4:rc0:*:*:*:*:*:*
   - cpe:2.3:a:arm:trusted_firmware-a:2.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:arm:trusted_firmware-a:2.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:arm:trusted_firmware-a:2.8:*:*:*:*:*:*:*

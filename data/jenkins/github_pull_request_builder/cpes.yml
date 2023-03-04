@@ -111,6 +111,8 @@ cpes:
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.40.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.41.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.42.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:github_pull_request_builder:1.42.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:github_pull_request_builder:1.42.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.4:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.5.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_pull_request_builder:1.5:*:*:*:*:jenkins:*:*

@@ -32,4 +32,5 @@ cpes:
   - cpe:2.3:a:superwhite:demon_image_annotation:4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:superwhite:demon_image_annotation:4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:superwhite:demon_image_annotation:4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superwhite:demon_image_annotation:5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:superwhite:demon_image_annotation:-:*:*:*:*:wordpress:*:*

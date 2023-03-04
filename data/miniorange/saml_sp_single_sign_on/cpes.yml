@@ -1,4 +1,7 @@
 cpes:
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:12.0.0:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:16.0.0:*:*:*:standard:wordpress:*:*
+  - cpe:2.3:a:miniorange:saml_sp_single_sign_on:20.0.0:*:*:*:multisite:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:saml_sp_single_sign_on:4.8.25:*:*:*:*:wordpress:*:*

@@ -55,6 +55,7 @@ cpes:
   - cpe:2.3:a:clash_project:clash:0.19.8:*:*:*:*:windows:*:*
   - cpe:2.3:a:clash_project:clash:0.19.9:*:*:*:*:windows:*:*
   - cpe:2.3:a:clash_project:clash:0.20.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:clash_project:clash:0.20.12:*:*:*:*:windows:*:*
   - cpe:2.3:a:clash_project:clash:0.20.1:*:*:*:*:windows:*:*
   - cpe:2.3:a:clash_project:clash:0.20.2:*:*:*:*:windows:*:*
   - cpe:2.3:a:clash_project:clash:0.20.3:*:*:*:*:windows:*:*

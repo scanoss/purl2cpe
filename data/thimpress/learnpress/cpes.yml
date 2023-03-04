@@ -81,4 +81,5 @@ cpes:
   - cpe:2.3:a:thimpress:learnpress:4.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thimpress:learnpress:4.1.7.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.1.7:*:*:*:*:wordpress:*:*
