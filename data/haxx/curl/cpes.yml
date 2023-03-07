@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:haxx:curl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:curl:4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:curl:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:curl:6.1:*:*:*:*:*:*:*

@@ -197,6 +197,8 @@ cpes:
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.13:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:argo-cd:2.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:argo-cd:2.3.16:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.3.4:*:*:*:*:*:*:*
@@ -246,7 +248,9 @@ cpes:
   - cpe:2.3:a:linuxfoundation:argo-cd:2.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:argo-cd:2.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.6.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.6.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:argo-cd:2.6.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:argo-cd:2.6.1:*:*:*:*:*:*:*

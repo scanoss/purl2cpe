@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:o:wago:750-8101_firmware:18.0:patch_2:*:*:*:*:*:*
   - cpe:2.3:o:wago:750-8101_firmware:18:patch_1:*:*:*:*:*:*
   - cpe:2.3:o:wago:750-8101_firmware:18:patch_2:*:*:*:*:*:*
+  - cpe:2.3:o:wago:750-8101_firmware:23:*:*:*:*:*:*:*
