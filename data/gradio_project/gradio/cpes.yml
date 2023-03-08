@@ -195,6 +195,9 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:2.8.0:-:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.10:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.8.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.8.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.8.14:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.1:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.2:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.3:*:*:*:*:python:*:*
@@ -204,3 +207,105 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:2.8.7:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.8:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.8.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta10:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta5:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta6:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta7:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta8:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:beta9:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta11:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta12:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta13:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta14:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta15:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta20:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta21:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta22:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta23:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta24:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta25:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta26:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta27:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta28:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta30:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta31:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta32:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta33:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta40:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta48:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2.9:beta50:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.1:beta120:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.1:beta121:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.1:beta123:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.1:beta150:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.1:beta300:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.25:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0.26:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.10.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:beta6:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:beta7:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.12.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.13.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.13.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.3:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.3:alpha3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.3:alpha:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.3:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.4:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.4:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.4:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.4:beta:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.4:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.1.8:beta:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.2.1:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.2.1:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.2.1:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.2:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.3:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.3:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.3:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:beta5:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.4:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6.0:beta10:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6.0:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6.0:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6.0:beta7:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8.1:dev1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8.1:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.8:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:3.9:*:*:*:*:python:*:*

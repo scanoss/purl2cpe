@@ -108,5 +108,8 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:6.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:7.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:7.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:iphone_os:*:*

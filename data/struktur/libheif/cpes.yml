@@ -1,9 +1,11 @@
 cpes:
+  - cpe:2.3:a:struktur:libheif:*:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:struktur:libheif:1.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.3.1:*:*:*:*:*:*:*

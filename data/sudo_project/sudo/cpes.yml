@@ -191,6 +191,8 @@ cpes:
   - cpe:2.3:a:sudo_project:sudo:1.9.11:p3:*:*:*:*:*:*
   - cpe:2.3:a:sudo_project:sudo:1.9.12:-:*:*:*:*:*:*
   - cpe:2.3:a:sudo_project:sudo:1.9.12:p1:*:*:*:*:*:*
+  - cpe:2.3:a:sudo_project:sudo:1.9.13:-:*:*:*:*:*:*
+  - cpe:2.3:a:sudo_project:sudo:1.9.13:p1:*:*:*:*:*:*
   - cpe:2.3:a:sudo_project:sudo:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sudo_project:sudo:1.9.3:-:*:*:*:*:*:*
   - cpe:2.3:a:sudo_project:sudo:1.9.3:p1:*:*:*:*:*:*

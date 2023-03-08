@@ -57,3 +57,5 @@ cpes:
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.71:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.72:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.73:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libmicrohttpd:0.9.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libmicrohttpd:0.9.75:*:*:*:*:*:*:*
