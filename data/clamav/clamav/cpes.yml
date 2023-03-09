@@ -206,4 +206,7 @@ cpes:
   - cpe:2.3:a:clamav:clamav:0.99.4:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.9_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.0.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:-:*:*:*:lts:*:*:*

@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:json-java_project:json-java:20210307:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20211205:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20220320:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20220924:*:*:*:*:*:*:*

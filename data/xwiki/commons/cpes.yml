@@ -1,7 +1,12 @@
 cpes:
+  - cpe:2.3:a:xwiki:commons:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:12.10.10:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:13.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:13.5:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:13.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:commons:14.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:commons:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:commons:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:commons:3.1:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:commons:3.1:milestone2:*:*:*:*:*:*
