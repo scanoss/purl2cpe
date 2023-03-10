@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/joaompinto/ptlink.ircd
+  - pkg:github/pld-linux/ircd-ptlink

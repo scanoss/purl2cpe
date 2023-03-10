@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:crmeb:crmeb:1.3.4:*:*:*:*:java:*:*
   - cpe:2.3:a:crmeb:crmeb:2.60:*:*:*:*:*:*:*
   - cpe:2.3:a:crmeb:crmeb:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:crmeb:crmeb:3.1:*:*:*:*:*:*:*
