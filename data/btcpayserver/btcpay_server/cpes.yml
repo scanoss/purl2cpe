@@ -529,6 +529,7 @@ cpes:
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:btcpayserver:btcpay_server:1.7.12:*:*:*:*:*:*:*
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:btcpayserver:btcpay_server:1.7.4:*:*:*:*:*:*:*

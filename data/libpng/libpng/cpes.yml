@@ -1353,6 +1353,7 @@ cpes:
   - cpe:2.3:a:libpng:libpng:1.6.36-57:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.37:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.37-58:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpng:libpng:1.6.38:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.3:beta:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.3:beta01:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.3:beta02:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:fastly:fastly:1.2.25:*:*:*:*:magento2:*:*
+  - cpe:2.3:a:fastly:fastly:*:*:*:*:*:wordpress:*:*

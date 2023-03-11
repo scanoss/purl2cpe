@@ -16,5 +16,6 @@ cpes:
   - cpe:2.3:a:jeecg:jeecg:2.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg:2.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeecg:jeecg:3.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg:3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg:4.0:*:*:*:*:*:*:*

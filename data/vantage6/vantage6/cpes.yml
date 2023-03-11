@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:vantage6:vantage6:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:vantage6:vantage6:3.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:vantage6:vantage6:3.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:vantage6:vantage6:3.8.0:rc3:*:*:*:*:*:*
