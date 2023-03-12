@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpaudio_mp3_player_project:wpaudio_mp3_player:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaudio_mp3_player_project:wpaudio_mp3_player:-:*:*:*:*:wordpress:*:*
