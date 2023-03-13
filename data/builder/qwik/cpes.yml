@@ -97,4 +97,5 @@ cpes:
   - cpe:2.3:a:builder:qwik:0.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:builder:qwik:0.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:builder:qwik:0.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:builder:qwik:0.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:builder:qwik:0.9.0:*:*:*:*:*:*:*
