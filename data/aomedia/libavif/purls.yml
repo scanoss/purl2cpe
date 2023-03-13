@@ -3,4 +3,3 @@ purls:
   - pkg:deb/ubuntu/libavif
   - pkg:github/aomediacodec/libavif
   - pkg:rpm/fedora/libavif
-  - pkg:rpm/opensuse/libavif

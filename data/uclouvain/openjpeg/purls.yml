@@ -1,5 +1,4 @@
 purls:
-  - https://github.com/uclouvain/openjpeg
   - pkg:rpm/fedora/openjpeg
   - pkg:rpm/opensuse/openjpeg
   - pkg:sourceforge/openjpeg

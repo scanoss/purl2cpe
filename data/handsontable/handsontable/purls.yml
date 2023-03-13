@@ -5,4 +5,3 @@ purls:
   - pkg:maven/org.webjars.npm/handsontable
   - pkg:npm/handsontable
   - pkg:nuget/Handsontable
-  - pkg:sourceforgehandsontable.mirror

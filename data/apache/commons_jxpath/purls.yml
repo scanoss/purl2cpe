@@ -1,5 +1,4 @@
 purls:
-  - pkg:apachecommons
   - pkg:deb/debian/libcommons-jxpath-java
   - pkg:deb/ubuntu/libcommons-jxpath-java
   - pkg:github/apache/commons-jxpath
