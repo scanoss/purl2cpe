@@ -222,4 +222,5 @@ cpes:
   - cpe:2.3:a:strategy11:formidable_form_builder:5.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:5.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strategy11:formidable_form_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strategy11:formidable_form_builder:-:*:*:*:*:wordpress:*:*

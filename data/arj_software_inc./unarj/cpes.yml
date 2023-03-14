@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:arj_software_inc.:unarj:2.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:arj_software_inc.:unarj:2.63_a:*:*:*:*:*:*:*
+  - cpe:2.3:a:arj_software_inc.:unarj:2.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:arj_software_inc.:unarj:2.65:*:*:*:*:*:*:*

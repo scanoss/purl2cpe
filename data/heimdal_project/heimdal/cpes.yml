@@ -124,3 +124,5 @@ cpes:
   - cpe:2.3:a:heimdal_project:heimdal:7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:heimdal_project:heimdal:7.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:heimdal_project:heimdal:7.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heimdal_project:heimdal:7.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:heimdal_project:heimdal:7.8.0:*:*:*:*:*:*:*
