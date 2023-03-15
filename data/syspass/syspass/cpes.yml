@@ -129,3 +129,8 @@ cpes:
   - cpe:2.3:a:syspass:syspass:3.1.0.19052503:rc4:*:*:*:*:*:*
   - cpe:2.3:a:syspass:syspass:3.1.0.19072001:rc5:*:*:*:*:*:*
   - cpe:2.3:a:syspass:syspass:3.1.0.19081801:*:*:*:*:*:*:*
+  - cpe:2.3:a:syspass:syspass:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:syspass:syspass:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:syspass:syspass:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:syspass:syspass:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:syspass:syspass:3.2.4:*:*:*:*:*:*:*

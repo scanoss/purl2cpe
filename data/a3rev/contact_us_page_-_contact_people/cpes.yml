@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.3:*:*:*:*:wordpress:*:*
@@ -9,6 +10,7 @@ cpes:
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:1.1.2.1:*:*:*:*:wordpress:*:*
