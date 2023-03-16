@@ -185,6 +185,8 @@ cpes:
   - cpe:2.3:a:rack_project:rack:2.2.4.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:2.2.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:2.2.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rack_project:rack:2.2.6.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rack_project:rack:2.2.6.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:2.2.6:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:3.0.0:beta1:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:3.0.0:rc1:*:*:*:ruby:*:*
@@ -192,5 +194,6 @@ cpes:
   - cpe:2.3:a:rack_project:rack:3.0.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:3.0.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:3.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rack_project:rack:3.0.4.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:3.0.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rack_project:rack:*:*:*:*:*:ruby:*:*

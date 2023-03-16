@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cncf:knative_func:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cncf:knative_func:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cncf:knative_func:0.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:cncf:knative_func:0.0.17:*:*:*:*:*:*:*
