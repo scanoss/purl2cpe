@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/handsontable/handsontable
+  - pkg:npm/handsontable
+  - pkg:nuget/Handsontable
+  - pkg:sourceforge/handsontable.mirror

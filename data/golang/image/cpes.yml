@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:golang:image:*:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:image:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:image:*:*:*:*:*:go:*:*

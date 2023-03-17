@@ -134,4 +134,8 @@ cpes:
   - cpe:2.3:a:oceanwp:ocean_extra:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oceanwp:ocean_extra:2.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oceanwp:ocean_extra:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oceanwp:ocean_extra:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oceanwp:ocean_extra:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oceanwp:ocean_extra:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oceanwp:ocean_extra:2.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oceanwp:ocean_extra:-:*:*:*:*:wordpress:*:*

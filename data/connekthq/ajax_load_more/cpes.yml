@@ -22,3 +22,7 @@ cpes:
   - cpe:2.3:a:connekthq:ajax_load_more:5.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:5.5.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:5.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:5.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:5.6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:5.6.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:5.6.0:*:*:*:*:wordpress:*:*
