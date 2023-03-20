@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:ibexa:ez_platform_kernel:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:ibexa:ez_platform_kernel:-:*:*:*:*:*:*:*
