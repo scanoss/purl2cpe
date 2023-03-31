@@ -39,3 +39,4 @@ cpes:
   - cpe:2.3:a:rockoa:rockoa:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.3.2:*:*:*:*:*:*:*

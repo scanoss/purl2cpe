@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:getgophish:gophish:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getgophish:gophish:0.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:getgophish:gophish:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getgophish:gophish:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getgophish:gophish:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getgophish:gophish:0.4.0:*:*:*:*:*:*:*

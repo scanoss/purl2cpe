@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opennms:meridian:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:meridian:2015.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:meridian:2015.1.0-1:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:meridian:2015.1.10-1:*:*:*:*:*:*:*
@@ -181,3 +182,4 @@ cpes:
   - cpe:2.3:a:opennms:meridian:2020.1.9-1:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:meridian:2021.1.0-1:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:meridian:2021.1.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennms:meridian:2023.1.0:*:*:*:*:*:*:*

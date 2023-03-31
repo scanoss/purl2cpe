@@ -10,5 +10,7 @@ cpes:
   - cpe:2.3:a:adobe:magento_open_source:2.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:adobe:magento_open_source:2.4.4:-:*:*:*:*:*:*
   - cpe:2.3:a:adobe:magento_open_source:2.4.4:p1:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:magento_open_source:2.4.4:p2:*:*:*:*:*:*
   - cpe:2.3:a:adobe:magento_open_source:2.4.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:magento_open_source:2.4.5:p1:*:*:*:*:*:*
   - cpe:2.3:a:adobe:magento_open_source:*:p1:*:*:*:*:*:*

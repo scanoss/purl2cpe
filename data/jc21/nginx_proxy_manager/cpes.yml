@@ -50,6 +50,7 @@ cpes:
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.16:*:*:*:*:*:*:*
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.17:*:*:*:*:*:*:*
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.19:*:*:*:*:*:*:*
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jc21:nginx_proxy_manager:2.9.4:*:*:*:*:*:*:*

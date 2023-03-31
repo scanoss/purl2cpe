@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vmware:spring_cloud_config:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_config:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_config:1.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_config:1.0.0:milestone3:*:*:*:*:*:*

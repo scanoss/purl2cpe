@@ -105,3 +105,4 @@ cpes:
   - cpe:2.3:a:tipsandtricks-hq:wordpress_simple_paypal_shopping_cart:4.5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wordpress_simple_paypal_shopping_cart:4.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wordpress_simple_paypal_shopping_cart:4.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:wordpress_simple_paypal_shopping_cart:4.6.2:*:*:*:*:wordpress:*:*

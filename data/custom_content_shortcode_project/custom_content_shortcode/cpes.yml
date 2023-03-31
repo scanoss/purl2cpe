@@ -275,3 +275,4 @@ cpes:
   - cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:-:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:*:*:*:*:*:wordpresss:*:*

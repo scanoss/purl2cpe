@@ -4,6 +4,7 @@ cpes:
   - cpe:2.3:a:mp4v2_project:mp4v2:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mp4v2_project:mp4v2:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mp4v2_project:mp4v2:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mp4v2_project:mp4v2:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mp4v2_project:mp4v2:3.0.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mp4v2_project:mp4v2:3.0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mp4v2_project:mp4v2:3.0.1.0:*:*:*:*:*:*:*

@@ -12,3 +12,5 @@ cpes:
   - cpe:2.3:a:typecho:typecho:1.1-17.10.24:beta:*:*:*:*:*:*
   - cpe:2.3:a:typecho:typecho:1.1-17.10.29:*:*:*:*:*:*:*
   - cpe:2.3:a:typecho:typecho:1.1-17.10.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:typecho:typecho:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:typecho:typecho:1.2.0:-:*:*:*:*:*:*
