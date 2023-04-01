@@ -328,11 +328,13 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:3.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.6:a1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.6:a1_pre:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:3.6:a1_prerelease:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.6:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:37.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:37.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.7:a1_pre:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:3.7:a1_prerelease:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.7:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:3.7:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:38.0:*:*:*:*:*:*:*

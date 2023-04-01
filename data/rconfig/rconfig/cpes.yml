@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:rconfig:rconfig:3.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:rconfig:rconfig:3.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:rconfig:rconfig:3.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rconfig:rconfig:6.8.0:*:*:*:*:*:*:*

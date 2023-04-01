@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:10.0.1:*:*:*:*:*:*:*
