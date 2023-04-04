@@ -100,6 +100,10 @@ cpes:
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.5.0:*:*:*:*:wordpress:*:*
@@ -116,3 +120,8 @@ cpes:
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.9.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.9.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:-:*:*:*:enterprise:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:-:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:-:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:-:*:*:*:standard:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:-:*:*:*:*:wordpress:*:*

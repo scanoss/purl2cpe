@@ -31,4 +31,5 @@ cpes:
   - cpe:2.3:a:beardev:joomsport:5.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:5.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:5.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:-:*:*:*:*:wordpress:*:*

@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.10.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.1.7:*:*:*:*:wordpress:*:*

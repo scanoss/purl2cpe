@@ -24,3 +24,4 @@ cpes:
   - cpe:2.3:a:opennms:horizon:27.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:horizon:27.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opennms:horizon:27.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennms:horizon:31.0.4:*:*:*:*:*:*:*

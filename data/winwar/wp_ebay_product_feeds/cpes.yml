@@ -42,3 +42,17 @@ cpes:
   - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:winwar:wp_ebay_product_feeds:-:*:*:*:*:wordpress:*:*
