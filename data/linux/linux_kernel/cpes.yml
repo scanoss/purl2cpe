@@ -4448,6 +4448,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.16:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.16:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.16:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.16:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.1.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17.1:*:*:*:*:*:*:*

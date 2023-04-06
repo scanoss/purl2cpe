@@ -191,3 +191,4 @@ cpes:
   - cpe:2.3:a:x.org:xorg-server:1.9.99.903:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:xorg-server:21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:xorg-server:21.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:xorg-server:21.1.8:*:*:*:*:*:*:*

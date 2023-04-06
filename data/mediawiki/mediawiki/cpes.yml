@@ -328,6 +328,8 @@ cpes:
   - cpe:2.3:a:mediawiki:mediawiki:1.39.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.0:beta1:*:*:*:*:*:*

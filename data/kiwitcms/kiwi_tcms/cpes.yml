@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:kiwitcms:kiwi_tcms:11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kiwitcms:kiwi_tcms:12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.22:*:*:*:*:*:*:*
