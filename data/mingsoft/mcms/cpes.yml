@@ -5,6 +5,7 @@ cpes:
   - cpe:2.3:a:mingsoft:mcms:4.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mingsoft:mcms:4.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:5.1:*:*:*:*:*:*:*

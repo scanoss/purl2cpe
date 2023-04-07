@@ -42,6 +42,7 @@ cpes:
   - cpe:2.3:o:espruino:espruino:1.99:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.00:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:o:espruino:espruino:2019-06-28:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.02:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.03:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.04:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cesnet:libyang:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cesnet:libyang:0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:cesnet:libyang:0.11:r1:*:*:*:*:*:*
   - cpe:2.3:a:cesnet:libyang:0.11:r2:*:*:*:*:*:*
