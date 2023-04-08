@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:devolutions:devolutions_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:*:*:*:*:-:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:-:*:*:*:-:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2019.1.10.0:*:*:*:*:*:*:*
@@ -39,5 +40,16 @@ cpes:
   - cpe:2.3:a:devolutions:devolutions_server:2021.1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2022.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2022.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2022.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2022.3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2023.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:-:*:*:*:lts:*:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:geosolutionsgroup:geonode:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:geosolutionsgroup:geonode:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:geosolutionsgroup:geonode:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:geosolutionsgroup:geonode:2.20.0:*:*:*:*:*:*:*

@@ -170,3 +170,14 @@ cpes:
   - cpe:2.3:a:nextcloud:desktop:3.6.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:3.7.4:rc1:*:*:*:*:*:*
