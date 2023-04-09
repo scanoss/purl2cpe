@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:versionize_project:versionize:*:*:*:*:*:rust:*:*

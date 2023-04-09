@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:deno:deno_runtime:0.102.0:*:*:*:*:rust:*:*
