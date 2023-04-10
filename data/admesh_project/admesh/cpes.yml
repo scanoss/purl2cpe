@@ -14,4 +14,5 @@ cpes:
   - cpe:2.3:a:admesh_project:admesh:0.98.2:*:*:*:*:*:*:*
   - cpe:2.3:a:admesh_project:admesh:0.98.3:*:*:*:*:*:*:*
   - cpe:2.3:a:admesh_project:admesh:0.98.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:2022-11-18:*:*:*:*:*:*:*
   - cpe:2.3:a:admesh_project:admesh:767a105:*:*:*:*:*:*:*

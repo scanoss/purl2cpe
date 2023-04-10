@@ -37,4 +37,5 @@ cpes:
   - cpe:2.3:a:jflyfox:jfinal_cms:4.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jflyfox:jfinal_cms:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jflyfox:jfinal_cms:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jflyfox:jfinal_cms:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jflyfox:jfinal_cms:5.1.0:*:*:*:*:*:*:*
