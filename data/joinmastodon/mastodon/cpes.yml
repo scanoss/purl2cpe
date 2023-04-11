@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:joinmastodon:mastodon:*:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:-:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:0.1.1:*:*:*:*:*:*:*

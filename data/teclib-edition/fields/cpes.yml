@@ -32,4 +32,5 @@ cpes:
   - cpe:2.3:a:teclib-edition:fields:1.9.0:*:*:*:*:glpi:*:*
   - cpe:2.3:a:teclib-edition:fields:1.9.1:*:*:*:*:glpi:*:*
   - cpe:2.3:a:teclib-edition:fields:1.9.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:fields:*:*:*:*:*:glpi:*:*
   - cpe:2.3:a:teclib-edition:fields:*:*:*:*:glpi:*:*:*

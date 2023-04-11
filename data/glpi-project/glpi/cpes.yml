@@ -127,6 +127,7 @@ cpes:
   - cpe:2.3:a:glpi-project:glpi:10.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi:10.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1.0:rc1:*:*:*:*:*:*

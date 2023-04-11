@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:powerdns:recursor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:2.0_rc1:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:2.9.15:*:*:*:*:*:*:*

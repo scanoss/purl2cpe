@@ -287,3 +287,4 @@ cpes:
   - cpe:2.3:a:firefly-iii:firefly_iii:6.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:firefly-iii:firefly_iii:6.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:firefly-iii:firefly_iii:6.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:firefly-iii:firefly_iii:6.0.0:beta2:*:*:*:*:*:*
