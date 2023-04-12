@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:o:openbsd:openbsd:6.7:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:6.9:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.1:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:7.2:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:8.0:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:current:*:*:*:*:*:*:*
