@@ -141,3 +141,4 @@ cpes:
   - cpe:2.3:a:fullworksplugins:quick_event_manager:9.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_event_manager:9.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_event_manager:9.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fullworksplugins:quick_event_manager:*:*:*:*:*:wordpress:*:*
