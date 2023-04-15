@@ -223,6 +223,7 @@ cpes:
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.3:*:*:*:*:wordpress:*:*
@@ -232,4 +233,5 @@ cpes:
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:6.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wclovers:frontend_manager_for_woocommerce_along_with_bookings_subscription_listings_compatible:-:*:*:*:*:wordpress:*:*

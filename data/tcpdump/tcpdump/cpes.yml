@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:tcpdump:tcpdump:4.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdump:tcpdump:4.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdump:tcpdump:4.99.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdump:tcpdump:4.99.3:*:*:*:*:*:*:*

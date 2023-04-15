@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mobyproject:moby:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:0.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:0.1.0:*:*:*:*:*:*:*

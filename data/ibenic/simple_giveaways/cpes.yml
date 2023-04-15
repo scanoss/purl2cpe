@@ -76,10 +76,23 @@ cpes:
   - cpe:2.3:a:ibenic:simple_giveaways:2.36.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.37.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.37.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.38.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.38.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.39.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.39.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.40.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.40.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.41.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.41.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.42.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.42.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.43.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.44.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibenic:simple_giveaways:2.45.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibenic:simple_giveaways:2.6.1:*:*:*:*:wordpress:*:*
