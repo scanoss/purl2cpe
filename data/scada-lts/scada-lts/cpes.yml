@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:scada-lts:scada-lts:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:scada-lts:scada-lts:2.7.1.1:*:*:*:*:*:*:*

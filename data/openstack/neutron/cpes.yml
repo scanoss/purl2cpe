@@ -80,7 +80,19 @@ cpes:
   - cpe:2.3:a:openstack:neutron:17.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:18.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:18.0.0-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:18.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:18.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:18.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:18.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:18.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:18.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:neutron:19.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:2011.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:2012.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:neutron:2012.2.1:*:*:*:*:*:*:*

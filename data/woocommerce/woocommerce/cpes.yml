@@ -395,3 +395,4 @@ cpes:
   - cpe:2.3:a:woocommerce:woocommerce:5.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.6.0:beta1:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.6.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*
