@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:arista:cloudeos:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:arista:cloudeos:-:*:*:*:*:*:*:*
   - cpe:2.3:a:arista:cloudeos:4.21.11m:*:*:*:*:*:*:*
   - cpe:2.3:a:arista:cloudeos:4.21.3fx-7368:*:*:*:*:*:*:*
   - cpe:2.3:a:arista:cloudeos:4.21.3m:*:*:*:*:*:*:*

@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:globalprotect:5.2:*:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:5.3.1:*:*:*:*:linux:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:5.3:*:*:*:*:linux:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.1.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:macos:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:universal_windows_platform:*:*
