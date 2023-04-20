@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:irssi:irssi:*:*:*:*:*:*:*:*
   - cpe:2.3:a:irssi:irssi:0.7.16:*:*:*:*:*:*:*
   - cpe:2.3:a:irssi:irssi:0.7.17:*:*:*:*:*:*:*
   - cpe:2.3:a:irssi:irssi:0.7.18:*:*:*:*:*:*:*
