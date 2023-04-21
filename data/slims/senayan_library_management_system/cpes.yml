@@ -19,3 +19,4 @@ cpes:
   - cpe:2.3:a:slims:senayan_library_management_system:9.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:slims:senayan_library_management_system:9.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:slims:senayan_library_management_system:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.5.2:*:*:*:*:*:*:*

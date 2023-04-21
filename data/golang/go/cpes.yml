@@ -176,6 +176,7 @@ cpes:
   - cpe:2.3:a:golang:go:1.20.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.20.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:go:1.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*

@@ -187,6 +187,7 @@ cpes:
   - cpe:2.3:a:strongswan:strongswan:5.9.8:dr3:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.8:dr4:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.9:-:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:dr1:*:*:*:*:*:*
