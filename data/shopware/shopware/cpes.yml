@@ -197,6 +197,7 @@ cpes:
   - cpe:2.3:a:shopware:shopware:6.4.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.4.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.3.0:*:*:*:*:*:*:*
@@ -212,3 +213,6 @@ cpes:
   - cpe:2.3:a:shopware:shopware:6.4.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.0.0:rc3:*:*:*:*:*:*

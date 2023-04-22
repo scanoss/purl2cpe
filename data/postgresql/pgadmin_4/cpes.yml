@@ -64,9 +64,20 @@ cpes:
   - cpe:2.3:a:postgresql:pgadmin_4:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.18:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:pgadmin_4:6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:pgadmin_4:6.9:*:*:*:*:*:*:*
