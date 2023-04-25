@@ -3,5 +3,7 @@ cpes:
   - cpe:2.3:a:gatsbyjs:gatsby:2.14.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:gatsbyjs:gatsby:3.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:gatsbyjs:gatsby:3.15.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gatsbyjs:gatsby:5.25.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:gatsbyjs:gatsby:6.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gatsbyjs:gatsby:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:gatsbyjs:gatsby:-:*:*:*:*:node.js:*:*

@@ -14,12 +14,15 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:quebec:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:quebec:patch_10:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:-:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:early_availability:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_10:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_10_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_10_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_10_hotfix_2a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_1_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:rome:patch_1_hotfix_1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_1_hotfix_1b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_1_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_1_hotfix_3:*:*:*:*:*:*
@@ -49,6 +52,7 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:rome:patch_9a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_9b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:rome:patch_9_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:san_diego:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1_hotfix_1a:*:*:*:*:*:*
@@ -63,9 +67,26 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_4:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_4a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_4b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:san_diego:patch_5:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_6:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:san_diego:patch_7b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_8:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:-:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:early_availability:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:p4:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:-:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:early_availability:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_2:*:*:*:*:*:*

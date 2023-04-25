@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mediawiki:score:*:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:score:-:*:*:*:*:mediawiki:*:*

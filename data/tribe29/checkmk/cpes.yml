@@ -167,6 +167,8 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p23:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p24:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p25:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p26:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p27:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p3:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p5:*:*:*:*:*:*
@@ -178,4 +180,5 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b1:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b2:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b3:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:b4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:i1:*:*:*:*:*:*
