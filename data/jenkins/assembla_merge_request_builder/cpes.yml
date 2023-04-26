@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:*:*:*:*:*:jenkins:*:*

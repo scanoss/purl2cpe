@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:buzzywall:buzzywall:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:buzzywall:buzzywall:1:*:*:*:*:*:*:*
+  - cpe:2.3:a:buzzywall:buzzywall:1.3:*:*:*:*:*:*:*

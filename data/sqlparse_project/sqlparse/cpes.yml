@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:python:*:*
