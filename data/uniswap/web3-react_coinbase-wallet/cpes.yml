@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:7.0.0:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:7.0.1:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:7.0.2:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.22:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.23:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.24:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.25:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.26:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.27:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.28:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.29:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.30:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.31:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.32:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.33:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:8.0.34:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:uniswap:web3-react_coinbase-wallet:*:*:*:*:*:node.js:*:*
