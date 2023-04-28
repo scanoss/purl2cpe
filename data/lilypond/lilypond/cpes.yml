@@ -59,5 +59,19 @@ cpes:
   - cpe:2.3:a:lilypond:lilypond:2.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lilypond:lilypond:2.21.4:*:*:*:*:*:*:*
   - cpe:2.3:a:lilypond:lilypond:2.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:lilypond:lilypond:2.23.9:*:*:*:*:*:*:*
   - cpe:2.3:a:lilypond:lilypond:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lilypond:lilypond:2.8.8:*:*:*:*:*:*:*

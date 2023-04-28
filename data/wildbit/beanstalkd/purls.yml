@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/beanstalkd
-  - pkg:deb/ubuntu/beanstalkd
-  - pkg:github/beanstalkd/beanstalkd
-  - pkg:github/wildbit/beanstalkapp
-  - pkg:rpm/fedora/beanstalkd
-  - pkg:rpm/opensuse/beanstalkd

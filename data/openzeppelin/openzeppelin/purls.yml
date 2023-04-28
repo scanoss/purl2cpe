@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/openzeppelin/openzeppelin-contracts
-  - pkg:golang/github.com/openzeppelin/openzeppelin-contracts
-  - pkg:npm/openzeppelin-contracts

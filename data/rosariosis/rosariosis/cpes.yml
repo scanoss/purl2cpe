@@ -25,6 +25,13 @@ cpes:
   - cpe:2.3:a:rosariosis:rosariosis:10.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rosariosis:rosariosis:10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:rosariosis:rosariosis:10.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rosariosis:rosariosis:10.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rosariosis:rosariosis:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rosariosis:rosariosis:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rosariosis:rosariosis:5.0.2:*:*:*:*:*:*:*
