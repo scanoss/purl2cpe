@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:a:ajax_search_project:ajax_search:1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ajax_search_project:ajax_search:1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ajax_search_project:ajax_search:*:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:ajax_search_project:ajax_search:*:*:*:*:pro:wordpress:*:*
