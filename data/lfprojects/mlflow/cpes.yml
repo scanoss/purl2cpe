@@ -65,3 +65,4 @@ cpes:
   - cpe:2.3:a:lfprojects:mlflow:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:2.2.2:*:*:*:*:*:*:*
