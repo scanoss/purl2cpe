@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:kiwitcms:kiwi_tcms:*:*:*:*:-:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:10.2:*:*:*:*:*:*:*
@@ -13,6 +14,7 @@ cpes:
   - cpe:2.3:a:kiwitcms:kiwi_tcms:11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kiwitcms:kiwi_tcms:12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:3.22:*:*:*:*:*:*:*
@@ -94,3 +96,4 @@ cpes:
   - cpe:2.3:a:kiwitcms:kiwi_tcms:8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kiwitcms:kiwi_tcms:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kiwitcms:kiwi_tcms:*:*:*:*:enterprise:*:*:*

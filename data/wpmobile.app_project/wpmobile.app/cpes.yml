@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:-:*:*:*:*:wordpress:*:*

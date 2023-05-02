@@ -116,3 +116,4 @@ cpes:
   - cpe:2.3:a:bestwebsoft:gallery:4.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:gallery:4.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:gallery:4.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bestwebsoft:gallery:*:*:*:*:*:wordpress:*:*

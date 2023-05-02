@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mogublog_project:mogublog:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mogublog_project:mogublog:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mogublog_project:mogublog:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mogublog_project:mogublog:4.1:*:*:*:*:*:*:*

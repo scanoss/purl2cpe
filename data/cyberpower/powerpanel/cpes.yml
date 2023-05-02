@@ -1,2 +1,6 @@
 cpes:
   - cpe:2.3:a:cyberpower:powerpanel:3.4.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpower:powerpanel:*:*:*:*:business:linux:*:*
+  - cpe:2.3:a:cyberpower:powerpanel:*:*:*:*:business:macos:*:*
+  - cpe:2.3:a:cyberpower:powerpanel:*:*:*:*:business:virtual_machine:*:*
+  - cpe:2.3:a:cyberpower:powerpanel:*:*:*:*:business:windows:*:*

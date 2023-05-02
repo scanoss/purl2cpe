@@ -74,3 +74,31 @@ cpes:
   - cpe:2.3:o:riot-os:riot:2021.01:rc2:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2021.01:rc3:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2021.01:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.04:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.04:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.04:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.04:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.04:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.07:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.07:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.07:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.07:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.10:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.10:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2021.10:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.01:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.01:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.01:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.04:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.07:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.07:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.07:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2022.07:rc3:*:*:*:*:*:*
