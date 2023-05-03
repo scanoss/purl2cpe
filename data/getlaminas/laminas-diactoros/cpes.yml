@@ -94,14 +94,21 @@ cpes:
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.1.5:-:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.1.5:patch1:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.1.5:patch2:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.0:patch1:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.0:patch2:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.1:patch1:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.1:patch2:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getlaminas:laminas-diactoros:2.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getlaminas:laminas-diactoros:2.3.2:*:*:*:*:*:*:*

@@ -46,6 +46,7 @@ cpes:
   - cpe:2.3:o:suse:linux_enterprise_server:12:ga:*:*:ltss:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:ltss:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:*:*:*:ltss:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise_server:12:-:*:*:*:sap:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:sp1:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:sp1:*:*:ltss:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:sp1:*:*:*:sap:*:*

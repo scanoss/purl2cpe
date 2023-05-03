@@ -392,3 +392,13 @@ cpes:
   - cpe:2.3:a:git_for_windows_project:git_for_windows:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:git_for_windows_project:git_for_windows:1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git_for_windows_project:git_for_windows:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.35.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.35.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.39.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc2:*:*:*:*:*:*
