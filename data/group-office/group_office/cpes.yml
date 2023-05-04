@@ -213,3 +213,4 @@ cpes:
   - cpe:2.3:a:group-office:group_office:6.5.70:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.5.71:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.5.72:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.6.145:*:*:*:*:*:*:*

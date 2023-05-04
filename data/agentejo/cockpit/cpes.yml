@@ -45,3 +45,15 @@ cpes:
   - cpe:2.3:a:agentejo:cockpit:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:agentejo:cockpit:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:agentejo:cockpit:2.4.0:*:*:*:*:*:*:*
