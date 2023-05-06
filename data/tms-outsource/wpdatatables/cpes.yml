@@ -56,3 +56,4 @@ cpes:
   - cpe:2.3:a:tms-outsource:wpdatatables:3.4.4:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tms-outsource:wpdatatables:3.4:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tms-outsource:wpdatatables:3.5:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:tms-outsource:wpdatatables:*:*:*:*:free:wordpress:*:*
