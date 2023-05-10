@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:shapeshift:keepkey_firmware:*:*:*:*:*:*:*:*
   - cpe:2.3:o:shapeshift:keepkey_firmware:-:*:*:*:*:*:*:*
   - cpe:2.3:o:shapeshift:keepkey_firmware:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:o:shapeshift:keepkey_firmware:1.0.0:rc1:*:*:*:*:*:*

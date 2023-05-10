@@ -154,6 +154,7 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.3:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12:*:*:*:-:wordpress:*:*
@@ -281,5 +282,13 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.9.9:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:*:wordpress:*:*

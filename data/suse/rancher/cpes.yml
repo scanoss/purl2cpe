@@ -265,6 +265,7 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.6.0:rc8:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.0:rc9:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.1:rc10:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.1:rc11:*:*:*:*:*:*
@@ -326,3 +327,16 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.6.4:rc8:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.6.4:rc9:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.1:rc9:*:*:*:*:*:*

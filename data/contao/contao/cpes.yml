@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:contao:contao:*:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:-:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:1.5.0:-:*:*:*:managed:*:*
   - cpe:2.3:a:contao:contao:1.5.0:-:*:*:managed:*:*:*

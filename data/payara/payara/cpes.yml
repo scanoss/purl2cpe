@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:payara:payara:*:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:-:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:*:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:payara:payara:-:*:*:*:enterprise:*:*:*
