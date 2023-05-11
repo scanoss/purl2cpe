@@ -1,4 +1,7 @@
 cpes:
+  - cpe:2.3:a:openelec:openelec:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openelec:openelec:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:openelec:openelec:3.00:*:*:*:*:*:*:*
   - cpe:2.3:o:openelec:openelec:-:*:*:*:*:*:*:*
   - cpe:2.3:o:openelec:openelec:0.90.0:*:*:*:*:*:*:*
   - cpe:2.3:o:openelec:openelec:0.90.1:*:*:*:*:*:*:*

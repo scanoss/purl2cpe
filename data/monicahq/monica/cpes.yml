@@ -67,3 +67,4 @@ cpes:
   - cpe:2.3:a:monicahq:monica:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monicahq:monica:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:monicahq:monica:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monicahq:monica:4.0.0:*:*:*:*:*:*:*

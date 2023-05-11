@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:apache:ranger:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ranger:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ranger:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ranger:*:*:*:*:*:hive:*:*
