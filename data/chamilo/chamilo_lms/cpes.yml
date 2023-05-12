@@ -25,6 +25,7 @@ cpes:
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.14:beta1:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.16:-:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.16:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.18:*:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.4:-:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.4:alpha1:*:*:*:*:*:*
