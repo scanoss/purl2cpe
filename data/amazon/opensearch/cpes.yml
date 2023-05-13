@@ -59,5 +59,6 @@ cpes:
   - cpe:2.3:a:amazon:opensearch:2.4.0:*:*:*:*:docker:*:*
   - cpe:2.3:a:amazon:opensearch:2.4.1:*:*:*:*:-:*:*
   - cpe:2.3:a:amazon:opensearch:2.5.0:*:*:*:*:docker:*:*
+  - cpe:2.3:a:amazon:opensearch:2.6.0:*:*:*:*:docker:*:*
   - cpe:2.3:a:amazon:opensearch:*:*:*:*:*:docker:*:*
   - cpe:2.3:a:amazon:opensearch:-:*:*:*:*:ruby:*:*

@@ -42,7 +42,9 @@ cpes:
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.4:*:*:*:*:wordpress:*:*
