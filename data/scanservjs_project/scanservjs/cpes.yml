@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:scanservjs_project:scanservjs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:scanservjs_project:scanservjs:2.27.0:*:*:*:*:*:*:*
