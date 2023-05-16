@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:apache:jena:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:4.7.0:*:*:*:*:*:*:*
