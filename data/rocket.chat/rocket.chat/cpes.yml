@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:rocket.chat:rocket.chat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:-:*:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:0.10.2:*:*:*:*:*:*:*
