@@ -91,6 +91,7 @@ cpes:
   - cpe:2.3:a:oracle:openjdk:1.7.0:update9:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:18:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:20:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:7:-:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:7:update1:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:7:update10:*:*:*:*:*:*

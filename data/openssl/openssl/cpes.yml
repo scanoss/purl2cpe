@@ -259,6 +259,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:1.0.2zd:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2ze:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zf:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:1.0.2zg:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0:*:openvms:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.0:-:*:*:*:*:*:*

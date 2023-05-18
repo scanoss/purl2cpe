@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:facebook:hhvm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:2.3.1:*:*:*:*:*:*:*
@@ -242,7 +243,9 @@ cpes:
   - cpe:2.3:a:facebook:hhvm:4.16.4:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facebook:hhvm:4.171.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:facebook:hhvm:4.172.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facebook:hhvm:4.18.1:*:*:*:*:*:*:*
