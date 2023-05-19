@@ -74,3 +74,9 @@ cpes:
   - cpe:2.3:a:gnu:bash:5.0:patch8:*:*:*:*:*:*
   - cpe:2.3:a:gnu:bash:5.0:patch9:*:*:*:*:*:*
   - cpe:2.3:a:gnu:bash:5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:bash:5.1:rc3:*:*:*:*:*:*

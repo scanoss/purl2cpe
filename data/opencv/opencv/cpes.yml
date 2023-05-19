@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opencv:opencv:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opencv:opencv:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opencv:opencv:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencv:opencv:2.3.1:*:*:*:*:*:*:*
