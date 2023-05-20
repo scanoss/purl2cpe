@@ -8,6 +8,7 @@ cpes:
   - cpe:2.3:a:phpok:phpok:5.2.060:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:5.4.137:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:5.4.231:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpok:phpok:5.7.140:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:6.1:*:*:*:*:*:*:*
