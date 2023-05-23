@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:unbit:uwsgi:-:*:*:*:*:*:*:*
   - cpe:2.3:a:unbit:uwsgi:0.9.5:-:*:*:*:*:*:*
   - cpe:2.3:a:unbit:uwsgi:0.9.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:unbit:uwsgi:0.9.5:beta1:*:*:*:*:*:*

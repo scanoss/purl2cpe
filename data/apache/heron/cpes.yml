@@ -34,7 +34,11 @@ cpes:
   - cpe:2.3:a:apache:heron:0.15.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.2:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.16.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.16.1:*:*:*:*:*:*:*
@@ -101,11 +105,34 @@ cpes:
   - cpe:2.3:a:apache:heron:0.19.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.0-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.1-incubating:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.2-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.3:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.4:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.4-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.5:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.20.5-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.5:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.20.5:rc4:*:*:*:*:*:*

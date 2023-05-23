@@ -39,6 +39,7 @@ cpes:
   - cpe:2.3:a:apache:superset:0.20.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.20.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.21.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.21.0:prod1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.21.0:rc1:*:*:*:*:*:*
@@ -50,9 +51,11 @@ cpes:
   - cpe:2.3:a:apache:superset:0.21.0:rc3-prod5:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.22.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.22.0:prod1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.23.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.23.0:rc1.6:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.23.0:rc2:*:*:*:*:*:*
@@ -61,8 +64,10 @@ cpes:
   - cpe:2.3:a:apache:superset:0.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.23.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.24.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.25.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.25.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.25.0:rc2:*:*:*:*:*:*
@@ -73,14 +78,17 @@ cpes:
   - cpe:2.3:a:apache:superset:0.25.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.25.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.27.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.27.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.28.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.28.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.28.0:rc4:*:*:*:*:*:*
@@ -96,22 +104,28 @@ cpes:
   - cpe:2.3:a:apache:superset:0.29.0:rc6:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.29.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.29.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.31.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.31.0:rc18:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.32:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.32.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.32.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.32.0:rc2_dev2:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.33.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.34.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.34.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.34.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:0.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:0.35.2:-:*:*:*:*:*:*
@@ -200,3 +214,9 @@ cpes:
   - cpe:2.3:a:apache:superset:2.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:2.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:2.0.1:rc6:*:*:*:*:*:*

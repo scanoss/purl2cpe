@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:intel:oneapi_base_toolkit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:oneapi_base_toolkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:beta08:*:*:*:*:*:*
+  - cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:beta09:*:*:*:*:*:*
+  - cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:beta10:*:*:*:*:*:*

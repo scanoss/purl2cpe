@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:pimcore:customer_management_framework:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:*:*:*:*:*:pimcore:*:*

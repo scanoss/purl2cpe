@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:quickjs_project:quickjs:2020-04-12:*:*:*:*:*:*:*
   - cpe:2.3:a:quickjs_project:quickjs:2020-07-05:*:*:*:*:*:*:*
   - cpe:2.3:a:quickjs_project:quickjs:2020-09-06:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2022-03-06:*:*:*:*:*:*:*

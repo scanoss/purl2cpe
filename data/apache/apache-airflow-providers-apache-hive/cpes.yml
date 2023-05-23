@@ -18,3 +18,8 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-hive:5.1.2:*:*:*:*:*:*:*

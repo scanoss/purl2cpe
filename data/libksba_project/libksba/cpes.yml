@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libksba_project:libksba:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libksba_project:libksba:0.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libksba_project:libksba:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libksba_project:libksba:0.2.1:*:*:*:*:*:*:*

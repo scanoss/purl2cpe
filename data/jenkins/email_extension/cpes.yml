@@ -117,5 +117,7 @@ cpes:
   - cpe:2.3:a:jenkins:email_extension:2.90:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.91:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.92:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.93.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.93:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:email_extension:2.94:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:email_extension:2.9:*:*:*:*:jenkins:*:*

@@ -17,9 +17,13 @@ cpes:
   - cpe:2.3:a:apache:guacamole:0.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:0.9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.10-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:0.9.11:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.11-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:0.9.12:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.12-incubating:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:0.9.13:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.13-incubating:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.14:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:0.9.14:rc1:*:*:*:*:*:*
@@ -35,7 +39,9 @@ cpes:
   - cpe:2.3:a:apache:guacamole:1.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:guacamole:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:guacamole:1.3.0:rc1:*:*:*:*:*:*
