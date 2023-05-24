@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:jenkins:azure_vm_agents:0.8.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_vm_agents:0.9.0:-:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_vm_agents:0.9.0:preview:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_vm_agents:*:*:*:*:*:jenkins:*:*

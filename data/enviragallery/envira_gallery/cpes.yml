@@ -105,6 +105,7 @@ cpes:
   - cpe:2.3:a:enviragallery:envira_gallery:1.7.4.2:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.7.4:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.7.5.1:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:enviragallery:envira_gallery:1.7.5:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.75:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.7.6:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.7.7:*:*:*:lite:wordpress:*:*
@@ -129,3 +130,4 @@ cpes:
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3.3:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3.4:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:enviragallery:envira_gallery:*:*:*:*:*:wordpress:*:*

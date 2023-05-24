@@ -34,10 +34,12 @@ cpes:
   - cpe:2.3:a:apache:heron:0.15.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.2:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:heron:0.15.3:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.15.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:heron:0.16.0.1:*:*:*:*:*:*:*

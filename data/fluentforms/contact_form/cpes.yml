@@ -67,6 +67,9 @@ cpes:
   - cpe:2.3:a:fluentforms:contact_form:4.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fluentforms:contact_form:4.3.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fluentforms:contact_form:4.3.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fluentforms:contact_form:4.3.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fluentforms:contact_form:4.3.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fluentforms:contact_form:4.3.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fluentforms:contact_form:4.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fluentforms:contact_form:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fluentforms:contact_form:4.3.4:*:*:*:*:wordpress:*:*

@@ -57,3 +57,5 @@ cpes:
   - cpe:2.3:a:flippercode:wp_google_map:4.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:flippercode:wp_google_map:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:flippercode:wp_google_map:4.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:flippercode:wp_google_map:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:flippercode:wp_google_map:-:*:*:*:*:wordpress:*:*

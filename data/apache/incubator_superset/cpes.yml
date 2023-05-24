@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:incubator_superset:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:incubator_superset:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:incubator_superset:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:incubator_superset:0.12.0:*:*:*:*:*:*:*
