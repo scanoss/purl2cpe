@@ -967,3 +967,4 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:6.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:6.2:*:*:*:*:*:*:*

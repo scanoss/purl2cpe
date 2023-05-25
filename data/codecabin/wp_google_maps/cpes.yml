@@ -559,4 +559,6 @@ cpes:
   - cpe:2.3:a:codecabin:wp_google_maps:8.1.9:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_google_maps:8.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_google_maps:-:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_google_maps:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_google_maps:-:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_google_maps:*:*:*:*:*:wordpress:*:*

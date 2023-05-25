@@ -184,4 +184,5 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b5:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:b6:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:b7:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:i1:*:*:*:*:*:*

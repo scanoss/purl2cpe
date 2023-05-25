@@ -26,3 +26,4 @@ cpes:
   - cpe:2.3:a:opentsdb:opentsdb:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opentsdb:opentsdb:2.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:opentsdb:opentsdb:2.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opentsdb:opentsdb:2.4.1:*:*:*:*:*:*:*
