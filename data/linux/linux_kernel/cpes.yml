@@ -5019,6 +5019,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.3:rc2:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.3:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.3:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.3:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.3:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:*:64-bit:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:git-6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:git9:*:*:*:*:*:*

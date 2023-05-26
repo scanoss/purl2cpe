@@ -96,9 +96,11 @@ cpes:
   - cpe:2.3:a:gnu:emacs:25.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:25.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:emacs:26.1-9.el8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:26.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:26.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:emacs:27.2-8.el9:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:28.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:28.2:*:*:*:*:*:*:*

@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:a:apache:inlong:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:inlong:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:inlong:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:inlong:1.6.0:*:*:*:*:*:*:*

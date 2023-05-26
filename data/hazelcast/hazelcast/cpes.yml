@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:-:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:1.9.3.2:*:*:*:*:*:*:*
@@ -279,6 +280,8 @@ cpes:
   - cpe:2.3:a:hazelcast:hazelcast:5.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.1.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.1.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hazelcast:hazelcast:5.1.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:hazelcast:hazelcast:5.1.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:enterprise:*:*:*
