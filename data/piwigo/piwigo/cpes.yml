@@ -48,6 +48,8 @@ cpes:
   - cpe:2.3:a:piwigo:piwigo:1.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:13.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:13.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:13.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:13.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.4.0:rc1:*:*:*:*:*:*
