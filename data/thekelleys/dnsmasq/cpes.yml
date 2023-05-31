@@ -117,5 +117,14 @@ cpes:
   - cpe:2.3:a:thekelleys:dnsmasq:2.85:rc2:*:*:*:*:*:*
   - cpe:2.3:a:thekelleys:dnsmasq:2.85:rc3:*:*:*:*:*:*
   - cpe:2.3:a:thekelleys:dnsmasq:2.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.87:-:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.87:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:-:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.88:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:thekelleys:dnsmasq:2.89:*:*:*:*:*:*:*
   - cpe:2.3:a:thekelleys:dnsmasq:2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:thekelleys:dnsmasq:*:rc3:*:*:*:*:*:*

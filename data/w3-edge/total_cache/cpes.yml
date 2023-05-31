@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:w3-edge:total_cache:*:*:*:*:*:*:*:*
   - cpe:2.3:a:w3-edge:total_cache:0.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:w3-edge:total_cache:0.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:w3-edge:total_cache:0.10.2:*:*:*:*:wordpress:*:*
@@ -18,4 +19,5 @@ cpes:
   - cpe:2.3:a:w3-edge:total_cache:0.9.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:w3-edge:total_cache:0.9.7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:w3-edge:total_cache:0.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:w3-edge:total_cache:-:*:*:*:*:wordpress:*:*

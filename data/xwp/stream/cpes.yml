@@ -100,4 +100,5 @@ cpes:
   - cpe:2.3:a:xwp:stream:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xwp:stream:3.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:-:*:*:*:*:wordpress:*:*

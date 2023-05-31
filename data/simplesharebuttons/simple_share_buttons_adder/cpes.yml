@@ -87,3 +87,28 @@ cpes:
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.5.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.6.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.6.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.6.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:7.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.7:*:*:*:*:wordpress:*:*

@@ -81,6 +81,7 @@ cpes:
   - cpe:2.3:a:libtiff:libtiff:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:4.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:4.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libtiff:libtiff:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:4.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:4.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:4.5.0:rc2:*:*:*:*:*:*

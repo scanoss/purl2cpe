@@ -106,3 +106,5 @@ cpes:
   - cpe:2.3:a:teampass:teampass:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:teampass:teampass:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:teampass:teampass:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:teampass:teampass:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:teampass:teampass:3.0.8:*:*:*:*:*:*:*

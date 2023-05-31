@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:zmartzone:mod_auth_openidc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:zmartzone:mod_auth_openidc:-:*:*:*:*:*:*:*
   - cpe:2.3:a:zmartzone:mod_auth_openidc:1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:zmartzone:mod_auth_openidc:1.5.1:*:*:*:*:*:*:*

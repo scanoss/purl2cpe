@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_field_suite_project:custom_field_suite:2.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:custom_field_suite_project:custom_field_suite:*:*:*:*:*:wordpress:*:*

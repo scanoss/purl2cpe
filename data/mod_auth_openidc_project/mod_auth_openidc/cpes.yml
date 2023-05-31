@@ -54,3 +54,4 @@ cpes:
   - cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:2.4.0.3:*:*:*:*:apache:*:*
   - cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:2.4.0.4:*:*:*:*:apache:*:*
   - cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:2.4.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:*:*:*:*:*:apache:*:*
