@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:kubernetes:minikube:0.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:0.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:0.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:0.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:0.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:0.28.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:0.28.2:*:*:*:*:*:*:*
@@ -56,3 +57,8 @@ cpes:
   - cpe:2.3:a:kubernetes:minikube:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:minikube:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:1.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:1.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:1.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:minikube:1.28.0:*:*:*:*:*:*:*

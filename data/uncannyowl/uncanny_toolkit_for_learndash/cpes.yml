@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:*:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:1.1:*:*:*:*:*:*:*
@@ -47,3 +48,4 @@ cpes:
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:*:*:*:*:*:wordpress:*:*
