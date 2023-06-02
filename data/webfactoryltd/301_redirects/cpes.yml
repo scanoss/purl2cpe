@@ -21,4 +21,5 @@ cpes:
   - cpe:2.3:a:webfactoryltd:301_redirects:2.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfactoryltd:301_redirects:2.40:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfactoryltd:301_redirects:2.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:301_redirects:2.50:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfactoryltd:301_redirects:-:*:*:*:*:wordpress:*:*

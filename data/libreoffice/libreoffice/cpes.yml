@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:3.2.99.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:3.2.99.3:*:*:*:*:*:*:*
