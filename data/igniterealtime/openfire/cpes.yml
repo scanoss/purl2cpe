@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:igniterealtime:openfire:*:*:*:*:*:*:*:*
   - cpe:2.3:a:igniterealtime:openfire:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:igniterealtime:openfire:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:igniterealtime:openfire:2.6.2:*:*:*:*:*:*:*

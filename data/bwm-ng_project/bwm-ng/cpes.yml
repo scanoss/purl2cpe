@@ -4,3 +4,4 @@ cpes:
   - cpe:2.3:a:bwm-ng_project:bwm-ng:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bwm-ng_project:bwm-ng:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bwm-ng_project:bwm-ng:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bwm-ng_project:bwm-ng:*:*:*:*:*:node.js:*:*

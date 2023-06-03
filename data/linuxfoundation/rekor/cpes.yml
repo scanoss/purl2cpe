@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:linuxfoundation:rekor:1.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:rekor:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:rekor:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:rekor:1.1.1:*:*:*:*:*:*:*
