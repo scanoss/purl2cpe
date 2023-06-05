@@ -47,3 +47,4 @@ cpes:
   - cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.7.2:*:*:*:*:wordpress:*:*
