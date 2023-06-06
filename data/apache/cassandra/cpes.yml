@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:cassandra:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:0.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:0.4.1:*:*:*:*:*:*:*

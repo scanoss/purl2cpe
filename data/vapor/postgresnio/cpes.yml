@@ -1,2 +1,21 @@
 cpes:
+  - cpe:2.3:a:vapor:postgresnio:1.10.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.11.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.11.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.12.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.12.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.13.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.14.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.14.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.2:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.3:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.4:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.6.5:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.7.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.7.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.7.2:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.8.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:vapor:postgresnio:1.9.0:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:vapor:postgresnio:*:*:*:*:*:postgresql:*:*

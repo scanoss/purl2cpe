@@ -8,3 +8,5 @@ cpes:
   - cpe:2.3:a:mindspore:mindspore:1.2.0:-:*:*:*:openeuler:*:*
   - cpe:2.3:a:mindspore:mindspore:1.2.1:*:*:*:*:openeuler:*:*
   - cpe:2.3:a:mindspore:mindspore:1.3.0:*:*:*:*:openeuler:*:*
+  - cpe:2.3:a:mindspore:mindspore:2.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mindspore:mindspore:2.0.0:rc1:*:*:*:*:*:*

@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:pluginops:landing_page_builder:1.4.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pluginops:landing_page_builder:1.4.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pluginops:landing_page_builder:1.5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pluginops:landing_page_builder:*:*:*:*:*:wordpress:*:*

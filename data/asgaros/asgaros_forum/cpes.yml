@@ -55,7 +55,11 @@ cpes:
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:1.15.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:1.15.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:1.15.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:1.15.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.15.4:*:*:*:*:wordpress:*:*
@@ -127,4 +131,8 @@ cpes:
   - cpe:2.3:a:asgaros:asgaros_forum:1.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:-:*:*:*:*:wordpress:*:*

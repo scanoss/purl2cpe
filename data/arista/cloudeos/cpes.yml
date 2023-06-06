@@ -18,4 +18,8 @@ cpes:
   - cpe:2.3:a:arista:cloudeos:4.23.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:arista:cloudeos:4.23.2m:*:*:*:*:*:*:*
   - cpe:2.3:a:arista:cloudeos:4.23.3m:*:*:*:*:*:*:*
+  - cpe:2.3:a:arista:cloudeos:4.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arista:cloudeos:4.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arista:cloudeos:4.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arista:cloudeos:4.29.0:*:*:*:*:*:*:*
   - cpe:2.3:o:arista:cloudeos:*:*:*:*:*:*:*:*

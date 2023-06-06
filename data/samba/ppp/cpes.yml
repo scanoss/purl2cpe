@@ -53,5 +53,7 @@ cpes:
   - cpe:2.3:a:samba:ppp:2.4.8:*:*:*:*:solaris:*:*
   - cpe:2.3:a:samba:ppp:2.4.9:*:*:*:*:linux:*:*
   - cpe:2.3:a:samba:ppp:2.4.9:*:*:*:*:solaris:*:*
+  - cpe:2.3:a:samba:ppp:2.5.0:*:*:*:*:linux:*:*
+  - cpe:2.3:a:samba:ppp:2.5.0:*:*:*:*:solaris:*:*
   - cpe:2.3:a:samba:ppp:-:*:*:*:*:linux:*:*
   - cpe:2.3:a:samba:ppp:-:*:*:*:*:solaris:*:*

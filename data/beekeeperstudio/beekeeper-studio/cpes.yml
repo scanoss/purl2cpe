@@ -128,6 +128,20 @@ cpes:
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:7.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:7.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:beekeeperstudio:beekeeper-studio:7.8.1:*:*:*:*:*:*:*

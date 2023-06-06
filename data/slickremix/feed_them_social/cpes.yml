@@ -205,4 +205,5 @@ cpes:
   - cpe:2.3:a:slickremix:feed_them_social:2.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slickremix:feed_them_social:2.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slickremix:feed_them_social:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slickremix:feed_them_social:3.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slickremix:feed_them_social:*:*:*:*:*:wordpress:*:*
