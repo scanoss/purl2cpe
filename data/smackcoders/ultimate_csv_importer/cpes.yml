@@ -81,4 +81,5 @@ cpes:
   - cpe:2.3:a:smackcoders:ultimate_csv_importer:6.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smackcoders:ultimate_csv_importer:6.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smackcoders:ultimate_csv_importer:6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:smackcoders:ultimate_csv_importer:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smackcoders:ultimate_csv_importer:-:*:*:*:*:wordpress:*:*

@@ -24,8 +24,12 @@ cpes:
   - cpe:2.3:a:github:cmark-gfm:0.28.3.gfm.21:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.0:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.10:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.2:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.3:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.4:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.5:*:*:*:*:*:*:*
   - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:cmark-gfm:0.29.0.gfm.9:*:*:*:*:*:*:*

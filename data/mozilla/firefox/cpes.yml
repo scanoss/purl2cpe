@@ -62,6 +62,8 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:108.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.0:preview_release:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:112.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:112.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:beta6:*:*:*:*:*:*

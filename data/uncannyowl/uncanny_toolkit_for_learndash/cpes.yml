@@ -48,4 +48,14 @@ cpes:
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:3.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:uncannyowl:uncanny_toolkit_for_learndash:*:*:*:*:*:wordpress:*:*

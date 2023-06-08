@@ -22,3 +22,6 @@ cpes:
   - cpe:2.3:a:leantime:leantime:2.1:beta4:*:*:*:*:*:*
   - cpe:2.3:a:leantime:leantime:2.1:beta4a:*:*:*:*:*:*
   - cpe:2.3:a:leantime:leantime:2.1:beta4b:*:*:*:*:*:*
+  - cpe:2.3:a:leantime:leantime:2.3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:leantime:leantime:2.3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:leantime:leantime:2.3.23:*:*:*:*:*:*:*
