@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:vektor-inc:vk_blocks:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:*:*:*:*:-:wordpress:*:*

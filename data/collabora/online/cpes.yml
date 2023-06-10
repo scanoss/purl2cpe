@@ -1,6 +1,8 @@
 cpes:
   - cpe:2.3:a:collabora:online:*:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:collabora:online:21.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collabora:online:22.05.0:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.11:*:*:*:*:*:*:*

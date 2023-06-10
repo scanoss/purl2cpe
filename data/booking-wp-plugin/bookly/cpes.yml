@@ -105,6 +105,7 @@ cpes:
   - cpe:2.3:a:booking-wp-plugin:bookly:20.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking-wp-plugin:bookly:2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking-wp-plugin:bookly:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booking-wp-plugin:bookly:21.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking-wp-plugin:bookly:21.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking-wp-plugin:bookly:2.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking-wp-plugin:bookly:2.2.1:*:*:*:*:wordpress:*:*

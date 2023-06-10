@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:sonicjs:sonicjs:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sonicjs:sonicjs:*:*:*:*:*:node.js:*:*

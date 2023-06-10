@@ -101,6 +101,7 @@ cpes:
   - cpe:2.3:a:hawt:hawtio:2.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:2.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:2.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:2.4.0:*:*:*:*:*:*:*

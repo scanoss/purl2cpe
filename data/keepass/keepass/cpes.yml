@@ -125,3 +125,8 @@ cpes:
   - cpe:2.3:a:keepass:keepass:2.48.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:2.49:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:2.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:2.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:2.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:2.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:2.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:2.53.1:*:*:*:*:*:*:*
