@@ -1097,6 +1097,9 @@ cpes:
   - cpe:2.3:a:ruby-lang:ruby:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruby-lang:ruby:3.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruby-lang:ruby:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruby-lang:ruby:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:*:*:*:*:*:oniguruma-mod:*:*
   - cpe:2.3:a:ruby-lang:ruby:*:p111:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:*:p286:*:*:*:*:*:*
