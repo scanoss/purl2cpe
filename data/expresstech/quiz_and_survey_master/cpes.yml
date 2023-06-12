@@ -214,5 +214,6 @@ cpes:
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:8.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:*:*:*:*:*:wordpress:*:*

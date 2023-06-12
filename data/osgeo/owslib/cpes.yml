@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:osgeo:owslib:-:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.10.2:*:*:*:*:*:*:*
@@ -24,6 +25,10 @@ cpes:
   - cpe:2.3:a:osgeo:owslib:0.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.24.1:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:owslib:0.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:owslib:0.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:owslib:0.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:owslib:0.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:owslib:0.5.1:*:*:*:*:*:*:*
