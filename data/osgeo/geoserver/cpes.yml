@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:osgeo:geoserver:2.18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.18.5:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:geoserver:2.18.7:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.19.0:-:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.19.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.19.1:*:*:*:*:*:*:*
@@ -89,6 +90,7 @@ cpes:
   - cpe:2.3:a:osgeo:geoserver:2.20.4:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:geoserver:2.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geoserver:2.2.5:*:*:*:*:*:*:*

@@ -83,4 +83,5 @@ cpes:
   - cpe:2.3:a:cartflows:funnel_builder:1.6.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cartflows:funnel_builder:1.6.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cartflows:funnel_builder:1.6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cartflows:funnel_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cartflows:funnel_builder:-:*:*:*:*:wordpress:*:*
