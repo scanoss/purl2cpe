@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:libcap_project:libcap:2.24:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.25:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap_project:libcap:2.66:*:*:*:*:*:*:*

@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:o:netgear:r6700_firmware:1.0.1.46:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r6700_firmware:1.0.1.48:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r6700_firmware:1.0.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:o:netgear:r6700_firmware:1.0.2.26:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r6700_firmware:1.0.2.32:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r6700_firmware:1.0.2.52:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r6700_firmware:1.0.2.6:*:*:*:*:*:*:*
