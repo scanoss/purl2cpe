@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:grpc:grpc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:0.10.2:*:*:*:*:*:*:*
@@ -109,9 +110,11 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.0.7:*:*:*:*:webjs:*:*
   - cpe:2.3:a:grpc:grpc:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.1.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.10.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.10.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.10.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.10.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.10.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.10.1:*:*:*:*:java:*:*
@@ -121,6 +124,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.1.0:*:*:*:*:webjs:*:*
   - cpe:2.3:a:grpc:grpc:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.1.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.11.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.11.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.11.0:*:*:*:*:java:*:*
@@ -131,9 +135,11 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.1.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.1.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.12.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.12.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.12.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.12.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.12.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.12.1:*:*:*:*:java:*:*
@@ -152,6 +158,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.1.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:grpc:grpc:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.1.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.14.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.14.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.14.0:*:*:*:*:java:*:*
@@ -160,12 +167,15 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.14.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.15.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.15.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.15.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.15.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.15.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.16.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.16.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.16.0:*:*:*:*:java:*:*
@@ -173,19 +183,24 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.16.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.16.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.17.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.17.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.17.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.17.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.17.1:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.17.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.17.2:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.18.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.18.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.18.0:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.18.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.19.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.19.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.19.0:*:*:*:*:java:*:*
@@ -193,6 +208,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.19.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.20.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.20.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.20.0:*:*:*:*:java:*:*
@@ -207,6 +223,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:webjs:*:*
   - cpe:2.3:a:grpc:grpc:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.2.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.21.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.21.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.21.0:*:*:*:*:java:*:*
@@ -305,6 +322,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.29.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.29.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.2.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:grpc:grpc:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.3.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.30.0:*:*:*:*:dart:*:*
@@ -321,6 +339,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.3.0:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:grpc:grpc:1.3.0:*:*:*:*:webjs:*:*
+  - cpe:2.3:a:grpc:grpc:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.3.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.31.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.31.0:*:*:*:*:dart:*:*
@@ -418,6 +437,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.39.0:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.39.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.4.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.40.0:*:*:*:*:dart:*:*
@@ -487,6 +507,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.5.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:grpc:grpc:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.6.2:*:*:*:*:*:*:*
@@ -495,9 +516,11 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:java:*:*
@@ -507,6 +530,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.7.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.4:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:java:*:*
@@ -517,9 +541,11 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grpc:grpc:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.9.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.9.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.9.0:*:*:*:*:java:*:*
+  - cpe:2.3:a:grpc:grpc:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.9.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.9.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.9.1:*:*:*:*:java:*:*

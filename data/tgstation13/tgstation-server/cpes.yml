@@ -182,6 +182,9 @@ cpes:
   - cpe:2.3:a:tgstation13:tgstation-server:5.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tgstation13:tgstation-server:5.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tgstation13:tgstation-server:5.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tgstation13:tgstation-server:5.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.2.0:*:*:*:*:*:*:*

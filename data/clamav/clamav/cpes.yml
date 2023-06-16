@@ -37,6 +37,8 @@ cpes:
   - cpe:2.3:a:clamav:clamav:0.104.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.104.1:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.104.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:0.104.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:0.105.1:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.14:*:*:*:*:*:*:*

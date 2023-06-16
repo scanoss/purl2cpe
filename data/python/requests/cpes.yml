@@ -125,7 +125,15 @@ cpes:
   - cpe:2.3:a:python:requests:2.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.2:*:*:*:*:*:*:*

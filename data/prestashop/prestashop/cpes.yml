@@ -197,4 +197,13 @@ cpes:
   - cpe:2.3:a:prestashop:prestashop:1.7.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:1.7.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:1.7.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:1.7.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:1.7.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:1.7.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:1.7.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.0.3:*:*:*:*:*:*:*

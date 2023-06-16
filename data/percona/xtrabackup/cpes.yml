@@ -37,6 +37,7 @@ cpes:
   - cpe:2.3:a:percona:xtrabackup:2.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:2.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:2.2.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:2.2.24:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:2.2.2:beta1:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:2.2.4:*:*:*:*:*:*:*
@@ -81,6 +82,14 @@ cpes:
   - cpe:2.3:a:percona:xtrabackup:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:8.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:8.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.22-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.23-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.25-17:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.26-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:xtrabackup:8.0.27-19:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:8.0.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtrabackup:8.0.5:*:*:*:*:*:*:*
