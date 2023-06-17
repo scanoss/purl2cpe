@@ -41,7 +41,10 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:11.15:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:11.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:11.19:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:11.20:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:11.5:*:*:*:*:*:*:*
@@ -55,6 +58,9 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:12.10:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:12.11:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:12.15:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:12.4:*:*:*:*:*:*:*
@@ -66,6 +72,8 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:13:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:13.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:13.11:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.4:*:*:*:*:*:*:*
@@ -73,13 +81,20 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:13.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:13.9:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:14.8:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:15:beta1:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:15:beta2:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:6.0:*:*:*:*:*:*:*

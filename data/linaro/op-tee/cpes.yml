@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linaro:op-tee:*:*:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:-:*:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:0.2.0:*:*:*:*:*:*:*

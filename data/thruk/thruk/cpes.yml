@@ -169,6 +169,7 @@ cpes:
   - cpe:2.3:a:thruk:thruk:2.30-3:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.32:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.32-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.32-3:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.34:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.34-2:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.34-3:*:*:*:*:*:*:*
@@ -184,3 +185,13 @@ cpes:
   - cpe:2.3:a:thruk:thruk:2.44-3:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.46:*:*:*:*:*:*:*
   - cpe:2.3:a:thruk:thruk:2.46-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.46.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.48.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.48.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:2.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:3.00:-:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:3.00:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:3.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:3.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:thruk:thruk:3.06:*:*:*:*:*:*:*
