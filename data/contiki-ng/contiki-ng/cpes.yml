@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*
   - cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*
   - cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*
   - cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*
