@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libcap_project:libcap:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.00:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.01:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.02:*:*:*:*:*:*:*

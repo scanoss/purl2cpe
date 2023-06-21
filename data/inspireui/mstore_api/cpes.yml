@@ -103,3 +103,7 @@ cpes:
   - cpe:2.3:a:inspireui:mstore_api:3.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:3.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:3.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:3.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:3.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:3.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:3.9.6:*:*:*:*:wordpress:*:*

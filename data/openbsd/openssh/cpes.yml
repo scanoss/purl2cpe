@@ -262,3 +262,11 @@ cpes:
   - cpe:2.3:a:openbsd:openssh:8.8:p1:*:*:*:*:*:*
   - cpe:2.3:a:openbsd:openssh:8.9:-:*:*:*:*:*:*
   - cpe:2.3:a:openbsd:openssh:8.9:p1:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.0:p1:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.1:p1:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.3:p1:*:*:*:*:*:*

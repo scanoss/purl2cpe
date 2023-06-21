@@ -238,6 +238,13 @@ cpes:
   - cpe:2.3:a:magento:magento:2.4.3:p2:*:*:open_source:*:*:*
   - cpe:2.3:a:magento:magento:2.4.4:-:*:*:commerce:*:*:*
   - cpe:2.3:a:magento:magento:2.4.4:-:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.4:p1:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.4:p2:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.4:p3:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.5:-:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.5:p1:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.5:p2:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.6:-:*:*:open_source:*:*:*
   - cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*
   - cpe:2.3:a:magento:magento:*:*:*:*:community:*:*:*
   - cpe:2.3:a:magento:magento:*:*:*:*:enterprise:*:*:*
