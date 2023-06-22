@@ -98,4 +98,10 @@ cpes:
   - cpe:2.3:a:graphpaperpress:sell_media:2.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:graphpaperpress:sell_media:2.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:graphpaperpress:sell_media:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:graphpaperpress:sell_media:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:graphpaperpress:sell_media:2.5:*:*:*:*:wordpress:*:*

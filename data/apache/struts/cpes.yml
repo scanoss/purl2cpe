@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:struts:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:1.0.1:*:*:*:*:*:*:*
