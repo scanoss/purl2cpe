@@ -162,6 +162,7 @@ cpes:
   - cpe:2.3:a:systemd_project:systemd:252:rc1:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252:rc2:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:253:-:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:26:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:27:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:28:*:*:*:*:*:*:*
