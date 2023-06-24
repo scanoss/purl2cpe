@@ -35,6 +35,7 @@ cpes:
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:artistscope:copysafe_web_protection:3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artistscope:copysafe_web_protection:3.6:*:*:*:*:wordpress:*:*

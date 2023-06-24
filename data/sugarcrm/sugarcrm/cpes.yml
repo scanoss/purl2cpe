@@ -200,4 +200,9 @@ cpes:
   - cpe:2.3:a:sugarcrm:sugarcrm:9.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:9.2.0:*:*:*:professional:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:9.2.0:*:*:*:ultimate:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:*:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:*:*:*:*:professional:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:*:*:*:*:sell:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:*:*:*:*:serve:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:*:*:sugar_community_edition:*:*:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:*:*:*:*:ultimate:*:*:*
