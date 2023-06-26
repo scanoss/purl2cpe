@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:cmseasy:cmseasy:7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5:20211012:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5_20211012:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmseasy:cmseasy:7.7.7.7:20230520:*:*:*:*:*:*
