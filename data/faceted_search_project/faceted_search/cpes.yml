@@ -76,3 +76,4 @@ cpes:
   - cpe:2.3:a:faceted_search_project:faceted_search:3.1.4:*:*:*:*:typo3:*:*
   - cpe:2.3:a:faceted_search_project:faceted_search:3.1.5:*:*:*:*:typo3:*:*
   - cpe:2.3:a:faceted_search_project:faceted_search:3.1.6:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:faceted_search_project:faceted_search:*:*:*:*:*:typo3:*:*

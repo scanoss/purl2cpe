@@ -58,6 +58,10 @@ cpes:
   - cpe:2.3:a:yiiframework:yii:2.0.42:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yii:2.0.42.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yii:2.0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:yiiframework:yii:2.0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:yiiframework:yii:2.0.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:yiiframework:yii:2.0.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:yiiframework:yii:2.0.47:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yii:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yii:2.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yii:2.0.7:*:*:*:*:*:*:*

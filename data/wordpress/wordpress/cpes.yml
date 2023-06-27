@@ -513,6 +513,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.1.35:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.1.36:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.1.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.1.38:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.1.6:*:*:*:*:*:*:*
@@ -552,6 +553,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.2.30:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.2.31:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.2.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.2.35:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.2.4:-:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.2.4:rc1:*:*:*:*:*:*
@@ -593,6 +595,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.3.27:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.3.28:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.3.31:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.3.6:*:*:*:*:*:*:*
@@ -630,6 +633,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.4.26:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.4.27:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.4.30:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.4.6:*:*:*:*:*:*:*
@@ -665,6 +669,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.5.24:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.5.25:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.5.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.5.29:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.5.5:*:*:*:*:*:*:*
@@ -699,6 +704,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.6.21:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.6.22:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.6.26:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.6.5:*:*:*:*:*:*:*
@@ -734,6 +740,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.7.21:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.7.22:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.7.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.7.26:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.7.3:-:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.7.3:rc1:*:*:*:*:*:*
@@ -770,6 +777,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.8.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.8.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.8.22:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.8.5:*:*:*:*:*:*:*
@@ -798,6 +806,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:4.9.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.9.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:4.9.23:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.9.3:-:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:4.9.3:beta1:*:*:*:*:*:*
@@ -837,6 +846,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.0.19:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.0.2:-:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.0.2:rc1:*:*:*:*:*:*
@@ -865,6 +875,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.1.16:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.1.4:*:*:*:*:*:*:*
@@ -886,6 +897,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.2.14:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.2.4:*:*:*:*:*:*:*
@@ -900,6 +912,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.3.4:*:*:*:*:*:*:*
@@ -911,6 +924,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.4.4:*:*:*:*:*:*:*
@@ -921,6 +935,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.5.4:*:*:*:*:*:*:*
@@ -932,6 +947,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.6.11:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.6.4:*:*:*:*:*:*:*
@@ -947,12 +963,14 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8:-:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8:beta1:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8:beta2:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.8:beta3:*:*:*:*:*:*
@@ -962,9 +980,12 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:5.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:5.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:5.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:6.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:6.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:6.2:*:*:*:*:*:*:*

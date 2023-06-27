@@ -36,4 +36,5 @@ cpes:
   - cpe:2.3:a:jenkins:checkmarx:8.90.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:8.90.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:8.90.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:checkmarx:*:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:-:*:*:*:*:jenkins:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:admidio:admidio:-:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:0.6:*:*:*:*:*:*:*
@@ -165,3 +166,4 @@ cpes:
   - cpe:2.3:a:admidio:admidio:4.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:4.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:4.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:admidio:admidio:4.2.7:*:*:*:*:*:*:*
