@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:jenkins:azure_key_vault:1.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_key_vault:1.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_key_vault:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_key_vault:187.va_cd5fecd198a:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_key_vault:1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_key_vault:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_key_vault:2.0:*:*:*:*:jenkins:*:*

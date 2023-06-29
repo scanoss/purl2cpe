@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:jenkins:checkmarx:2022.3.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:2022.3.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:2022.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:checkmarx:2023.2.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:7.5.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:8.0.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:checkmarx:8.0.1:*:*:*:*:jenkins:*:*

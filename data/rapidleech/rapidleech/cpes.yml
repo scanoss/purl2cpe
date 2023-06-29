@@ -4,3 +4,7 @@ cpes:
   - cpe:2.3:a:rapidleech:rapidleech:2.3:rev43_svn_r397:*:*:*:*:*:*
   - cpe:2.3:a:rapidleech:rapidleech:2.3:v42_svn322:*:*:*:*:*:*
   - cpe:2.3:a:rapidleech:rapidleech:rev36:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidleech:rapidleech:rev_40:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidleech:rapidleech:rev_41:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidleech:rapidleech:rev_42:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidleech:rapidleech:rev_43:*:*:*:*:*:*:*

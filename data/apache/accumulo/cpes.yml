@@ -36,3 +36,4 @@ cpes:
   - cpe:2.3:a:apache:accumulo:2.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:apache:accumulo:2.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:apache:accumulo:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:accumulo:2.1.0:*:*:*:*:*:*:*

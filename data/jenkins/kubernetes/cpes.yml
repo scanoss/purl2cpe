@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:jenkins:kubernetes:1.9.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:kubernetes:1.9.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:kubernetes:1.9.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes:3909.v1f2c633e8590:*:*:*:*:jenkins:*:*

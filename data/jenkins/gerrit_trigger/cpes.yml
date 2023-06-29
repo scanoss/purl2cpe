@@ -88,6 +88,7 @@ cpes:
   - cpe:2.3:a:jenkins:gerrit_trigger:2.36.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gerrit_trigger:2.36.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gerrit_trigger:2.37.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gerrit_trigger:2.38.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gerrit_trigger:2.4.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gerrit_trigger:2.5.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gerrit_trigger:2.5.1:*:*:*:*:jenkins:*:*

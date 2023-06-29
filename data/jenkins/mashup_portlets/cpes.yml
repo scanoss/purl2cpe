@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:jenkins:mashup_portlets:1.0.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mashup_portlets:1.0.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mashup_portlets:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mashup_portlets:1.1.2:*:*:*:*:jenkins:*:*

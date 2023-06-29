@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:jenkins:role-based_authorization_strategy:2.9.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:role-based_authorization_strategy:3.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:role-based_authorization_strategy:3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:role-based_authorization_strategy:587.v2872c41fa_e51:*:*:*:*:jenkins:*:*
