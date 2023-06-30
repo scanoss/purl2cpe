@@ -4,6 +4,8 @@ cpes:
   - cpe:2.3:a:webfwd:mail_subscribe_list:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfwd:mail_subscribe_list:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfwd:mail_subscribe_list:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webfwd:mail_subscribe_list:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webfwd:mail_subscribe_list:2.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfwd:mail_subscribe_list:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfwd:mail_subscribe_list:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webfwd:mail_subscribe_list:2.0.3:*:*:*:*:wordpress:*:*
