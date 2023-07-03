@@ -78,7 +78,25 @@ cpes:
   - cpe:2.3:a:plantuml:plantuml:1.2021.9:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.14:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.2:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.3:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.4:*:*:*:*:*:*:*
   - cpe:2.3:a:plantuml:plantuml:1.2022.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2022.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:plantuml:plantuml:1.2023.8:*:*:*:*:*:*:*
