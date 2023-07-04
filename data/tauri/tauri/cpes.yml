@@ -27,5 +27,6 @@ cpes:
   - cpe:2.3:a:tauri:tauri:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha1:*:*:*:*:*:*

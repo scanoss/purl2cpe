@@ -220,4 +220,5 @@ cpes:
   - cpe:2.3:a:connections-pro:connections_business_directory:9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connections-pro:connections_business_directory:9.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connections-pro:connections_business_directory:9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connections-pro:connections_business_directory:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connections-pro:connections_business_directory:-:*:*:*:*:wordpress:*:*

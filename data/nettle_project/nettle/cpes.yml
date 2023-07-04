@@ -26,3 +26,4 @@ cpes:
   - cpe:2.3:a:nettle_project:nettle:3.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nettle_project:nettle:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nettle_project:nettle:3.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nettle_project:nettle:3.9:*:*:*:*:*:*:*
