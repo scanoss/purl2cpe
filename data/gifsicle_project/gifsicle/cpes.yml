@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gifsicle_project:gifsicle:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gifsicle_project:gifsicle:1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:gifsicle_project:gifsicle:1.10:b1:*:*:*:*:*:*
   - cpe:2.3:a:gifsicle_project:gifsicle:1.11:*:*:*:*:*:*:*
