@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:d-bus_project:d-bus:1.12.20:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.12.22:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.12.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:d-bus_project:d-bus:1.12.26:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.13.10:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.13.12:*:*:*:*:*:*:*
@@ -35,8 +36,10 @@ cpes:
   - cpe:2.3:a:d-bus_project:d-bus:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:d-bus_project:d-bus:1.14.6:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:d-bus_project:d-bus:1.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:d-bus_project:d-bus:1.2.12:*:*:*:*:*:*:*

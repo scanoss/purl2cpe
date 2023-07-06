@@ -42,6 +42,8 @@ cpes:
   - cpe:2.3:a:subscribe2_project:subscribe2:10.35:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:subscribe2_project:subscribe2:10.36:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:subscribe2_project:subscribe2:10.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:subscribe2_project:subscribe2:10.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:subscribe2_project:subscribe2:10.39:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:subscribe2_project:subscribe2:10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:subscribe2_project:subscribe2:10.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:subscribe2_project:subscribe2:10.5:*:*:*:*:wordpress:*:*
