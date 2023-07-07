@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:2.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:3.10.0:*:*:*:*:*:*:*
@@ -343,6 +344,7 @@ cpes:
   - cpe:2.3:a:ilias:ilias:7.15:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:7.16:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ilias:ilias:7.21:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ilias:ilias:7.5:*:*:*:*:*:*:*

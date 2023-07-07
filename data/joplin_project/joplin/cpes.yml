@@ -1079,7 +1079,31 @@ cpes:
   - cpe:2.3:a:joplin_project:joplin:2.0.8:beta:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.0.9:-:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.0.9:beta:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.10:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.11:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.12:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.13:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.14:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.15:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.16:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.17:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.18:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.19:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.20:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.5:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.6:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.7:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.10.9:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.11.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.11.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.11.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.11.4:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.1:*:*:*:*:android:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.2:-:*:*:*:-:*:*
@@ -1173,6 +1197,12 @@ cpes:
   - cpe:2.3:a:joplin_project:joplin:2.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.10:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.11:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.12:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.13:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.14:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.15:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.4:*:*:*:*:*:*:*
@@ -1180,7 +1210,32 @@ cpes:
   - cpe:2.3:a:joplin_project:joplin:2.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.7.9:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.5:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.6:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.8.7:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:2.8.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.10:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.11:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.12:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.13:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.14:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.15:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.16:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.17:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.5:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.6:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.7:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.9.9:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:joplin_project:joplin:-:*:*:*:*:node.js:*:*

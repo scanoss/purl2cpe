@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:rocketmq:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:rocketmq:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:rocketmq:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:rocketmq:5.1.0:*:*:*:*:*:*:*

@@ -353,6 +353,8 @@ cpes:
   - cpe:2.3:a:parseplatform:parse-server:5.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:5.4.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:5.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:5.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:5.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:6.0.0:alpha10:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:6.0.0:alpha11:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:6.0.0:alpha12:*:*:*:node.js:*:*
