@@ -62,6 +62,7 @@ cpes:
   - cpe:2.3:o:openwrt:openwrt:19.07.0:-:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:19.07.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:19.07.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:21.02.0:-:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:21.02.1:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:22.03.0:rc6:*:*:*:*:*:*

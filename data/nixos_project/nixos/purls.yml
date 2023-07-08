@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nixos/nixpkgs
+  - pkg:golang/github.com/nixos/nixpkgs

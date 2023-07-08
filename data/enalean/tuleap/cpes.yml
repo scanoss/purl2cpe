@@ -71,8 +71,11 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:14.5-2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:14.5.99.4:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:14.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:14.7-7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:14.7.99.143:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:14.7.99.76:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:14.8-3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:14.8.99.60:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:14.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.11:*:*:*:*:*:*:*

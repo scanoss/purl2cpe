@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoronix-media:phoronix_test_suite:-:*:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.0.0:milestone2:*:*:*:*:*:*
@@ -17,6 +18,8 @@ cpes:
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:5.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:phoronix-media:phoronix_test_suite:5.2.0:milestone2:*:*:*:*:*:*
