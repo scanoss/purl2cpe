@@ -36,8 +36,10 @@ cpes:
   - cpe:2.3:a:redhat:openshift:2.1.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:2.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:redhat:openshift:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.0.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:3.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:redhat:openshift:3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:3.11:*:*:*:*:*:*:*
@@ -58,8 +60,10 @@ cpes:
   - cpe:2.3:a:redhat:openshift:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:redhat:openshift:3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:redhat:openshift:3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:3.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:4.0:*:*:*:*:*:*:*
