@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:2.5.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:*:*:*:*:*:wordpress:*:*

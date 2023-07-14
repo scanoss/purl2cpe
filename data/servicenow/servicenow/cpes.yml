@@ -130,7 +130,16 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_3_hotfix_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_3_hotfix_4:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4a_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:early_availability:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_2:*:*:*:*:*:*

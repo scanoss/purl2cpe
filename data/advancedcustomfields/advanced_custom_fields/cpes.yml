@@ -290,5 +290,7 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.5:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.5:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:*:wordpress:*:*

@@ -88,4 +88,5 @@ cpes:
   - cpe:2.3:a:dash10:oauth_server:4.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dash10:oauth_server:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dash10:oauth_server:4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dash10:oauth_server:4.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dash10:oauth_server:-:*:*:*:*:wordpress:*:*

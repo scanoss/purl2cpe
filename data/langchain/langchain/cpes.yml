@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:langchain:langchain:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.199:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.64:*:*:*:*:*:*:*

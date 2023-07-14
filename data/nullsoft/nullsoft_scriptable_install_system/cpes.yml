@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:2.01:*:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:2.02:*:*:*:*:*:*:*
@@ -74,6 +75,12 @@ cpes:
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.02.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.03:*:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.09:*:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:alpha2:*:*:*:*:*:*

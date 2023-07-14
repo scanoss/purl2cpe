@@ -49,3 +49,4 @@ cpes:
   - cpe:2.3:a:sanitize_project:sanitize:5.2.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sanitize_project:sanitize:5.2.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sanitize_project:sanitize:6.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sanitize_project:sanitize:6.0.1:*:*:*:*:ruby:*:*

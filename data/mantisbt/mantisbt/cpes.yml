@@ -165,6 +165,9 @@ cpes:
   - cpe:2.3:a:mantisbt:mantisbt:2.24.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mantisbt:mantisbt:2.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mantisbt:mantisbt:2.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mantisbt:mantisbt:2.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mantisbt:mantisbt:2.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mantisbt:mantisbt:2.25.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mantisbt:mantisbt:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mantisbt:mantisbt:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mantisbt:mantisbt:2.3.2:*:*:*:*:*:*:*

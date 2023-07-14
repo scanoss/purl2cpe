@@ -69,3 +69,4 @@ cpes:
   - cpe:2.3:a:it-novum:openitcockpit:4.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.6.5:*:*:*:*:*:*:*
