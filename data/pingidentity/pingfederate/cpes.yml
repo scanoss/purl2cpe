@@ -7,8 +7,10 @@ cpes:
   - cpe:2.3:a:pingidentity:pingfederate:10.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:pingfederate:10.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:pingfederate:11.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.2.0:*:*:*:*:*:*:*

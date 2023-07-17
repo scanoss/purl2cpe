@@ -39,3 +39,6 @@ cpes:
   - cpe:2.3:a:vyper_project:vyper:0.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vyper_project:vyper:0.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vyper_project:vyper:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vyper_project:vyper:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vyper_project:vyper:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vyper_project:vyper:0.3.7:*:*:*:*:*:*:*

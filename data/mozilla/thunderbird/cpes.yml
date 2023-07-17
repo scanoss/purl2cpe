@@ -33,6 +33,9 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:102.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:102.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:102.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:102.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:102.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:102.13:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:102.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:102.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:102.5:*:*:*:*:*:*:*

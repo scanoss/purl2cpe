@@ -33,6 +33,8 @@ cpes:
   - cpe:2.3:a:mendix:saml:1.17.0:*:*:*:*:mendix:*:*
   - cpe:2.3:a:mendix:saml:1.17.1:*:*:*:*:mendix:*:*
   - cpe:2.3:a:mendix:saml:1.17.2:*:*:*:*:mendix:*:*
+  - cpe:2.3:a:mendix:saml:1.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:saml:1.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:saml:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:saml:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:saml:1.5:*:*:*:*:*:*:*
@@ -94,3 +96,5 @@ cpes:
   - cpe:2.3:a:mendix:saml:3.2.5:*:*:*:*:mendix:*:*
   - cpe:2.3:a:mendix:saml:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:saml:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:saml:3.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:saml:3.6.0:*:*:*:*:*:*:*
