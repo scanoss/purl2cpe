@@ -186,6 +186,8 @@ cpes:
   - cpe:2.3:a:apache:camel:3.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.14.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.17.0:*:*:*:*:*:*:*
@@ -194,8 +196,15 @@ cpes:
   - cpe:2.3:a:apache:camel:3.18.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.18.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.18.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3.20.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.4.1:*:*:*:*:*:*:*
@@ -216,3 +225,6 @@ cpes:
   - cpe:2.3:a:apache:camel:3.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:4.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:4.0.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:4.0.0:milestone3:*:*:*:*:*:*

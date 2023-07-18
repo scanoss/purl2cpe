@@ -54,3 +54,5 @@ cpes:
   - cpe:2.3:a:apache:mina:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.8.0:*:*:*:*:*:*:*

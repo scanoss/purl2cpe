@@ -24,3 +24,4 @@ cpes:
   - cpe:2.3:a:sox_project:sox:14.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sox_project:sox:14.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sox_project:sox:14.4.2-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sox_project:sox:14.4.3:*:*:*:*:*:*:*
