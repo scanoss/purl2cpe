@@ -1,3 +1,5 @@
 purls:
-  - pkg:github/nixos/nixpkgs
-  - pkg:golang/github.com/nixos/nixpkgs
+  - pkg:deb/debian/nix
+  - pkg:deb/ubuntu/nix
+  - pkg:docker/nixos/nix
+  - pkg:github/nixos/nix
