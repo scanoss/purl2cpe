@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:*:*:*:*:nightly:*:*:*
