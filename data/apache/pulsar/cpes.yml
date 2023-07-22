@@ -42,7 +42,12 @@ cpes:
   - cpe:2.3:a:apache:pulsar:2.10.2:candidate_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.10.2:candidate_2:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.10.2:candidate_3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:2.10.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:2.10.3:candidate_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.1.0:incubating:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:2.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:2.11.0:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:2.11.0:candidate_5:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.1.1:incubating:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:2.2.1:*:*:*:*:*:*:*

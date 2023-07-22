@@ -21,6 +21,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_esr:102.10:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:102.13:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.5:*:*:*:*:*:*:*

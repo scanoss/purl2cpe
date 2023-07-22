@@ -65,3 +65,7 @@ cpes:
   - cpe:2.3:a:jenkins:datadog:3.5.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:datadog:4.0.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:datadog:5.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:datadog:5.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:datadog:5.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:datadog:5.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:datadog:5.4.1:*:*:*:*:jenkins:*:*

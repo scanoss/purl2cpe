@@ -7,6 +7,9 @@ cpes:
   - cpe:2.3:a:opendkim:opendkim:2.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opendkim:opendkim:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opendkim:opendkim:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendkim:opendkim:2.11.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:opendkim:opendkim:2.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:opendkim:opendkim:2.11.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:opendkim:opendkim:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opendkim:opendkim:2.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:opendkim:opendkim:2.3.0:beta0:*:*:*:*:*:*

@@ -42,4 +42,5 @@ cpes:
   - cpe:2.3:a:gpac:gpac:2.3:dev:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev1-g4669ba229-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev35-gbbca86917-master:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:2.3-dev-rev381-g817a848f6-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev40-g3602a5ded:*:*:*:*:*:*:*

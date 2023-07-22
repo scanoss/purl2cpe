@@ -324,6 +324,7 @@ cpes:
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.13:*:*:*:*:go:*:*
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.14:*:*:*:*:go:*:*
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.15:*:*:*:*:go:*:*
+  - cpe:2.3:a:multiversx:mx-chain-go:1.4.16:*:*:*:*:go:*:*
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.1:*:*:*:*:go:*:*
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.2:*:*:*:*:go:*:*
   - cpe:2.3:a:multiversx:mx-chain-go:1.4.3:*:*:*:*:go:*:*

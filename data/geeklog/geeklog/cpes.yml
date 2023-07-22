@@ -76,4 +76,5 @@ cpes:
   - cpe:2.3:a:geeklog:geeklog:2:*:*:*:*:*:*:*
   - cpe:2.3:a:geeklog:geeklog:2.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:geeklog:geeklog:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:geeklog:geeklog:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:geeklog:geeklog:2.x:*:*:*:*:*:*:*

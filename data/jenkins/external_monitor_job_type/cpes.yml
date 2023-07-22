@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:jenkins:external_monitor_job_type:191.v363d0d1efdf8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:external_monitor_job_type:192.ve979ca_8b_3ccd:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:external_monitor_job_type:203.v683c09d993b_9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:external_monitor_job_type:206.v9a_94ff0b_4a_10:*:*:*:*:jenkins:*:*

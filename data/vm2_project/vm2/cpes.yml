@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:a:vm2_project:vm2:3.9.15:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vm2_project:vm2:3.9.16:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vm2_project:vm2:3.9.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vm2_project:vm2:3.9.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vm2_project:vm2:3.9.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vm2_project:vm2:3.9.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vm2_project:vm2:3.9.3:*:*:*:*:node.js:*:*

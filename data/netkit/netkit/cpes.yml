@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:netkit:netkit:-:*:*:*:*:*:*:*
   - cpe:2.3:a:netkit:netkit:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:0.17-24:*:*:*:*:*:*:*
   - cpe:2.3:a:netkit:netkit:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:netkit:netkit:2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:netkit:netkit:2.1:-:*:*:*:*:*:*
