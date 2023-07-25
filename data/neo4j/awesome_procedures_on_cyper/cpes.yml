@@ -126,3 +126,4 @@ cpes:
   - cpe:2.3:a:neo4j:awesome_procedures_on_cyper:5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neo4j:awesome_procedures_on_cyper:5.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:neo4j:awesome_procedures_on_cyper:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures_on_cyper:5.5.0:*:*:*:*:*:*:*

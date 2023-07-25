@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:beta1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:-:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:rc1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:rc2:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:-:*:*:*:*:pimcore:*:*

@@ -139,4 +139,6 @@ cpes:
   - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:3.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:3.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:3.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:3.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:coming_soon_and_maintenance_mode:-:*:*:*:*:wordpress:*:*

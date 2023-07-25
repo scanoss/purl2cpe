@@ -749,6 +749,7 @@ cpes:
   - cpe:2.3:a:oracle:mysql:8.0.30:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:8.0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:8.0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql:8.0.33:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:8.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:8.0:*:*:*:enterprise:*:*:*
