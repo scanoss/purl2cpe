@@ -22,3 +22,8 @@ cpes:
   - cpe:2.3:o:icewale:casaos:0.2.7:*:*:*:*:*:*:*
   - cpe:2.3:o:icewale:casaos:0.2.8:*:*:*:*:*:*:*
   - cpe:2.3:o:icewale:casaos:0.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:o:icewale:casaos:0.4.4:alpha1:*:*:*:*:*:*
+  - cpe:2.3:o:icewale:casaos:0.4.4:alpha2:*:*:*:*:*:*
+  - cpe:2.3:o:icewale:casaos:0.4.4:alpha3:*:*:*:*:*:*
+  - cpe:2.3:o:icewale:casaos:0.4.4:alpha4:*:*:*:*:*:*
+  - cpe:2.3:o:icewale:casaos:0.4.4:alpha5:*:*:*:*:*:*
