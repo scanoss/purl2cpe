@@ -1,5 +1,4 @@
 purls:
-  - pkg:bitbucket/rose-compiler/snort
   - pkg:deb/debian/snort
   - pkg:deb/ubuntu/snort
   - pkg:docker/vimagick/snort3
