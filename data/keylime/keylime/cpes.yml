@@ -47,3 +47,7 @@ cpes:
   - cpe:2.3:a:keylime:keylime:6.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keylime:keylime:6.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keylime:keylime:6.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keylime:keylime:6.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:keylime:keylime:6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keylime:keylime:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keylime:keylime:7.0.0:*:*:*:*:*:*:*

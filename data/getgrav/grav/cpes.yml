@@ -253,7 +253,23 @@ cpes:
   - cpe:2.3:a:getgrav:grav:1.7.32:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.33:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.39.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.39.4:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.41.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.42.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.7:*:*:*:*:*:*:*
