@@ -154,6 +154,8 @@ cpes:
   - cpe:2.3:a:python:python:3.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.10.12:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.4:*:*:*:*:*:*:*
@@ -382,6 +384,7 @@ cpes:
   - cpe:2.3:a:python:python:3.6.13:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.6.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.6.16:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.6.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.6.2:-:*:*:*:*:*:*
@@ -429,6 +432,7 @@ cpes:
   - cpe:2.3:a:python:python:3.7.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.7.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.7.17:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.7.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.7.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.7.2:*:*:*:*:*:*:*
@@ -474,6 +478,7 @@ cpes:
   - cpe:2.3:a:python:python:3.8.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.8.17:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.8.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.8.2:-:*:*:*:*:*:*
@@ -517,6 +522,7 @@ cpes:
   - cpe:2.3:a:python:python:3.9.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.9.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.9.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.9.17:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.9.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.9.2:-:*:*:*:*:*:*
