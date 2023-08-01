@@ -541,6 +541,62 @@ cpes:
   - cpe:2.3:a:diagrams:drawio:20.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:diagrams:drawio:20.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:diagrams:drawio:20.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:20.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diagrams:drawio:21.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:diagrams:drawio:5.6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:diagrams:drawio:5.6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:diagrams:drawio:5.6.0.2:*:*:*:*:*:*:*

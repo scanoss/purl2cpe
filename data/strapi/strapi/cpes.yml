@@ -425,6 +425,13 @@ cpes:
   - cpe:2.3:a:strapi:strapi:4.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.1.10:-:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.1.10:beta0:*:*:*:*:*:*
@@ -479,3 +486,9 @@ cpes:
   - cpe:2.3:a:strapi:strapi:4.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:4.9.2:*:*:*:*:*:*:*
