@@ -289,3 +289,22 @@ cpes:
   - cpe:2.3:a:ninjaforms:ninja_forms:3.5.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.5.8.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.6.8:*:*:*:*:wordpress:*:*

@@ -96,5 +96,8 @@ cpes:
   - cpe:2.3:a:teachpress_project:teachpress:8.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teachpress_project:teachpress:8.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teachpress_project:teachpress:8.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teachpress_project:teachpress:9.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teachpress_project:teachpress:9.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teachpress_project:teachpress:9.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teachpress_project:teachpress:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teachpress_project:teachpress:-:*:*:*:*:wordpress:*:*

@@ -280,3 +280,4 @@ cpes:
   - cpe:2.3:a:nodebb:nodebb:2.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:nodebb:nodebb:2.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:nodebb:nodebb:3.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:nodebb:nodebb:*:*:*:*:*:node.js:*:*

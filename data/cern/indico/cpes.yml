@@ -86,5 +86,16 @@ cpes:
   - cpe:2.3:a:cern:indico:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.5:*:*:*:*:*:*:*
