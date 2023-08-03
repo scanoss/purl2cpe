@@ -203,3 +203,25 @@ cpes:
   - cpe:2.3:a:getkirby:kirby:3.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:3.8.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:3.8.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:3.9.5:rc1:*:*:*:*:*:*

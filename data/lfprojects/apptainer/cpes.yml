@@ -23,4 +23,6 @@ cpes:
   - cpe:2.3:a:lfprojects:apptainer:1.1.5:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:apptainer:1.1.6:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:apptainer:1.1.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:lfprojects:apptainer:1.2.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:lfprojects:apptainer:1.2.0:rc2:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:apptainer:-:*:*:*:*:go:*:*

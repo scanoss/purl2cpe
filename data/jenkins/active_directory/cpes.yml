@@ -81,3 +81,4 @@ cpes:
   - cpe:2.3:a:jenkins:active_directory:2.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:active_directory:2.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:active_directory:2.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:active_directory:*:*:*:*:*:jenkins:*:*

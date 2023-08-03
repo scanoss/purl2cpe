@@ -1864,6 +1864,8 @@ cpes:
   - cpe:2.3:a:jenkins:jenkins:2.4:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.40:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.40:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.400:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.401.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.41:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.41:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.42:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vyper_project:vyper:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vyper_project:vyper:0.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vyper_project:vyper:0.1.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:vyper_project:vyper:0.1.0:beta10:*:*:*:*:*:*

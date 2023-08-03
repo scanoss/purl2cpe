@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:feathersjs:feathers-sequelize:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:feathersjs:feathers-sequelize:*:*:*:*:*:node.js:*:*
