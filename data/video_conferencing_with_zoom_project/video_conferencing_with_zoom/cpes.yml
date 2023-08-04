@@ -82,4 +82,5 @@ cpes:
   - cpe:2.3:a:video_conferencing_with_zoom_project:video_conferencing_with_zoom:3.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:video_conferencing_with_zoom_project:video_conferencing_with_zoom:3.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:video_conferencing_with_zoom_project:video_conferencing_with_zoom:3.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:video_conferencing_with_zoom_project:video_conferencing_with_zoom:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:video_conferencing_with_zoom_project:video_conferencing_with_zoom:-:*:*:*:*:wordpress:*:*

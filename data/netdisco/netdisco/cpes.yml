@@ -60,3 +60,32 @@ cpes:
   - cpe:2.3:a:netdisco:netdisco:2.042008:*:*:*:*:*:*:*
   - cpe:2.3:a:netdisco:netdisco:2.042009:*:*:*:*:*:*:*
   - cpe:2.3:a:netdisco:netdisco:2.042010:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.057004:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.057005:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.057006:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.057007:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.057008:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.058000:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.058001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.058002:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.058003:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.059000:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.059001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060000:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060002:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060003:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060004:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060005:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060007:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060008:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060009:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.060010:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.061000:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.061001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062000:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062002:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062003:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062004:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdisco:netdisco:2.062005:*:*:*:*:*:*:*
