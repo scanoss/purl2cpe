@@ -377,3 +377,21 @@ cpes:
   - cpe:2.3:a:silverstripe:framework:4.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:4.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:4.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.0.9:*:*:*:*:*:*:*
