@@ -27,3 +27,4 @@ cpes:
   - cpe:2.3:a:deskpro:deskpro:2021.1.8:*:*:*:on-premise:*:*:*
   - cpe:2.3:a:deskpro:deskpro:2021.1:*:*:*:cloud:*:*:*
   - cpe:2.3:a:deskpro:deskpro:2021.1:*:*:*:on-premise:*:*:*
+  - cpe:2.3:a:deskpro:deskpro:2021.21.6:*:*:*:*:*:*:*

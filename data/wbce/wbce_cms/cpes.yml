@@ -39,3 +39,4 @@ cpes:
   - cpe:2.3:a:wbce:wbce_cms:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wbce:wbce_cms:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wbce:wbce_cms:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wbce:wbce_cms:1.6.1:-:*:*:*:*:*:*
