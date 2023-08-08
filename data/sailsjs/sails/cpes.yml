@@ -245,4 +245,8 @@ cpes:
   - cpe:2.3:a:sailsjs:sails:1.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sailsjs:sails:1.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sailsjs:sails:1.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sailsjs:sails:1.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sailsjs:sails:1.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sailsjs:sails:1.5.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sailsjs:sails:-:*:*:*:*:node.js:*:*
