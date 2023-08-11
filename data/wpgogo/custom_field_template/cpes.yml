@@ -172,6 +172,7 @@ cpes:
   - cpe:2.3:a:wpgogo:custom_field_template:2.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpgogo:custom_field_template:2.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpgogo:custom_field_template:2.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpgogo:custom_field_template:2.5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpgogo:custom_field_template:2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpgogo:custom_field_template:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpgogo:custom_field_template:-:*:*:*:*:wordpress:*:*

@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:media_library_assistant_project:media_library_assistant:3.02:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:media_library_assistant_project:media_library_assistant:3.03:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:media_library_assistant_project:media_library_assistant:3.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_library_assistant_project:media_library_assistant:*:*:*:*:*:wordpress:*:*

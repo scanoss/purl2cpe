@@ -369,6 +369,8 @@ cpes:
   - cpe:2.3:a:metabase:metabase:0.44.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.44.6.1:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.44.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.44.7.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.44.7.2:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.45.0:-:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.45.0:-:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.45.0:rc1:*:*:*:*:*:*
@@ -388,6 +390,8 @@ cpes:
   - cpe:2.3:a:metabase:metabase:0.45.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.45.3.1:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.45.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.45.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.45.4.2:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.46.0:-:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.46.0:-:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.46.0:rc1:*:*:*:*:*:*
@@ -406,6 +410,9 @@ cpes:
   - cpe:2.3:a:metabase:metabase:0.46.4:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.46.5:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.46.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.46.6.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.46.6.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.46.6.3:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9.1:*:*:*:-:*:*:*
@@ -628,4 +635,8 @@ cpes:
   - cpe:2.3:a:metabase:metabase:1.46.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.46.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.46.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.46.6.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.46.6.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.46.6.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.46.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:*:*:*:*:enterprise:*:*:*
