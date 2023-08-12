@@ -435,6 +435,7 @@ cpes:
   - cpe:2.3:a:samba:samba:4.16.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.16.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.16.11:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.16.4:*:*:*:*:*:*:*

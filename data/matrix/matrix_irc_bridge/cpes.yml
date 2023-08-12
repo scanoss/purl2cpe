@@ -40,6 +40,11 @@ cpes:
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.33.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.34.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.35.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:0.35.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:0.36.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:0.37.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:0.37.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:0.38.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.6.0:*:*:*:*:node.js:*:*
@@ -47,3 +52,5 @@ cpes:
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.7.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.7.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:matrix:matrix_irc_bridge:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:1.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:matrix:matrix_irc_bridge:1.0.0:rc1:*:*:*:node.js:*:*

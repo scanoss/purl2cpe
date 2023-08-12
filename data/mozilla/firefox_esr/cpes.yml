@@ -22,10 +22,15 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_esr:102.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:102.14:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:102.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:115.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:115.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:115.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:115.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0.10:*:*:*:*:*:*:*
