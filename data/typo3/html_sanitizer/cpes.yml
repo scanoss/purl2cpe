@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:typo3:html_sanitizer:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:1.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:typo3:html_sanitizer:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:2.0.10:*:*:*:*:*:*:*
@@ -24,3 +25,5 @@ cpes:
   - cpe:2.3:a:typo3:html_sanitizer:2.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:2.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:typo3:html_sanitizer:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:typo3:html_sanitizer:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:typo3:html_sanitizer:2.1.1:*:*:*:*:*:*:*
