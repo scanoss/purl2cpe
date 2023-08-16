@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:te-st:leyka:*:*:*:*:*:*:*:*
   - cpe:2.3:a:te-st:leyka:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:te-st:leyka:1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:te-st:leyka:1.2.1:*:*:*:*:wordpress:*:*

@@ -502,6 +502,7 @@ cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.11:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.12:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:22.2.10:rc1:*:*:*:*:*:*
@@ -565,6 +566,7 @@ cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.10:*:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:24.0.12.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.2:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:24.0.2:rc1:*:*:*:*:*:*
@@ -595,8 +597,14 @@ cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:25.0.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:25.0.6:*:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:25.0.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:25.0.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:25.0.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:26.0.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:26.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:26.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:26.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:3.0:alpha1:*:*:*:*:*:*
