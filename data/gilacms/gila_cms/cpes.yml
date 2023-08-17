@@ -14,6 +14,7 @@ cpes:
   - cpe:2.3:a:gilacms:gila_cms:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gilacms:gila_cms:1.11.11:*:*:*:*:*:*:*
   - cpe:2.3:a:gilacms:gila_cms:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gilacms:gila_cms:1.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gilacms:gila_cms:1.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gilacms:gila_cms:1.11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gilacms:gila_cms:1.11.7:*:*:*:*:*:*:*
