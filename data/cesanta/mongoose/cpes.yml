@@ -38,3 +38,11 @@ cpes:
   - cpe:2.3:a:cesanta:mongoose:7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cesanta:mongoose:7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cesanta:mongoose:7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cesanta:mongoose:7.9:*:*:*:*:*:*:*
