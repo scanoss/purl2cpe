@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:a:jenkins:flaky_test_handler:1.0.2-4:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:flaky_test_handler:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:flaky_test_handler:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkins:flaky_test_handler:*:*:*:*:*:jenkins:*:*
