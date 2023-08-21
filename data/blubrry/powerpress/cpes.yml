@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:blubrry:powerpress:0.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:0.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:0.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:blubrry:powerpress:10.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:1.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:1.0.11:*:*:*:*:wordpress:*:*

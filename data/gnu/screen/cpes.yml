@@ -29,3 +29,4 @@ cpes:
   - cpe:2.3:a:gnu:screen:4.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:screen:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:screen:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:screen:4.9.0:*:*:*:*:*:*:*

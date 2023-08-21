@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:a:flatpress:flatpress:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:flatpress:flatpress:1.2:beta1:*:*:*:*:*:*
   - cpe:2.3:a:flatpress:flatpress:1.2:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:flatpress:flatpress:1.3:*:*:*:*:*:*:*

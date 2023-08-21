@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:fit2cloud:kubepi:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:kubepi:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:kubepi:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:kubepi:1.6.4:*:*:*:*:*:*:*

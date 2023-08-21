@@ -295,6 +295,7 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.0.30:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.0.32:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.0.6:*:*:*:*:*:*:*

@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5.3:-:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5.3:content_update330:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:-:*:*:content_engine:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:*:*:*:critical_environment:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:-:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.1:content_update330:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.6.2:-:*:*:*:*:*:*
