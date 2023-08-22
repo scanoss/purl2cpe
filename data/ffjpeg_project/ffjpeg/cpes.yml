@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ffjpeg_project:ffjpeg:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ffjpeg_project:ffjpeg:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ffjpeg_project:ffjpeg:2016-01-06:*:*:*:*:*:*:*
   - cpe:2.3:a:ffjpeg_project:ffjpeg:2016-01-07:*:*:*:*:*:*:*

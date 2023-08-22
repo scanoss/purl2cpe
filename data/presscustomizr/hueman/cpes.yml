@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:presscustomizr:hueman:3.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presscustomizr:hueman:*:*:*:*:*:wordpress:*:*

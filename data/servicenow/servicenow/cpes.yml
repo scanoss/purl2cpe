@@ -73,6 +73,7 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:rome:patch_9_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:san_diego:patch_10:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_10_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_10_hotfix_1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:san_diego:patch_10_hotfix_1b:*:*:*:*:*:*

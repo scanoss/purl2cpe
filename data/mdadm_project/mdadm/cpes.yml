@@ -76,3 +76,8 @@ cpes:
   - cpe:2.3:a:mdadm_project:mdadm:3.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mdadm_project:mdadm:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mdadm_project:mdadm:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mdadm_project:mdadm:4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:mdadm_project:mdadm:4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mdadm_project:mdadm:4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mdadm_project:mdadm:4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:mdadm_project:mdadm:4.2:rc1:*:*:*:*:*:*
