@@ -57,5 +57,10 @@ cpes:
   - cpe:2.3:a:tree_kit_project:tree_kit:0.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:tree_kit_project:tree_kit:0.6.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:tree_kit_project:tree_kit:0.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tree_kit_project:tree_kit:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tree_kit_project:tree_kit:0.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tree_kit_project:tree_kit:0.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tree_kit_project:tree_kit:0.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tree_kit_project:tree_kit:0.7.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:tree_kit_project:tree_kit:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:tree_kit_project:tree_kit:-:*:*:*:*:node.js:*:*
