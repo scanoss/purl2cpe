@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:wp-pizza:wppizza:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.17.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.17:*:*:*:*:wordpress:*:*
