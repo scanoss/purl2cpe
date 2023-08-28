@@ -1,6 +1,10 @@
 cpes:
   - cpe:2.3:a:artifex:ghostscript:-:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.00.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.01.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.01.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.3:*:*:*:*:*:*:*
@@ -261,3 +265,5 @@ cpes:
   - cpe:2.3:a:artifex:ghostscript:9.53.3:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:9.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:9.56.1:*:*:*:*:*:*:*

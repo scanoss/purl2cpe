@@ -5,4 +5,5 @@ cpes:
   - cpe:2.3:a:kibokolabs:hostel:0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:hostel:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:hostel:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:hostel:1.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:hostel:1.1:*:*:*:*:wordpress:*:*

@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:presscustomizr:customizr:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presscustomizr:customizr:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:presscustomizr:customizr:-:*:*:*:*:wordpress:*:*

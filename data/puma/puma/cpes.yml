@@ -136,5 +136,15 @@ cpes:
   - cpe:2.3:a:puma:puma:5.6.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:5.6.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:5.6.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:5.6.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:5.6.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.2.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:-:*:*:*:*:ruby:*:*

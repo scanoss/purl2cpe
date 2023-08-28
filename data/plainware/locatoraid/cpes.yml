@@ -132,6 +132,7 @@ cpes:
   - cpe:2.3:a:plainware:locatoraid:3.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:locatoraid:3.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:locatoraid:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:locatoraid:3.9.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:locatoraid:3.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:locatoraid:3.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:locatoraid:3.9.3:*:*:*:*:wordpress:*:*

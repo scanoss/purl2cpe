@@ -7,12 +7,22 @@ cpes:
   - cpe:2.3:a:sugarcrm:sugarcrm:1.0f:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.0g:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:professional:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:sell:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:serve:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:11.0.0:*:*:*:ultimate:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1a:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1b:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1c:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1d:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1e:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.1f:*:*:*:*:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:12.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:12.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:12.0.0:*:*:*:sell:*:*:*
+  - cpe:2.3:a:sugarcrm:sugarcrm:12.0.0:*:*:*:serve:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:1.5d:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sugarcrm:sugarcrm:2.0.1a:*:*:*:*:*:*:*

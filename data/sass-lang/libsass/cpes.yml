@@ -68,3 +68,4 @@ cpes:
   - cpe:2.3:a:sass-lang:libsass:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sass-lang:libsass:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sass-lang:libsass:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sass-lang:libsass:3.6.5:*:*:*:*:*:*:*
