@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:webassembly:binaryen:*:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:1:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:10:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:103:*:*:*:*:*:*:*

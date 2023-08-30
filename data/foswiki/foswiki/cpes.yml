@@ -64,3 +64,5 @@ cpes:
   - cpe:2.3:a:foswiki:foswiki:2.1.5:-:*:*:*:*:*:*
   - cpe:2.3:a:foswiki:foswiki:2.1.5:rc:*:*:*:*:*:*
   - cpe:2.3:a:foswiki:foswiki:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:foswiki:foswiki:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:foswiki:foswiki:2.1.8:*:*:*:*:*:*:*

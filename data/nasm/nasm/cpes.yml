@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nasm:nasm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nasm:nasm:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nasm:nasm:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:nasm:nasm:0.90:*:*:*:*:*:*:*

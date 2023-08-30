@@ -40,6 +40,7 @@ cpes:
   - cpe:2.3:a:file_project:file:4.24:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:4.25:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:4.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_project:file:4.38:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:5.00:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:5.01:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:5.02:*:*:*:*:*:*:*
@@ -78,3 +79,7 @@ cpes:
   - cpe:2.3:a:file_project:file:5.35:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:5.36:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:5.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_project:file:5.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_project:file:5.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_project:file:5.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_project:file:5.42:*:*:*:*:*:*:*

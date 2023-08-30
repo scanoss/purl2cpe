@@ -50,11 +50,17 @@ cpes:
   - cpe:2.3:a:ec-cube:ec-cube:2.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.13.5:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch2:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.17.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.17.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.17.2:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.17.2:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:2.17.2:patch2:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:2.3.0:rc1:*:*:*:*:*:*

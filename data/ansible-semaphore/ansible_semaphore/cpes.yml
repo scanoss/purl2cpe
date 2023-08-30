@@ -132,4 +132,5 @@ cpes:
   - cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.87:*:*:*:*:ansible:*:*
   - cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.88:*:*:*:*:ansible:*:*
   - cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.8:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.90:*:*:*:*:ansible:*:*
   - cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.9:*:*:*:*:ansible:*:*
