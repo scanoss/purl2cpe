@@ -311,8 +311,17 @@ cpes:
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.20.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.21.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.22.727:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.26.7210:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.2.727:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.27.7210:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.29.7210:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.30.7210:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.31.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.32.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.35.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.36.7212:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.3.727:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.37.7212:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.4.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.5.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.7.727:*:*:*:*:wordpress:*:*

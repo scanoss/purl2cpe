@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:subscription-manager:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:subscription-manager:0.92.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:subscription-manager:0.92.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:subscription-manager:0.92.4:*:*:*:*:*:*:*
