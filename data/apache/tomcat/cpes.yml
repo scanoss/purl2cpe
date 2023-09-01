@@ -49,7 +49,10 @@ cpes:
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone15:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone16:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone17:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.0:milestone18:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.0:milestone19:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.0:milestone20:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone5:*:*:*:*:*:*
@@ -58,6 +61,10 @@ cpes:
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone8:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.0:milestone9:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.6:*:*:*:*:*:*:*
@@ -66,11 +73,16 @@ cpes:
   - cpe:2.3:a:apache:tomcat:10.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:m5:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:11.0.0:milestone10:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:11.0.0:milestone11:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:11.0.0:milestone6:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:11.0.0:milestone7:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:11.0.0:milestone8:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:11.0.0:milestone9:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:3.1:*:*:*:*:*:*:*
@@ -545,6 +557,10 @@ cpes:
   - cpe:2.3:a:apache:tomcat:8.5.88:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:8.5.89:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:8.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:8.5.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:8.5.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:8.5.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:8.5.93:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.0:m1:*:*:*:*:*:*
@@ -673,5 +689,10 @@ cpes:
   - cpe:2.3:a:apache:tomcat:9.0.73:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.74:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.77:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.78:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.79:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.80:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.9:*:*:*:*:*:*:*

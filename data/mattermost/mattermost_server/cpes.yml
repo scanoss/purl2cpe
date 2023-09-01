@@ -631,6 +631,7 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:7.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:7.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.1.3:*:*:*:*:*:*:*
@@ -668,5 +669,6 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:7.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:7.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:7.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:8.0.0:-:*:*:*:*:*:*

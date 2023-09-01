@@ -102,3 +102,7 @@ cpes:
   - cpe:2.3:a:datasette:datasette:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:datasette:datasette:0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:datasette:datasette:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:datasette:datasette:1.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:datasette:datasette:1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:datasette:datasette:1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:datasette:datasette:1.0:alpha3:*:*:*:*:*:*
