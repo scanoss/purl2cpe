@@ -303,8 +303,12 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2023.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2023.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2023.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2023.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2023.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2023.6.1:*:*:*:*:*:*:*
