@@ -87,6 +87,7 @@ cpes:
   - cpe:2.3:a:bludit:bludit:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:bludit:bludit:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bludit:bludit:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bludit:bludit:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:bludit:bludit:4.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:bludit:bludit:4.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:bludit:bludit:4.0.0:alpha3:*:*:*:*:*:*

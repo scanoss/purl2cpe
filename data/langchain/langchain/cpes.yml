@@ -140,6 +140,7 @@ cpes:
   - cpe:2.3:a:langchain:langchain:0.0.230:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.231:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.232:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.245:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.64:*:*:*:*:*:*:*
