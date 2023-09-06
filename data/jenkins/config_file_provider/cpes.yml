@@ -74,3 +74,4 @@ cpes:
   - cpe:2.3:a:jenkins:config_file_provider:3.8.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:config_file_provider:3.8.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:config_file_provider:3.9.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:config_file_provider:952.va_544a_6234b_46:*:*:*:*:jenkins:*:*

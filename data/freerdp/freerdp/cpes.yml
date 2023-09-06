@@ -41,3 +41,5 @@ cpes:
   - cpe:2.3:a:freerdp:freerdp:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freerdp:freerdp:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:freerdp:freerdp:3.0.0:beta2:*:*:*:*:*:*

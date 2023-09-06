@@ -77,6 +77,11 @@ cpes:
   - cpe:2.3:a:gitpython_project:gitpython:3.1.28:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:3.1.29:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:3.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gitpython_project:gitpython:3.1.30:*:*:*:*:python:*:*
+  - cpe:2.3:a:gitpython_project:gitpython:3.1.31:*:*:*:*:python:*:*
+  - cpe:2.3:a:gitpython_project:gitpython:3.1.32:*:*:*:*:python:*:*
+  - cpe:2.3:a:gitpython_project:gitpython:3.1.33:*:*:*:*:python:*:*
+  - cpe:2.3:a:gitpython_project:gitpython:3.1.34:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:3.1.3:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:3.1.4:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:3.1.5:*:*:*:*:python:*:*

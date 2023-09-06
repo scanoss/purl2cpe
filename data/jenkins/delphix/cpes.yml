@@ -13,3 +13,4 @@ cpes:
   - cpe:2.3:a:jenkins:delphix:2.0.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:delphix:2.0.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:delphix:2.0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:delphix:3.0.2:*:*:*:*:jenkins:*:*

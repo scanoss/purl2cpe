@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:yugabyte:yugabytedb:*:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:0.9.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:0.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:0.9.7:*:*:*:*:*:*:*
