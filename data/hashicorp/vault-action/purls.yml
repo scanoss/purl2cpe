@@ -1,3 +1,2 @@
 purls:
   - pkg:github/hashicorp/vault-action
-  - pkg:npm/vault-action

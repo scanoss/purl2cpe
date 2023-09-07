@@ -191,6 +191,7 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki:14.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:14.10.9:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.2:-:*:*:*:*:*:*
