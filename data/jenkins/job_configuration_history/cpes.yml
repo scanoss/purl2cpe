@@ -14,6 +14,15 @@ cpes:
   - cpe:2.3:a:jenkins:job_configuration_history:1166.vc9f255f45b_8a:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1170.v8a_c085b_dd49c:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1171.v04b_66d78555e:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1176.v1b_4290db_41a_5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1183.v6e2785ff75e0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1187.v2a_b_1ca_54d18d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1191.v168c8c2b_956a:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1198.v4d5736c2308c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1206.vc8967cc8a_2cb:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1207.vd28a_54732f92:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1212.vd4470d08ff12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1227.v7a_79fc4dc01f:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:2.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:2.10:*:*:*:*:jenkins:*:*

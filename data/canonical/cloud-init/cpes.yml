@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:canonical:cloud-init:19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:cloud-init:19.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:cloud-init:19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:cloud-init:23.1.2:*:*:*:*:*:*:*

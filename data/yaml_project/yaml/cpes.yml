@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:yaml_project:yaml:2.4.0:*:*:*:*:go:*:*
   - cpe:2.3:a:yaml_project:yaml:3.0.0:*:*:*:*:go:*:*
   - cpe:2.3:a:yaml_project:yaml:3.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:*:*:*:*:*:node.js:*:*

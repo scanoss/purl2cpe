@@ -237,3 +237,30 @@ cpes:
   - cpe:2.3:a:canonical:snapd:2.54.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:snapd:2.54.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:snapd:2.54.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.54.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.55.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.56.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.56.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.56.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.57.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.58.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.58.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.59:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.59.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.59.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.59.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.59.4:*:*:*:*:*:*:*

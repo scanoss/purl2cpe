@@ -72,3 +72,8 @@ cpes:
   - cpe:2.3:o:openbsd:openbsd:7.3:errata_013:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:8.0:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:current:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:errata_001:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:errata_002:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:errata_003:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:errata_004:*:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:errata_005:*:*:*:*:*:*:*
