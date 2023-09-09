@@ -178,4 +178,7 @@ cpes:
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:*:*:*:*:*:wordpress:*:*

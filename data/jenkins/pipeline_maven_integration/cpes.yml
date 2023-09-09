@@ -6,6 +6,24 @@ cpes:
   - cpe:2.3:a:jenkins:pipeline_maven_integration:0.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:0.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1161.v89a_7dcec5d31:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1195.v3b_a_d1b_e792e0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1201.v1fce0b_9b_a_e24:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1203.v75b_321f1c89f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1205.vceea_7b_972817:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1226.v833b_d9f526b_9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1235.v2db_ddd9f797b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1239.v08f725b_927d9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1256.v14a_6e1e0de4b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1257.v89e586d3c58c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1274.v870c8cb_fa_369:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1279.v5d711113020f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1290.vf21c81e8c57f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1293.v6c4d0ce54ee8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1298.v43b_82f220a_e9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1314.v09626b_14362f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1322.v9ef317a_3e0a_9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:1330.v18e473854496:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:1.7.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:2.3.0:beta1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:2.3.1:beta1:*:*:*:jenkins:*:*
@@ -31,8 +49,12 @@ cpes:
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.0.6:beta1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.0.6:-:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:3.10.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.1.0:beta1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.1.0:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:3.11.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:3.11.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_maven_integration:3.11.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.2.0:alpha1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.2.0:alpha2:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:pipeline_maven_integration:3.2.0:-:*:*:*:jenkins:*:*

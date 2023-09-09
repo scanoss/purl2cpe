@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:newnine:font_awesome_4_menus:4.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:newnine:font_awesome_4_menus:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:newnine:font_awesome_4_menus:-:*:*:*:*:wordpress:*:*

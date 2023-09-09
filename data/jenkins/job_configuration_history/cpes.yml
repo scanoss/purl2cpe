@@ -23,6 +23,7 @@ cpes:
   - cpe:2.3:a:jenkins:job_configuration_history:1207.vd28a_54732f92:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1212.vd4470d08ff12:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1227.v7a_79fc4dc01f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_configuration_history:1229.v3039470161a_d:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:2.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:job_configuration_history:2.10:*:*:*:*:jenkins:*:*
