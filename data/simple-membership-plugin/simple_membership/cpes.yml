@@ -181,4 +181,15 @@ cpes:
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:4.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:*:*:*:*:*:wordpress:*:*

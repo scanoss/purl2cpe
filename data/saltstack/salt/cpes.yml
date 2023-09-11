@@ -216,3 +216,15 @@ cpes:
   - cpe:2.3:a:saltstack:salt:3004:*:*:*:*:*:*:*
   - cpe:2.3:a:saltstack:salt:3004.1:*:*:*:*:*:*:*
   - cpe:2.3:a:saltstack:salt:3004.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005:-:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005.1-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005.1-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005.1-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3005:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.1:*:*:*:*:*:*:*

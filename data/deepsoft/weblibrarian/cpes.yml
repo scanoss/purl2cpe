@@ -81,4 +81,5 @@ cpes:
   - cpe:2.3:a:deepsoft:weblibrarian:3.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deepsoft:weblibrarian:3.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deepsoft:weblibrarian:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:deepsoft:weblibrarian:3.5.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deepsoft:weblibrarian:3.5:*:*:*:*:wordpress:*:*

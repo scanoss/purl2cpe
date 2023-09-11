@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:json5:json5:1.0.0:beta:*:*:*:node.js:*:*
   - cpe:2.3:a:json5:json5:1.0.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:json5:json5:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:json5:json5:1.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:json5:json5:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:json5:json5:2.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:json5:json5:2.1.0:*:*:*:*:node.js:*:*
