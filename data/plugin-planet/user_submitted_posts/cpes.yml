@@ -17,5 +17,6 @@ cpes:
   - cpe:2.3:a:plugin-planet:user_submitted_posts:20190502:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:user_submitted_posts:20190902:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:user_submitted_posts:20230809:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:user_submitted_posts:20230811:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:user_submitted_posts:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:user_submitted_posts:-:*:*:*:*:wordpress:*:*

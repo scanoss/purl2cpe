@@ -84,3 +84,7 @@ cpes:
   - cpe:2.3:a:borgbackup:borg:1.2.0:alpha9:*:*:*:*:*:*
   - cpe:2.3:a:borgbackup:borg:1.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:borgbackup:borg:1.2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:borgbackup:borg:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:borgbackup:borg:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:borgbackup:borg:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:borgbackup:borg:1.2.4:*:*:*:*:*:*:*

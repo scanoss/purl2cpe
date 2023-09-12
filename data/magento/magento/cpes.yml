@@ -229,7 +229,11 @@ cpes:
   - cpe:2.3:a:magento:magento:2.4.1:p1:*:*:open_source:*:*:*
   - cpe:2.3:a:magento:magento:2.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:magento:magento:2.4.2:*:*:*:commerce:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.2:-:*:*:commerce:*:*:*
   - cpe:2.3:a:magento:magento:2.4.2:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.2:-:*:*:open_source:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.2:p1:*:*:commerce:*:*:*
+  - cpe:2.3:a:magento:magento:2.4.2:p1:*:*:open_source:*:*:*
   - cpe:2.3:a:magento:magento:2.4.3:-:*:*:commerce:*:*:*
   - cpe:2.3:a:magento:magento:2.4.3:-:*:*:open_source:*:*:*
   - cpe:2.3:a:magento:magento:2.4.3:p1:*:*:commerce:*:*:*

@@ -53,4 +53,17 @@ cpes:
   - cpe:2.3:a:jenkins:azure_ad:241.vb_e5cd7c35b_2e:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:267.v5b_dfb_514d9fd:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:303.va_91ef20ee49f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:306.va_7083923fd50:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:308.v10a_6e24f30b_4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:313.v14b_f37ff114d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:336.vd05b_01358644:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:340.vdef002cf6415:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:345.vdb_07735a_767d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:348.vefd011eea_20b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:378.vd6e2874a_69eb:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:385.v5d9f88612dd2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:391.v252da_e1dd39c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:392.v4e15d33fe85d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:393.v03d1cfd50759:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:396.v86ce29279947:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:*:*:*:*:*:jenkins:*:*
