@@ -153,3 +153,5 @@ cpes:
   - cpe:2.3:a:hexo:hexo:6.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hexo:hexo:6.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hexo:hexo:6.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hexo:hexo:7.0.0:rc1:*:*:*:node.js:*:*
+  - cpe:2.3:a:hexo:hexo:7.0.0:rc2:*:*:*:node.js:*:*

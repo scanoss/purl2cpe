@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:php-fusion:phpfusion:9.03.80:*:*:*:*:*:*:*
   - cpe:2.3:a:php-fusion:phpfusion:9.03.90:*:*:*:*:*:*:*
   - cpe:2.3:a:php-fusion:phpfusion:9.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.10.30:*:*:*:*:*:*:*
