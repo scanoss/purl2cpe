@@ -6,4 +6,5 @@ cpes:
   - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:ipados:*:*
   - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:linux:*:*
   - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:windows:*:*

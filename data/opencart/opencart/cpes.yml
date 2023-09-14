@@ -58,4 +58,5 @@ cpes:
   - cpe:2.3:a:opencart:opencart:3.0.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:3.1.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:4.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencart:opencart:4.0.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:*:b1:*:*:*:*:*:*
