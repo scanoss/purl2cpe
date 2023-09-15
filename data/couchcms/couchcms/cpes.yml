@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:couchcms:couchcms:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:couchcms:couchcms:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:couchcms:couchcms:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:couchcms:couchcms:2.3:*:*:*:*:*:*:*
