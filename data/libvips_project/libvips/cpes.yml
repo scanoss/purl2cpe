@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libvips_project:libvips:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips_project:libvips:7.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips_project:libvips:7.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips_project:libvips:8.0:beta:*:*:*:*:*:*

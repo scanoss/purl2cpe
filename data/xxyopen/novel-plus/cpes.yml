@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:xxyopen:novel-plus:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:xxyopen:novel-plus:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xxyopen:novel-plus:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xxyopen:novel-plus:3.6.2:*:*:*:*:*:*:*
