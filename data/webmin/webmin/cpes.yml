@@ -222,3 +222,4 @@ cpes:
   - cpe:2.3:a:webmin:webmin:2.020:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2.021:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2022-10-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.100:*:*:*:*:*:*:*

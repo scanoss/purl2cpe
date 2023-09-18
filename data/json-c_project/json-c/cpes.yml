@@ -8,6 +8,7 @@ cpes:
   - cpe:2.3:a:json-c_project:json-c:0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:json-c_project:json-c:0.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:json-c_project:json-c:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-c_project:json-c:0.15-20200726:*:*:*:*:*:*:*
   - cpe:2.3:a:json-c_project:json-c:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:json-c_project:json-c:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:json-c_project:json-c:0.4:*:*:*:*:*:*:*
