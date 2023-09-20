@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opswat:metadefender:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opswat:metadefender:-:*:*:*:*:*:*:*
   - cpe:2.3:a:opswat:metadefender:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opswat:metadefender:4.0.1:*:*:*:*:*:*:*

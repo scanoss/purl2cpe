@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linuxfoundation:nats-server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:0.5.2:*:*:*:*:*:*:*
