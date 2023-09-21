@@ -35,3 +35,7 @@ cpes:
   - cpe:2.3:a:revive-adserver:revive_adserver:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:revive-adserver:revive_adserver:5.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:revive-adserver:revive_adserver:5.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:revive-adserver:revive_adserver:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:revive-adserver:revive_adserver:5.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:revive-adserver:revive_adserver:5.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:revive-adserver:revive_adserver:5.4.1:*:*:*:*:*:*:*

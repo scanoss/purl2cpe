@@ -68,8 +68,34 @@ cpes:
   - cpe:2.3:a:jenkins:blue_ocean:1.2.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.23:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.24.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.24.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.25.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.5.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.25.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.26.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:blue_ocean:1.27.4:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.27.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.3.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:blue_ocean:1.3.1:*:*:*:*:jenkins:*:*

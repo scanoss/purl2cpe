@@ -70,6 +70,8 @@ cpes:
   - cpe:2.3:a:keepass:keepass:1.38:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:1.39:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:1.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:keepass:1.41:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:2.00:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:2.01:*:*:*:*:*:*:*
   - cpe:2.3:a:keepass:keepass:2.02:*:*:*:*:*:*:*
