@@ -5,6 +5,7 @@ tmp/
 __pycache__
 venv/
 *.zip
+!purl2cpe.db.zip
 *.tar
 *.tgz
 *.gz
