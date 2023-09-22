@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:hitreach:allow_php_in_posts_and_pages:*:*:*:*:*:wordpress:*:*

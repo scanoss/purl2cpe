@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:timersys:wp_popups:2.1.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:timersys:wp_popups:2.1.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:timersys:wp_popups:2.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:timersys:wp_popups:2.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:timersys:wp_popups:2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:timersys:wp_popups:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:timersys:wp_popups:-:*:*:*:*:wordpress:*:*

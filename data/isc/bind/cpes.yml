@@ -490,6 +490,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.16.36:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.37:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.43:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.7:*:*:*:*:*:*:*
@@ -520,9 +521,12 @@ cpes:
   - cpe:2.3:a:isc:bind:9.17.8:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.17.9:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.18.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.18.0:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.10:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.18.11:s1:*:*:supported_preview:*:*:*
+  - cpe:2.3:a:isc:bind:9.18.18:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.4:*:*:*:-:*:*:*
