@@ -160,3 +160,29 @@ cpes:
   - cpe:2.3:a:fit2cloud:jumpserver:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:jumpserver:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:jumpserver:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.6.3:*:*:*:*:*:*:*

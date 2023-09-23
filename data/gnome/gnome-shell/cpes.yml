@@ -264,4 +264,35 @@ cpes:
   - cpe:2.3:a:gnome:gnome-shell:41.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gnome-shell:41.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gnome-shell:41.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:41.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gnome-shell:41.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:41.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:41.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:41.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:41.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:42.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:43.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:44.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-shell:45.0:*:*:*:*:*:*:*

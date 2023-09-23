@@ -195,3 +195,4 @@ cpes:
   - cpe:2.3:a:zend:zend_framework:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zend:zend_framework:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zend:zend_framework:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zend:zend_framework:3.1.3:*:*:*:*:*:*:*
