@@ -185,6 +185,10 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.16.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.2.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.2.1:*:*:*:*:*:*:*
