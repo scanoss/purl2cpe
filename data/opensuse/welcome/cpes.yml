@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opensuse:welcome:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:welcome:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:welcome:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:welcome:0.1.2:*:*:*:*:*:*:*

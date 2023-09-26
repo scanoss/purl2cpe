@@ -26,4 +26,5 @@ cpes:
   - cpe:2.3:a:apache:avro:0.9.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:apache:avro:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:avro:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:avro:*:*:*:*:*:.net:*:*
   - cpe:2.3:a:apache:avro:-:*:*:*:*:rust:*:*
