@@ -35,5 +35,6 @@ cpes:
   - cpe:2.3:a:codestag:stagtools:2.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codestag:stagtools:2.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codestag:stagtools:2.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codestag:stagtools:2.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codestag:stagtools:2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codestag:stagtools:-:*:*:*:*:wordpress:*:*

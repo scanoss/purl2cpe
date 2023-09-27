@@ -66,3 +66,5 @@ cpes:
   - cpe:2.3:o:shapeshift:keepkey_firmware:6.3.0:*:*:*:*:*:*:*
   - cpe:2.3:o:shapeshift:keepkey_firmware:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:o:shapeshift:keepkey_firmware:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:shapeshift:keepkey_firmware:7.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:shapeshift:keepkey_firmware:7.6.0:*:*:*:*:*:*:*

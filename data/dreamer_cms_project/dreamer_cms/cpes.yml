@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.1.3:*:*:*:*:*:*:*
