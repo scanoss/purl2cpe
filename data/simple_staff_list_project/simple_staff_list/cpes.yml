@@ -21,5 +21,6 @@ cpes:
   - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple_staff_list_project:simple_staff_list:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple_staff_list_project:simple_staff_list:-:*:*:*:*:wordpress:*:*
