@@ -61,5 +61,6 @@ cpes:
   - cpe:2.3:a:open-emr:openemr:6.1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:7.0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-emr:openemr:7.0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:*:patch_5:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:*:patch_7:*:*:*:*:*:*

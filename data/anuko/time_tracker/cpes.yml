@@ -846,6 +846,7 @@ cpes:
   - cpe:2.3:a:anuko:time_tracker:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:anuko:time_tracker:1.2.20.531:*:*:*:*:*:*:*
   - cpe:2.3:a:anuko:time_tracker:1.2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:anuko:time_tracker:1.22.11.5781:*:*:*:*:*:*:*
   - cpe:2.3:a:anuko:time_tracker:1.2.21.533:*:*:*:*:*:*:*
   - cpe:2.3:a:anuko:time_tracker:1.2.21.534:*:*:*:*:*:*:*
   - cpe:2.3:a:anuko:time_tracker:1.2.21.535:*:*:*:*:*:*:*

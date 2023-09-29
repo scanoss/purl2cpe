@@ -135,3 +135,4 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:3.2.31:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.2.40:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.2.41:*:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*

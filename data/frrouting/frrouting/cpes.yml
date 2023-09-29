@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:frrouting:frrouting:8.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:frrouting:frrouting:8.5:-:*:*:*:*:*:*
   - cpe:2.3:a:frrouting:frrouting:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frrouting:frrouting:9.0:*:*:*:*:*:*:*

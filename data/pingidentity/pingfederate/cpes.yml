@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:pingfederate:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:10.1.0:*:*:*:*:*:*:*

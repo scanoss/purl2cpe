@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:a:cloudflare:lol-html:1.0.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:lol-html:1.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:lol-html:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:-:*:*:*:*:rust:*:*

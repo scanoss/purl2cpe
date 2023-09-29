@@ -21,3 +21,4 @@ cpes:
   - cpe:2.3:a:collne:welcart:1.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart:1.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:collne:welcart:*:*:*:*:*:wordpress:*:*

@@ -59,4 +59,5 @@ cpes:
   - cpe:2.3:a:oxilab:image_hover_effects_ultimate:9.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oxilab:image_hover_effects_ultimate:9.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oxilab:image_hover_effects_ultimate:9.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:image_hover_effects_ultimate:9.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oxilab:image_hover_effects_ultimate:-:*:*:*:*:wordpress:*:*

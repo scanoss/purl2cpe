@@ -472,6 +472,7 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.79.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.82.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2.0.0:*:*:*:*:matlab:*:*

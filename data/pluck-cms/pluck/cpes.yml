@@ -27,6 +27,7 @@ cpes:
   - cpe:2.3:a:pluck-cms:pluck:4.7.16:dev3:*:*:*:*:*:*
   - cpe:2.3:a:pluck-cms:pluck:4.7.16:dev4:*:*:*:*:*:*
   - cpe:2.3:a:pluck-cms:pluck:4.7.16:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:pluck-cms:pluck:4.7.16:dev6:*:*:*:*:*:*
   - cpe:2.3:a:pluck-cms:pluck:4.7.18:-:*:*:*:*:*:*
   - cpe:2.3:a:pluck-cms:pluck:4.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pluck-cms:pluck:4.7.3:*:*:*:*:*:*:*

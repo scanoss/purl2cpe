@@ -84,6 +84,7 @@ cpes:
   - cpe:2.3:a:google:guava:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:guava:30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:guava:30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guava:32.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:guava:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:guava:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:guava:6.0:*:*:*:*:*:*:*

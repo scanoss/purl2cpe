@@ -70,6 +70,8 @@ cpes:
   - cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:12:sp5:*:*:*:sap:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise_server:15:-:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise_server:15:-:*:*:*:-:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:15:-:*:*:espos:*:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:*:ltss:*:*
   - cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:ltss:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:leanote:leanote:-:*:*:*:*:*:*:*
   - cpe:2.3:a:leanote:leanote:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:leanote:leanote:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:leanote:leanote:0.3:*:*:*:*:*:*:*

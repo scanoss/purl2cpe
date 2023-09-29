@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:tailscale:tailscale:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tailscale:tailscale:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tailscale:tailscale:0.100.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tailscale:tailscale:0.100.0-107:*:*:*:*:*:*:*
   - cpe:2.3:a:tailscale:tailscale:0.100.0-153:*:*:*:*:*:*:*

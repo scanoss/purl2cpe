@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:0.12.0:*:*:*:*:*:*:*

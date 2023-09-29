@@ -305,6 +305,8 @@ cpes:
   - cpe:2.3:a:squid-cache:squid:4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid-cache:squid:4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid-cache:squid:4.17:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:4.6:*:*:*:*:*:*:*
