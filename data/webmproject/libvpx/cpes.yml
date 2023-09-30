@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:webmproject:libvpx:0.9.7:-:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libvpx:0.9.7:p1:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libvpx:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libvpx:1.13.1:*:*:*:*:*:*:*

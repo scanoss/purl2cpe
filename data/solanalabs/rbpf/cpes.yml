@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:solanalabs:rbpf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:rbpf:0.2.16:*:*:*:*:*:*:*

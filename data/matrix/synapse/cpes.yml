@@ -427,14 +427,102 @@ cpes:
   - cpe:2.3:a:matrix:synapse:1.62.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.62.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.62.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.63.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.63.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.63.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.64.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.64.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.64.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.65.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.65.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.65.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.66.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.66.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.66.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.67.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.67.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.68.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.68.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.68.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.69.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.69.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.69.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.69.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.69.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.70.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.70.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.70.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.70.1:*:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.71.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.71.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.71.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.72.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.72.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.73.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.73.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.73.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.74.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.74.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.75.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.75.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.75.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.76.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.76.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.76.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.77.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.77.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.77.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.78.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.78.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.79.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.79.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.79.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.80.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.80.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.80.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.81.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.81.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.81.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.82.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.82.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.83.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.83.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.84.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.84.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.84.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.85.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.85.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.85.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.85.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.85.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.86.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.86.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.86.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.87.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.87.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.88.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.88.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.89.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.89.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.90.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.90.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.9.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.91.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.91.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.91.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.91.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.92.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.92.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.92.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.92.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.92.3:*:*:*:*:*:*:*
