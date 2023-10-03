@@ -148,4 +148,5 @@ cpes:
   - cpe:2.3:a:metersphere:metersphere:2.9.0:-:*:*:*:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.9.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:*:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:-:*:*:*:lts:*:*:*

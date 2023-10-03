@@ -5435,6 +5435,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.5:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.5:rc5:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.5:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.6:rc2:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:arm64:*
   - cpe:2.3:o:linux:linux_kernel:*:git-6:*:*:*:*:*:*

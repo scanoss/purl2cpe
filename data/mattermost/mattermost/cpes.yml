@@ -193,11 +193,16 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:7.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:7.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:7.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:7.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:8.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:iphone_os:*:*
