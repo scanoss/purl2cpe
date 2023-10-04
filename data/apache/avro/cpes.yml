@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:avro:*:*:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:apache:avro:0.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:apache:avro:0.11.0:*:*:*:*:rust:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rockoa:rockoa:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.5.2:*:*:*:*:*:*:*
@@ -8,6 +9,7 @@ cpes:
   - cpe:2.3:a:rockoa:rockoa:1.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:15.x3amdi:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.6.2:*:*:*:*:*:*:*
