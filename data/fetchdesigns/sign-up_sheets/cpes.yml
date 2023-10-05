@@ -14,4 +14,14 @@ cpes:
   - cpe:2.3:a:fetchdesigns:sign-up_sheets:1.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fetchdesigns:sign-up_sheets:1.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fetchdesigns:sign-up_sheets:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fetchdesigns:sign-up_sheets:2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fetchdesigns:sign-up_sheets:-:*:*:*:*:wordpress:*:*

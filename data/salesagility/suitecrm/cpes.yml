@@ -93,6 +93,7 @@ cpes:
   - cpe:2.3:a:salesagility:suitecrm:7.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:7.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:7.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:salesagility:suitecrm:7.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:7.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:7.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:7.1.7:*:*:*:*:*:*:*

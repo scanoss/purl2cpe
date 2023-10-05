@@ -1414,9 +1414,13 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:16.2.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.2.5:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.2.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.2.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.2.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.3.5:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.3.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:enterprise:*:*:*
