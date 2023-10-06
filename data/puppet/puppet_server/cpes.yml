@@ -113,3 +113,5 @@ cpes:
   - cpe:2.3:a:puppet:puppet_server:7.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_server:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_server:7.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_server:8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_server:8.2.1:*:*:*:*:*:*:*

@@ -162,6 +162,7 @@ cpes:
   - cpe:2.3:a:puppet:puppet:2021.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:2021.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:2021.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:puppet:puppet:2023.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:2.5.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:2.5.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:2.5.2:*:*:*:enterprise:*:*:*

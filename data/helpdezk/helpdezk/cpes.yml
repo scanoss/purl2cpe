@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:helpdezk:helpdezk:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:helpdezk:helpdezk:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:helpdezk:helpdezk:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:helpdezk:helpdezk:1.1.10:*:*:*:*:*:*:*
