@@ -20,6 +20,8 @@ cpes:
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.121:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.122:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.123:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.124:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.125:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainviewplugins:mycryptocheckout:2.22:*:*:*:*:wordpress:*:*

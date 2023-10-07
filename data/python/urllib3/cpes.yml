@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*
   - cpe:2.3:a:python:urllib3:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:urllib3:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:urllib3:0.4:*:*:*:*:*:*:*
