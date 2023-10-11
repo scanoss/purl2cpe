@@ -469,6 +469,7 @@ cpes:
   - cpe:2.3:a:candlepinproject:candlepin:2.0.19-1:*:*:*:*:*:*:*
   - cpe:2.3:a:candlepinproject:candlepin:2.0.20-1:*:*:*:*:*:*:*
   - cpe:2.3:a:candlepinproject:candlepin:2.0.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:candlepinproject:candlepin:2.0.21-1:*:*:*:*:*:*:*
   - cpe:2.3:a:candlepinproject:candlepin:2.0.22-1:*:*:*:*:*:*:*
   - cpe:2.3:a:candlepinproject:candlepin:2.0.23-1:*:*:*:*:*:*:*
   - cpe:2.3:a:candlepinproject:candlepin:2.0.24-1:*:*:*:*:*:*:*

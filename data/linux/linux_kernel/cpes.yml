@@ -2472,7 +2472,12 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.6.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.6.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.6:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.6:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.6:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.6:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.6:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.7.10:*:*:*:*:*:*:*

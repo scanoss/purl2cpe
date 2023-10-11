@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:flex_project:flex:*:*:*:*:*:*:*:*
   - cpe:2.3:a:flex_project:flex:2.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:flex_project:flex:2.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:flex_project:flex:2.5.12:*:*:*:*:*:*:*

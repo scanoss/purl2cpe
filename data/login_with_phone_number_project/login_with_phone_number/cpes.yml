@@ -63,3 +63,4 @@ cpes:
   - cpe:2.3:a:login_with_phone_number_project:login_with_phone_number:1.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:login_with_phone_number_project:login_with_phone_number:1.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:login_with_phone_number_project:login_with_phone_number:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:login_with_phone_number_project:login_with_phone_number:*:*:*:*:*:wordpress:*:*

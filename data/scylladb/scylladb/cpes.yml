@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:scylladb:scylladb:*:*:*:*:*:*:*:*
   - cpe:2.3:a:scylladb:scylladb:-:*:*:*:*:*:*:*
   - cpe:2.3:a:scylladb:scylladb:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:scylladb:scylladb:0.11:*:*:*:*:*:*:*

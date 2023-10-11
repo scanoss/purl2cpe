@@ -92,4 +92,21 @@ cpes:
   - cpe:2.3:a:fooplugins:foogallery:2.0.30:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.0.35:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.0.39:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.1.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:*:wordpress:*:*

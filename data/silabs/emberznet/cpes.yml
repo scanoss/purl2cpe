@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:silabs:emberznet:*:*:*:*:*:*:*:*
   - cpe:2.3:a:silabs:emberznet:1.0.0:*:*:*:*:*:*:*
