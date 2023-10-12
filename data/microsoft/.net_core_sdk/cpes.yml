@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:microsoft:.net_core_sdk:1.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:.net_core_sdk:2.1.500:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:.net_core_sdk:2.2.100:*:*:*:*:*:*:*

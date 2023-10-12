@@ -469,4 +469,7 @@ cpes:
   - cpe:2.3:a:vapor:vapor:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.83.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.9.0:*:*:*:*:*:*:*

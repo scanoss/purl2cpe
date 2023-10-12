@@ -330,5 +330,8 @@ cpes:
   - cpe:2.3:a:gradle:gradle:7.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.4.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:*:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gradle:gradle:-:*:*:*:enterprise:*:*:*
