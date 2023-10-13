@@ -93,13 +93,27 @@ cpes:
   - cpe:2.3:a:pressified:sendpress:1.1.7.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.1.7.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.10.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.2.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.3.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.4.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.6.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.7.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.7.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.20.8.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.10.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.21.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.22.1.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.22.2.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.22.3.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.22.3.31:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.27:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.29:*:*:*:*:wordpress:*:*

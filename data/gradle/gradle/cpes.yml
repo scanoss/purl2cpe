@@ -329,7 +329,56 @@ cpes:
   - cpe:2.3:a:gradle:gradle:7.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone5:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:milestone6:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.3.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc3:*:*:*:*:*:*

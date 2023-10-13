@@ -162,3 +162,41 @@ cpes:
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.369:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.371:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.372:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.373:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.375:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.376:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.377:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.379:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.380:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.382:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.383:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.385:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.386:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.388:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.389:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.391:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.392:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.395:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.398:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.400:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.401:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.403:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.404:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.409:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.423:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.430:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.437:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.441:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:6.0.453:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.0.470:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.0.473:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.1.475:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.1.488:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.1.509:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.1.512:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:7.1.542:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:8.0.601:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:8.0.645:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:8.0.692:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:8.0.718:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:8.1.719:beta:*:*:*:*:*:*

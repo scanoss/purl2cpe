@@ -81,6 +81,7 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:2.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:2.17.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:2.3.1:*:*:*:*:*:*:*
@@ -148,3 +149,4 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:3.0.3:*:*:*:*:*:*:*

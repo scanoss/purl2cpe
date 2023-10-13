@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:microsoft:azure_rtos_guix_studio:*:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_rtos_guix_studio:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_rtos_guix_studio:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_rtos_guix_studio:6.0.1:*:*:*:*:*:*:*
