@@ -51,6 +51,7 @@ cpes:
   - cpe:2.3:a:piwigo:piwigo:13.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:13.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:13.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:13.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:14.0.0:beta1:*:*:*:*:*:*
