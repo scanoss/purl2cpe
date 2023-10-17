@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fnet_project:fnet:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fnet_project:fnet:-:*:*:*:*:*:*:*
   - cpe:2.3:a:fnet_project:fnet:0.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fnet_project:fnet:0.4.1:*:*:*:*:*:*:*

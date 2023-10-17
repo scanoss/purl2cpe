@@ -11,7 +11,11 @@ cpes:
   - cpe:2.3:a:mendix:forgot_password:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:forgot_password:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.2.0:*:*:*:*:*:*:*

@@ -160,14 +160,56 @@ cpes:
   - cpe:2.3:a:garden:garden:0.12.3:alpha5:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.3:alpha6:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.3:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.40:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.41:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.42:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.43:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.44:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.45:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.46:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.47:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.48:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.49:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.50:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.51:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.52:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.53:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.54:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.55:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.56:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.57:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.58:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.59:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.60:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.61:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.62:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.63:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.12.64:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.6:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.7:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.8-0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.8:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.12.9:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.1.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.10:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.11:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.12:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.13:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.14:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.15:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.16:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.3:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:garden:garden:0.13.9:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.2.0-0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.2.0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:garden:garden:0.3.0:*:*:*:*:kubernetes:*:*
