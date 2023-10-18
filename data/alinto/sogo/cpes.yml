@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:alinto:sogo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alinto:sogo:-:*:*:*:*:*:*:*
   - cpe:2.3:a:alinto:sogo:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alinto:sogo:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alinto:sogo:2.0.2:-:*:*:*:*:*:*

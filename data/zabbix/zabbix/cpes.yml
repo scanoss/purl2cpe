@@ -577,6 +577,16 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:4.0.41:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:4.0.42:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:4.0.42:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.43:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.43:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.44:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.44:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.45:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.45:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.46:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.46:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.47:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:4.0.47:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:4.0.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:4.0.4:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:4.0.4:rc3:*:*:*:*:*:*
@@ -813,11 +823,17 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.0.17:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.17:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.17:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.18:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.18:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.19:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.19:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.1:rc3:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.1:rc4:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.20:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.3:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.3:rc1:*:*:*:*:*:*
@@ -867,3 +883,8 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.4.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.4:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha3:*:*:*:*:*:*

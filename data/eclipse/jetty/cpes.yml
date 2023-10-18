@@ -11,6 +11,7 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:10.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:10.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:10.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:10.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:10.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:10.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:10.0.4:*:*:*:*:*:*:*
@@ -28,6 +29,7 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:11.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:11.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:11.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:11.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:11.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:11.0.4:*:*:*:*:*:*:*
@@ -599,6 +601,7 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:9.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.50:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.52:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.5:20170502:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.5:20180619:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:*:*:*:*:*:*:*

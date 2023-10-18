@@ -134,3 +134,4 @@ cpes:
   - cpe:2.3:a:librenms:librenms:23.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:librenms:librenms:23.9.1:*:*:*:*:*:*:*
