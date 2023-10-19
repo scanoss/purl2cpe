@@ -208,6 +208,7 @@ cpes:
   - cpe:2.3:a:linecorp:armeria:1.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:armeria:1.24.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:armeria:1.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:armeria:1.24.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:armeria:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:armeria:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:armeria:1.5.0:*:*:*:*:*:*:*

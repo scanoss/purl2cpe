@@ -35,6 +35,8 @@ cpes:
   - cpe:2.3:a:jeffrey-wp:media_library_categories:1.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jeffrey-wp:media_library_categories:1.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jeffrey-wp:media_library_categories:1.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeffrey-wp:media_library_categories:1.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jeffrey-wp:media_library_categories:1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jeffrey-wp:media_library_categories:2.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jeffrey-wp:media_library_categories:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeffrey-wp:media_library_categories:-:*:*:*:*:wordpress:*:*

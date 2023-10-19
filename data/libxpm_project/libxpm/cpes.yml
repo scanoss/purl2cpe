@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libxpm_project:libxpm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libxpm_project:libxpm:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libxpm_project:libxpm:3.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:libxpm_project:libxpm:3.5.11:*:*:*:*:*:*:*
