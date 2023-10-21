@@ -56,3 +56,30 @@ cpes:
   - cpe:2.3:a:pagelayer:pagelayer:1.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:1.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:1.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:1.7.7:*:*:*:*:wordpress:*:*
