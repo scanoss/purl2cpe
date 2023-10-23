@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:relative:synchrony:*:*:*:*:*:nodejs:*:*
+  - cpe:2.3:o:relative:synchrony:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:relative:synchrony:*:*:*:*:*:nodejs:*:*

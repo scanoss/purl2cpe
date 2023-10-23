@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:linkerd:linkerd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkerd:linkerd:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkerd:linkerd:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkerd:linkerd:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkerd:linkerd:2.14.1:*:*:*:*:*:*:*
