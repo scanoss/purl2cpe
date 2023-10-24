@@ -29,6 +29,13 @@ cpes:
   - cpe:2.3:a:apache:apisix:2.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.4:*:*:*:*:*:*:*
@@ -37,3 +44,14 @@ cpes:
   - cpe:2.3:a:apache:apisix:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:2.99.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.6.0:*:*:*:*:*:*:*

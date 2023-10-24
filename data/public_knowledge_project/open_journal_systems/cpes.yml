@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.1-1:*:*:*:*:*:*:*
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:3.1.1-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:public_knowledge_project:open_journal_systems:3.3.0-16:*:*:*:*:*:*:*

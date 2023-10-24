@@ -171,6 +171,7 @@ cpes:
   - cpe:2.3:a:netty:netty:4.1.0:candidate_release7:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.100:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.13:*:*:*:*:*:*:*

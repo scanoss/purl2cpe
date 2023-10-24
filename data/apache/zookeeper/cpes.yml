@@ -121,4 +121,5 @@ cpes:
   - cpe:2.3:a:apache:zookeeper:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:zookeeper:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:3.9.0:*:*:*:*:*:*:*
