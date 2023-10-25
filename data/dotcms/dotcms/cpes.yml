@@ -69,6 +69,7 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:22.10:*:*:*:-:*:*:*
   - cpe:2.3:a:dotcms:dotcms:22.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.01:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.5:*:*:*:*:*:*:*

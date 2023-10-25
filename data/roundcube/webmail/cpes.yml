@@ -165,6 +165,7 @@ cpes:
   - cpe:2.3:a:roundcube:webmail:1.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.4.4:*:*:*:*:*:*:*
@@ -181,4 +182,11 @@ cpes:
   - cpe:2.3:a:roundcube:webmail:1.5.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:-:alpha:*:*:*:*:*:*

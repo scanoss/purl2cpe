@@ -106,8 +106,15 @@ cpes:
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.22:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.30:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.4:*:*:*:free:wordpress:*:*
