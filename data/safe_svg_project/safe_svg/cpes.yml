@@ -30,3 +30,4 @@ cpes:
   - cpe:2.3:a:safe_svg_project:safe_svg:1.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:safe_svg_project:safe_svg:1.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:safe_svg_project:safe_svg:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:safe_svg_project:safe_svg:*:*:*:*:*:wordpress:*:*

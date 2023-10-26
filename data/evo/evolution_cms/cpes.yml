@@ -47,3 +47,4 @@ cpes:
   - cpe:2.3:a:evo:evolution_cms:3.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:evo:evolution_cms:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:evo:evolution_cms:3.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:evo:evolution_cms:3.2.3:*:*:*:*:*:*:*

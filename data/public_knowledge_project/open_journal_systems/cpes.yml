@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:public_knowledge_project:open_journal_systems:*:*:*:*:*:*:*:*
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:public_knowledge_project:open_journal_systems:1.1:*:*:*:*:*:*:*

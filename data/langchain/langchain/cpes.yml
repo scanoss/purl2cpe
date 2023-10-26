@@ -140,7 +140,46 @@ cpes:
   - cpe:2.3:a:langchain:langchain:0.0.230:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.231:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.232:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.233:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.234:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.235:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.236:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.237:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.238:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.239:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.240:-:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.240:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.240:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.240:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.242:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.243:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.244:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.245:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.247:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.248:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.249:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.250:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.251:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.252:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.253:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.254:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.255:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.256:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.257:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.258:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.259:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.260:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.261:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.262:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.263:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.264:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.265:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.266:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.267:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.268:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.269:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.270:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:0.0.271:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.0.64:*:*:*:*:*:*:*
