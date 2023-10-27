@@ -131,4 +131,5 @@ cpes:
   - cpe:2.3:a:ad_inserter_project:ad_inserter:2.7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:ad_inserter_project:ad_inserter:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ad_inserter_project:ad_inserter:-:*:*:*:*:wordpress:*:*

@@ -28,5 +28,20 @@ cpes:
   - cpe:2.3:a:tauri:tauri:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha10:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha11:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha13:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha14:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha15:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha9:*:*:*:*:*:*

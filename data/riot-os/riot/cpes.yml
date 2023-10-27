@@ -106,3 +106,4 @@ cpes:
   - cpe:2.3:o:riot-os:riot:2022.10:rc1:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2022.10:rc2:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2022.10:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2023.01:*:*:*:*:*:*:*

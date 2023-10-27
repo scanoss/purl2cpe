@@ -54,6 +54,7 @@ cpes:
   - cpe:2.3:a:simplefilelist:simple_file_list:4.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:4.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:4.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplefilelist:simple_file_list:6.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.4:*:*:*:*:wordpress:*:*
@@ -62,4 +63,6 @@ cpes:
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:6.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplefilelist:simple_file_list:6.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplefilelist:simple_file_list:6.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplefilelist:simple_file_list:*:*:*:*:*:wordpress:*:*

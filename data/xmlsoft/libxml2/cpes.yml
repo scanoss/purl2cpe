@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:xmlsoft:libxml2:2.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xmlsoft:libxml2:2.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:xmlsoft:libxml2:2.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlsoft:libxml2:2.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:xmlsoft:libxml2:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xmlsoft:libxml2:2.2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:xmlsoft:libxml2:2.2.1:*:*:*:*:*:*:*
