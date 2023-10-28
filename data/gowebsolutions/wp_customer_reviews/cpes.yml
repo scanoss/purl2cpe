@@ -39,4 +39,12 @@ cpes:
   - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gowebsolutions:wp_customer_reviews:3.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gowebsolutions:wp_customer_reviews:-:*:*:*:*:wordpress:*:*

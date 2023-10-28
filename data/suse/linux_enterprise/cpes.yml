@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:o:suse:linux_enterprise:15.0:sp3:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise:15.0:sp4:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise:15.0:sp5:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:9-11:*:*:*:*:*:*:*

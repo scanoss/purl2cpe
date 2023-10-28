@@ -77,5 +77,16 @@ cpes:
   - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:5.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:5.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amministrazione_trasparente_project:amministrazione_trasparente:-:*:*:*:*:wordpress:*:*

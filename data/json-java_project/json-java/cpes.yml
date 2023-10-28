@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:json-java_project:json-java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:-:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20150729:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20151123:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20160212:*:*:*:*:*:*:*
@@ -16,3 +17,5 @@ cpes:
   - cpe:2.3:a:json-java_project:json-java:20211205:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20220320:*:*:*:*:*:*:*
   - cpe:2.3:a:json-java_project:json-java:20220924:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20230227:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20230618:*:*:*:*:*:*:*

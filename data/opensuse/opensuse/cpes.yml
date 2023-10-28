@@ -5,6 +5,7 @@ cpes:
   - cpe:2.3:o:opensuse:opensuse:10.0:sp1:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:opensuse:10.2:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:opensuse:10.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.3-11.1:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:opensuse:11.0:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:opensuse:11.1:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:opensuse:11.2:*:*:*:*:*:*:*
