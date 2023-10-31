@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:iframe_project:iframe:4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iframe_project:iframe:4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iframe_project:iframe:4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iframe_project:iframe:4.6:*:*:*:*:wordpress:*:*

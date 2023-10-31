@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vmware:rabbitmq:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:1.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:1.1.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:1.1.1:*:*:*:*:*:*:*

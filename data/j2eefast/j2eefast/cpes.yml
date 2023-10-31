@@ -13,3 +13,4 @@ cpes:
   - cpe:2.3:a:j2eefast:j2eefast:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:j2eefast:j2eefast:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:j2eefast:j2eefast:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:j2eefast:j2eefast:2.6.0:*:*:*:*:*:*:*
