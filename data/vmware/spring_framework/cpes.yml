@@ -260,3 +260,4 @@ cpes:
   - cpe:2.3:a:vmware:spring_framework:6.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_framework:6.0.8:*:*:*:*:*:*:*

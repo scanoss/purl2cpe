@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:palletsprojects:werkzeug:2.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:palletsprojects:werkzeug:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:palletsprojects:werkzeug:2.2.3:*:*:*:*:*:*:*

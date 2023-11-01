@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:networktocode:nautobot:*:*:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:-:*:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.0.0:alpha1:*:*:*:*:*:*
