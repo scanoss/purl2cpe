@@ -246,6 +246,7 @@ cpes:
   - cpe:2.3:a:libdwarf_project:libdwarf:2020-07-03:*:*:*:*:*:*:*
   - cpe:2.3:a:libdwarf_project:libdwarf:2020-07-19:*:*:*:*:*:*:*
   - cpe:2.3:a:libdwarf_project:libdwarf:2020-08-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:libdwarf_project:libdwarf:2020-10-17:*:*:*:*:*:*:*
   - cpe:2.3:a:libdwarf_project:libdwarf:2020-10-20:*:*:*:*:*:*:*
   - cpe:2.3:a:libdwarf_project:libdwarf:2020-12-01:*:*:*:*:*:*:*
   - cpe:2.3:a:libdwarf_project:libdwarf:2021-03-05:*:*:*:*:*:*:*

@@ -106,6 +106,10 @@ cpes:
   - cpe:2.3:a:nagvis:nagvis:1.9.32:*:*:*:*:*:*:*
   - cpe:2.3:a:nagvis:nagvis:1.9.33:*:*:*:*:*:*:*
   - cpe:2.3:a:nagvis:nagvis:1.9.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:nagvis:nagvis:1.9.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:nagvis:nagvis:1.9.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:nagvis:nagvis:1.9.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:nagvis:nagvis:1.9.38:*:*:*:*:*:*:*
   - cpe:2.3:a:nagvis:nagvis:1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nagvis:nagvis:1.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nagvis:nagvis:1.9.6:*:*:*:*:*:*:*

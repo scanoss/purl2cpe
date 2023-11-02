@@ -154,3 +154,4 @@ cpes:
   - cpe:2.3:a:mintty_project:mintty:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mintty_project:mintty:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mintty_project:mintty:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintty_project:mintty:3.6.3:*:*:*:*:*:*:*

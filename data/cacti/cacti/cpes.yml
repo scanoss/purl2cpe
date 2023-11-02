@@ -122,6 +122,7 @@ cpes:
   - cpe:2.3:a:cacti:cacti:1.2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:cacti:cacti:1.2.23:*:*:*:*:*:*:*
   - cpe:2.3:a:cacti:cacti:1.2.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:cacti:cacti:1.2.25:*:*:*:*:*:*:*
   - cpe:2.3:a:cacti:cacti:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cacti:cacti:1.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:cacti:cacti:1.2.5:*:*:*:*:*:*:*

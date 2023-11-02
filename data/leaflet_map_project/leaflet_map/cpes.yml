@@ -74,3 +74,4 @@ cpes:
   - cpe:2.3:a:leaflet_map_project:leaflet_map:3.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leaflet_map_project:leaflet_map:3.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leaflet_map_project:leaflet_map:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:leaflet_map_project:leaflet_map:*:*:*:*:*:wordpress:*:*

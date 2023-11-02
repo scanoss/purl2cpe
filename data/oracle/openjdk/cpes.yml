@@ -200,6 +200,8 @@ cpes:
   - cpe:2.3:a:oracle:openjdk:8:update322:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update332:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update342:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update352:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update362:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update40:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update45:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update5:*:*:*:*:*:*
