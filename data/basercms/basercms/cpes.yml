@@ -134,3 +134,4 @@ cpes:
   - cpe:2.3:a:basercms:basercms:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:basercms:basercms:4.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:basercms:basercms:4.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:basercms:basercms:4.7.5:*:*:*:*:*:*:*

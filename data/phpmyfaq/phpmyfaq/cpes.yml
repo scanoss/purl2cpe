@@ -267,3 +267,4 @@ cpes:
   - cpe:2.3:a:phpmyfaq:phpmyfaq:3.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyfaq:phpmyfaq:3.2.0:beta2:*:*:*:*:*:*

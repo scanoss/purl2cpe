@@ -12,5 +12,6 @@ cpes:
   - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:-:*:*:*:*:wordpress:*:*
