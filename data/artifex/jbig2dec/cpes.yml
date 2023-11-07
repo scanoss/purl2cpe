@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:artifex:jbig2dec:0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:jbig2dec:0.18:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:jbig2dec:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:jbig2dec:0.20:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:jbig2dec:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:jbig2dec:0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:jbig2dec:0.5:*:*:*:*:*:*:*

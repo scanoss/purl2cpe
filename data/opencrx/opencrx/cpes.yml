@@ -13,3 +13,5 @@ cpes:
   - cpe:2.3:a:opencrx:opencrx:5.0:20200904:*:*:*:*:*:*
   - cpe:2.3:a:opencrx:opencrx:5.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencrx:opencrx:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencrx:opencrx:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencrx:opencrx:5.2.2:*:*:*:*:*:*:*
