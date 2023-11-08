@@ -204,5 +204,6 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:8.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:8.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:iphone_os:*:*
