@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:quic-go_project:quic-go:*:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:-:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.10.1:*:*:*:*:*:*:*
