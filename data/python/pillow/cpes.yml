@@ -83,3 +83,4 @@ cpes:
   - cpe:2.3:a:python:pillow:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:9.3.0:*:*:*:*:*:*:*

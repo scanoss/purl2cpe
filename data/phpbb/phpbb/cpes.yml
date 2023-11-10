@@ -106,9 +106,21 @@ cpes:
   - cpe:2.3:a:phpbb:phpbb:3.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.3:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.4:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.9:rc1:*:*:*:*:*:*
