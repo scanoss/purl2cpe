@@ -100,6 +100,7 @@ cpes:
   - cpe:2.3:a:ec-cube:ec-cube:3.0.18:p3:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:3.0.18:p4:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:3.0.18:p5:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:3.0.18:p6:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:3.0.4:*:*:*:*:*:*:*
@@ -124,9 +125,11 @@ cpes:
   - cpe:2.3:a:ec-cube:ec-cube:4.0.6:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.0.6:p1:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.0.6:p2:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.0.6:p3:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.1.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.1.2:p2:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:*:b2:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:*:unknown:community_edition:*:*:*:*:*

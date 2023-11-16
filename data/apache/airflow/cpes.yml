@@ -111,3 +111,4 @@ cpes:
   - cpe:2.3:a:apache:airflow:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.7.2:*:*:*:*:*:*:*

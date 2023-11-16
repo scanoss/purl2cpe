@@ -187,6 +187,8 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki:14.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.10:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:14.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:14.10.13:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:14.10.4:*:*:*:*:*:*:*
@@ -228,6 +230,7 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki:15.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:15.4:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:15.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:15.5:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:15.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.8:-:*:*:*:*:*:*

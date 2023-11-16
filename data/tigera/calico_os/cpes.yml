@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:tigera:calico_os:*:*:*:*:*:*:*:*
   - cpe:2.3:o:tigera:calico_os:-:*:*:*:*:*:*:*
   - cpe:2.3:o:tigera:calico_os:3.20.5:*:*:*:*:*:*:*
   - cpe:2.3:o:tigera:calico_os:3.21.0:*:*:*:*:*:*:*

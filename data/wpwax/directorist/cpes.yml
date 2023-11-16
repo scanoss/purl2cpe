@@ -138,3 +138,4 @@ cpes:
   - cpe:2.3:a:wpwax:directorist:7.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:7.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:7.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpwax:directorist:7.5.5:*:*:*:*:wordpress:*:*
