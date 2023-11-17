@@ -162,3 +162,4 @@ cpes:
   - cpe:2.3:a:amr_users_project:amr_users:4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amr_users_project:amr_users:4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amr_users_project:amr_users:4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amr_users_project:amr_users:*:*:*:*:*:wordpress:*:*

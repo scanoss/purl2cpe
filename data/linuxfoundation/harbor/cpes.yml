@@ -170,3 +170,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:harbor:2.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:2.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:2.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:2.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:2.6.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:2.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:2.8.0:-:*:*:*:*:*:*
