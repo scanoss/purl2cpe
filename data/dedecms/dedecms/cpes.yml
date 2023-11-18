@@ -96,4 +96,5 @@ cpes:
   - cpe:2.3:a:dedecms:dedecms:5.7:sp2:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:6.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:dedecms:dedecms:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:7.5:sp2:*:*:*:*:*:*

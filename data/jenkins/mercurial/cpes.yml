@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:jenkins:mercurial:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mercurial:2.16.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.16:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.2:*:*:*:*:jenkins:*:*

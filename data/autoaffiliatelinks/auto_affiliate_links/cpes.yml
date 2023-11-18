@@ -602,5 +602,18 @@ cpes:
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:-:*:*:*:*:wordpress:*:*

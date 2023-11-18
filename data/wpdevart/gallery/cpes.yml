@@ -64,4 +64,7 @@ cpes:
   - cpe:2.3:a:wpdevart:gallery:1.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:gallery:1.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:gallery:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:gallery:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:gallery:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:gallery:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:gallery:-:*:*:*:*:wordpress:*:*

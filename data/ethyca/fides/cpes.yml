@@ -355,6 +355,36 @@ cpes:
   - cpe:2.3:a:ethyca:fides:2.22.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.22.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.22.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.2:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.2:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.2:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.22.2:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.1:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.2:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.2:beta0:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.4.0:*:*:*:*:*:*:*
