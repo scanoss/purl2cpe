@@ -93,4 +93,26 @@ cpes:
   - cpe:2.3:a:wpchill:download_monitor:4.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpchill:download_monitor:4.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpchill:download_monitor:4.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.54:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.71:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.73:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.74:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.76:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.77:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.7.78:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:download_monitor:4.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpchill:download_monitor:-:*:*:*:*:wordpress:*:*

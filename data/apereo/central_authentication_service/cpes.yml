@@ -246,6 +246,9 @@ cpes:
   - cpe:2.3:a:apereo:central_authentication_service:6.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.3.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.4.0:rc2:*:*:*:*:*:*
@@ -256,10 +259,24 @@ cpes:
   - cpe:2.3:a:apereo:central_authentication_service:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.4.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.3:*:*:*:*:*:*:*
@@ -269,6 +286,9 @@ cpes:
   - cpe:2.3:a:apereo:central_authentication_service:6.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.5.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.0:rc2:*:*:*:*:*:*
@@ -276,7 +296,23 @@ cpes:
   - cpe:2.3:a:apereo:central_authentication_service:6.6.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.14:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:central_authentication_service:6.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:6.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:central_authentication_service:7.0.0:rc7:*:*:*:*:*:*

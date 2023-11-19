@@ -20,3 +20,8 @@ cpes:
   - cpe:2.3:a:securepoint:openvpn-client:2.0.32:*:*:*:*:windows:*:*
   - cpe:2.3:a:securepoint:openvpn-client:2.0.33:*:*:*:*:windows:*:*
   - cpe:2.3:a:securepoint:openvpn-client:2.0.34:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.35:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.36:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.37:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.38:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.39:*:*:*:*:windows:*:*

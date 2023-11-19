@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:nirmata:kyverno:1.0.0:rc1:*:*:*:go:*:*
   - cpe:2.3:a:nirmata:kyverno:1.1.0:*:*:*:*:go:*:*
   - cpe:2.3:a:nirmata:kyverno:1.1.10:*:*:*:*:go:*:*
+  - cpe:2.3:a:nirmata:kyverno:1.11.0:-:*:*:*:go:*:*
   - cpe:2.3:a:nirmata:kyverno:1.1.11:*:*:*:*:go:*:*
   - cpe:2.3:a:nirmata:kyverno:1.1.12:*:*:*:*:go:*:*
   - cpe:2.3:a:nirmata:kyverno:1.1.1:*:*:*:*:go:*:*
