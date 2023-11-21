@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:publiccms:publiccms:4.0.202107.f:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.202204.a:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.202204.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:4.0.202302.e:*:*:*:*:*:*:*
