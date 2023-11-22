@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:mina:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:0.8.2:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:blubrry:powerpress:*:*:*:*:*:*:*:*
   - cpe:2.3:a:blubrry:powerpress:0.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blubrry:powerpress:0.3.0:*:*:*:*:wordpress:*:*

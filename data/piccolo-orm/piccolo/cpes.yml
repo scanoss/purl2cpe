@@ -237,3 +237,4 @@ cpes:
   - cpe:2.3:a:piccolo-orm:piccolo:0.97.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piccolo-orm:piccolo:0.98.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piccolo-orm:piccolo:0.99.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:piccolo-orm:piccolo:1.1.0:*:*:*:*:*:*:*
