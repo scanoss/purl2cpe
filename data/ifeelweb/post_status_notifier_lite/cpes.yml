@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:ifeelweb:post_status_notifier_lite:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ifeelweb:post_status_notifier_lite:-:*:*:*:*:wordpress:*:*
