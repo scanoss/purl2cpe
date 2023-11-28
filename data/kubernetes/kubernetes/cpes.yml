@@ -706,6 +706,9 @@ cpes:
   - cpe:2.3:a:kubernetes:kubernetes:1.25.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.25.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.25.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.25.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.25.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.25.16:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.25.4:-:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.25.4:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.25.5:-:*:*:*:*:*:*
@@ -729,6 +732,8 @@ cpes:
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.11:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.2:-:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.2:rc0:*:*:*:*:*:*
@@ -736,6 +741,7 @@ cpes:
   - cpe:2.3:a:kubernetes:kubernetes:1.26.3:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.9:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.6:beta0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.7:-:*:*:*:*:*:*
@@ -749,7 +755,13 @@ cpes:
   - cpe:2.3:a:kubernetes:kubernetes:1.27.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.27.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.27.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.27.8:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.7:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.28.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.8:beta0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.3.0:-:*:*:*:*:*:*

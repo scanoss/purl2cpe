@@ -119,6 +119,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:117.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:117.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:118.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:119.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:beta6:*:*:*:*:*:*

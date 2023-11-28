@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:harbor:1.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:1.10.17:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.2:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.2:rc1:*:*:*:*:*:*

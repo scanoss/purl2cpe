@@ -43,6 +43,7 @@ cpes:
   - cpe:2.3:a:redhat:wildfly_core:1.0.0:cr7:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:wildfly_core:15.0.30:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:2.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:2.0.0:alpha10:*:*:*:*:*:*
