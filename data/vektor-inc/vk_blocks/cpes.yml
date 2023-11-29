@@ -644,6 +644,17 @@ cpes:
   - cpe:2.3:a:vektor-inc:vk_blocks:1.57.0.4:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.57.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.57.0.5:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.57.1.0:pre:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.57.1.0:-:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.57.1.1:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.57.1.2:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.58.0.0:pre:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.58.0.0:-:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.58.0.1:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.58.1.0:pre:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.59.0.0:pre:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.59.0.0:-:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.59.0.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.6.0:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.6.0:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.7.0:*:*:*:pro:wordpress:*:*

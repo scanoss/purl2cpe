@@ -385,6 +385,19 @@ cpes:
   - cpe:2.3:a:ethyca:fides:2.23.2:-:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.23.2:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.23.2:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ethyca:fides:2.23.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ethyca:fides:2.4.0:*:*:*:*:*:*:*

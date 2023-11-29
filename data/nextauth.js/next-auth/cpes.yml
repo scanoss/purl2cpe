@@ -345,6 +345,7 @@ cpes:
   - cpe:2.3:a:nextauth.js:next-auth:4.19.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.20.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nextauth.js:next-auth:4.21.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.3.1:*:*:*:*:node.js:*:*
@@ -358,4 +359,5 @@ cpes:
   - cpe:2.3:a:nextauth.js:next-auth:4.7.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:4.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nextauth.js:next-auth:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:-:*:*:*:*:node.js:*:*

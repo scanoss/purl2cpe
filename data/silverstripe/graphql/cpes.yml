@@ -63,6 +63,7 @@ cpes:
   - cpe:2.3:a:silverstripe:graphql:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:4.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:4.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.0:beta1:*:*:*:*:*:*

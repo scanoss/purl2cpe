@@ -317,6 +317,50 @@ cpes:
   - cpe:2.3:a:pagerduty:rundeck:4.1.0:rc2:*:*:enterprise:*:*:*
   - cpe:2.3:a:pagerduty:rundeck:4.1.0:rc3:*:*:community:*:*:*
   - cpe:2.3:a:pagerduty:rundeck:4.1.0:rc3:*:*:enterprise:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.0:rc4:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.1:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.12.1:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:rc4:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.13.0:rc5:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.1:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.1:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.1:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.2:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.2:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.14.2:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.15.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.15.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.15.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.15.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.16.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.16.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.16.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.16.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.16.0:rc4:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.0:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.0:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.0:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.0:rc4:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.1:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.1:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.1:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.2:-:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.2:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.2:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:pagerduty:rundeck:4.17.2:rc4:*:*:community:*:*:*
   - cpe:2.3:a:pagerduty:rundeck:4.2.0:-:*:*:community:*:*:*
   - cpe:2.3:a:pagerduty:rundeck:4.2.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:pagerduty:rundeck:4.2.0:rc1:*:*:community:*:*:*

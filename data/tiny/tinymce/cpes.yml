@@ -225,6 +225,7 @@ cpes:
   - cpe:2.3:a:tiny:tinymce:5.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:5.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:5.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiny:tinymce:5.10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:5.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:5.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:5.1.3:*:*:*:*:*:*:*
@@ -273,3 +274,5 @@ cpes:
   - cpe:2.3:a:tiny:tinymce:6.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:6.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiny:tinymce:6.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiny:tinymce:6.7.2:*:*:*:*:*:*:*
