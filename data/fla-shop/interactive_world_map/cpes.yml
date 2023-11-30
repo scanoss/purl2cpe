@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:fla-shop:interactive_world_map:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fla-shop:interactive_world_map:*:*:*:*:*:wordpress:*:*

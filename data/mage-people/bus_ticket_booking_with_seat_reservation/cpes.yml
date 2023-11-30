@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:mage-people:bus_ticket_booking_with_seat_reservation:3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mage-people:bus_ticket_booking_with_seat_reservation:3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mage-people:bus_ticket_booking_with_seat_reservation:5.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mage-people:bus_ticket_booking_with_seat_reservation:5.2.4:*:*:*:*:wordpress:*:*
