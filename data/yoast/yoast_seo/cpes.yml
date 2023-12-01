@@ -156,6 +156,7 @@ cpes:
   - cpe:2.3:a:yoast:yoast_seo:17.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:17.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:17.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:17.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:17.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:17.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:17.7.1:*:*:*:*:wordpress:*:*
@@ -177,6 +178,12 @@ cpes:
   - cpe:2.3:a:yoast:yoast_seo:18.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:1.8:beta:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:19.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.3:*:*:*:*:wordpress:*:*
@@ -190,8 +197,24 @@ cpes:
   - cpe:2.3:a:yoast:yoast_seo:19.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:19.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:20.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yoast:yoast_seo:21.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:2.2.1:*:*:*:*:wordpress:*:*

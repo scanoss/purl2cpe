@@ -21,3 +21,4 @@ cpes:
   - cpe:2.3:a:clastix:capsule-proxy:0.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:clastix:capsule-proxy:0.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:clastix:capsule-proxy:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:clastix:capsule-proxy:0.4.5:*:*:*:*:*:*:*

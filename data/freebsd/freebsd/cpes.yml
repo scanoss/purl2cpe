@@ -320,6 +320,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:13.2:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.2:p4:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.2:p5:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:14.0:-:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:1.5:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0.1:*:*:*:*:*:*:*

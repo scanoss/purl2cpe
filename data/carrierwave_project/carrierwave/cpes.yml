@@ -61,3 +61,4 @@ cpes:
   - cpe:2.3:a:carrierwave_project:carrierwave:2.0.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:carrierwave_project:carrierwave:2.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:carrierwave_project:carrierwave:2.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:carrierwave_project:carrierwave:*:*:*:*:*:ruby:*:*

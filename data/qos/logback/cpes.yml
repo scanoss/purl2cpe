@@ -88,4 +88,5 @@ cpes:
   - cpe:2.3:a:qos:logback:1.3.0:alpha7:*:*:*:*:*:*
   - cpe:2.3:a:qos:logback:1.3.0:alpha8:*:*:*:*:*:*
   - cpe:2.3:a:qos:logback:1.3.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:qos:logback:1.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:qos:logback:1.8.0:alpha1:*:*:*:*:*:*

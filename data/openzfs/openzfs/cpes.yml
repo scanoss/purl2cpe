@@ -87,3 +87,5 @@ cpes:
   - cpe:2.3:a:openzfs:openzfs:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openzfs:openzfs:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openzfs:openzfs:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openzfs:openzfs:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openzfs:openzfs:2.2.0:-:*:*:*:*:*:*

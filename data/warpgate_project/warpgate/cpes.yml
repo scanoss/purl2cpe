@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:warpgate_project:warpgate:0.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:warpgate_project:warpgate:0.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:warpgate_project:warpgate:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:warpgate_project:warpgate:0.8.1:*:*:*:*:*:*:*
