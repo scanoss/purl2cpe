@@ -523,6 +523,7 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:4.4.49:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:4.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:4.4.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:4.4.51:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:4.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:4.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:4.4.8:*:*:*:*:*:*:*

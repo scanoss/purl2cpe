@@ -229,3 +229,4 @@ cpes:
   - cpe:2.3:a:elastic:logstash:7.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:logstash:7.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:logstash:7.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:logstash:8.10.0:*:*:*:*:*:*:*

@@ -666,6 +666,7 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.55.0:pre2:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.55.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.55.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.55.3:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.56.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.56.0:-:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.56.0:dev:*:*:*:go:*:*
@@ -676,8 +677,11 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.56.1:-:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.56.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.56.1:pre1:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.56.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.56.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.57.0:-:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.57.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.57.0:pre1:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.58.0:dev:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.58.0:-:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.58.1:*:*:*:*:go:*:*

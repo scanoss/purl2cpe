@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:archivebox:archivebox:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:-:*:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.0.3:*:*:*:*:*:*:*

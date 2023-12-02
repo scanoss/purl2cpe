@@ -114,6 +114,7 @@ cpes:
   - cpe:2.3:a:pressified:sendpress:1.22.2.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.22.3.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.22.3.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pressified:sendpress:1.23.11.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.27:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pressified:sendpress:1.2.7.29:*:*:*:*:wordpress:*:*
