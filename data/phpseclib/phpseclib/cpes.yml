@@ -80,7 +80,12 @@ cpes:
   - cpe:2.3:a:phpseclib:phpseclib:3.0.18:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.19:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.23:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.33:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.6:*:*:*:*:*:*:*
