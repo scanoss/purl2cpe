@@ -34,6 +34,8 @@ cpes:
   - cpe:2.3:a:mycred:mycred:2.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:2.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:-:*:*:*:*:wordpress:*:*

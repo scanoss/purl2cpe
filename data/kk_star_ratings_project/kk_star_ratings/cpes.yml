@@ -54,3 +54,4 @@ cpes:
   - cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:5.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:5.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:5.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:*:*:*:*:*:wordpress:*:*

@@ -231,3 +231,4 @@ cpes:
   - cpe:2.3:a:apache:superset:2.1.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:2.1.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:superset:2.1.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:superset:3.0.0:-:*:*:*:*:*:*

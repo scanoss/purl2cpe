@@ -200,3 +200,4 @@ cpes:
   - cpe:2.3:a:fit2cloud:jumpserver:3.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:jumpserver:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:jumpserver:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:jumpserver:3.8.0:*:*:*:*:*:*:*

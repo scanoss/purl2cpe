@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:oroinc:oroplatform:*:*:*:*:*:*:*:*
   - cpe:2.3:a:oroinc:oroplatform:-:*:*:*:*:*:*:*
   - cpe:2.3:a:oroinc:oroplatform:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:oroinc:oroplatform:1.0.0:alpha2:*:*:*:*:*:*

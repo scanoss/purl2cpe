@@ -50,6 +50,7 @@ cpes:
   - cpe:2.3:a:ewww:image_optimizer:5.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:5.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:5.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:5.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:6.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:6.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:6.0.2:*:*:*:*:wordpress:*:*
@@ -65,5 +66,28 @@ cpes:
   - cpe:2.3:a:ewww:image_optimizer:6.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:6.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:6.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:6.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:7.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:7.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ewww:image_optimizer:7.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ewww:image_optimizer:-:*:*:*:*:wordpress:*:*

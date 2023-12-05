@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:go:*:*
