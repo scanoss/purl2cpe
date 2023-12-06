@@ -831,7 +831,19 @@ cpes:
   - cpe:2.3:a:electronjs:electron:22.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.23:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.4:*:*:*:*:node.js:*:*
@@ -839,6 +851,7 @@ cpes:
   - cpe:2.3:a:electronjs:electron:22.3.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:22.3.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:22.3.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.0.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.0.0:alpha2:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.0.0:alpha3:*:*:*:node.js:*:*
@@ -865,6 +878,7 @@ cpes:
   - cpe:2.3:a:electronjs:electron:23.3.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.3.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.3.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:23.3.13:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:23.3.3:*:*:*:*:node.js:*:*
@@ -907,6 +921,10 @@ cpes:
   - cpe:2.3:a:electronjs:electron:24.6.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:24.6.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:24.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:24.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:24.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:24.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:24.8.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:25.0.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:25.0.0:alpha2:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:25.0.0:alpha3:*:*:*:node.js:*:*
@@ -931,6 +949,10 @@ cpes:
   - cpe:2.3:a:electronjs:electron:25.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:25.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:25.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:25.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:25.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:25.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:25.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:26.0.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:26.0.0:alpha2:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:26.0.0:alpha3:*:*:*:node.js:*:*
@@ -951,6 +973,15 @@ cpes:
   - cpe:2.3:a:electronjs:electron:26.0.0:beta7:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:26.0.0:beta8:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:26.0.0:beta9:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:26.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:26.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:26.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:27.0.0:alpha6:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:electronjs:electron:3.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:electronjs:electron:3.0.0:beta10:*:*:*:*:*:*

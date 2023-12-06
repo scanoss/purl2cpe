@@ -73,3 +73,4 @@ cpes:
   - cpe:2.3:a:htmlunit_project:htmlunit:2.70.0:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlunit_project:htmlunit:2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlunit_project:htmlunit:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlunit_project:htmlunit:3.0.0:*:*:*:*:*:*:*

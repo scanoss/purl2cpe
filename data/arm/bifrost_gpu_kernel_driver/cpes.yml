@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r42p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r43p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r44p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r44p1:*:*:*:*:*:*:*
