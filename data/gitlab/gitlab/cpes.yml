@@ -1426,6 +1426,8 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.5.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.5.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*

@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:keking:kkfileview:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keking:kkfileview:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keking:kkfileview:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keking:kkfileview:4.3.0:*:*:*:*:*:*:*
