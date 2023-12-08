@@ -1299,7 +1299,9 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:15.10.6:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.10.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.1.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:15.10:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:15.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.11.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.11.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:15.11.11:*:*:*:enterprise:*:*:*
@@ -1421,13 +1423,23 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:16.3.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3.5:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.3.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.4.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.4.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.4.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.4.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.4.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.5.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.5.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.5.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.5.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:16.6.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.6.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:16.6.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*
