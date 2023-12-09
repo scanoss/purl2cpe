@@ -688,6 +688,7 @@ cpes:
   - cpe:2.3:a:apache:tomcat:9.0.69:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:9.0.71:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.72:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.73:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:9.0.74:*:*:*:*:*:*:*

@@ -86,6 +86,7 @@ cpes:
   - cpe:2.3:a:gpsd_project:gpsd:3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.25.1:dev:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.5:*:*:*:*:*:*:*

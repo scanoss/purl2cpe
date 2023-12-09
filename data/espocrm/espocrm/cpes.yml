@@ -222,3 +222,29 @@ cpes:
   - cpe:2.3:a:espocrm:espocrm:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:espocrm:espocrm:7.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:espocrm:espocrm:7.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:7.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:8.0.2:*:*:*:*:*:*:*

@@ -19,3 +19,5 @@ cpes:
   - cpe:2.3:a:typecho:typecho:1.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:typecho:typecho:1.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:typecho:typecho:1.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:typecho:typecho:1.2.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:typecho:typecho:1.2.1:rc2:*:*:*:*:*:*
