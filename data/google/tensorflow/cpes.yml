@@ -336,6 +336,7 @@ cpes:
   - cpe:2.3:a:google:tensorflow:2.11.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:google:tensorflow:2.11.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:tensorflow:2.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:tensorflow:2.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:tensorflow:2.1.1:*:*:*:lite:*:*:*
   - cpe:2.3:a:google:tensorflow:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:tensorflow:2.1.2:*:*:*:-:*:*:*

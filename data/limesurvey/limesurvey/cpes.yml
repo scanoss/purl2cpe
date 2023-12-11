@@ -970,3 +970,4 @@ cpes:
   - cpe:2.3:a:limesurvey:limesurvey:5.2.9:220110:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:5.4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.9:*:*:*:*:*:*:*

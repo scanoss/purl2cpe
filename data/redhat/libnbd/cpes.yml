@@ -75,8 +75,11 @@ cpes:
   - cpe:2.3:a:redhat:libnbd:1.15.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libnbd:1.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libnbd:1.17.5:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libnbd:1.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libnbd:1.2.0:*:*:*:*:*:*:*

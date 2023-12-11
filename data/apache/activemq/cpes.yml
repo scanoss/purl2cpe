@@ -66,8 +66,10 @@ cpes:
   - cpe:2.3:a:apache:activemq:5.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq:5.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.16.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq:5.17.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.17.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq:5.18.3:*:*:*:*:*:*:*

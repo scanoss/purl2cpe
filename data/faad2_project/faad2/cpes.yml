@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:a:faad2_project:faad2:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:faad2_project:faad2:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:faad2_project:faad2:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:faad2_project:faad2:2.2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:faad2_project:faad2:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:faad2_project:faad2:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:faad2_project:faad2:2.7.1:*:*:*:*:*:*:*
