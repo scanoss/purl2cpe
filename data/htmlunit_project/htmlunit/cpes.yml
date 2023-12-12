@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:htmlunit_project:htmlunit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlunit_project:htmlunit:-:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlunit_project:htmlunit:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlunit_project:htmlunit:2.1:*:*:*:*:*:*:*

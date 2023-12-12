@@ -14,6 +14,7 @@ cpes:
   - cpe:2.3:a:struktur:libde265:1.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libde265:1.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libde265:1.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:struktur:libde265:1.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libde265:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libde265:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libde265:1.0.4:*:*:*:*:*:*:*

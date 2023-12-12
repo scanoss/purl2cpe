@@ -151,6 +151,13 @@ cpes:
   - cpe:2.3:a:strongswan:strongswan:5.9.0:dr2:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.11:dr1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.11:dr2:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.11:dr3:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.11:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.1:dr1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.2:-:*:*:*:*:*:*
@@ -188,6 +195,8 @@ cpes:
   - cpe:2.3:a:strongswan:strongswan:5.9.8:dr4:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:6.0:dr1:*:*:*:*:*:*

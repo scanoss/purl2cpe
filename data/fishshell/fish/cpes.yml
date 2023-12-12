@@ -52,3 +52,7 @@ cpes:
   - cpe:2.3:a:fishshell:fish:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fishshell:fish:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fishshell:fish:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fishshell:fish:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fishshell:fish:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fishshell:fish:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fishshell:fish:3.6.1:*:*:*:*:*:*:*
