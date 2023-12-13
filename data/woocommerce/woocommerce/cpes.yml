@@ -393,6 +393,29 @@ cpes:
   - cpe:2.3:a:woocommerce:woocommerce:5.5.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.6.0:beta1:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:5.6.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:5.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:6.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*

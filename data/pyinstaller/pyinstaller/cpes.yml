@@ -26,3 +26,34 @@ cpes:
   - cpe:2.3:a:pyinstaller:pyinstaller:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pyinstaller:pyinstaller:3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pyinstaller:pyinstaller:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyinstaller:pyinstaller:5.9.0:*:*:*:*:*:*:*

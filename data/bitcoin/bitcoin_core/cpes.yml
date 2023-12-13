@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bitcoin:bitcoin_core:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.10.0:rc1:*:*:*:*:*:*

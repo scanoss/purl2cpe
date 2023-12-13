@@ -58,4 +58,5 @@ cpes:
   - cpe:2.3:a:oscommerce:oscommerce:3.0a3:*:*:*:*:*:*:*
   - cpe:2.3:a:oscommerce:oscommerce:3.0a5:*:*:*:*:*:*:*
   - cpe:2.3:a:oscommerce:oscommerce:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oscommerce:oscommerce:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oscommerce:oscommerce:4.12.56860:*:*:*:*:*:*:*

@@ -78,3 +78,4 @@ cpes:
   - cpe:2.3:a:zammad:zammad:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:5.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:6.1.0:*:*:*:*:*:*:*

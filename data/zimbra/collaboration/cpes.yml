@@ -80,6 +80,7 @@ cpes:
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p4:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p40:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p41:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:collaboration:8.8.15:p42:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p5:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p6:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p7:*:*:*:*:*:*
@@ -135,6 +136,7 @@ cpes:
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p3:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p33:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p34:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:collaboration:9.0.0:p35:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:9.0.0:p6:*:*:*:*:*:*
