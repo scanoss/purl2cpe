@@ -103,6 +103,7 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:15:beta1:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:15:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:6.1.1:*:*:*:*:*:*:*
