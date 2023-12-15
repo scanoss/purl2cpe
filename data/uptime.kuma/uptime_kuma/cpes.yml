@@ -85,6 +85,8 @@ cpes:
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.23.5:-:*:*:*:*:*:*
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.23.5:beta0:*:*:*:*:*:*
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.23.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:uptime.kuma:uptime_kuma:1.23.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:uptime.kuma:uptime_kuma:1.23.8:*:*:*:*:*:*:*
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uptime.kuma:uptime_kuma:1.3.2:*:*:*:*:*:*:*
