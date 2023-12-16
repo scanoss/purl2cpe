@@ -206,6 +206,8 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p12:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p13:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p14:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p15:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p16:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p2:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p3:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p4:*:*:*:*:*:*

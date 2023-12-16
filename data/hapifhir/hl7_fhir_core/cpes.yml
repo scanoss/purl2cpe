@@ -182,3 +182,6 @@ cpes:
   - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.90:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:5.6.94:*:*:*:*:*:*:*

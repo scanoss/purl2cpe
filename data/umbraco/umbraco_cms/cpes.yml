@@ -24,6 +24,7 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:10.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.5.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:10.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:rc2:*:*:*:*:*:*
@@ -41,7 +42,18 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:11.3.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.4.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:11.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.1.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:12.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.11.1:*:*:*:*:*:*:*
@@ -130,6 +142,7 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:7.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:7.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:7.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:7.15.11:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:7.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:7.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:7.15.4:*:*:*:*:*:*:*
@@ -289,6 +302,8 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:8.17.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:8.17.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:8.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:8.18.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:8.18.9:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:8.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:8.2.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:8.2.1:*:*:*:*:*:*:*
@@ -339,3 +354,19 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:9.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:9.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:9.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.3.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.4.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:9.5.4:*:*:*:*:*:*:*
