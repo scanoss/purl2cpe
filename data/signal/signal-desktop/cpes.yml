@@ -309,3 +309,4 @@ cpes:
   - cpe:2.3:a:signal:signal-desktop:1.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:signal:signal-desktop:1.9.0:-:*:*:*:*:*:*
   - cpe:2.3:a:signal:signal-desktop:1.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:signal:signal-desktop:6.2.0:*:*:*:*:*:*:*

@@ -114,6 +114,7 @@ cpes:
   - cpe:2.3:a:sysstat_project:sysstat:12.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sysstat_project:sysstat:12.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sysstat_project:sysstat:12.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysstat_project:sysstat:12.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sysstat_project:sysstat:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sysstat_project:sysstat:5.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sysstat_project:sysstat:5.1.1:*:*:*:*:*:*:*

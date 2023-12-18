@@ -657,6 +657,7 @@ cpes:
   - cpe:2.3:a:vektor-inc:vk_blocks:1.59.0.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.6.0:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.6.0:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_blocks:1.63.0.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.7.0:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.7.0:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_blocks:1.7.1:*:*:*:pro:wordpress:*:*

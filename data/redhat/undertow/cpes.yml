@@ -283,6 +283,7 @@ cpes:
   - cpe:2.3:a:redhat:undertow:2.2.19:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:undertow:2.2.19:sp1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:undertow:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:undertow:2.2.24:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:undertow:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:undertow:2.2.3:sp1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:undertow:2.2.4:*:*:*:*:*:*:*

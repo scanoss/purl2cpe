@@ -43,3 +43,4 @@ cpes:
   - cpe:2.3:a:thymeleaf:thymeleaf:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:thymeleaf:thymeleaf:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:thymeleaf:thymeleaf:3.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:thymeleaf:thymeleaf:3.1.1:*:*:*:*:*:*:*

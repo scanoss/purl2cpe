@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:opcfoundation:ua-.netstandard:1.4.357.28:*:*:*:*:*:*:*
   - cpe:2.3:a:opcfoundation:ua-.netstandard:1.4.358.30:*:*:*:*:*:*:*
   - cpe:2.3:a:opcfoundation:ua-.netstandard:1.4.359.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-.netstandard:1.4.371.86:*:*:*:*:*:*:*

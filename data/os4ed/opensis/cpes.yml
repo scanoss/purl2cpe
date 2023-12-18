@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:os4ed:opensis:7.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:-:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:community:*:*:*
   - cpe:2.3:a:os4ed:opensis:7.4:*:*:*:*:*:*:*

@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:nlnetlabs:routinator:0.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:routinator:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:routinator:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nlnetlabs:routinator:0.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:routinator:0.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:routinator:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:routinator:0.2.1:*:*:*:*:*:*:*

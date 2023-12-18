@@ -11,6 +11,7 @@ cpes:
   - cpe:2.3:a:upx_project:upx:1.96:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:2.00:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:upx_project:upx:2022-11-23:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:2.90:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:2.91:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:2.92:*:*:*:*:*:*:*

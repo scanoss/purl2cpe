@@ -165,6 +165,7 @@ cpes:
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.33.1-01:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.34.0-01:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.34.1-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.35.0-02:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.36.0-01:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.37.3:*:*:*:*:*:*:*
