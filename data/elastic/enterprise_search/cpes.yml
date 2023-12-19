@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:elastic:enterprise_search:*:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:enterprise_search:-:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:enterprise_search:7.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:enterprise_search:7.10.1:*:*:*:*:*:*:*
