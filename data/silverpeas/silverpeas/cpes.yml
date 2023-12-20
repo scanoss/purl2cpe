@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:silverpeas:silverpeas:*:*:*:*:*:*:*:*
   - cpe:2.3:a:silverpeas:silverpeas:5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:silverpeas:silverpeas:5.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:silverpeas:silverpeas:5.10.2:*:*:*:*:*:*:*

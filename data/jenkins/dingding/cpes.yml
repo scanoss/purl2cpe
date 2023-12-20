@@ -5,3 +5,4 @@ cpes:
   - cpe:2.3:a:jenkins:dingding:1.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:dingding:1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:dingding:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding:*:*:*:*:*:jenkins:*:*

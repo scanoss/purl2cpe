@@ -108,6 +108,9 @@ cpes:
   - cpe:2.3:a:apache:struts:2.3.32:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:2.3.33:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:2.3.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:struts:2.3.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:struts:2.3.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:struts:2.3.37:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:2.3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:2.3.5:*:*:*:*:*:*:*

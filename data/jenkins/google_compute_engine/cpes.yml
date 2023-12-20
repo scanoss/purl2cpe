@@ -26,6 +26,7 @@ cpes:
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.11:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_compute_engine:4.3.17.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:google_compute_engine:4.3.4:*:*:*:*:jenkins:*:*

@@ -14,4 +14,5 @@ cpes:
   - cpe:2.3:a:jenkins:openid:2.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid:2.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid:2.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid:-:*:*:*:*:jenkins:*:*
