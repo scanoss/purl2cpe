@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:mtrv:teachpress:9.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mtrv:teachpress:*:*:*:*:*:wordpress:*:*

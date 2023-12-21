@@ -510,6 +510,8 @@ cpes:
   - cpe:2.3:a:schedmd:slurm:23.02:rc1:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:schedmd:slurm:23.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:schedmd:slurm:23.11:rc1:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.3:*:*:*:*:*:*:*

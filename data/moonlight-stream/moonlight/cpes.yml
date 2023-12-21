@@ -97,5 +97,6 @@ cpes:
   - cpe:2.3:a:moonlight-stream:moonlight:5.0.1:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:moonlight-stream:moonlight:5.0.1:*:*:*:*:tvos:*:*
   - cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:chrome:*:*
   - cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:tvos:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:unrealircd:unrealircd:*:*:*:*:*:*:*:*
   - cpe:2.3:a:unrealircd:unrealircd:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:unrealircd:unrealircd:3.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:unrealircd:unrealircd:3.2.10.1:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:littlecms:little_cms_color_engine:*:*:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms_color_engine:1.07:*:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms_color_engine:1.08:*:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms_color_engine:1.09:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:x.org:x_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:1.0.2:*:*:*:*:*:*:*

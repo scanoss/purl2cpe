@@ -41,6 +41,8 @@ cpes:
   - cpe:2.3:a:apache:mina:2.0.21:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.0.25:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.0.5:*:*:*:*:*:*:*
@@ -55,5 +57,11 @@ cpes:
   - cpe:2.3:a:apache:mina:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina:2.8.0:*:*:*:*:*:*:*
