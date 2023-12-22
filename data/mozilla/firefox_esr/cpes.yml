@@ -38,6 +38,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_esr:115.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:115.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:115.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_esr:115.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_esr:17.0.10:*:*:*:*:*:*:*

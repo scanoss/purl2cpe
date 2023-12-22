@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:eyoucms:eyoucms:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eyoucms:eyoucms:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eyoucms:eyoucms:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eyoucms:eyoucms:1.6.5-utf8-sp1:*:*:*:*:*:*:*

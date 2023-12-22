@@ -494,3 +494,4 @@ cpes:
   - cpe:2.3:a:home-assistant:home-assistant:2023.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:2023.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:2023.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:home-assistant:home-assistant:2023.9.0:*:*:*:*:*:*:*
