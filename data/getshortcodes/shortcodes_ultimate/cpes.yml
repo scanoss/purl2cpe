@@ -95,3 +95,4 @@ cpes:
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.0:*:*:*:*:wordpress:*:*

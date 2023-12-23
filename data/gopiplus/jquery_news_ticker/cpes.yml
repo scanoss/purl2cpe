@@ -20,4 +20,5 @@ cpes:
   - cpe:2.3:a:gopiplus:jquery_news_ticker:2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gopiplus:jquery_news_ticker:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gopiplus:jquery_news_ticker:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gopiplus:jquery_news_ticker:*:*:*:*:*:wordpress:*:*
