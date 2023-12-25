@@ -31,3 +31,4 @@ cpes:
   - cpe:2.3:a:loofah_project:loofah:2.2.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:loofah_project:loofah:2.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:loofah_project:loofah:2.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:loofah_project:loofah:*:*:*:*:*:ruby:*:*
