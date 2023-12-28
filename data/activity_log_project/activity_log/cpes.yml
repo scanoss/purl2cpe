@@ -58,4 +58,5 @@ cpes:
   - cpe:2.3:a:activity_log_project:activity_log:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:activity_log_project:activity_log:2.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:activity_log_project:activity_log:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:activity_log_project:activity_log:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:activity_log_project:activity_log:-:*:*:*:*:wordpress:*:*

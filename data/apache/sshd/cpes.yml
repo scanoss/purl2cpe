@@ -25,6 +25,8 @@ cpes:
   - cpe:2.3:a:apache:sshd:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sshd:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sshd:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.4.0:*:*:*:*:*:*:*
@@ -36,3 +38,4 @@ cpes:
   - cpe:2.3:a:apache:sshd:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:sshd:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sshd:2.9.3:*:*:*:*:*:*:*
