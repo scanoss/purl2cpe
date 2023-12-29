@@ -39,4 +39,5 @@ cpes:
   - cpe:2.3:a:themeist:i_recommend_this:3.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeist:i_recommend_this:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeist:i_recommend_this:3.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeist:i_recommend_this:3.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeist:i_recommend_this:-:*:*:*:*:wordpress:*:*

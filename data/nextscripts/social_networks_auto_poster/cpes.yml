@@ -255,7 +255,12 @@ cpes:
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.30:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.5:*:*:*:*:wordpress:*:*
@@ -263,3 +268,5 @@ cpes:
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.2:*:*:*:*:wordpress:*:*

@@ -690,3 +690,5 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:9.2.1:*:*:*:*:*:*:*

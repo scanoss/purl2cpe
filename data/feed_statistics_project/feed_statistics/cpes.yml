@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:feed_statistics_project:feed_statistics:3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feed_statistics_project:feed_statistics:4.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feed_statistics_project:feed_statistics:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feed_statistics_project:feed_statistics:4.1:*:*:*:*:wordpress:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:gillesdumas:which_template_file:4.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gillesdumas:which_template_file:*:*:*:*:*:wordpress:*:*

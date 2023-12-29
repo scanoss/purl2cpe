@@ -17,5 +17,6 @@ cpes:
   - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wassup_real_time_analytics_project:wassup_real_time_analytics:1.9:*:*:*:*:wordpress:*:*

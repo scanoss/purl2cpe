@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sir:gnuboard:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sir:gnuboard:3.30:*:*:*:*:*:*:*
   - cpe:2.3:a:sir:gnuboard:3.31:*:*:*:*:*:*:*
   - cpe:2.3:a:sir:gnuboard:3.32:*:*:*:*:*:*:*

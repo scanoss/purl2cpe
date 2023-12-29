@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:o:oracle:opensolaris:snv_128:*:*:*:*:*:*:*
   - cpe:2.3:o:oracle:opensolaris:snv_134:*:*:*:*:*:*:*
   - cpe:2.3:o:oracle:opensolaris:snv_98:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:sparc:*

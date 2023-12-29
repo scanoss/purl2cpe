@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:gentoo:portage:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:portage:2.0.50:-:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:portage:2.0.51.22:r3:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:portage:2.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:portage:2.1.1:r2:*:*:*:*:*:*
