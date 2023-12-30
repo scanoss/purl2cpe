@@ -95,3 +95,7 @@ cpes:
   - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spiffyplugins:spiffy_calendar:4.9.5:*:*:*:*:wordpress:*:*

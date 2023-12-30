@@ -45,3 +45,4 @@ cpes:
   - cpe:2.3:a:zoneland:o2oa:6.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneland:o2oa:6.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneland:o2oa:6.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneland:o2oa:8.1.2:*:*:*:*:*:*:*

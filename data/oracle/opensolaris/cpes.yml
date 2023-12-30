@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:*:*
   - cpe:2.3:o:oracle:opensolaris:10:*:*:*:*:*:*:*
   - cpe:2.3:o:oracle:opensolaris:8:*:*:*:*:*:*:*
   - cpe:2.3:o:oracle:opensolaris:9:*:*:*:*:*:*:*

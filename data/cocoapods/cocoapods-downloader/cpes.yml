@@ -37,5 +37,6 @@ cpes:
   - cpe:2.3:a:cocoapods:cocoapods-downloader:1.5.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:cocoapods:cocoapods-downloader:1.6.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:cocoapods:cocoapods-downloader:1.6.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:cocoapods:cocoapods-downloader:1.6.2:*:*:*:*:for_ruby:*:*
   - cpe:2.3:a:cocoapods:cocoapods-downloader:1.6.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:cocoapods:cocoapods-downloader:1.6.3:*:*:*:*:ruby:*:*

@@ -118,6 +118,7 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:4.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.1.2:*:*:*:*:*:*:*

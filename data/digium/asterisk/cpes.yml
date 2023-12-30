@@ -1030,11 +1030,13 @@ cpes:
   - cpe:2.3:a:digium:asterisk:18.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:digium:asterisk:18.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.0:patch:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:digium:asterisk:18.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.1:patch:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:1.8.20.2:-:*:*:*:*:*:*
@@ -1145,6 +1147,8 @@ cpes:
   - cpe:2.3:a:digium:asterisk:19.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:19.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:19.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:digium:asterisk:20.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:digium:asterisk:20.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:21.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:3.6.2:*:*:*:business:*:*:*
   - cpe:2.3:a:digium:asterisk:a:-:business:*:*:*:*:*

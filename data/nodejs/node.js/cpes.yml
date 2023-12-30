@@ -936,6 +936,7 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:18.12.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:18.12.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:18.14.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:nodejs:node.js:18.16.1:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:18.17.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:18.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:1.8.2:*:*:*:*:*:*:*

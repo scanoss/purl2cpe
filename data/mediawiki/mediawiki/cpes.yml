@@ -335,6 +335,7 @@ cpes:
   - cpe:2.3:a:mediawiki:mediawiki:1.39.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.40.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.40.0:rc0:*:*:*:*:*:*
