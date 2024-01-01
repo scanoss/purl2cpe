@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mp3gain_project:mp3gain:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mp3gain_project:mp3gain:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mp3gain_project:mp3gain:1.2.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:mp3gain_project:mp3gain:1.2.2:beta:*:*:*:*:*:*

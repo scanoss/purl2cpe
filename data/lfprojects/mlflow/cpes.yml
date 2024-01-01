@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:-:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:0.2.1:*:*:*:*:*:*:*

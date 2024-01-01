@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:jboss-ejb-client:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss-ejb-client:-:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss-ejb-client:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss-ejb-client:1.0.0:beta1:*:*:*:*:*:*
