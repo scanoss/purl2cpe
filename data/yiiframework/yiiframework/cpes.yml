@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:yiiframework:yiiframework:*:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yiiframework:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yiiframework:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yiiframework:yiiframework:1.1.10:*:*:*:*:*:*:*

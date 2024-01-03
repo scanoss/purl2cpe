@@ -187,6 +187,10 @@ cpes:
   - cpe:2.3:a:ayecode:geodirectory:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.2.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.2.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.2.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.2.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.4:*:*:*:*:wordpress:*:*
@@ -196,4 +200,31 @@ cpes:
   - cpe:2.3:a:ayecode:geodirectory:2.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ayecode:geodirectory:2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ayecode:geodirectory:-:*:*:*:*:wordpress:*:*

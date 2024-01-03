@@ -27,5 +27,6 @@ cpes:
   - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:*:*:*:*:wordpress:*:*:*
