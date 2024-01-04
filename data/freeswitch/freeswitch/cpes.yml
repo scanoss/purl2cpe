@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:freeswitch:freeswitch:1.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freeswitch:freeswitch:1.10.10:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.10.4:*:*:*:*:*:*:*

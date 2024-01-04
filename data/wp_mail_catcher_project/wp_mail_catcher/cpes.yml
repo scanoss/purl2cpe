@@ -33,4 +33,5 @@ cpes:
   - cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:-:*:*:*:*:wordpress:*:*

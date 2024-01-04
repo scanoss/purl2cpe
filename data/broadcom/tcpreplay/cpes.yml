@@ -112,3 +112,4 @@ cpes:
   - cpe:2.3:a:broadcom:tcpreplay:4.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:broadcom:tcpreplay:4.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:broadcom:tcpreplay:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:broadcom:tcpreplay:4.4.4:*:*:*:*:*:*:*
