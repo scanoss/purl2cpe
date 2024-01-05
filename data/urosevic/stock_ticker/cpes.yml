@@ -18,5 +18,6 @@ cpes:
   - cpe:2.3:a:urosevic:stock_ticker:3.23.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:urosevic:stock_ticker:3.23.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:urosevic:stock_ticker:3.23.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:stock_ticker:3.23.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:urosevic:stock_ticker:-:*:*:*:*:wordpress:*:*

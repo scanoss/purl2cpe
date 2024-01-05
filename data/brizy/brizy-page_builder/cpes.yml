@@ -210,6 +210,31 @@ cpes:
   - cpe:2.3:a:brizy:brizy-page_builder:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:2.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:*:*:*:*:wordpress:*:*:*

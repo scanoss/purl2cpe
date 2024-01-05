@@ -6,6 +6,7 @@ cpes:
   - cpe:2.3:a:wpvibes:wp_mail_log:1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpvibes:wp_mail_log:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpvibes:wp_mail_log:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpvibes:wp_mail_log:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpvibes:wp_mail_log:1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpvibes:wp_mail_log:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpvibes:wp_mail_log:-:*:*:*:*:wordpress:*:*
