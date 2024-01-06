@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:freeswitch:freeswitch:*:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:freeswitch:freeswitch:1.0.0:beta1:*:*:*:*:*:*

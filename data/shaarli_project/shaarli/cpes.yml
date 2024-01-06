@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:shaarli_project:shaarli:*:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:-:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.0.40:beta:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.0.41:beta:*:*:*:*:*:*
