@@ -90,3 +90,5 @@ cpes:
   - cpe:2.3:a:nextcloud:calendar:4.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:4.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:4.5.0:*:*:*:*:*:*:*

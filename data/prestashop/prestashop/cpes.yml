@@ -210,3 +210,4 @@ cpes:
   - cpe:2.3:a:prestashop:prestashop:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:8.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.1.2:*:*:*:*:*:*:*

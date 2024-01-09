@@ -127,7 +127,16 @@ cpes:
   - cpe:2.3:a:really-simple-plugins:complianz:6.4.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:6.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:6.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:6.4.7:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.4.8:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:really-simple-plugins:complianz:6.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:-:wordpress:*:*

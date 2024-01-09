@@ -103,6 +103,18 @@ cpes:
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.5.4.2:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.5.4.3:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.2:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.5.5.5:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.0.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.1.4:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.2.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.2:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3.1:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3.2:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.6.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.7.0.5:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.7.1.1:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.7.2:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:-:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:*:*:*:*:professional:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:*:*:*:*:*:wordpress:*:*

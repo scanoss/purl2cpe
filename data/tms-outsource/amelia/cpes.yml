@@ -73,6 +73,7 @@ cpes:
   - cpe:2.3:a:tms-outsource:amelia:1.0.75:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tms-outsource:amelia:1.0.76:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tms-outsource:amelia:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tms-outsource:amelia:1.0.85:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tms-outsource:amelia:1.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tms-outsource:amelia:1.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tms-outsource:amelia:1.0:*:*:*:*:wordpress:*:*

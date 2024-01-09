@@ -188,3 +188,4 @@ cpes:
   - cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:6.7.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:6.7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:6.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:*:*:*:*:*:wordpress:*:*
