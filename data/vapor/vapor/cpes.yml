@@ -466,10 +466,77 @@ cpes:
   - cpe:2.3:a:vapor:vapor:4.60.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.61.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.61.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.62.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.65.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.65.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.66.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.67.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.69.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.69.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.69.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.70.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.71.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.71.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.72.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.72.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.73.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.74.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.74.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.74.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.75.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.75.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.75.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.76.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.76.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.76.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.76.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.76.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.77.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.77.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.77.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.78.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.78.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.78.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.79.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.80.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.81.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.83.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.83.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.84.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.84.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.84.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.85.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.86.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.86.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.86.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.87.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.87.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.88.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.89.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.89.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.89.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:vapor:4.89.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vapor:vapor:4.9.0:*:*:*:*:*:*:*

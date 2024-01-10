@@ -263,6 +263,13 @@ cpes:
   - cpe:2.3:a:mappresspro:mappress:2.73.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.12:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.13:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.14:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.15:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.16:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.17:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.18:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.73.19:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.3:*:*:*:free:wordpress:*:*
@@ -273,4 +280,89 @@ cpes:
   - cpe:2.3:a:mappresspro:mappress:2.73.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.73:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.74.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.74.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.74.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.74:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.75:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.76:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.77.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.77.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.77.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.77:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.10:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.11:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80.9:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.80:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.81.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.81:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.82.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.82.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.82.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.82.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.82:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.10:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.11:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.12:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.13:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.14:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.15:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.16:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.17:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.18:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.19:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.20:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.22:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83.9:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.83:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.10:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.11:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.12:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.13:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.14:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.15:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.16:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.17:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.18:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.19:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.20:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.21:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84.9:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.84:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:-:*:*:*:free:wordpress:*:*

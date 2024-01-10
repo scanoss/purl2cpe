@@ -292,3 +292,4 @@ cpes:
   - cpe:2.3:a:cleantalk:anti-spam:6.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:*:*:*:*:*:wordpress:*:*
