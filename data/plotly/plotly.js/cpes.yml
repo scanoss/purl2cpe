@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:plotly:plotly.js:*:*:*:*:*:*:*:*
   - cpe:2.3:a:plotly:plotly.js:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plotly:plotly.js:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plotly:plotly.js:1.10.0:*:*:*:*:*:*:*

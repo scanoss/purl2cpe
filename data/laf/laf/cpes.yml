@@ -126,17 +126,27 @@ cpes:
   - cpe:2.3:a:laf:laf:1.0.0:alpha4:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:alpha5:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_0:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_1:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta10:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta11:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta12:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_2:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_3:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_4:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_5:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_6:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_7:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_8:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:laf:laf:1.0.0:beta_9:*:*:*:*:*:*
   - cpe:2.3:a:laf:laf:1.0.0:beta9:*:*:*:*:*:*
