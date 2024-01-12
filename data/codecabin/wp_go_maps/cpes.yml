@@ -638,6 +638,9 @@ cpes:
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.13:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.14:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.15:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.16:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.17:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.18:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.1:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.1:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.2:*:*:*:basic:wordpress:*:*

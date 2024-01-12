@@ -106,4 +106,5 @@ cpes:
   - cpe:2.3:a:icegram:icegram:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:icegram:icegram:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:icegram:icegram:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:icegram:icegram:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:icegram:icegram:-:*:*:*:*:wordpress:*:*

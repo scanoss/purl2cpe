@@ -155,6 +155,7 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.3:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.12:*:*:*:-:wordpress:*:*

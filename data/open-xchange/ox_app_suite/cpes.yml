@@ -40,3 +40,6 @@ cpes:
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev36:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev37:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev42:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev50:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.17:*:*:*:*:*:*:*

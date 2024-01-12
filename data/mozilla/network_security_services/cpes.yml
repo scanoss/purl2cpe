@@ -175,7 +175,9 @@ cpes:
   - cpe:2.3:a:mozilla:network_security_services:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:network_security_services:3.87:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.9.2:*:*:*:*:*:*:*

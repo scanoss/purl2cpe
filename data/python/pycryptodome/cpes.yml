@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:python:pycryptodome:*:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pycryptodome:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pycryptodome:3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:pycryptodome:3.1:*:*:*:*:*:*:*

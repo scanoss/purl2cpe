@@ -43,3 +43,5 @@ cpes:
   - cpe:2.3:a:flarum:flarum:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:flarum:flarum:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:flarum:flarum:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:flarum:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:flarum:1.8.1:*:*:*:*:*:*:*
