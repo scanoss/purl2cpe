@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tianocore:edk2:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:2017-11-07:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:201808:*:*:*:*:*:*:*

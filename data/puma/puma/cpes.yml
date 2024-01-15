@@ -148,5 +148,7 @@ cpes:
   - cpe:2.3:a:puma:puma:6.2.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:6.2.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:6.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:puma:puma:6.4.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:puma:puma:-:*:*:*:*:ruby:*:*

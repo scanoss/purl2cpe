@@ -294,6 +294,7 @@ cpes:
   - cpe:2.3:a:gnu:libredwg:0.12.4.4658:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.12.4.4660:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.12.5.6384:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.4.361:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.4.377:*:*:*:*:*:*:*

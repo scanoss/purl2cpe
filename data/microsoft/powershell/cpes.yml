@@ -116,3 +116,4 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.3:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:-:*:*:*:*:*:*

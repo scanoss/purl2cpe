@@ -140,7 +140,12 @@ cpes:
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.31:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpaffiliatemanager:affiliates_manager:2.9.5:*:*:*:*:wordpress:*:*
