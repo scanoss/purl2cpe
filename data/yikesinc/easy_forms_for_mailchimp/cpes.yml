@@ -66,4 +66,5 @@ cpes:
   - cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:6.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:easy_forms_for_mailchimp:-:*:*:*:*:wordpress:*:*

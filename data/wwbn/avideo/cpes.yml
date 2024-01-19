@@ -10,11 +10,13 @@ cpes:
   - cpe:2.3:a:wwbn:avideo:11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:15fed957fb:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:3c6bb3ff:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:4.0.2:*:*:*:*:*:*:*
@@ -33,3 +35,5 @@ cpes:
   - cpe:2.3:a:wwbn:avideo:8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:8.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:dev_master_commit_15fed957fb:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:dev_master_commit_3c6bb3ff:*:*:*:*:*:*:*

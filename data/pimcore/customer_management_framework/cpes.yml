@@ -142,5 +142,16 @@ cpes:
   - cpe:2.3:a:pimcore:customer_management_framework:3.3.8:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:customer_management_framework:3.3.9:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:customer_management_framework:3.4.0:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:3.4.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.0:beta1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.0:beta2:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.0:-:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.0:rc1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.0:rc2:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.3:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.4:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:customer_management_framework:4.0.5:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:customer_management_framework:*:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:customer_management_framework:-:*:*:*:*:pimcore:*:*

@@ -30,6 +30,8 @@ cpes:
   - cpe:2.3:a:acme:thttpd:2.21:b:*:*:*:*:*:*
   - cpe:2.3:a:acme:thttpd:2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:acme:thttpd:2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:acme:thttpd:2.23:-:*:*:*:*:*:*
+  - cpe:2.3:a:acme:thttpd:2.23:b1:*:*:*:*:*:*
   - cpe:2.3:a:acme:thttpd:2.24:*:*:*:*:*:*:*
   - cpe:2.3:a:acme:thttpd:2.25:*:*:*:*:*:*:*
   - cpe:2.3:a:acme:thttpd:2.25:b:*:*:*:*:*:*

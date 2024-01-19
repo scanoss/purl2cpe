@@ -50,4 +50,5 @@ cpes:
   - cpe:2.3:a:estatik:estatik:3.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:estatik:estatik:3.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:estatik:estatik:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:estatik:estatik:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:estatik:estatik:-:*:*:*:*:wordpress:*:*

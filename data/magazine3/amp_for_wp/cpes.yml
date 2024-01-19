@@ -380,5 +380,10 @@ cpes:
   - cpe:2.3:a:magazine3:amp_for_wp:1.0.87:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:magazine3:amp_for_wp:1.0.88.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:magazine3:amp_for_wp:1.0.88:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magazine3:amp_for_wp:1.0.89:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:magazine3:amp_for_wp:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magazine3:amp_for_wp:1.0.90:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magazine3:amp_for_wp:1.0.91.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magazine3:amp_for_wp:1.0.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magazine3:amp_for_wp:1.0.92:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:magazine3:amp_for_wp:1.0.9:*:*:*:*:wordpress:*:*

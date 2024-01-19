@@ -167,7 +167,16 @@ cpes:
   - cpe:2.3:a:haxx:libcurl:7.79.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.79.1:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.80.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.83.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.86.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:7.87.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.88.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.88.1:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:7.9:*:*:*:*:*:*:*

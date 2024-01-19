@@ -99,6 +99,7 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.2:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:preview10:*:*:*:*:*:*
@@ -113,6 +114,7 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview3:*:*:*:*:*:*

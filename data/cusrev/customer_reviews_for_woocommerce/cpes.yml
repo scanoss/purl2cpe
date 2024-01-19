@@ -56,6 +56,11 @@ cpes:
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.13.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.14.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.17.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.19.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusrev:customer_reviews_for_woocommerce:5.3.0:*:*:*:*:wordpress:*:*
