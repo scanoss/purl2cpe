@@ -130,6 +130,7 @@ cpes:
   - cpe:2.3:a:easycorp:zentao:4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:4.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:4.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:4.3:beta:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:5.0:-:*:*:*:*:*:*

@@ -196,4 +196,29 @@ cpes:
   - cpe:2.3:a:codection:import_and_export_users_and_customers:1.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codection:import_and_export_users_and_customers:1.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.24.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.24.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.24.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codection:import_and_export_users_and_customers:1.24:*:*:*:*:wordpress:*:*
