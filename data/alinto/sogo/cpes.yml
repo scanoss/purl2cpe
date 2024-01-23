@@ -122,3 +122,4 @@ cpes:
   - cpe:2.3:a:alinto:sogo:5.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alinto:sogo:5.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alinto:sogo:5.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alinto:sogo:5.8.0:*:*:*:*:*:*:*

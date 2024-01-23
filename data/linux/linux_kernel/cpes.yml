@@ -5623,6 +5623,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.7:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.7:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.7:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.7:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.7:rc8:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:arm64:*
   - cpe:2.3:o:linux:linux_kernel:*:git-6:*:*:*:*:*:*

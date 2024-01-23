@@ -119,3 +119,4 @@ cpes:
   - cpe:2.3:a:mongodb:c_driver:1.9.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.9.4:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.9.5:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:mongodb:*:*
