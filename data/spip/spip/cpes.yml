@@ -193,8 +193,11 @@ cpes:
   - cpe:2.3:a:spip:spip:4.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.7:*:*:*:*:*:*:*

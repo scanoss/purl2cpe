@@ -615,6 +615,7 @@ cpes:
   - cpe:2.3:a:drupal:drupal:9.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:9.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:9.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal:9.3.6:-:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:9.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:9.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:9.3.9:*:*:*:*:*:*:*
