@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:xxyopen:novel-plus:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xxyopen:novel-plus:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xxyopen:novel-plus:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xxyopen:novel-plus:4.3.0:rc1:*:*:*:*:*:*

@@ -152,6 +152,10 @@ cpes:
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.2.0:*:*:*:*:wordpress:*:*
@@ -159,5 +163,21 @@ cpes:
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:-:*:*:*:*:wordpress:*:*
