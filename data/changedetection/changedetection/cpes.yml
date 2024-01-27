@@ -63,3 +63,35 @@ cpes:
   - cpe:2.3:a:changedetection:changedetection:0.40.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.40.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.40.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.40.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.40.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.40.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.42.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.42.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.9:*:*:*:*:*:*:*
