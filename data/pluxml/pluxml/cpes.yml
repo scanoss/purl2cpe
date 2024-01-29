@@ -18,3 +18,4 @@ cpes:
   - cpe:2.3:a:pluxml:pluxml:5.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.9:*:*:*:*:*:*:*

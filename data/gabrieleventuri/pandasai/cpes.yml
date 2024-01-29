@@ -53,4 +53,16 @@ cpes:
   - cpe:2.3:a:gabrieleventuri:pandasai:0.8.2:*:*:*:*:python:*:*
   - cpe:2.3:a:gabrieleventuri:pandasai:0.8.3:*:*:*:*:python:*:*
   - cpe:2.3:a:gabrieleventuri:pandasai:0.8.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0:alpha1:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:gabrieleventuri:pandasai:1.0:-:*:*:*:python:*:*
   - cpe:2.3:a:gabrieleventuri:pandasai:*:*:*:*:*:python:*:*
