@@ -78,4 +78,5 @@ cpes:
   - cpe:2.3:a:devscred:exclusive_addons_for_elementor:2.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devscred:exclusive_addons_for_elementor:2.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devscred:exclusive_addons_for_elementor:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:devscred:exclusive_addons_for_elementor:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devscred:exclusive_addons_for_elementor:-:*:*:*:*:wordpress:*:*

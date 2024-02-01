@@ -65,7 +65,18 @@ cpes:
   - cpe:2.3:a:silverstripe:graphql:4.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:4.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:4.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:4.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:graphql:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:graphql:5.1.2:*:*:*:*:*:*:*

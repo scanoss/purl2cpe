@@ -67,6 +67,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:dex:2.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:dex:2.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:dex:2.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:dex:2.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:dex:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:dex:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:dex:2.5.0:*:*:*:*:*:*:*

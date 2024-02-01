@@ -176,6 +176,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.13.8:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.13.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.13.9:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.14.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.14.0:candidate_release1:*:*:*:*:*:*
@@ -270,6 +271,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.2.9:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.3.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.3.3:*:*:*:*:*:*:*

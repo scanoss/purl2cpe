@@ -130,6 +130,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:120.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox:12.0:beta6:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:121.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:122.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:13.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:*:*:*
