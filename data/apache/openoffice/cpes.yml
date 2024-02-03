@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:apache:openoffice:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:openoffice:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:openoffice:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:openoffice:3.4.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:openoffice:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:openoffice:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:openoffice:4.0.1:*:*:*:*:*:*:*

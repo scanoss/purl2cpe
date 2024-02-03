@@ -54,6 +54,7 @@ cpes:
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.1.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.1.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.1.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:5.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:5.1.2:*:*:*:*:wordpress:*:*

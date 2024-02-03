@@ -108,6 +108,7 @@ cpes:
   - cpe:2.3:a:snapcreek:duplicator:1.2.52:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.6:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.8:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:snapcreek:duplicator:1.3.0:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.3.10:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.3.12:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.3.14:*:*:*:lite:wordpress:*:*

@@ -241,6 +241,7 @@ cpes:
   - cpe:2.3:a:squid-cache:squid:3.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:3.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:3.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid-cache:squid:3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:3.5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:3.5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:3.5.0.3:*:*:*:*:*:*:*
@@ -331,6 +332,7 @@ cpes:
   - cpe:2.3:a:squid-cache:squid:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid-cache:squid:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:6.0.3:*:*:*:*:*:*:*
