@@ -145,3 +145,4 @@ cpes:
   - cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.5.8:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.5.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:1.5.9:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:yithemes:yith_woocommerce_product_add-ons:4.3.0:*:*:*:free:wordpress:*:*

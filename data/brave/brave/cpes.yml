@@ -4362,3 +4362,4 @@ cpes:
   - cpe:2.3:a:brave:brave:1.9.80:*:*:*:*:*:*:*
   - cpe:2.3:a:brave:brave:1.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:brave:brave:*:*:*:*:*:linux_kernel:*:*
+  - cpe:2.3:a:brave:brave:*:*:*:*:wordpress:*:*:*

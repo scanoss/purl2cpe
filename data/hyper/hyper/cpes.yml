@@ -271,5 +271,7 @@ cpes:
   - cpe:2.3:a:hyper:hyper:0.9.8:*:*:*:*:rust:*:*
   - cpe:2.3:a:hyper:hyper:0.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:hyper:hyper:0.9.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyper:hyper:3.4.1:*:*:*:*:macos:*:*
   - cpe:2.3:a:hyper:hyper:*:*:*:*:*:macos:*:*
+  - cpe:2.3:a:hyper:hyper:-:*:*:*:*:macos:*:*
   - cpe:2.3:a:hyper:hyper:-:*:*:*:*:rust:*:*

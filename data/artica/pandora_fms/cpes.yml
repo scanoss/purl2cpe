@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:6.0:sp4:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:6.0:sp5:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:700:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:7.0_ng:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:740:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:741:*:*:*:*:*:*:*
@@ -49,3 +50,4 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:753:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:754:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:755:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:773:*:*:*:*:*:*:*

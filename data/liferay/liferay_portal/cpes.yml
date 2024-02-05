@@ -180,6 +180,7 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:7.0.6:ga7:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.0:ga3:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.1.0:a1:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.1.0:a2:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.1.0:alpha1:*:*:*:*:*:*
@@ -340,5 +341,7 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.90:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.95:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:*:*:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:*:ga6:*:*:community_edition:*:*:*

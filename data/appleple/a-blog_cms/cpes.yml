@@ -51,6 +51,7 @@ cpes:
   - cpe:2.3:a:appleple:a-blog_cms:2.10.42:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.10.43:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.10.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleple:a-blog_cms:2.10.49:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.10.7:*:*:*:*:*:*:*
@@ -104,6 +105,7 @@ cpes:
   - cpe:2.3:a:appleple:a-blog_cms:2.11.45:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.11.46:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleple:a-blog_cms:2.11.57:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.11.7:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:2.11.8:*:*:*:*:*:*:*
@@ -280,6 +282,7 @@ cpes:
   - cpe:2.3:a:appleple:a-blog_cms:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleple:a-blog_cms:3.0.28:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.5:*:*:*:*:*:*:*
@@ -287,3 +290,5 @@ cpes:
   - cpe:2.3:a:appleple:a-blog_cms:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:appleple:a-blog_cms:3.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleple:a-blog_cms:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleple:a-blog_cms:3.1.6:*:*:*:*:*:*:*

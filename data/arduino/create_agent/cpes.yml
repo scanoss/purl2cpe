@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:arduino:create_agent:1.3.3:rc1:*:*:*:go:*:*
   - cpe:2.3:a:arduino:create_agent:1.3.3:rc2:*:*:*:go:*:*
   - cpe:2.3:a:arduino:create_agent:1.3.3:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:arduino:create_agent:1.3.5:*:*:*:*:go:*:*

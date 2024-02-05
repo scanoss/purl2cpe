@@ -592,10 +592,13 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:10.22.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.22.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.22.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:nodejs:node.js:10.23.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.23.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.23.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.23.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:nodejs:node.js:10.24.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.24.0:*:*:*:lts:*:*:*
+  - cpe:2.3:a:nodejs:node.js:10.24.1:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:1.0.3:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:10.3.0:*:*:*:*:*:*:*

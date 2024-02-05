@@ -130,4 +130,5 @@ cpes:
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3.3:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3.4:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:1.8.3:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:enviragallery:envira_gallery:1.8.7.1:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:enviragallery:envira_gallery:*:*:*:*:*:wordpress:*:*

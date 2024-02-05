@@ -63,3 +63,4 @@ cpes:
   - cpe:2.3:a:jenkins:github_branch_source:2.4.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:2.4.6:beta1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:2.4.6:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:github_branch_source:684.vea_fa_7c1e2fe3:*:*:*:*:jenkins:*:*

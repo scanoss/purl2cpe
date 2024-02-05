@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:gentoo:portage:2.3.83:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:portage:2.3.84:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:portage:2.3.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:portage:3.0.47:*:*:*:*:*:*:*

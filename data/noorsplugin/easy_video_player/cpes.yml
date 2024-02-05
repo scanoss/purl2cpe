@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:noorsplugin:easy_video_player:1.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:noorsplugin:easy_video_player:1.2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:noorsplugin:easy_video_player:1.2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:noorsplugin:easy_video_player:1.2.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:noorsplugin:easy_video_player:1.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:noorsplugin:easy_video_player:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:noorsplugin:easy_video_player:-:*:*:*:*:wordpress:*:*

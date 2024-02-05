@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:edgewall:trac:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:edgewall:trac:-:*:*:*:*:*:*:*
   - cpe:2.3:a:edgewall:trac:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:edgewall:trac:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:edgewall:trac:0.10.2:*:*:*:*:*:*:*

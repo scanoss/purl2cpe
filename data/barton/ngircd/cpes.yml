@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:barton:ngircd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:0.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:barton:ngircd:18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:barton:ngircd:19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:barton:ngircd:19.1:*:*:*:*:*:*:*

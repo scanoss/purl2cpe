@@ -54,5 +54,6 @@ cpes:
   - cpe:2.3:a:openharmony:openharmony:3.2:beta3:*:*:-:*:*:*
   - cpe:2.3:a:openharmony:openharmony:3.2:beta4:*:*:-:*:*:*
   - cpe:2.3:a:openharmony:openharmony:3.2:beta5:*:*:-:*:*:*
+  - cpe:2.3:a:openharmony:openharmony:4.0.0:*:*:*:-:*:*:*
   - cpe:2.3:a:openharmony:openharmony:*:*:*:*:long_term_support:*:*:*
   - cpe:2.3:a:openharmony:openharmony:*:*:*:*:lts:*:*:*

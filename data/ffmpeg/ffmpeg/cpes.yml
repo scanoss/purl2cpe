@@ -423,6 +423,7 @@ cpes:
   - cpe:2.3:a:ffmpeg:ffmpeg:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:6.6:*:*:*:*:*:*:*

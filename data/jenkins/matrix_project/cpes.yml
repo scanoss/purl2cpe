@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:jenkins:matrix_project:1.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:matrix_project:1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:matrix_project:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:matrix_project:822.v01b_8c85d16d2:*:*:*:*:jenkins:*:*

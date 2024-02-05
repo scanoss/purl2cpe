@@ -2,6 +2,9 @@ cpes:
   - cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:-:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:1.3:*:*:*:*:*:*:*
@@ -84,3 +87,5 @@ cpes:
   - cpe:2.3:a:python:pillow:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:9.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:pillow:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pillow:9.5.0:*:*:*:*:*:*:*

@@ -83,6 +83,24 @@ cpes:
   - cpe:2.3:a:owasp:dependency-check:5.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:dependency-check:5.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:dependency-check:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.0:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.0:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.0:*:*:*:*:maven:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.1:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.1:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.1:*:*:*:*:maven:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.2:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.2:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.2:*:*:*:*:maven:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.3:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.3:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.3:*:*:*:*:maven:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:maven:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:ant:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:cli:*:*
+  - cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:maven:*:*
   - cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:ant:*:*
   - cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:cli:*:*
   - cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:maven:*:*

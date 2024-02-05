@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:libtiff:libtiff:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libtiff:libtiff:2023-11-11:*:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:3.4:beta18:*:*:*:*:*:*
   - cpe:2.3:a:libtiff:libtiff:3.4:beta24:*:*:*:*:*:*

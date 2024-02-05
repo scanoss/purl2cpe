@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:kunalnagar:custom_404_pro:3.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kunalnagar:custom_404_pro:3.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kunalnagar:custom_404_pro:3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kunalnagar:custom_404_pro:3.8.2:*:*:*:*:wordpress:*:*

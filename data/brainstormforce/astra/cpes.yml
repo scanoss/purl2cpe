@@ -314,3 +314,4 @@ cpes:
   - cpe:2.3:a:brainstormforce:astra:3.5.6:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brainstormforce:astra:3.5.7:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brainstormforce:astra:3.5.8:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:astra:4.3.1:*:*:*:pro:wordpress:*:*

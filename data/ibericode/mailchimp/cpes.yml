@@ -63,6 +63,7 @@ cpes:
   - cpe:2.3:a:ibericode:mailchimp:4.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp:4.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp:4.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibericode:mailchimp:4.0.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp:4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp:4.1.0:*:*:*:*:wordpress:*:*

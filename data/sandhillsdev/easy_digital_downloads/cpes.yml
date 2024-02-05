@@ -271,5 +271,6 @@ cpes:
   - cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1.1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1.1.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sandhillsdev:easy_digital_downloads:-:*:*:*:*:wordpress:*:*
