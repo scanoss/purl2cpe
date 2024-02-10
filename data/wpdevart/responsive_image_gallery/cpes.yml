@@ -67,3 +67,4 @@ cpes:
   - cpe:2.3:a:wpdevart:responsive_image_gallery:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:responsive_image_gallery:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdevart:responsive_image_gallery:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdevart:responsive_image_gallery:*:*:*:*:*:wordpress:*:*

@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:artifex:mupdf:1.23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.23.6:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.23.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:mupdf:1.23.9:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:-:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:rc1:*:*:*:*:*:*

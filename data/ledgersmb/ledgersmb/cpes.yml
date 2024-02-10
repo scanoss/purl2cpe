@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ledgersmb:ledgersmb:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1.0:*:*:*:*:*:*:*

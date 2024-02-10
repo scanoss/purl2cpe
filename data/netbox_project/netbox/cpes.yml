@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:netbox_project:netbox:*:*:*:*:*:*:*:*
   - cpe:2.3:a:netbox_project:netbox:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:netbox_project:netbox:2.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:netbox_project:netbox:2.0.0:beta2:*:*:*:*:*:*

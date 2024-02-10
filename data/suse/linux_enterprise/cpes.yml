@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:o:suse:linux_enterprise:10.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:10.0:sp2:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise:10.0:sp3:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise:11.0:-:*:*:*:*:*:*
   - cpe:2.3:o:suse:linux_enterprise:11.0:sp1:*:*:*:*:*:*

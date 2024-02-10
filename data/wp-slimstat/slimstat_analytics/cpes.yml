@@ -157,6 +157,8 @@ cpes:
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:4.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:4.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-slimstat:slimstat_analytics:5.0.4:*:*:*:*:wordpress:*:*

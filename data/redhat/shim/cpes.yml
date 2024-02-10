@@ -34,3 +34,6 @@ cpes:
   - cpe:2.3:a:redhat:shim:15.6:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:shim:15.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:shim:15.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:shim:15.8:rc1:*:*:*:*:*:*

@@ -81,5 +81,6 @@ cpes:
   - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:-:*:*:*:*:wordpress:*:*

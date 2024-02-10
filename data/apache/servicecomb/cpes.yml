@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:apache:servicecomb:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:servicecomb:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:servicecomb:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:servicecomb:2.1.0:*:*:*:*:*:*:*

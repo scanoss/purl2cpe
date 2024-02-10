@@ -8,4 +8,6 @@ cpes:
   - cpe:2.3:a:lynx_project:lynx:0.4.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:lynx_project:lynx:1.0.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:lynx_project:lynx:1.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:lynx_project:lynx:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:lynx_project:lynx:2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:lynx_project:lynx:2.8.9:dev15:*:*:*:*:*:*

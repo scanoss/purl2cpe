@@ -321,7 +321,16 @@ cpes:
   - cpe:2.3:a:mobyproject:moby:20.10.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.17:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.19:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:20.10.27:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.5:*:*:*:*:*:*:*
@@ -329,3 +338,42 @@ cpes:
   - cpe:2.3:a:mobyproject:moby:20.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:20.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:22.06.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:23.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:24.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:25.0.1:*:*:*:*:*:*:*

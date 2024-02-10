@@ -286,4 +286,22 @@ cpes:
   - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:3.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podlove:podlove_podcast_publisher:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podlove:podlove_podcast_publisher:-:*:*:*:*:wordpress:*:*

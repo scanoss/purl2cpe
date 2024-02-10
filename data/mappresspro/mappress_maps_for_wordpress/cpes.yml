@@ -153,5 +153,10 @@ cpes:
   - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:*:*:*:*:*:wordpress:*:*
