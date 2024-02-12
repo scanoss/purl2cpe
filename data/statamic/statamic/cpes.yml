@@ -358,6 +358,8 @@ cpes:
   - cpe:2.3:a:statamic:statamic:3.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:3.4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:3.4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:3.4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:3.4.17:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:3.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:3.4.4:*:*:*:*:*:*:*
@@ -416,7 +418,17 @@ cpes:
   - cpe:2.3:a:statamic:statamic:4.34.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.45.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.7.0:*:*:*:*:*:*:*

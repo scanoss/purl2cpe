@@ -3,7 +3,49 @@ cpes:
   - cpe:2.3:a:ledgersmb:ledgersmb:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.10.9:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.2.0:*:*:*:*:*:*:*
@@ -190,6 +232,9 @@ cpes:
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.29:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.6.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.6.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.6.33:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.6.6:*:*:*:*:*:*:*
@@ -221,8 +266,22 @@ cpes:
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.25:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.26:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.29:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.39:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.7.41:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.7.7:*:*:*:*:*:*:*
@@ -244,7 +303,17 @@ cpes:
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.20:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.29:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.8.31:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.6:*:*:*:*:*:*:*
@@ -252,3 +321,33 @@ cpes:
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:ledgersmb:ledgersmb:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ledgersmb:ledgersmb:1.9.9:*:*:*:*:*:*:*

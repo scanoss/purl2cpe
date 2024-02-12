@@ -72,3 +72,39 @@ cpes:
   - cpe:2.3:a:linecorp:central_dogma:0.51.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:central_dogma:0.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linecorp:central_dogma:0.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.52.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.52.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.52.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.52.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.52.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.55.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.55.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.56.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.56.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.57.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.57.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.57.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.60.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.61.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.63.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.63.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.63.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linecorp:central_dogma:0.64.0:*:*:*:*:*:*:*
