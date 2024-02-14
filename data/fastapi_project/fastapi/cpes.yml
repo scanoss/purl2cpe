@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fastapi_project:fastapi:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fastapi_project:fastapi:-:*:*:*:*:*:*:*
   - cpe:2.3:a:fastapi_project:fastapi:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastapi_project:fastapi:0.10.1:*:*:*:*:*:*:*

@@ -60,3 +60,4 @@ cpes:
   - cpe:2.3:a:kitty_project:kitty:0.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kitty_project:kitty:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kitty_project:kitty:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kitty_project:kitty:v0.27.1:*:*:*:*:*:*:*

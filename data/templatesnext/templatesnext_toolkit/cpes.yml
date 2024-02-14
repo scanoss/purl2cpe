@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:templatesnext:templatesnext_toolkit:3.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:templatesnext:templatesnext_toolkit:3.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:templatesnext:templatesnext_toolkit:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:templatesnext:templatesnext_toolkit:-:*:*:*:*:wordpress:*:*

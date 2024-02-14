@@ -33,3 +33,4 @@ cpes:
   - cpe:2.3:a:b3log:symphony:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:symphony:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:symphony:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:symphony:3.6.3:*:*:*:*:*:*:*

@@ -181,6 +181,7 @@ cpes:
   - cpe:2.3:a:cozmoslabs:profile_builder:3.10.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:profile_builder:3.10.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:profile_builder:3.10.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cozmoslabs:profile_builder:3.10.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:profile_builder:3.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:profile_builder:3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:profile_builder:3.1.2:*:*:*:*:wordpress:*:*

@@ -148,5 +148,6 @@ cpes:
   - cpe:2.3:a:maxfoundry:maxbuttons:9.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:maxfoundry:maxbuttons:9.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:maxfoundry:maxbuttons:9.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:maxfoundry:maxbuttons:9.7.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:maxfoundry:maxbuttons:9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:maxfoundry:maxbuttons:*:*:*:*:*:wordpress:*:*

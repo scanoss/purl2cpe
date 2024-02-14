@@ -40,3 +40,4 @@ cpes:
   - cpe:2.3:a:yzmcms:yzmcms:6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yzmcms:yzmcms:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:yzmcms:yzmcms:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:yzmcms:yzmcms:7.0:*:*:*:*:*:*:*

@@ -369,3 +369,5 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:3.8:-:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:3.9.1:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:3.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:4.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:-:*:*:*:*:python:*:*

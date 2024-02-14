@@ -23,3 +23,4 @@ cpes:
   - cpe:2.3:a:leanote:desktop:2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:leanote:desktop:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:leanote:desktop:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:leanote:desktop:2.7.0:*:*:*:*:*:*:*

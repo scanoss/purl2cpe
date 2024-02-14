@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:firegiant:wix_toolset:*:*:*:*:*:*:*:*
   - cpe:2.3:a:firegiant:wix_toolset:-:*:*:*:*:*:*:*
   - cpe:2.3:a:firegiant:wix_toolset:3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:firegiant:wix_toolset:3.10.1:*:*:*:*:*:*:*
