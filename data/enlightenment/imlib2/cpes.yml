@@ -27,3 +27,4 @@ cpes:
   - cpe:2.3:a:enlightenment:imlib2:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:enlightenment:imlib2:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:enlightenment:imlib2:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:enlightenment:imlib2:1.9.1:*:*:*:*:*:*:*

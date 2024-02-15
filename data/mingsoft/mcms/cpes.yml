@@ -23,3 +23,4 @@ cpes:
   - cpe:2.3:a:mingsoft:mcms:5.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:5.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mingsoft:mcms:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mingsoft:mcms:5.3.5:*:*:*:*:*:*:*

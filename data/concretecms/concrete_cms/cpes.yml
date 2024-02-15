@@ -85,3 +85,4 @@ cpes:
   - cpe:2.3:a:concretecms:concrete_cms:9.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.2.3:*:*:*:*:*:*:*
