@@ -55,4 +55,5 @@ cpes:
   - cpe:2.3:o:espruino:espruino:2.10.246:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.11:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2.11.251:*:*:*:*:*:*:*
+  - cpe:2.3:o:espruino:espruino:2.20:*:*:*:*:*:*:*
   - cpe:2.3:o:espruino:espruino:2v11:*:*:*:*:*:*:*

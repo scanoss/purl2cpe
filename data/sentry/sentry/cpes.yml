@@ -58,6 +58,8 @@ cpes:
   - cpe:2.3:a:sentry:sentry:23.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:23.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:23.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:23.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:23.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:8.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:8.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:9.0.0:-:*:*:*:*:*:*
