@@ -56,3 +56,4 @@ cpes:
   - cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:glewlwyd_sso_server_project:glewlwyd_sso_server:2.7.6:*:*:*:*:*:*:*

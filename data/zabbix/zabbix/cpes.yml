@@ -684,6 +684,7 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:5.0.20:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.21:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.21:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.22:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.22:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.23:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.23:rc1:*:*:*:*:*:*
@@ -718,9 +719,20 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:5.0.35:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.36:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.36:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.37:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.37:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.38:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.38:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.39:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.39:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.40:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.40:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.41:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.41:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.42:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.5:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.5:rc1:*:*:*:*:*:*
@@ -756,6 +768,8 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:5.2.5:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.2.6:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.2.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.2.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.2.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.0:alpha2:*:*:*:*:*:*
@@ -765,7 +779,13 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:5.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.10:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.11:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.4.12:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.4.2:-:*:*:*:*:*:*
@@ -808,6 +828,7 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.0.11:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.11:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.11:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.12:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.12:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.12:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.13:-:*:*:*:*:*:*
@@ -834,6 +855,12 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.0.2:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.20:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.20:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.21:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.21:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.22:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.22:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.23:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.0.23:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.3:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.0.3:rc1:*:*:*:*:*:*
@@ -860,6 +887,17 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.2.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.2.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.0:alpha1:*:*:*:*:*:*
@@ -885,6 +923,12 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:6.4.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.5:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:6.4.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:6.4.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.0.0:alpha3:*:*:*:*:*:*

@@ -140,3 +140,11 @@ cpes:
   - cpe:2.3:a:updraftplus:all-in-one_security:5.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:all-in-one_security:5.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:all-in-one_security:5.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:5.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:all-in-one_security:-:*:*:*:*:wordpress:*:*

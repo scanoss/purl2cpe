@@ -76,3 +76,4 @@ cpes:
   - cpe:2.3:a:9bis:kitty:0.74.4.8:*:*:*:*:windows:*:*
   - cpe:2.3:a:9bis:kitty:0.74.4.9:*:*:*:*:windows:*:*
   - cpe:2.3:a:9bis:kitty:0.76.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:9bis:kitty:0.76.1.13:*:*:*:*:windows:*:*
