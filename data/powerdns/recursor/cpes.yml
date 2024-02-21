@@ -154,3 +154,4 @@ cpes:
   - cpe:2.3:a:powerdns:recursor:4.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:4.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:recursor:4.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:powerdns:recursor:4.8.4:*:*:*:*:*:*:*
