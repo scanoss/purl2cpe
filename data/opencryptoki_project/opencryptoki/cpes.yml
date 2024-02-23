@@ -29,7 +29,11 @@ cpes:
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencryptoki_project:opencryptoki:3.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencryptoki_project:opencryptoki:3.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencryptoki_project:opencryptoki:3.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencryptoki_project:opencryptoki:3.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opencryptoki_project:opencryptoki:3.4.1:*:*:*:*:*:*:*
