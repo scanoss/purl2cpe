@@ -51,3 +51,4 @@ cpes:
   - cpe:2.3:a:linux-pam:linux-pam:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:1.5.2-6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-pam:linux-pam:1.5.3:*:*:*:*:*:*:*
