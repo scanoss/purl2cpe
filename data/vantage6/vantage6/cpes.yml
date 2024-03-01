@@ -100,3 +100,4 @@ cpes:
   - cpe:2.3:a:vantage6:vantage6:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vantage6:vantage6:4.1.2:-:*:*:*:*:*:*
   - cpe:2.3:a:vantage6:vantage6:4.1.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:vantage6:vantage6:4.1.3:*:*:*:*:*:*:*
