@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:file_project:file:*:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:3.27:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:3.28:*:*:*:*:*:*:*
   - cpe:2.3:a:file_project:file:3.30:*:*:*:*:*:*:*

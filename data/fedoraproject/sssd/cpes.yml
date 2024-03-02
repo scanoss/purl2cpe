@@ -116,3 +116,4 @@ cpes:
   - cpe:2.3:a:fedoraproject:sssd:1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.6.0:*:*:*:*:*:*:*

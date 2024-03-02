@@ -259,6 +259,7 @@ cpes:
   - cpe:2.3:a:artifex:ghostscript:9.51:-:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.51:rc2:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:9.52.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.53.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.53.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:9.53.1:*:*:*:*:*:*:*
