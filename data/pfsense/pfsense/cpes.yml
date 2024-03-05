@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:pfsense:pfsense:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pfsense:pfsense:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pfsense:pfsense:1.0.x:*:*:*:*:*:*:*
   - cpe:2.3:a:pfsense:pfsense:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pfsense:pfsense:1.2.1:*:*:*:*:*:*:*
