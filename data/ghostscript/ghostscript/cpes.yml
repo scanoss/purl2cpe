@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:ghostscript:ghostscript:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ghostscript:ghostscript:0:*:*:*:*:*:*:*
   - cpe:2.3:a:ghostscript:ghostscript:5.50:*:*:*:*:*:*:*
   - cpe:2.3:a:ghostscript:ghostscript:7.05:*:*:*:*:*:*:*
