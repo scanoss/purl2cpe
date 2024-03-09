@@ -39,3 +39,7 @@ cpes:
   - cpe:2.3:a:libarchive:libarchive:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libarchive:libarchive:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libarchive:libarchive:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libarchive:libarchive:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libarchive:libarchive:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libarchive:libarchive:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libarchive:libarchive:3.7.2:*:*:*:*:*:*:*
