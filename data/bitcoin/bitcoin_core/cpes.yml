@@ -139,7 +139,10 @@ cpes:
   - cpe:2.3:a:bitcoin:bitcoin_core:0.20.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.20.1:-:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.20.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:-:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:rc3:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:-:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:rc1:*:*:*:*:*:*
@@ -148,7 +151,12 @@ cpes:
   - cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.21.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.21.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.21.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:0.21.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:0.2.4:*:*:*:*:*:*:*
@@ -342,3 +350,18 @@ cpes:
   - cpe:2.3:a:bitcoin:bitcoin_core:24.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:24.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:24.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:24.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:24.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:25.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:26.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:27.0:rc1:*:*:*:*:*:*
