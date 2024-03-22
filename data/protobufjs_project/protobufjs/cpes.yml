@@ -146,4 +146,5 @@ cpes:
   - cpe:2.3:a:protobufjs_project:protobufjs:6.8.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:protobufjs_project:protobufjs:6.9.0:beta0:*:*:*:node.js:*:*
   - cpe:2.3:a:protobufjs_project:protobufjs:6.9.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:protobufjs_project:protobufjs:7.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:protobufjs_project:protobufjs:-:*:*:*:*:node.js:*:*
