@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:nodejs:node.js:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:-:*:*:*:*:-:*:*
   - cpe:2.3:a:nodejs:node.js:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:0.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:0.0.2:*:*:*:*:*:*:*
