@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/joaquimserafim/json-web-token
+  - pkg:npm/json-web-token

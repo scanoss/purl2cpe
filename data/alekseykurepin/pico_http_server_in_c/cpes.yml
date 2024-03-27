@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:alekseykurepin:pico_http_server_in_c:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:alekseykurepin:pico_http_server_in_c:2021-04-02:*:*:*:*:*:*:*

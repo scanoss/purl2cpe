@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:chaijs:get-func-name:*:*:*:*:*:node.js:*:*

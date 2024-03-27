@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/darrenofficial/dpaste
+  - pkg:github/darrenofficial/dpaste
+  - pkg:pypi/dpaste

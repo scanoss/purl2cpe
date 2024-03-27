@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/allegroai/clearml
+  - pkg:pypi/clearml
+  - pkg:sourceforge/clearml.mirror

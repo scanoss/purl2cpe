@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lobehub/lobe-chat
+  - pkg:npm/@lobehub/chat

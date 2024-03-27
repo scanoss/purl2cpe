@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/linotp/linotp
+  - pkg:pypi/linotp

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gggeek:phpxmlrpc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gggeek:phpxmlrpc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gggeek:phpxmlrpc:1.1.1:*:*:*:*:*:*:*

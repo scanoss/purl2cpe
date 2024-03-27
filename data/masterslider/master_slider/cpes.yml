@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:masterslider:master_slider:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:masterslider:master_slider:-:*:*:*:pro:wordpress:*:*

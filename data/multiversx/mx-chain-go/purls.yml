@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/multiversx/mx-chain-go
   - pkg:golang/github.com/multiversx/mx-chain-go

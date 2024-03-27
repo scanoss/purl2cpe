@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:plone:plone_docker_official_image:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:plone:plone_docker_official_image:5.2.13:*:*:*:*:*:*:*

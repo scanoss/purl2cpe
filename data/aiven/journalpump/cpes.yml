@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:aiven:journalpump:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiven:journalpump:2.4.6:*:*:*:*:*:*:*

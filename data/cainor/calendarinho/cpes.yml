@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cainor:calendarinho:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cainor:calendarinho:-:*:*:*:*:*:*:*

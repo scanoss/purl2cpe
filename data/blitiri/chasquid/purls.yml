@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/albertito/chasquid
+  - pkg:golang/github.com/albertito/chasquid

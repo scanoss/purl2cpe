@@ -1,2 +1,3 @@
 purls:
   - pkg:docker/kbai/bikeshed
+  - pkg:github/speced/bikeshed

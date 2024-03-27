@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:json-path:jayway_jsonpath:2.8.0:*:*:*:*:*:*:*

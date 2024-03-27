@@ -1,2 +1,3 @@
 purls:
   - pkg:github/louislam/uptime-kuma
+  - pkg:npm/uptime-kuma

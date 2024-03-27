@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:linotp:linotp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linotp:linotp:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linotp:linotp:3.2.4:*:*:*:*:*:*:*

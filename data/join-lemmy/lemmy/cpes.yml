@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.3:rc2:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.3:-:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.17.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.18.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:0.19.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:join-lemmy:lemmy:*:*:*:*:*:rust:*:*

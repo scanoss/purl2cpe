@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:unix4lyfe:darkhttpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:unix4lyfe:darkhttpd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:unix4lyfe:darkhttpd:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:unix4lyfe:darkhttpd:1.13-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unix4lyfe:darkhttpd:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:unix4lyfe:darkhttpd:1.15:*:*:*:*:*:*:*

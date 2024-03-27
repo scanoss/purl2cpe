@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:lockss:classic_lockss_daemon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lockss:classic_lockss_daemon:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lockss:classic_lockss_daemon:1.75.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:lockss:classic_lockss_daemon:1.76.5:*:*:*:*:*:*:*

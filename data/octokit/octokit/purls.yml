@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/octokit/octokit.js
+  - pkg:npm/octokit

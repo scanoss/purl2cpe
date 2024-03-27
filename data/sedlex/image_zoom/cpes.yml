@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sedlex:image_zoom:1.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sedlex:image_zoom:*:*:*:*:*:wordpress:*:*

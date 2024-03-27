@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sshtools/maverick-synergy
+  - pkg:maven/com.sshtools/maverick-synergy

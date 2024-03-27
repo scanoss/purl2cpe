@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/apm-agent-dotnet
+  - pkg:nuget/elastic.apm

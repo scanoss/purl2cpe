@@ -1,5 +1,6 @@
 purls:
   - pkg:deb/debian/sylpheed
   - pkg:deb/ubuntu/sylpheed
+  - pkg:github/sylpheed-mail/sylpheed
   - pkg:rpm/fedora/sylpheed
   - pkg:rpm/opensuse/sylpheed

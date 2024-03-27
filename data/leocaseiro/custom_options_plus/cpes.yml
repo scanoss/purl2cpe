@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:leocaseiro:custom_options_plus:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:leocaseiro:custom_options_plus:*:*:*:*:*:wordpress:*:*

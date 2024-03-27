@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:cxong:tinydir:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cxong:tinydir:1.2.5:*:*:*:*:*:*:*

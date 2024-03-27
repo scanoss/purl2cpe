@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/plone
+  - pkg:github/plone/plone.docker
+  - pkg:pypi/plone

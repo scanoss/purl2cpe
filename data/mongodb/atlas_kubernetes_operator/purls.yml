@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mongodb/mongodb-atlas-kubernetes
+  - pkg:golang/github.com/mongodb/mongodb-atlas-kubernetes

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:schroepl:mod_gzip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:1.3.17.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:1.3.17.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:1.3.19.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:1.3.19.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:schroepl:mod_gzip:1.3.26.1a:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/evershopcommerce/evershop
+  - pkg:npm/@evershop/evershop

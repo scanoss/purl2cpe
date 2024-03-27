@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/mock
+  - pkg:github/rpm-software-management/mock
+  - pkg:rpm/opensuse/mock

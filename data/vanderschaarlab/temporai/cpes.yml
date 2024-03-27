@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vanderschaarlab:temporai:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vanderschaarlab:temporai:0.2.9:*:*:*:*:*:*:*

@@ -1,5 +1,6 @@
 purls:
   - pkg:deb/debian/glibc
+  - pkg:github/bminor/glibc
   - pkg:github/lattera/glibc
   - pkg:gnu/glibc
   - pkg:rpm/fedora/glibc

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mythemeshop:wp_shortcode:1.4.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mythemeshop:wp_shortcode:*:*:*:*:*:wordpress:*:*

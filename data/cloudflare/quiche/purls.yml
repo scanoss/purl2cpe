@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/quiche
+  - pkg:github/cloudflare/quiche

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:demon1a:discord-recon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.1:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.2:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.3:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.4:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.5:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.6:*:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.8:beta:*:*:*:discord:*:*
+  - cpe:2.3:a:demon1a:discord-recon:0.0.8:*:*:*:*:discord:*:*

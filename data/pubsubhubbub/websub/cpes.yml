@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:pubsubhubbub:websub:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:3.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pubsubhubbub:websub:-:*:*:*:*:wordpress:*:*

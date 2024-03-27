@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pedroetb/tts-api
+  - pkg:npm/tts-api

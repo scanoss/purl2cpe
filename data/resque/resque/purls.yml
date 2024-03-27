@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/resque/resque
+  - pkg:rpm/fedora/rubygem-resque
+  - pkg:rpm/opensuse/rubygem-resque
+  - pkg:sourceforge/resque.mirror

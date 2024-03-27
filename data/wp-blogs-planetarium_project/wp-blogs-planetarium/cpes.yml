@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wp-blogs-planetarium_project:wp-blogs-planetarium:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-blogs-planetarium_project:wp-blogs-planetarium:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-blogs-planetarium_project:wp-blogs-planetarium:-:*:*:*:*:wordpress:*:*

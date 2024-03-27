@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.0.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.23.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.23.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.23.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:urosevic:my_youtube_channel:3.23.3:*:*:*:*:wordpress:*:*

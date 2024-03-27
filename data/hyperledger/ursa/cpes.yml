@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:hyperledger:ursa:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyperledger:ursa:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyperledger:ursa:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyperledger:ursa:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hyperledger:ursa:-:*:*:*:*:rust:*:*

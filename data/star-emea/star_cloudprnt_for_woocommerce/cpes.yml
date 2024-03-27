@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:star-emea:star_cloudprnt_for_woocommerce:2.0.3:*:*:*:*:wordpress:*:*

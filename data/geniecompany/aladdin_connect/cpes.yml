@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:geniecompany:aladdin_connect:5.65:*:*:*:*:android:*:*
+  - cpe:2.3:a:geniecompany:aladdin_connect:5.65:build_2075:*:*:*:android:*:*
+  - cpe:2.3:a:geniecompany:aladdin_connect:*:*:*:*:*:android:*:*

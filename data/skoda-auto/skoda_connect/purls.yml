@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/skodaconnect/skodaconnect
+  - pkg:pypi/skodaconnect

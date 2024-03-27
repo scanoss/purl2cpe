@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:spreadshop:spreadshop:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spreadshop:spreadshop:*:*:*:*:*:wordpress:*:*

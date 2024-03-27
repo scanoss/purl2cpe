@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/zoujingli/thinkadmin
+  - pkg:gitee/zoujingli/thinkadmin
+  - pkg:github/zoujingli/thinkadmin

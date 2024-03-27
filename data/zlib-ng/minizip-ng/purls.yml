@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/zlib-ng/minizip-ng
+  - pkg:rpm/fedora/minizip-ng
+  - pkg:rpm/opensuse/minizip-ng

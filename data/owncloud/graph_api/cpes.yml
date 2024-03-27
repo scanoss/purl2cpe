@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:owncloud:graph_api:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owncloud:graph_api:0.3.0:*:*:*:*:*:*:*

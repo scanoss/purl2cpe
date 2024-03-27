@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/paddlepaddle/paddle
+  - pkg:gitee/paddlepaddle/paddle
+  - pkg:github/paddlepaddle/paddle
+  - pkg:pypi/paddlepaddle
+  - pkg:sourceforge/paddlepaddle.mirror

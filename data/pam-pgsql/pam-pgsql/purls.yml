@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pam-pgsql
+  - pkg:deb/ubuntu/pam-pgsql
+  - pkg:github/pam-pgsql/pam-pgsql
+  - pkg:rpm/opensuse/pam-pgsql
+  - pkg:sourceforge/pam-pgsql

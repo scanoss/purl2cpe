@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cyber-domain-ontology/cdo-utility-local-uuid
+  - pkg:pypi/cdo-local-uuid

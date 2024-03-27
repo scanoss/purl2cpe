@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vercel/pkg
+  - pkg:maven/org.webjars.npm/pkg
+  - pkg:npm/pkg

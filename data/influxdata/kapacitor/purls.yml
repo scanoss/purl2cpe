@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/influxdata/kapacitor
+  - pkg:golang/github.com/influxdata/kapacitor

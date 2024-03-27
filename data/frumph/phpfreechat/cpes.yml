@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:frumph:phpfreechat:0.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:frumph:phpfreechat:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:frumph:phpfreechat:-:*:*:*:*:wordpress:*:*

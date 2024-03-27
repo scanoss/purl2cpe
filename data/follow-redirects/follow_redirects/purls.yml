@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/follow-redirects/follow-redirects
+  - pkg:npm/follow-redirects

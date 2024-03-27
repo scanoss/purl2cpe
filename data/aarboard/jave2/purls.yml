@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/a-schild/jave2
+  - pkg:maven/ws.schild/jave-native-linux64

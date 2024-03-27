@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:michielvaneerd:private_google_calendars:20231125:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michielvaneerd:private_google_calendars:-:*:*:*:*:wordpress:*:*

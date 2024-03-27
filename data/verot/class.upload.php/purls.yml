@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/verot/class.upload.php
+  - pkg:github/verot/class.upload.php

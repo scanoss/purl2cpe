@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:millionclues:admin_css_mu:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:millionclues:admin_css_mu:*:*:*:*:*:wordpress:*:*

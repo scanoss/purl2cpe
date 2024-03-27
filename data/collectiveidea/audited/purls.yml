@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/audited
+  - pkg:github/collectiveidea/audited
+  - pkg:rpm/opensuse/rubygem-audited

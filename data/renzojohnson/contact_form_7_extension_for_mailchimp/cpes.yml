@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:0.5.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:-:*:*:*:*:wordpress:*:*

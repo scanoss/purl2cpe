@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wuftpd:wu-ftpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wuftpd:wu-ftpd:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wuftpd:wu-ftpd:2.6.2:*:*:*:*:*:*:*

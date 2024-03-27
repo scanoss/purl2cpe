@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cvs
+  - pkg:deb/ubuntu/cvs
+  - pkg:github/distrotech/cvs
+  - pkg:rpm/fedora/cvs
+  - pkg:rpm/opensuse/cvs

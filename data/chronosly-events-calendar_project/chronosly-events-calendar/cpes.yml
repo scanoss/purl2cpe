@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:chronosly-events-calendar_project:chronosly-events-calendar:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chronosly-events-calendar_project:chronosly-events-calendar:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chronosly-events-calendar_project:chronosly-events-calendar:-:*:*:*:*:wordpress:*:*

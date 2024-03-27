@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:gluwa:creditcoin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gluwa:creditcoin:2.3.2:*:*:*:*:*:*:*

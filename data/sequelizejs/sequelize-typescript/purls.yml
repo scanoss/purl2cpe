@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sequelize/sequelize-typescript
+  - pkg:npm/sequelize-typescript

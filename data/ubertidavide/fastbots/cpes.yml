@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ubertidavide:fastbots:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubertidavide:fastbots:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubertidavide:fastbots:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubertidavide:fastbots:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubertidavide:fastbots:0.1.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:stevenhenty:drop_shadow_boxes:1.7.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stevenhenty:drop_shadow_boxes:*:*:*:*:*:wordpress:*:*

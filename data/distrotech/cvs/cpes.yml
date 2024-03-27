@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:distrotech:cvs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:distrotech:cvs:-:*:*:*:*:*:*:*

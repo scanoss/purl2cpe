@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jupyter:dockerspawner:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:dockerspawner:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:dockerspawner:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:dockerspawner:12.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:dockerspawner:12.1.0:*:*:*:*:*:*:*

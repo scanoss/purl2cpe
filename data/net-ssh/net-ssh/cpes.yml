@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:net-ssh:net-ssh:7.2.0:beta1:*:*:*:ruby:*:*
+  - cpe:2.3:a:net-ssh:net-ssh:7.2.0:rc1:*:*:*:ruby:*:*
+  - cpe:2.3:a:net-ssh:net-ssh:7.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:net-ssh:net-ssh:7.2.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:net-ssh:net-ssh:7.2.1:*:*:*:*:*:*:*

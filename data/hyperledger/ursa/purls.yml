@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/ursa
+  - pkg:github/hyperledger-archives/ursa

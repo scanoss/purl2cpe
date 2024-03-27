@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vanderschaarlab/temporai
+  - pkg:pypi/temporai

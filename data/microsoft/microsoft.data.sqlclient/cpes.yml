@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:microsoft:microsoft.data.sqlclient:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:microsoft.data.sqlclient:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:microsoft.data.sqlclient:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:microsoft.data.sqlclient:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:microsoft.data.sqlclient:5.1:*:*:*:*:*:*:*

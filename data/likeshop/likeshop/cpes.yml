@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:likeshop:likeshop:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:likeshop:likeshop:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:likeshop:likeshop:2.5.7.20210311:*:*:*:*:*:*:*
+  - cpe:2.3:a:likeshop:likeshop:2.57.20210311:*:*:*:*:*:*:*

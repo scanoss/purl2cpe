@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:nextcloud:guests:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:guests:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:guests:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:guests:3.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/helgatheviking/simple-user-listing
+  - pkg:github/wp-plugins/simple-user-listing
+  - pkg:github/wpplugins/simple-user-listing

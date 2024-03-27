@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/atril
+  - pkg:deb/ubuntu/atril
+  - pkg:github/mate-desktop/atril
+  - pkg:rpm/fedora/atril
+  - pkg:rpm/opensuse/atril

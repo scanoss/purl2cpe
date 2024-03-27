@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/iodine
+  - pkg:github/boazsegev/iodine
+  - pkg:sourceforge/iodine

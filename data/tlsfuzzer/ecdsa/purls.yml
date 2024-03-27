@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tlsfuzzer/python-ecdsa
+  - pkg:pypi/ecdsa

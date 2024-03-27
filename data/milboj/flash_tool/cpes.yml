@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:milboj:flash_tool:0.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:milboj:flash_tool:0.6.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:milboj:flash_tool:*:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:milboj:flash_tool:-:*:*:*:*:ruby:*:*

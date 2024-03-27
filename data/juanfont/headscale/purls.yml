@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/juanfont/headscale
+  - pkg:golang/github.com/juanfont/headscale

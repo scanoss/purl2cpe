@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.7.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ray-project/ray
+  - pkg:pypi/ray

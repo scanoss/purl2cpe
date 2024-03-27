@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:alexufo:youtube_speedload:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alexufo:youtube_speedload:0.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alexufo:youtube_speedload:*:*:*:*:*:wordpress:*:*

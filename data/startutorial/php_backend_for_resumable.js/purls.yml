@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/dilab/resumable.php
+  - pkg:github/dilab/resumable.php

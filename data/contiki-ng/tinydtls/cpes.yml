@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:contiki-ng:tinydtls:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:contiki-ng:tinydtls:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:contiki-ng:tinydtls:2018-08-30:*:*:*:*:*:*:*

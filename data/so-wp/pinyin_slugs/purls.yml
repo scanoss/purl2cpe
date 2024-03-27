@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/senlin/pinyin-slugs
+  - pkg:github/wp-plugins/so-pinyin-slugs
+  - pkg:github/wpplugins/so-pinyin-slugs

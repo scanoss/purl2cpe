@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:amazon:freertos:*:*:*:*:*:*:*:*
   - cpe:2.3:o:amazon:freertos:*:*:*:*:*:*:*:*
   - cpe:2.3:o:amazon:freertos:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:o:amazon:freertos:1.00:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seancfoley/ipaddress
+  - pkg:maven/com.github.seancfoley/ipaddress

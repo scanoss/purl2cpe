@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/trillium
+  - pkg:github/trillium-rs/trillium

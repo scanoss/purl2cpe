@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:microsoft:azure_ipam:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_ipam:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_ipam:3.0.0:*:*:*:*:*:*:*

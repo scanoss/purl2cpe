@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:petrk94:ownhealthrecord:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:petrk94:ownhealthrecord:0.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:petrk94:ownhealthrecord:0.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:petrk94:ownhealthrecord:0.3.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:petrk94:ownhealthrecord:0.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:petrk94:ownhealthrecord:0.4:alpha:*:*:*:*:*:*

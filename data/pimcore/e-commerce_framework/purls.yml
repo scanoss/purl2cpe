@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/pimcore/ecommerce-framework-bundle
+  - pkg:github/pimcore/ecommerce-framework-bundle

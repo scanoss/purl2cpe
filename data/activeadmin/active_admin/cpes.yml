@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:activeadmin:active_admin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:activeadmin:active_admin:*:*:*:*:*:ruby_on_rails:*:*

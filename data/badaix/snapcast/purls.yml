@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/snapcast
+  - pkg:deb/ubuntu/snapcast
+  - pkg:github/badaix/snapcast
+  - pkg:rpm/opensuse/snapcast
+  - pkg:sourceforge/snapcast.mirror

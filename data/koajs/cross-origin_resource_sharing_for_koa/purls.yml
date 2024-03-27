@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/koajs/cors
+  - pkg:npm/@koa/cors

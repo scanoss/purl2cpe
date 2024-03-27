@@ -1,5 +1,6 @@
 purls:
   - pkg:deb/debian/gpicview
   - pkg:deb/ubuntu/gpicview
+  - pkg:github/lxde/gpicview
   - pkg:rpm/fedora/gpicview
   - pkg:rpm/opensuse/gpicview

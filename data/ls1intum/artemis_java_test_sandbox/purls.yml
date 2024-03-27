@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ls1intum/ares
+  - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox

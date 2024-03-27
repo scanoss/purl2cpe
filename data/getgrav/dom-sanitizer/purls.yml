@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/rhukster/dom-sanitizer
+  - pkg:github/rhukster/dom-sanitizer

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:6tunnel_project:6tunnel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:6tunnel_project:6tunnel:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:6tunnel_project:6tunnel:0.08:*:*:*:*:*:*:*

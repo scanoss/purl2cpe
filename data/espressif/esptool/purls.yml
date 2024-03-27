@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/esptool
+  - pkg:deb/ubuntu/esptool
+  - pkg:gitee/espressif/esptool
+  - pkg:github/espressif/esptool
+  - pkg:rpm/fedora/esptool
+  - pkg:rpm/opensuse/python-esptool

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/json-path/jsonpath
+  - pkg:maven/com.jayway.jsonpath/json-path

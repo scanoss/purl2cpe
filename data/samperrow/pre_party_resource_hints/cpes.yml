@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:samperrow:pre_party_resource_hints:1.8.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:samperrow:pre_party_resource_hints:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:factominer:factoinvestigate:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:factominer:factoinvestigate:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:factominer:factoinvestigate:1.9:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:marcorulicke:coru_lfmember:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marcorulicke:coru_lfmember:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marcorulicke:coru_lfmember:-:*:*:*:*:wordpress:*:*

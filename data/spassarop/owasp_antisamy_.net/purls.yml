@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spassarop/antisamy-dotnet
+  - pkg:nuget/owasp.antisamy

@@ -1,2 +1,3 @@
 purls:
   - pkg:github/wso2/carbon-registry
+  - pkg:maven/org.wso2.carbon.registry/carbon-registry

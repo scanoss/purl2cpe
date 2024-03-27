@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/python-glance-store
+  - pkg:deb/ubuntu/python-glance-store
+  - pkg:github/openstack/glance_store
+  - pkg:pypi/glance-store

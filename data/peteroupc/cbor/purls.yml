@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/peteroupc/cbor
+  - pkg:nuget/petero.cbor

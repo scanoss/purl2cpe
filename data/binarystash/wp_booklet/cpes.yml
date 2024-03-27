@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:binarystash:wp_booklet:2.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:binarystash:wp_booklet:*:*:*:*:*:wordpress:*:*

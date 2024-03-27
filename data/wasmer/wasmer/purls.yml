@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/wasmer
+  - pkg:github/wasmerio/wasmer

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/clickhouse
+  - pkg:deb/ubuntu/clickhouse
+  - pkg:docker/clickhouse/clickhouse
+  - pkg:gitee/clickhouse/clickhouse
+  - pkg:github/clickhouse/clickhouse
+  - pkg:rpm/opensuse/clickhouse
+  - pkg:sourceforge/clickhouse.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/rustdesk/rustdesk
+  - pkg:github/rustdesk/rustdesk

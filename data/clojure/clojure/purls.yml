@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/clojure
+  - pkg:deb/ubuntu/clojure
+  - pkg:github/clojure/clojure
+  - pkg:googlesource/clojure
+  - pkg:maven/org.clojure/clojure
+  - pkg:rpm/fedora/clojure
+  - pkg:rpm/opensuse/clojure
+  - pkg:sourceforge/clojure

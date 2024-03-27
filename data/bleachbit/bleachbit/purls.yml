@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/bleachbit
+  - pkg:deb/ubuntu/bleachbit
+  - pkg:github/bleachbit/bleachbit
+  - pkg:rpm/fedora/bleachbit
+  - pkg:rpm/opensuse/bleachbit
+  - pkg:sourceforge/bleachbit

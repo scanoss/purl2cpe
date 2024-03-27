@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pixee/java-security-toolkit-xstream
+  - pkg:maven/io.github.pixee/java-security-toolkit-xstream

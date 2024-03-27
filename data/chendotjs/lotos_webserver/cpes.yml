@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:chendotjs:lotos_webserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:chendotjs:lotos_webserver:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chendotjs:lotos_webserver:0.1.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/strangerstudios/force-first-last
+  - pkg:github/wp-plugins/force-first-last
+  - pkg:github/wpplugins/force-first-last

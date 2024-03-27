@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:vmware:cloud_director:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:cloud_director:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:cloud_director:10.5:*:*:*:*:*:*:*

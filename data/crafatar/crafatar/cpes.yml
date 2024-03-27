@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:crafatar:crafatar:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:crafatar:crafatar:2.1.4:*:*:*:*:*:*:*

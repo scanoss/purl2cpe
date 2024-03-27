@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/gluwa/creditcoin
+  - pkg:github/gluwa/creditcoin

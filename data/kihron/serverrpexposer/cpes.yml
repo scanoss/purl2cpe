@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kihron:serverrpexposer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kihron:serverrpexposer:1.0.2:*:*:*:*:*:*:*

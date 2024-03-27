@@ -1,2 +1,3 @@
 purls:
   - pkg:github/ni/measurementlink-python
+  - pkg:pypi/ni-measurementlink-generator

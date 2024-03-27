@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:thecrowned:post_pay_counter:2.789:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thecrowned:post_pay_counter:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/louislam/dockge
+  - pkg:github/louislam/dockge

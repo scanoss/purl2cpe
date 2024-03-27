@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tigera:calico_cloud:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigera:calico_cloud:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigera:calico_cloud:17.1.1:*:*:*:*:*:*:*

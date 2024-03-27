@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cjvnjde/google-translate-api-browser
+  - pkg:npm/google-translate-api-browser

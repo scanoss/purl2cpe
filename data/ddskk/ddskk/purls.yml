@@ -1,5 +1,3 @@
 purls:
   - pkg:deb/debian/ddskk
-  - pkg:deb/ubuntu/ddskk
   - pkg:github/skk-dev/ddskk
-  - pkg:rpm/opensuse/ddskk

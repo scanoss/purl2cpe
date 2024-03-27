@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:automattic:woocommerce_stripe:7.6.1:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cxong/tinydir
+  - pkg:rpm/fedora/tinydir

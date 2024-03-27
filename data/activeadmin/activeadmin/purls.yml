@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/activeadmin
+  - pkg:github/activeadmin/activeadmin
+  - pkg:rpm/opensuse/rubygem-activeadmin

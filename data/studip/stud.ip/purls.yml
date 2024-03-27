@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/studip/studip
+  - pkg:gitlab/studip/studip
+  - pkg:sourceforge/studip

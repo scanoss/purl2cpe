@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:thirtybees:bees_blog:1.0.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.0.1:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.0.2:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.0.3:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.0.4:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.1.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.1.1:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.2.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.3.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.4.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.5.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.5.1:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.5.2:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.5.3:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.6.0:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:1.6.1:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:*:*:*:*:*:thirty_bees:*:*
+  - cpe:2.3:a:thirtybees:bees_blog:-:*:*:*:*:thirty_bees:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/michaeluno/responsive-column-widgets
+  - pkg:github/wp-plugins/responsive-column-widgets
+  - pkg:github/wpplugins/responsive-column-widgets

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libuev-dev
+  - pkg:deb/ubuntu/libuev-dev
+  - pkg:github/troglobit/libuev
+  - pkg:rpm/fedora/libuev
+  - pkg:rpm/opensuse/libuev

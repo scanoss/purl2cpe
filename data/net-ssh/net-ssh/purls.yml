@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-net-ssh
+  - pkg:gem/net-ssh
+  - pkg:gem/ubuntu/ruby-net-ssh
+  - pkg:github/net-ssh/net-ssh
+  - pkg:rpm/fedora/rubygem-net-ssh
+  - pkg:rpm/opensuse/rubygem-net-ssh

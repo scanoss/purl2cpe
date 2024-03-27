@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:bencollins:jwt_c_library:1.15.3:*:*:*:*:*:*:*

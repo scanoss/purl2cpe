@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cesiumgs/cesium
+  - pkg:maven/org.webjars.npm/cesium
+  - pkg:npm/cesium

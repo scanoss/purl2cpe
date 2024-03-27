@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/wireplumber
+  - pkg:deb/ubuntu/wireplumber
+  - pkg:github/pipewire/wireplumber
+  - pkg:gitlab/pipeWire/wireplumber
+  - pkg:rpm/fedora/wireplumber
+  - pkg:rpm/opensuse/wireplumber

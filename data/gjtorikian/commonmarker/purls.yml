@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-commonmarker
+  - pkg:deb/ubuntu/ruby-commonmarker
+  - pkg:gem/commonmarker
+  - pkg:github/gjtorikian/commonmarker
+  - pkg:rpm/opensuse/rubygem-commonmarker

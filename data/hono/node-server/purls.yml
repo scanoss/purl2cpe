@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/honojs/node-server
+  - pkg:npm/%40honojs/node-server

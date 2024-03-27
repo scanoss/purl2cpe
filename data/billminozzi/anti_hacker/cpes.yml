@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:billminozzi:anti_hacker:4.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:billminozzi:anti_hacker:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:billminozzi:anti_hacker:-:*:*:*:*:wordpress:*:*

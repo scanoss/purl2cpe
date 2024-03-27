@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/tj-actions/verify-changed-files

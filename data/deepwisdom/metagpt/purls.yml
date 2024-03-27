@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/geekan/metagpt
+  - pkg:pypi/metagpt

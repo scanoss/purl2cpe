@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:facebook:katran:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:facebook:katran:-:*:*:*:*:*:*:*

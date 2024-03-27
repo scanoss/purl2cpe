@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/micropython
+  - pkg:deb/ubuntu/micropython
+  - pkg:github/micropython/micropython
+  - pkg:rpm/fedora/micropython
+  - pkg:rpm/opensuse/micropython
+  - pkg:sourceforge/micropython.mirror

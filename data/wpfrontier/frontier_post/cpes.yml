@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wpfrontier:frontier_post:6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpfrontier:frontier_post:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpfrontier:frontier_post:-:*:*:*:*:wordpress:*:*

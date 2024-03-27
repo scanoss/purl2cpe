@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:clear:clearml:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clear:clearml:1.4.1:*:*:*:*:*:*:*

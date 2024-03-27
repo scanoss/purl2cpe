@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/sitegeist/fluid-components
+  - pkg:github/sitegeist/fluid-components

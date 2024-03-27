@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/prestashop/blockreassurance
+  - pkg:github/prestashop/blockreassurance

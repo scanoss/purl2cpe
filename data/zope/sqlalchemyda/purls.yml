@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zopefoundation/products.sqlalchemyda
+  - pkg:pypi/products.sqlalchemyda

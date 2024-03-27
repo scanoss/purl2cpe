@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sentry:symbolicator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:symbolicator:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:symbolicator:23.11.2:*:*:*:*:*:*:*

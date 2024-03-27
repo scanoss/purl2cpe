@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/perfood/couch-auth
+  - pkg:npm/%40perfood/couch-auth

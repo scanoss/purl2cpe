@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/engrampa
+  - pkg:deb/ubuntu/engrampa
+  - pkg:github/mate-desktop/engrampa
+  - pkg:rpm/fedora/engrampa
+  - pkg:rpm/opensuse/caja-engrampa

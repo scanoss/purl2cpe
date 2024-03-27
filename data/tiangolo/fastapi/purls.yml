@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/fastapi
+  - pkg:deb/ubuntu/fastapi
+  - pkg:github/tiangolo/fastapi
+  - pkg:pypi/fastapi
+  - pkg:rpm/fedora/python-fastapi
+  - pkg:rpm/opensuse/python-fastapi
+  - pkg:sourceforge/fastapi.mirror

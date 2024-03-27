@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/knative/serving
+  - pkg:github/knative/serving
+  - pkg:golang/github.com/knative/serving

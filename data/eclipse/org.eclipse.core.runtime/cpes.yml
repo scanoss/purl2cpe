@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.15.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.15.200:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.15.300:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.17.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.20.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.24.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.26.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.27.0:*:*:*:*:*:*:*

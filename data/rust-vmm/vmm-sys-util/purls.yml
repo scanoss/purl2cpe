@@ -1,0 +1,6 @@
+purls:
+  - pkg:cargo/vmm-sys-util
+  - pkg:deb/debian/rust-vmm-sys-util
+  - pkg:deb/ubuntu/rust-vmm-sys-util
+  - pkg:github/rust-vmm/vmm-sys-util
+  - pkg:rpm/fedora/rust-vmm-sys-util

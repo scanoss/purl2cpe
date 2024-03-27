@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-view-component
+  - pkg:deb/ubuntu/ruby-view-component
+  - pkg:gem/view_component
+  - pkg:github/viewcomponent/view_component
+  - pkg:rpm/opensuse/rubygem-view_component

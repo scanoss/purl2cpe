@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fastify/fastify-reply-from
+  - pkg:npm/@fastify/reply-from

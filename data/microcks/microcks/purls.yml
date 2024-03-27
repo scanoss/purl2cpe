@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/microcks/microcks
+  - pkg:github/microcks/microcks
+  - pkg:maven/io.github.microcks/microcks

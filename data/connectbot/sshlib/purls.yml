@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/connectbot/sshlib
+  - pkg:maven/org.connectbot/sshlib

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/opennds
+  - pkg:deb/ubuntu/opennds
+  - pkg:github/opennds/opennds

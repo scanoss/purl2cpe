@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/pquic/pquic
+  - pkg:github/p-quic/pquic

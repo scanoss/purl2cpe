@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jamesnk/newtonsoft.json
+  - pkg:nuget/newtonsoft.json

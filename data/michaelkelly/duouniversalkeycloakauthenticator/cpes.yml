@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.1:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.2:prerelease:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.3:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.4:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.5:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.6:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:1.0.7:*:*:*:*:keycloak:*:*
+  - cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:*:*:*:*:*:keycloak:*:*

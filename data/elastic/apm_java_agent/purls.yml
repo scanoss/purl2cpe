@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/apm-agent-java
+  - pkg:maven/co.elastic.apm/elastic-apm-agent

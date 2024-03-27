@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/boring
+  - pkg:github/cloudflare/boring

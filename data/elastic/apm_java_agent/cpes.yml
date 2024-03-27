@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:elastic:apm_java_agent:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.18.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.26.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_java_agent:1.27.0:*:*:*:*:*:*:*

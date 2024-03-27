@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jline
+  - pkg:deb/ubuntu/jline
+  - pkg:github/jline/jline3
+  - pkg:maven/org.jline/jline
+  - pkg:rpm/fedora/jline
+  - pkg:rpm/opensuse/jline

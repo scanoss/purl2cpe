@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/clickhouse/clickhouse-java
+  - pkg:maven/com.clickhouse/clickhouse-java

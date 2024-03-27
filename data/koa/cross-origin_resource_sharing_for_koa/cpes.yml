@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:koa:cross-origin_resource_sharing_for_koa:*:*:*:*:*:koa:*:*
+  - cpe:2.3:a:koa:cross-origin_resource_sharing_for_koa:*:*:*:*:*:node.js:*:*

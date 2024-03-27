@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openkruise/kruise
+  - pkg:golang/github.com/openkruise/kruise

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/sentry-python
+  - pkg:deb/ubuntu/sentry-python
+  - pkg:docker/getsentry/sentry
+  - pkg:github/getsentry/sentry
+  - pkg:sourceforge/sentry.mirror

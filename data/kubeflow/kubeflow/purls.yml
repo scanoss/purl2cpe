@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kubeflow/kubeflow
+  - pkg:golang/github.com/kubeflow/kubeflow
+  - pkg:sourceforge/kubeflow.mirror

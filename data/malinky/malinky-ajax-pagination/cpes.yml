@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:malinky:malinky-ajax-pagination:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:malinky:malinky-ajax-pagination:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:malinky:malinky-ajax-pagination:-:*:*:*:*:wordpress:*:*

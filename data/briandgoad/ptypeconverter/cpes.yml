@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:briandgoad:ptypeconverter:0.2.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:briandgoad:ptypeconverter:-:*:*:*:*:wordpress:*:*

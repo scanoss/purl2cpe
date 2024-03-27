@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/tainacan/tainacan
+  - pkg:github/tainacan/tainacan

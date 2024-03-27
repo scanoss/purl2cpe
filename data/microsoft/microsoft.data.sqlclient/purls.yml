@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dotnet/sqlclient
+  - pkg:nuget/microsoft.data.sqlclient

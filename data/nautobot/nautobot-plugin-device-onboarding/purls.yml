@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nautobot/nautobot-plugin-device-onboarding
+  - pkg:pypi/nautobot-device-onboarding

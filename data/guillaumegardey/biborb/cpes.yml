@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:guillaumegardey:biborb:1.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:guillaumegardey:biborb:1.3.2:rc:*:*:*:*:*:*

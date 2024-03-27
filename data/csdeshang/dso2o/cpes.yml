@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:csdeshang:dso2o:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:csdeshang:dso2o:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:csdeshang:dso2o:4.1.0:*:*:*:*:*:*:*

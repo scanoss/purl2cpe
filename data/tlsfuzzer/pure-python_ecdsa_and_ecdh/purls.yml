@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-ecdsa
+  - pkg:github/tlsfuzzer/python-ecdsa
+  - pkg:pypi/ecdsa
+  - pkg:rpm/fedora/python-ecdsa
+  - pkg:rpm/opensuse/python-ecdsa

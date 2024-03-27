@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/siteorigin/so-widgets-bundle
+  - pkg:github/wp-plugins/so-widgets-bundle
+  - pkg:github/wpplugins/so-widgets-bundle

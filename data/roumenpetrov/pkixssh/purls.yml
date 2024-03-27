@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ciges/pkixssh-12.3
+  - pkg:rpm/opensuse/pkixssh

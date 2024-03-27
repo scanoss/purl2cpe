@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloudflare:miniflare:3.20230821.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cloudflare:miniflare:*:*:*:*:*:node.js:*:*

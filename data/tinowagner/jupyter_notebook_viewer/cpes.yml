@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.1:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.2:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.3:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.4:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:0.1.5:*:*:*:*:macos:*:*
+  - cpe:2.3:a:tinowagner:jupyter_notebook_viewer:*:*:*:*:*:macos:*:*

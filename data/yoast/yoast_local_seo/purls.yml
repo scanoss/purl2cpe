@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/yoast/wordpress-seo
+  - pkg:github/yoast/wordpress-seo

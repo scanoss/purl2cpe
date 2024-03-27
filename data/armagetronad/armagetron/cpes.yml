@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:armagetronad:armagetron:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:armagetronad:armagetron:0.2.6.0:*:*:*:*:*:*:*

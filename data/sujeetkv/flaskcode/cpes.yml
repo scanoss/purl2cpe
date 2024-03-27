@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:sujeetkv:flaskcode:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:0.0.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:sujeetkv:flaskcode:*:*:*:*:*:python:*:*

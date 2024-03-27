@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/livewire/livewire
+  - pkg:github/livewire/livewire

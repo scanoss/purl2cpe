@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/amazon-ion/ion-java
+  - pkg:maven/com.amazon.ion/ion-java

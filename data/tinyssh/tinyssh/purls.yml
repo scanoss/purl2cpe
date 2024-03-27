@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/tinyssh
+  - pkg:deb/ubuntu/tinyssh
+  - pkg:github/janmojzis/tinyssh
+  - pkg:rpm/opensuse/tinyssh

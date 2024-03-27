@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/noear/solon
+  - pkg:github/noear/solon
+  - pkg:maven/org.noear/solon

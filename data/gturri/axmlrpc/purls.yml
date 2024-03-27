@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gturri/axmlrpc
+  - pkg:maven/fr.turri/axmlrpc

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pkcs11-provider
+  - pkg:deb/ubuntu/pkcs11-provider
+  - pkg:github/latchset/pkcs11-provider
+  - pkg:rpm/fedora/pkcs11-provider
+  - pkg:rpm/opensuse/pkcs11-provider

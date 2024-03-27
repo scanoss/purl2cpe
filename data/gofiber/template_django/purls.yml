@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gofiber/template
+  - pkg:golang/github.com/gofiber/template

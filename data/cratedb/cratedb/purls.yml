@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/crate/crate
+  - pkg:maven/io.crate/crate

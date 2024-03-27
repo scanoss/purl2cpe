@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/strapi-community/strapi-plugin-protected-populate
+  - pkg:npm/strapi-plugin-protected-populate

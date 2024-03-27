@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nearform/fast-jwt
+  - pkg:npm/fast-jwt

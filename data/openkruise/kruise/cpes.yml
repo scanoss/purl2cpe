@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:openkruise:kruise:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.0.0:alpha.1:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.0.0:alpha.2:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.0.0:beta.0:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkruise:kruise:1.5.1:*:*:*:*:*:*:*

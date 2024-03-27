@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/run-llama/llama-hub
+  - pkg:pypi/llama-hub

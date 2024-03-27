@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:currencyratetoday:crypto_converter_widget:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:currencyratetoday:crypto_converter_widget:*:*:*:*:*:wordpress:*:*

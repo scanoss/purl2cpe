@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/truelayer/truelayer-dotnet
+  - pkg:nuget/truelayer.client

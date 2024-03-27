@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:st:st54-android-packages-apps-nfc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:st54-android-packages-apps-nfc:120-20210819-21w33p1:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:st54-android-packages-apps-nfc:120-20210929-21w39p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:st54-android-packages-apps-nfc:130-20220929-22w39p0:*:*:*:*:*:*:*

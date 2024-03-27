@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/px-org/panindex
   - pkg:golang/github.com/px-org/panindex

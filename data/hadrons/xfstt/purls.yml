@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/xfstt
+  - pkg:deb/ubuntu/xfstt
+  - pkg:github/guillemj/xfstt

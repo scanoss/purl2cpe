@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/ignitedcms/ignitedcms
+  - pkg:github/ignitedcms/ignitedcms

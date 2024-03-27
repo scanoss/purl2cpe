@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stimulsoft/dashboards.js
+  - pkg:npm/stimulsoft-dashboards-js

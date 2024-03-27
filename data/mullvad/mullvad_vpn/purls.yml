@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mullvad/mullvadvpn-app
+  - pkg:rpm/opensuse/mullvadvpn
+  - pkg:sourceforge/mullvad-vpn-des-mob-app.mirror

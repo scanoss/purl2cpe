@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/flash_tool
+  - pkg:github/milboj/flash_tool

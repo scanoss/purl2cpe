@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:trillium:trillium:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:trillium:trillium:-:*:*:*:*:rust:*:*

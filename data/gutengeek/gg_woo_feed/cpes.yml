@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gutengeek:gg_woo_feed:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutengeek:gg_woo_feed:-:*:*:*:*:wordpress:*:*

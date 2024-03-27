@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jruby-openssl
+  - pkg:deb/ubuntu/jruby-openssl
+  - pkg:gem/jruby-openssl
+  - pkg:github/jruby/jruby-openssl
+  - pkg:maven/rubygems/jruby-openssl
+  - pkg:rpm/opensuse/rubygem-jruby-openssl

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.521:*:*:*:*:*:x64:*
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.531:*:*:*:*:*:x64:*
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.643:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:windows_server_2022_23h2:-:*:*:*:*:*:x64:*

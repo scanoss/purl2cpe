@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:trillium:trillium-http:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:trillium:trillium-http:-:*:*:*:*:rust:*:*

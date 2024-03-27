@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/linuxserver/bookstack
+  - pkg:github/bookstackapp/bookstack
+  - pkg:sourceforge/bookstack.mirror

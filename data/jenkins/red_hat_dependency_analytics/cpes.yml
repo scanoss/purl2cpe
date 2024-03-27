@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:red_hat_dependency_analytics:*:*:*:*:*:jenkins:*:*

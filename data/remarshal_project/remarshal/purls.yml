@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/remarshal-project/remarshal
+  - pkg:pypi/remarshal
+  - pkg:sourceforge/remarshal.mirror

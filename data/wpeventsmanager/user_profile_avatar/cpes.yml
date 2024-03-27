@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpeventsmanager:user_profile_avatar:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpeventsmanager:user_profile_avatar:*:*:*:*:*:wordpress:*:*

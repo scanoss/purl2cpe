@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/benbusby/whoogle-search
+  - pkg:github/benbusby/whoogle-search
+  - pkg:pypi/whoogle-search

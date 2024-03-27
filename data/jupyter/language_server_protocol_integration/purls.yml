@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jupyter-lsp/jupyterlab-lsp
+  - pkg:npm/%40jupyter-lsp/jupyterlab-lsp

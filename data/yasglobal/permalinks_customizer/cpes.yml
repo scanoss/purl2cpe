@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:yasglobal:permalinks_customizer:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yasglobal:permalinks_customizer:*:*:*:*:*:wordpress:*:*

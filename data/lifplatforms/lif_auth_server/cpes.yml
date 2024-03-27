@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:lifplatforms:lif_auth_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lifplatforms:lif_auth_server:1.3.2:*:*:*:*:*:*:*

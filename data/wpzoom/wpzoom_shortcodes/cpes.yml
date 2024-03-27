@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wpzoom:wpzoom_shortcodes:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzoom:wpzoom_shortcodes:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzoom:wpzoom_shortcodes:*:*:*:*:*:wordpress:*:*

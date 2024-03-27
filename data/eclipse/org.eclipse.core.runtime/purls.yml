@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse-platform/eclipse.platform
+  - pkg:maven/org.eclipse.core.runtime/eclipse-core-runtime

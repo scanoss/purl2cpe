@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jamieblomerus:unofficial_mobile_bankid_integration:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jamieblomerus:unofficial_mobile_bankid_integration:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jamieblomerus:unofficial_mobile_bankid_integration:-:*:*:*:*:wordpress:*:*

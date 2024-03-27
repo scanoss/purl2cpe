@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:micropython:micropython:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.22.0:preview:*:*:*:*:*:*

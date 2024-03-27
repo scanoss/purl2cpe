@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:sigstore:gitsign:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sigstore:gitsign:0.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:sigstore:gitsign:0.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:sigstore:gitsign:0.7.1:*:*:*:*:go:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:cybergarage:mupnp_for_c:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cybergarage:mupnp_for_c:3.0.2:*:*:*:*:*:*:*

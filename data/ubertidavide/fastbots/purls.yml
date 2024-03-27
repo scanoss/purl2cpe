@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ubertidavide/fastbots
+  - pkg:pypi/fastbots

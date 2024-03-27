@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.8.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.10.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.10.4.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.3.16.7:*:*:*:lts:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.3.17.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.8.6.16:*:*:*:lts:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.8.7.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.8:*:*:*:lts:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.9.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.9.5.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:lts:*:*:*

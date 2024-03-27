@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:qualys:web_application_screening:2.0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:qualys:web_application_screening:*:*:*:*:*:jenkins:*:*

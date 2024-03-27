@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/mainwp/mainwp
+  - pkg:github/mainwp/mainwp

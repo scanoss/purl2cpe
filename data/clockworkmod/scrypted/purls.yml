@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/koush/scrypted
+  - pkg:npm/scrypted

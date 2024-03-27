@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wp-plugins/woocommerce-ajax-filters
+  - pkg:github/wpplugins/woocommerce-ajax-filters
+  - pkg:github/zorca/woocommerce-ajax-filters

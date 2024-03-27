@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/fonttools
+  - pkg:github/fonttools/fonttools
+  - pkg:pypi/fonttools
+  - pkg:rpm/fedora/fonttools
+  - pkg:rpm/opensuse/python-fonttools

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/iterative/pydrive2
+  - pkg:pypi/pydrive2
+  - pkg:rpm/fedora/pydrive2
+  - pkg:rpm/opensuse/python-pydrive2

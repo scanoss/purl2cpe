@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gtkwave
+  - pkg:deb/ubuntu/gtkwave
+  - pkg:github/gtkwave/gtkwave
+  - pkg:rpm/fedora/gtkwave
+  - pkg:rpm/opensuse/gtkwave
+  - pkg:sourceforge/gtkwave

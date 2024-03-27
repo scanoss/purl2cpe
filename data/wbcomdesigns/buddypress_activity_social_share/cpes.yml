@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wbcomdesigns:buddypress_activity_social_share:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wbcomdesigns:buddypress_activity_social_share:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wbcomdesigns:buddypress_activity_social_share:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse-pde/eclipse.pde
+  - pkg:maven/org.eclipse.pde/org.eclipse.pde

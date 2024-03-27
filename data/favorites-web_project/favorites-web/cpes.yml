@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:favorites-web_project:favorites-web:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:favorites-web_project:favorites-web:1.3.0:*:*:*:*:*:*:*
