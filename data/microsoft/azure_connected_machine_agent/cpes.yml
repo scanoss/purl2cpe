@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:1.34:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:1.35:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:1.36:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:azure_connected_machine_agent:1.37:*:*:*:*:*:*:*

@@ -1,2 +1,2 @@
 purls:
-  - pkg:github/microsoftgraph/microsoft-graph-docs-contrib
+  - pkg:github/microsoftgraph/msgraph-sdk-php-core

@@ -44,4 +44,5 @@ cpes:
   - cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:4.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:4.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:-:*:*:*:*:node.js:*:*
