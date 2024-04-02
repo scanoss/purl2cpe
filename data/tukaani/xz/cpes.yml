@@ -25,3 +25,5 @@ cpes:
   - cpe:2.3:a:tukaani:xz:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.3.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.6.1:*:*:*:*:*:*:*

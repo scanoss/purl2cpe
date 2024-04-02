@@ -1,2 +1,3 @@
 purls:
-  - pkg:wordpress/wordpress-sources
+  - pkg:github/wordpress/wordpress
+  - pkg:github/wordpress/wordpress-develop
