@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:graphviz:graphviz:*:*:*:*:*:*:*:*
   - cpe:2.3:a:graphviz:graphviz:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:graphviz:graphviz:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:graphviz:graphviz:1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:graphviz:graphviz:1.10_2003-09-15_0415_1:*:*:*:*:*:*:*
   - cpe:2.3:a:graphviz:graphviz:1.10_2003-09-15_0415_2:*:*:*:*:*:*:*

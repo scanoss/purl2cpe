@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.1:interim_fix_003:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.1:interim_fix_004:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:-:*:*:*:*:*:*
