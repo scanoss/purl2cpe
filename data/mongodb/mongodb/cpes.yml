@@ -343,3 +343,5 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:5.1.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.1.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:7.0.0:*:*:*:*:*:*:*
