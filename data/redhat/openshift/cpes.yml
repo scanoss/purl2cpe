@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift:1.2.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:1.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:1.2:*:enterprise:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:2.0.1:*:enterprise:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:2.0.2:*:enterprise:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:2.0.3:*:enterprise:*:*:*:*:*
