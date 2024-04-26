@@ -64,6 +64,7 @@ cpes:
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.68:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.69:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:web-dorado:wp_form_builder:1.0.72:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:web-dorado:wp_form_builder:1.0.9:*:*:*:*:wordpress:*:*

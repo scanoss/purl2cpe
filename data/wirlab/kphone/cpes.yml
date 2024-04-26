@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:wirlab:kphone:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wirlab:kphone:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:wirlab:kphone:4.0.1:*:*:*:*:*:*:*
