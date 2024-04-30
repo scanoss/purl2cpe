@@ -10,5 +10,6 @@ cpes:
   - cpe:2.3:a:whodunit:gdpr_data_request_form:1.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:whodunit:gdpr_data_request_form:1.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:whodunit:gdpr_data_request_form:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:whodunit:gdpr_data_request_form:1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:whodunit:gdpr_data_request_form:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:whodunit:gdpr_data_request_form:-:*:*:*:*:wordpress:*:*

@@ -208,6 +208,7 @@ cpes:
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:-:*:*:*:*:wordpress:*:*
