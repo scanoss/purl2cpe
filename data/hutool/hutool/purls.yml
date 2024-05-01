@@ -1,3 +1,4 @@
 purls:
-  - pkg:github/dromara/hutoo
+  - pkg:gitee/dromara/hutool
+  - pkg:github/dromara/hutool
   - pkg:maven/cn.hutool/hutool-all
