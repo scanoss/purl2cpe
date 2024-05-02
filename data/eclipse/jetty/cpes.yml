@@ -598,12 +598,22 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:9.4.4:20180619:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.42:20210604:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.43:20210629:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.44:20210927:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.45:20220203:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.46:20220331:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.47:20220610:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.48:20220622:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.49:20220914:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.50:20221107:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.50:20221201:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.51:20230217:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.52:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.5:20170502:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.5:20180619:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.52:20230823:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:20170531:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:20180619:*:*:*:*:*:*
