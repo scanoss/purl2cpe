@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:wso2:carbon_identity_application_authentication_endpoint:*:*:*:*:*:*:*:*
