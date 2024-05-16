@@ -158,7 +158,14 @@ cpes:
   - cpe:2.3:a:hutool:hutool:5.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.10:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.19:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.20:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.21:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.23:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.3:*:*:*:*:*:*:*
