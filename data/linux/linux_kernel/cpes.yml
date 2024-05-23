@@ -4470,6 +4470,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.10.203:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.204:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.205:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.10.209:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.21:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.22:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.23:*:*:*:*:*:*:*
@@ -4751,6 +4752,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.15.145:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.148:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.15:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.15.150:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.16:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.17:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.18:*:*:*:*:*:*:*
