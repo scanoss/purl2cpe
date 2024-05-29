@@ -147,3 +147,19 @@ cpes:
   - cpe:2.3:a:bookstackapp:bookstack:22.09.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bookstackapp:bookstack:22.10:*:*:*:*:*:*:*
   - cpe:2.3:a:bookstackapp:bookstack:22.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:22.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:22.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:22.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.01.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.02.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.02.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.02.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.05.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.05.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:23.10.2:*:*:*:*:*:*:*
