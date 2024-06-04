@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/iniparser
+  - pkg:deb/ubuntu/iniparser
+  - pkg:github/ndevilla/iniparser
+  - pkg:rpm/fedora/iniparser
+  - pkg:rpm/opensuse/iniparser
