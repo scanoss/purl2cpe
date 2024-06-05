@@ -16,4 +16,5 @@ cpes:
   - cpe:2.3:a:deniskobozev:csv_importer:0.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deniskobozev:csv_importer:0.3.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deniskobozev:csv_importer:0.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:deniskobozev:csv_importer:0.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:deniskobozev:csv_importer:-:*:*:*:*:wordpress:*:*
