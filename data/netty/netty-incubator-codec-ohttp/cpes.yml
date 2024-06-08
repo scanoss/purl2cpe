@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty-incubator-codec-ohttp:0.0.9:*:*:*:*:*:*:*

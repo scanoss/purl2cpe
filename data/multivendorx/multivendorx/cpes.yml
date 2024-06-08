@@ -33,6 +33,7 @@ cpes:
   - cpe:2.3:a:multivendorx:multivendorx:3.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.7.0:*:*:*:*:wordpress:*:*
@@ -43,4 +44,40 @@ cpes:
   - cpe:2.3:a:multivendorx:multivendorx:3.7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.7.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:3.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:3.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:-:*:*:*:*:wordpress:*:*

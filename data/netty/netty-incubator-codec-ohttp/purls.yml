@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/netty/netty-incubator-codec-ohttp
+  - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/mahonelau/kykms
+  - pkg:github/mahonelau/-kykms

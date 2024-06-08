@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/nano-id
+  - pkg:github/viz-rs/nano-id
