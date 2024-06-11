@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:dearhive:dearpdf:1.0.116:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.0.76:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.0.89:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.0.92:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.1.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.1.84:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.2.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:1.2.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:2.0.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dearhive:dearpdf:2.0.38:*:*:*:*:wordpress:*:*

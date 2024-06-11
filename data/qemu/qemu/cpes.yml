@@ -411,5 +411,8 @@ cpes:
   - cpe:2.3:a:qemu:qemu:8.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:arm64:*
   - cpe:2.3:a:qemu:qemu:*:r1:*:*:*:*:*:*

@@ -44,4 +44,8 @@ cpes:
   - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:1.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:-:*:*:*:*:wordpress:*:*

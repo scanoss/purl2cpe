@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tomas/network
+  - pkg:npm/network

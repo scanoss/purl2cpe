@@ -125,3 +125,10 @@ cpes:
   - cpe:2.3:a:themeum:tutor_lms:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:2.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dearhive/dearpdf-lite
+  - pkg:npm/%40dearhive/dearpdf-lite

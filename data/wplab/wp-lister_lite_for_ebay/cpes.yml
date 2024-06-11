@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wplab:wp-lister_lite_for_ebay:3.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wplab:wp-lister_lite_for_ebay:*:*:*:*:*:wordpress:*:*

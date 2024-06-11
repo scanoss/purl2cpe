@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/armagetronad
+  - pkg:deb/ubuntu/armagetronad
+  - pkg:github/armagetronad/armagetronad
+  - pkg:gitlab/armagetronad/armagetronad

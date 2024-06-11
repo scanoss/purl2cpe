@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:armagetronad:armagetron_advanced:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:armagetronad:armagetron_advanced:0.2.7.0:*:*:*:*:*:*:*
