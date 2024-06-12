@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dajobe/raptor
+  - pkg:rpm/fedora/raptor
+  - pkg:rpm/opensuse/raptor

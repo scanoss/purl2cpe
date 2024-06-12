@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jetbrains:intellij_idea:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:-:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:10.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:11.0:*:*:*:*:*:*:*
@@ -149,5 +150,6 @@ cpes:
   - cpe:2.3:a:jetbrains:intellij_idea:2022.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2022.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2023.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:intellij_idea:2023.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.4:*:*:*:*:*:*:*

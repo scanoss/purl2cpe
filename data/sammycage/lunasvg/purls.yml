@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sammycage/lunasvg
+  - pkg:rpm/fedora/lunasvg

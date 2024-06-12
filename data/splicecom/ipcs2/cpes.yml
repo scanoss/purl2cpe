@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:splicecom:ipcs2:2.8:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:splicecom:ipcs2:*:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:splicecom:ipcs2:-:*:*:*:*:iphone_os:*:*

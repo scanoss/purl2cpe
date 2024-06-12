@@ -46,6 +46,7 @@ cpes:
   - cpe:2.3:a:jetbrains:mps:2019.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:mps:2019.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:mps:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:mps:2023.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:mps:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:mps:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:mps:2.0.5:*:*:*:*:*:*:*
