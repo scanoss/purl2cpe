@@ -117,4 +117,5 @@ cpes:
   - cpe:2.3:a:omniauth:omniauth:1.9.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:omniauth:omniauth:1.9.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:omniauth:omniauth:1.9.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:omniauth:omniauth:2.0.0:pre.rc1:*:*:*:*:*:*
   - cpe:2.3:a:omniauth:omniauth:-:*:*:*:*:ruby:*:*

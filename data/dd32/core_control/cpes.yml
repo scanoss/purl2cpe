@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:dd32:core_control:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dd32:core_control:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sparksuite/simplemde-markdown-editor
+  - pkg:maven/org.webjars.bowergithub.sparksuite/simplemde-markdown-editor

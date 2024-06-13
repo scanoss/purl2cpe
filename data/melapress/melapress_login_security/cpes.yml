@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:melapress:melapress_login_security:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:melapress_login_security:-:*:*:*:*:wordpress:*:*

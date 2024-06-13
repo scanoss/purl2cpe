@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/dremio/dremio-oss
+  - pkg:github/dremio/dremio-oss
