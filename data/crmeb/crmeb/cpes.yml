@@ -18,4 +18,5 @@ cpes:
   - cpe:2.3:a:crmeb:crmeb:4.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:crmeb:crmeb:4.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:crmeb:crmeb:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crmeb:crmeb:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:crmeb:crmeb:*:*:*:*:java:*:*:*

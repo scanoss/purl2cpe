@@ -461,3 +461,4 @@ cpes:
   - cpe:2.3:a:katello_project:katello:3.9.0:rc1:*:*:*:foreman:*:*
   - cpe:2.3:a:katello_project:katello:3.9.0:rc2:*:*:*:foreman:*:*
   - cpe:2.3:a:katello_project:katello:3.9.1:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:katello_project:katello:-:*:*:*:*:foreman:*:*
