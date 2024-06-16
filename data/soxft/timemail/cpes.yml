@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:soxft:timemail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:soxft:timemail:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:soxft:timemail:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:soxft:timemail:1.1:*:*:*:*:*:*:*

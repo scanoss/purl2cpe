@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hyperledger/aries-cloudagent-python
+  - pkg:pypi/aries-cloudagent
