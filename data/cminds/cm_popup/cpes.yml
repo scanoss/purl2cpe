@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:cminds:cm_popup:1.5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_popup:1.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_popup:1.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_popup:*:*:*:*:*:wordpress:*:*
