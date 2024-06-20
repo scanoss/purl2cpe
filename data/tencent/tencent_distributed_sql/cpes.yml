@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tencent:tencent_distributed_sql:1.8.5:*:*:*:*:tencent_cloud:*:*
+  - cpe:2.3:a:tencent:tencent_distributed_sql:*:*:*:*:*:tencent_cloud:*:*
+  - cpe:2.3:a:tencent:tencent_distributed_sql:-:*:*:*:*:tencent_cloud:*:*
