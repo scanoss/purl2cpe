@@ -261,4 +261,5 @@ cpes:
   - cpe:2.3:a:tickera:tickera:3.5.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tickera:tickera:3.5.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tickera:tickera:3.5.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tickera:tickera:3.5.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tickera:tickera:-:*:*:*:*:wordpress:*:*

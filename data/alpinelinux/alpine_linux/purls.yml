@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/alpinelinux/docker-alpine
+  - pkg:github/alpinelinux/docker-alpine

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cpcommerce_project:cpcommerce:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cpcommerce_project:cpcommerce:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cpcommerce_project:cpcommerce:1.2.9:*:*:*:*:*:*:*

@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:sentry:astro:7.78.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.79.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.80.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.80.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.81.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.81.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.82.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.83.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.84.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.85.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:7.86.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sentry:astro:*:*:*:*:*:node.js:*:*
