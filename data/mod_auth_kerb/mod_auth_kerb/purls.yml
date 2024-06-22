@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/5im-0n/mod_auth_kerb
+  - pkg:sourceforge/modauthkerb

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mod_auth_kerb:mod_auth_kerb:5.0:*:*:*:*:*:*:*

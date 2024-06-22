@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpzone:inline_image_upload_for_bbpress:1.1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzone:inline_image_upload_for_bbpress:*:*:*:*:*:wordpress:*:*

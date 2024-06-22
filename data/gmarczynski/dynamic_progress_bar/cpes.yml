@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.0:*:*:*:*:odoo:*:*
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.1:*:*:*:*:odoo:*:*
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.2:*:*:*:*:odoo:*:*
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.1:*:*:*:*:odoo:*:*
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.2:*:*:*:*:odoo:*:*
+  - cpe:2.3:a:gmarczynski:dynamic_progress_bar:*:*:*:*:*:odoo:*:*

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:hiweb:migration_simple:1.0.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:1.5.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:2.0.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:2.0.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hiweb:migration_simple:*:*:*:*:*:wordpress:*:*

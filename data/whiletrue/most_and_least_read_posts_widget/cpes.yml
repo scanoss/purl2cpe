@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:whiletrue:most_and_least_read_posts_widget:2.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:whiletrue:most_and_least_read_posts_widget:*:*:*:*:*:wordpress:*:*
