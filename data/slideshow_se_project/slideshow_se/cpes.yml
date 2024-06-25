@@ -71,5 +71,6 @@ cpes:
   - cpe:2.3:a:slideshow_se_project:slideshow_se:2.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slideshow_se_project:slideshow_se:2.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slideshow_se_project:slideshow_se:2.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slideshow_se_project:slideshow_se:2.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slideshow_se_project:slideshow_se:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slideshow_se_project:slideshow_se:-:*:*:*:*:wordpress:*:*

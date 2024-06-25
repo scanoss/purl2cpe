@@ -123,3 +123,5 @@ cpes:
   - cpe:2.3:a:uncannyowl:uncanny_automator:5.1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:uncannyowl:uncanny_automator:5.1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:uncannyowl:uncanny_automator:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_automator:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:uncannyowl:uncanny_automator:*:*:*:*:*:wordpress:*:*

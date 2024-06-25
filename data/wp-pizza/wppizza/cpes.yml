@@ -15,4 +15,5 @@ cpes:
   - cpe:2.3:a:wp-pizza:wppizza:3.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-pizza:wppizza:3.18.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-pizza:wppizza:3.18.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-pizza:wppizza:3.18.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-pizza:wppizza:3.18:*:*:*:*:wordpress:*:*
