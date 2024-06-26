@@ -1,2 +1,3 @@
 purls:
+  - pkg:composer/doofinder/doofinder
   - pkg:github/doofinder/php-doofinder

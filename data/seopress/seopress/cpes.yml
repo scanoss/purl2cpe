@@ -53,5 +53,38 @@ cpes:
   - cpe:2.3:a:seopress:seopress:6.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:6.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.8.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:-:*:*:*:*:wordpress:*:*

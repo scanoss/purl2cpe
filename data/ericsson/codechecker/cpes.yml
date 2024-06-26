@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ericsson:codechecker:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:5.1:*:*:*:*:*:*:*
@@ -31,8 +32,18 @@ cpes:
   - cpe:2.3:a:ericsson:codechecker:6.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.20.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.5:*:*:*:*:*:*:*

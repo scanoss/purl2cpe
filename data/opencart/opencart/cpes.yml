@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opencart:opencart:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:1.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opencart:opencart:1.4:*:*:*:*:*:*:*
