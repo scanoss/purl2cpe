@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:j11g:cruddiy:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:202311.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:202311.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:202312.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:j11g:cruddiy:3.5:*:*:*:*:*:*:*

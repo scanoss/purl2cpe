@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amazon:freertos-plus-tcp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.1.0:*:*:*:*:*:*:*

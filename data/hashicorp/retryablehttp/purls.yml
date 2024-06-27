@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hashicorp/go-retryablehttp
+  - pkg:golang/github.com/hashicorp/go-retryablehttp
