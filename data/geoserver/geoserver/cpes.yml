@@ -117,6 +117,27 @@ cpes:
   - cpe:2.3:a:geoserver:geoserver:2.21:rc:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.22.5:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22:milestone0:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.23.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.2:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:3.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:*:beta4:*:*:*:*:*:*
