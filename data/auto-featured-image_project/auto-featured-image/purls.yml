@@ -1,2 +1,4 @@
 purls:
   - pkg:github/wp-plugins/auto-featured-image-from-title
+  - pkg:github/wp-plugins/wp-auto-featured-image
+  - pkg:github/wpplugins/wp-auto-featured-image

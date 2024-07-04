@@ -1,3 +1,2 @@
 purls:
-  - pkg:freebsd/base
   - pkg:github/freebsd/freebsd-src

@@ -46,4 +46,5 @@ cpes:
   - cpe:2.3:a:spider-themes:eazydocs:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:2.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:2.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.3.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:*:*:*:*:*:wordpress:*:*
