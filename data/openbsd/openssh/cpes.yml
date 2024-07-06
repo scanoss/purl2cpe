@@ -278,3 +278,4 @@ cpes:
   - cpe:2.3:a:openbsd:openssh:9.5:p1:*:*:*:*:*:*
   - cpe:2.3:a:openbsd:openssh:9.6:-:*:*:*:*:*:*
   - cpe:2.3:a:openbsd:openssh:9.6:p1:*:*:*:*:*:*
+  - cpe:2.3:a:openbsd:openssh:9.8:-:*:*:*:*:*:*
