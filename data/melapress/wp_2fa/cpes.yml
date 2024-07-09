@@ -26,4 +26,6 @@ cpes:
   - cpe:2.3:a:melapress:wp_2fa:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:melapress:wp_2fa:2.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:melapress:wp_2fa:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:wp_2fa:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:melapress:wp_2fa:2.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:melapress:wp_2fa:-:*:*:*:*:wordpress:*:*

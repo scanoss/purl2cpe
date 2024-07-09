@@ -210,7 +210,49 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:9.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.5.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.6.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.7.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:9.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.8.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:9.8.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:iphone_os:*:*

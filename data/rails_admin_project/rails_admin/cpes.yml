@@ -47,4 +47,5 @@ cpes:
   - cpe:2.3:a:rails_admin_project:rails_admin:2.0.0:-:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_admin_project:rails_admin:2.0.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_admin_project:rails_admin:2.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rails_admin_project:rails_admin:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_admin_project:rails_admin:-:*:*:*:*:ruby:*:*

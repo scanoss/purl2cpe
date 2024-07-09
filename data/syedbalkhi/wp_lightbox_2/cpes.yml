@@ -1,3 +1,44 @@
 cpes:
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.9.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:-:*:*:*:*:wordpress:*:*

@@ -227,4 +227,11 @@ cpes:
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.1.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.1.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:8.1.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:8.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:9.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:9.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:expresstech:quiz_and_survey_master:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:expresstech:quiz_and_survey_master:-:*:*:*:*:wordpress:*:*
