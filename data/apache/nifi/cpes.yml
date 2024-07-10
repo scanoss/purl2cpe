@@ -118,6 +118,11 @@ cpes:
   - cpe:2.3:a:apache:nifi:1.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.26.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:rc1:*:*:*:*:*:*
@@ -149,3 +154,18 @@ cpes:
   - cpe:2.3:a:apache:nifi:1.9.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.9.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.9.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone1-rc6:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone2-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone2-rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone2-rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone2-rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.0.0:milestone3-rc1:*:*:*:*:*:*

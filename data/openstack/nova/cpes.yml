@@ -233,4 +233,9 @@ cpes:
   - cpe:2.3:a:openstack:nova:25.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:nova:25.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:nova:25.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:nova:27.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:nova:28.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:nova:28.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:nova:29.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:nova:29.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:nova:folsom:*:*:*:*:*:*:*

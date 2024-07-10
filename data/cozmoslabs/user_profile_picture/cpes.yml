@@ -53,3 +53,5 @@ cpes:
   - cpe:2.3:a:cozmoslabs:user_profile_picture:2.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:user_profile_picture:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cozmoslabs:user_profile_picture:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cozmoslabs:user_profile_picture:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cozmoslabs:user_profile_picture:-:*:*:*:*:wordpress:*:*

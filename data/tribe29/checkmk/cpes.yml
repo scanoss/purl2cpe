@@ -186,7 +186,15 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p35:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p36:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p37:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p38:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p39:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p4:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p40:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p41:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p42:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p43:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p44:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.1.0:p45:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p6:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.1.0:p7:*:*:*:*:*:*
@@ -211,8 +219,21 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p15:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p16:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p17:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p18:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p19:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p2:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p20:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p21:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p22:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p23:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p24:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p25:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p26:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p27:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p28:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p29:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p3:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.2.0:p30:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.2.0:p6:*:*:*:*:*:*
@@ -224,3 +245,7 @@ cpes:
   - cpe:2.3:a:tribe29:checkmk:2.3.0:p3:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.3.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:2.3.0:p5:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.3.0:p6:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.3.0:p7:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.3.0:p8:*:*:*:*:*:*
+  - cpe:2.3:a:tribe29:checkmk:2.3.0:p9:*:*:*:*:*:*

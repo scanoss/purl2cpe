@@ -60,6 +60,11 @@ cpes:
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_025:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_026:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_028:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_029:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_030:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_031:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_032:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.3:interim_fix_033:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:22.0.1:-:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:22.0.1:interim_fix_001:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:22.0.1:interim_fix_002:*:*:*:*:*:*
@@ -81,3 +86,8 @@ cpes:
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.1:interim_fix_004:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:interim_fix_001:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:interim_fix_002:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:interim_fix_003:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:interim_fix_004:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:interim_fix_005:*:*:*:*:*:*
