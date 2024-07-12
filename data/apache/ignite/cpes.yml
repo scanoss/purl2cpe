@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:apache:ignite:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:1.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:1.0.2:*:*:*:*:*:*:*
