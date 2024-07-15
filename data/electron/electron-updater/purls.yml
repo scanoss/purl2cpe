@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/electron-userland/electron-builder
+  - pkg:npm/electron-builder

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pimedia/json-api-user
+  - pkg:github/wp-plugins/json-api-user
+  - pkg:github/wpplugins/json-api-user

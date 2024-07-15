@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:6.3.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:electron:electron-updater:*:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/isc-projects/stork
+  - pkg:golang/github.com/isc-projects/stork

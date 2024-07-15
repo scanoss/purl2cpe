@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-idna
+  - pkg:github/kjd/idna
+  - pkg:npm/%40pypi/idna
+  - pkg:pypi/idna
+  - pkg:rpm/fedora/python-idna
+  - pkg:rpm/opensuse/python-idna
