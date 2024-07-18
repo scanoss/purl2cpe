@@ -476,3 +476,4 @@ cpes:
   - cpe:2.3:a:moodle:moodle:4.3.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:4.4.0:*:*:*:*:*:*:*

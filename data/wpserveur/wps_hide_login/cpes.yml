@@ -43,5 +43,26 @@ cpes:
   - cpe:2.3:a:wpserveur:wps_hide_login:1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpserveur:wps_hide_login:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wpserveur:wps_hide_login:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.15.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.16.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpserveur:wps_hide_login:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpserveur:wps_hide_login:1.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpserveur:wps_hide_login:-:*:*:*:*:wordpress:*:*

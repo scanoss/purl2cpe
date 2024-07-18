@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:langchain:langchain-experimental:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain-experimental:0.0.21:*:*:*:*:*:*:*

@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.6:*:*:*:*:wordpress:*:*
