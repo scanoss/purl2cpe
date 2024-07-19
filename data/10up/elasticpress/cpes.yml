@@ -60,5 +60,29 @@ cpes:
   - cpe:2.3:a:10up:elasticpress:3.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:elasticpress:3.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:elasticpress:3.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:elasticpress:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:3.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:elasticpress:4.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:elasticpress:-:*:*:*:*:wordpress:*:*

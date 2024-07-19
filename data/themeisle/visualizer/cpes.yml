@@ -102,5 +102,8 @@ cpes:
   - cpe:2.3:a:themeisle:visualizer:3.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:visualizer:3.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:visualizer:3.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:visualizer:3.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:visualizer:3.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:visualizer:3.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:visualizer:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:visualizer:-:*:*:*:*:wordpress:*:*

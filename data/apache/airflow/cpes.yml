@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:0.2.1:*:*:*:*:*:*:*
@@ -114,3 +115,23 @@ cpes:
   - cpe:2.3:a:apache:airflow:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:airflow:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.8.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:airflow:2.9.2:rc1:*:*:*:*:*:*

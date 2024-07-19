@@ -103,5 +103,26 @@ cpes:
   - cpe:2.3:a:link_library_project:link_library:7.3:beta3:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:beta4:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.3:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:-:*:*:*:*:wordpress:*:*
