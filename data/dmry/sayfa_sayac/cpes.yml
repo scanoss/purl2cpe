@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dmry:sayfa_sayac:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dmry:sayfa_sayac:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dmry:sayfa_sayac:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dbt-labs/dbt-core
+  - pkg:pypi/dbt-core

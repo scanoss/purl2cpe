@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:getdbt:dbt_core:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:getdbt:dbt_core:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:getdbt:dbt_core:1.7:*:*:*:*:*:*:*
