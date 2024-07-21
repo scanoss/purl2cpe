@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ibm/starter-kit-operator
+  - pkg:golang/github.com/ibm/starter-kit-operator
