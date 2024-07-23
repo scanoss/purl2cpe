@@ -33,3 +33,6 @@ cpes:
   - cpe:2.3:a:woo:product_vendors:2.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woo:product_vendors:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:woo:product_vendors:2.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woo:product_vendors:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woo:product_vendors:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woo:product_vendors:2.2.2:*:*:*:*:wordpress:*:*

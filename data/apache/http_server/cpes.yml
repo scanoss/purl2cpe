@@ -293,6 +293,7 @@ cpes:
   - cpe:2.3:a:apache:http_server:2.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:http_server:2.4.60:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:http_server:2.4.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:http_server:2.4.62:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:http_server:2.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:http_server:2.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:http_server:2.4.9:*:*:*:*:*:*:*

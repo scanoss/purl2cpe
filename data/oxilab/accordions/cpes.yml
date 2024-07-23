@@ -13,3 +13,5 @@ cpes:
   - cpe:2.3:a:oxilab:accordions:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oxilab:accordions:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:oxilab:accordions:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.3.2:*:*:*:*:wordpress:*:*
