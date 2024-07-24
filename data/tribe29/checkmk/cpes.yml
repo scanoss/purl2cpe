@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tribe29:checkmk:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:1.2.3:i6:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:1.2.3:i7:*:*:*:*:*:*
   - cpe:2.3:a:tribe29:checkmk:1.2.4:b1:*:*:*:*:*:*

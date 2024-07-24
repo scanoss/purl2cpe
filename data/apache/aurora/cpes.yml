@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:apache:aurora:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.14.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.15.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.16.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.16.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.17.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.18.0:rc0:*:*:*:*:*:*

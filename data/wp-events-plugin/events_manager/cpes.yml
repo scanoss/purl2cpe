@@ -193,4 +193,5 @@ cpes:
   - cpe:2.3:a:wp-events-plugin:events_manager:6.4.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-events-plugin:events_manager:6.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-events-plugin:events_manager:6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-events-plugin:events_manager:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-events-plugin:events_manager:-:*:*:*:*:wordpress:*:*
