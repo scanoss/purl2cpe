@@ -39,5 +39,6 @@ cpes:
   - cpe:2.3:a:community_events_project:community_events:1.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:community_events_project:community_events:1.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:community_events_project:community_events:1.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:community_events_project:community_events:1.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:community_events_project:community_events:1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:community_events_project:community_events:-:*:*:*:*:wordpress:*:*

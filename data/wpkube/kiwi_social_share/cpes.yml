@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:wpkube:kiwi_social_share:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpkube:kiwi_social_share:2.1.7:*:*:*:wordpress:*:*:*
+  - cpe:2.3:a:wpkube:kiwi_social_share:*:*:*:*:wordpress:*:*:*

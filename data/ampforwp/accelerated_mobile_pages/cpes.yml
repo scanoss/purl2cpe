@@ -116,3 +116,5 @@ cpes:
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.91:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.92.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.92:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.93.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.93:*:*:*:*:wordpress:*:*

@@ -403,6 +403,70 @@ cpes:
   - cpe:2.3:a:aipower:aipower:1.7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aipower:aipower:1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aipower:aipower:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aipower:aipower:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aipower:aipower:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.39:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.49:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.54:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.55:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.56:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.57:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.58:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.59:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.66:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aipower:aipower:1.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aipower:aipower:-:*:*:*:*:wordpress:*:*

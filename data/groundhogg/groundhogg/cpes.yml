@@ -237,6 +237,7 @@ cpes:
   - cpe:2.3:a:groundhogg:groundhogg:2.7.10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.11.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:2.7.11.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.11.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.11.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.11.3:*:*:*:*:wordpress:*:*
