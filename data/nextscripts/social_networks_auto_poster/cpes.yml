@@ -270,3 +270,8 @@ cpes:
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:4.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nextscripts:social_networks_auto_poster:-:*:*:*:*:wordpress:*:*

@@ -323,6 +323,11 @@ cpes:
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.3.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.37.7212:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.39.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.40.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.41.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.43.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.45.7212:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.46.7212:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.4.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.5.727:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:foliovision:fv_flowplayer_video_player:7.5.7.727:*:*:*:*:wordpress:*:*

@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:a:codepeople:music_store:1.0.225:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:music_store:1.0.226:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:music_store:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:music_store:-:*:*:*:*:wordpress:*:*

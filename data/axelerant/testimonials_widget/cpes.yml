@@ -94,3 +94,4 @@ cpes:
   - cpe:2.3:a:axelerant:testimonials_widget:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:axelerant:testimonials_widget:2.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:axelerant:testimonials_widget:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:axelerant:testimonials_widget:4.0.4:*:*:*:*:wordpress:*:*

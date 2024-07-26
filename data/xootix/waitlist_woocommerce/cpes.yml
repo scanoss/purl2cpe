@@ -11,4 +11,5 @@ cpes:
   - cpe:2.3:a:xootix:waitlist_woocommerce:2.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xootix:waitlist_woocommerce:2.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xootix:waitlist_woocommerce:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xootix:waitlist_woocommerce:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xootix:waitlist_woocommerce:-:*:*:*:*:wordpress:*:*

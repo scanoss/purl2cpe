@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vmware:spring_cloud_data_flow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_data_flow:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_data_flow:1.0.0:m1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_data_flow:1.0.0:m2:*:*:*:*:*:*

@@ -38,3 +38,10 @@ cpes:
   - cpe:2.3:a:connekthq:ajax_load_more:6.2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:6.2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:6.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.1.1:*:*:*:*:wordpress:*:*

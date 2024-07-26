@@ -289,4 +289,28 @@ cpes:
   - cpe:2.3:a:groundhogg:groundhogg:2.7.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:groundhogg:groundhogg:3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:groundhogg:groundhogg:-:*:*:*:*:wordpress:*:*

@@ -42,3 +42,4 @@ cpes:
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:*:*:*:*:*:wordpress:*:*

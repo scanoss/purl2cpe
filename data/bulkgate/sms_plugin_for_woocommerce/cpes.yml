@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:3.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:-:*:*:*:*:wordpress:*:*
