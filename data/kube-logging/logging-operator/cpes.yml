@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:kube-logging:logging-operator:4.6.0:*:*:*:*:*:*:*

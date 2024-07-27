@@ -146,4 +146,13 @@ cpes:
   - cpe:2.3:a:wp-staging:wp_staging:3.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:3.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:-:*:*:*:*:wordpress:*:*

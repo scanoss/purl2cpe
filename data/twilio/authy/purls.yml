@@ -1,0 +1,14 @@
+purls:
+  - pkg:gem/twilio-ruby
+  - pkg:github/twilio/twilio-csharp
+  - pkg:github/twilio/twilio-go
+  - pkg:github/twilio/twilio-java
+  - pkg:github/twilio/twilio-node
+  - pkg:github/twilio/twilio-php
+  - pkg:github/twilio/twilio-python
+  - pkg:github/twilio/twilio-ruby
+  - pkg:golang/github.com/twilio/twilio-go
+  - pkg:maven/com.twilio.sdk/twilio
+  - pkg:npm/twilio
+  - pkg:nuget/twilio
+  - pkg:pypi/twilio

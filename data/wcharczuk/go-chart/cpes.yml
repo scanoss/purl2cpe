@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wcharczuk:go-chart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wcharczuk:go-chart:2.1.1:*:*:*:*:*:*:*

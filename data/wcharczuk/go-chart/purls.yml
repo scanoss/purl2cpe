@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wcharczuk/go-chart
+  - pkg:golang/github.com/wcharczuk/go-chart

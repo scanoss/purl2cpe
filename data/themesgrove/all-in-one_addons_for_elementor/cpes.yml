@@ -27,6 +27,14 @@ cpes:
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.3:*:*:*:*:wordpress:*:*
@@ -41,4 +49,13 @@ cpes:
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:-:*:*:*:*:wordpress:*:*

@@ -36,3 +36,4 @@ cpes:
   - cpe:2.3:a:bestwebsoft:quotes_and_tips:1.35:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:quotes_and_tips:1.36:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:quotes_and_tips:1.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bestwebsoft:quotes_and_tips:-:*:*:*:*:wordpress:*:*

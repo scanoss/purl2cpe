@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sonarsource:sonarqube:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.1:*:*:*:*:*:*:*
@@ -155,4 +156,5 @@ cpes:
   - cpe:2.3:a:sonarsource:sonarqube:7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:8.4.2.36762:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:lts-alpine:*:*:*:*:*:*:*

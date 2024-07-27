@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:aomedia:aomedia:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aomedia:aomedia:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aomedia:aomedia:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aomedia:aomedia:3.9.0:*:*:*:*:*:*:*

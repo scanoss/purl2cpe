@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:*:wordpress:*:*

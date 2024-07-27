@@ -87,3 +87,5 @@ cpes:
   - cpe:2.3:a:apache:roller:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:roller:6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:roller:6.1.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:roller:6.1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:roller:6.1.2:rc1:*:*:*:*:*:*

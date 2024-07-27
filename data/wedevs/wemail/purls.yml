@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/wemail/wemail
+  - pkg:github/wemail/wemail

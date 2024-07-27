@@ -31,3 +31,6 @@ cpes:
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.02.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.02:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:-:*:*:*:*:wordpress:*:*
