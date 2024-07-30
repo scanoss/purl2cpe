@@ -142,3 +142,4 @@ cpes:
   - cpe:2.3:a:cubecart:cubecart:6.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cubecart:cubecart:6.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cubecart:cubecart:6.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cubecart:cubecart:6.5.5:*:*:*:*:*:*:*

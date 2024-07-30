@@ -52,4 +52,6 @@ cpes:
   - cpe:2.3:a:json-content-importer:json_content_importer:1.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:json-content-importer:json_content_importer:1.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:json-content-importer:json_content_importer:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:json-content-importer:json_content_importer:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:json-content-importer:json_content_importer:1.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:json-content-importer:json_content_importer:*:*:*:*:*:wordpress:*:*
