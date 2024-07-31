@@ -1,7 +1,12 @@
 cpes:
   - cpe:2.3:a:sonarsource:sonarqube:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:10.0.0.68432:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:10.1.0.73491:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:10.2.0.77647:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:10.2.1.78527:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:10.3.0.82913:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:1.10.1:*:*:*:*:*:*:*
@@ -155,6 +160,58 @@ cpes:
   - cpe:2.3:a:sonarsource:sonarqube:7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:7.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.1.0.31237:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.2.0.32929:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.3.0.34182:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.3.1.34397:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.4.0.35506:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.4.1.35646:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:8.4.2.36762:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.5.0.37579:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.5.1.38104:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.6.0.39681:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.6.1.40680:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.7.0.41497:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.7.1.42226:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.8.0.42792:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.0.43852:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.10.61524:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.1.44547:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.2.46101:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.3.48735:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.4.50575:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.5.50698:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.6.50800:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.7.52159:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.8.54436:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:8.9.9.56886:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.0.0.45539:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.0.1.46107:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.1.0.47736:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.2.0.49834:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.2.1.49989:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.2.2.50622:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.2.3.50713:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.2.4.50792:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.3.0.51899:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.4.0.54424:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.5.0.56709:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.6.0.59041:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.6.1.59531:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.7.0.61563:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.7.1.62043:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.8.0.63668:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.9.0.65466:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.9.1.69595:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.9.2.77730:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube:9.9.3.79811:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:9.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sonarsource:sonarqube:lts-alpine:*:*:*:*:*:*:*

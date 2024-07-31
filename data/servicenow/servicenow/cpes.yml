@@ -143,4 +143,46 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:utah:early_availability:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_10:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_2_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_2_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_2_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_3_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_3_hotfix_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_4:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_4_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_4_hotfix_2b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_5:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_6:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_7a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_7b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_9:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_9_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:-:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_4:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_4_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_4_hotfix_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_5:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_6:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_2b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:-:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_1_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_3:*:*:*:*:*:*

@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:overclokk:stellissimo_text_box:1.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:overclokk:stellissimo_text_box:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:overclokk:stellissimo_text_box:-:*:*:*:*:wordpress:*:*
