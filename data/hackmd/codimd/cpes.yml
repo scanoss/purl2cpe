@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hackmd:codimd:-:*:*:*:*:*:*:*
   - cpe:2.3:a:hackmd:codimd:0.3.3:*:*:*:-:*:*:*
   - cpe:2.3:a:hackmd:codimd:0.3.4:*:*:*:-:*:*:*
   - cpe:2.3:a:hackmd:codimd:0.4.0:*:*:*:-:*:*:*
