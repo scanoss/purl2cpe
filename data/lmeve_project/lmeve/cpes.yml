@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:lmeve_project:lmeve:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lmeve_project:lmeve:0.1.58:*:*:*:*:*:*:*

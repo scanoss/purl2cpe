@@ -62,7 +62,9 @@ cpes:
   - cpe:2.3:a:nextcloud:deck:1.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.11.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.2.1:*:*:*:*:*:*:*
@@ -117,6 +119,11 @@ cpes:
   - cpe:2.3:a:nextcloud:deck:1.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.8.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.9.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.9.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.9.0:beta2:*:*:*:*:*:*
@@ -124,3 +131,4 @@ cpes:
   - cpe:2.3:a:nextcloud:deck:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:deck:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:deck:1.9.5:*:*:*:*:*:*:*

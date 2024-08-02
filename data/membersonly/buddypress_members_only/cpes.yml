@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:membersonly:buddypress_members_only:3.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:membersonly:buddypress_members_only:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:membersonly:buddypress_members_only:-:*:*:*:*:wordpress:*:*

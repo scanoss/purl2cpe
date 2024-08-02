@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fortinet-solutions-cse/fortiosapi
+  - pkg:pypi/fortiosapi
+  - pkg:rpm/opensuse/python-fortiosapi

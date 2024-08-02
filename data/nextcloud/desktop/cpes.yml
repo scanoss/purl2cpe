@@ -181,3 +181,4 @@ cpes:
   - cpe:2.3:a:nextcloud:desktop:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:3.7.4:-:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:3.7.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:desktop:*:*:*:*:*:macos:*:*

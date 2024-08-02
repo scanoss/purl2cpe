@@ -54,3 +54,5 @@ cpes:
   - cpe:2.3:a:couchbase:couchbase_server:7.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:couchbase:couchbase_server:7.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:couchbase:couchbase_server:7.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:couchbase:couchbase_server:7.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:couchbase:couchbase_server:7.6.1:*:*:*:*:*:*:*

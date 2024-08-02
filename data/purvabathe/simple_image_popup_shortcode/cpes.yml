@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:purvabathe:simple_image_popup_shortcode:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:purvabathe:simple_image_popup_shortcode:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:purvabathe:simple_image_popup_shortcode:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lukebond/json-override
+  - pkg:npm/json-override

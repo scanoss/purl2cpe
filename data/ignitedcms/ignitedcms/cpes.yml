@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:ignitedcms:ignitedcms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ignitedcms:ignitedcms:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ignitedcms:ignitedcms:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ignitedcms:ignitedcms:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignitedcms:ignitedcms:2017-02-19:*:*:*:*:*:*:*

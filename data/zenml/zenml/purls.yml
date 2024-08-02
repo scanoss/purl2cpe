@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zenml-io/zenml
+  - pkg:pypi/zenml

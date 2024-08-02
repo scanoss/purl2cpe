@@ -1,3 +1,4 @@
 purls:
   - pkg:composer/summernote/summernote
   - pkg:github/summernote/summernote
+  - pkg:npm/summernote

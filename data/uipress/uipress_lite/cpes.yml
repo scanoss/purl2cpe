@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:uipress:uipress_lite:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.3.094:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.3.101:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uipress:uipress_lite:*:*:*:*:*:wordpress:*:*
