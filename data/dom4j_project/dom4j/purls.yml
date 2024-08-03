@@ -1,2 +1,3 @@
 purls:
   - pkg:github/dom4j/dom4j
+  - pkg:maven/dom4j/dom4j
