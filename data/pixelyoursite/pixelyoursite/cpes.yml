@@ -103,3 +103,32 @@ cpes:
   - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pixelyoursite:pixelyoursite:-:*:*:*:*:wordpress:*:*

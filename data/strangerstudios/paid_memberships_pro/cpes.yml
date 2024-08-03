@@ -273,3 +273,4 @@ cpes:
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:strangerstudios:paid_memberships_pro:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:strangerstudios:paid_memberships_pro:-:*:*:*:*:wordpress:*:*

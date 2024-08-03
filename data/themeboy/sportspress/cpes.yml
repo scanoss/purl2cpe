@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:themeboy:sportspress:2.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeboy:sportspress:2.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeboy:sportspress:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeboy:sportspress:-:*:*:*:*:wordpress:*:*

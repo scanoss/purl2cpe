@@ -36,3 +36,4 @@ cpes:
   - cpe:2.3:a:sharethis:simple_share_buttons_adder:4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sharethis:simple_share_buttons_adder:4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sharethis:simple_share_buttons_adder:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sharethis:simple_share_buttons_adder:-:*:*:*:*:wordpress:*:*

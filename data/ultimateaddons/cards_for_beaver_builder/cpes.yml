@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:ultimateaddons:cards_for_beaver_builder:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimateaddons:cards_for_beaver_builder:-:*:*:*:*:wordpress:*:*

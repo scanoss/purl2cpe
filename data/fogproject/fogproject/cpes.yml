@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fogproject:fogproject:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.3.2:*:*:*:*:*:*:*
@@ -13,6 +14,7 @@ cpes:
   - cpe:2.3:a:fogproject:fogproject:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.15:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.4:*:*:*:*:*:*:*

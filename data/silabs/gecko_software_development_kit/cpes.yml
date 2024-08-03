@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:silabs:gecko_software_development_kit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:silabs:gecko_software_development_kit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:silabs:gecko_software_development_kit:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:silabs:gecko_software_development_kit:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:silabs:gecko_software_development_kit:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:silabs:gecko_software_development_kit:2.0.2:*:*:*:*:*:*:*

@@ -108,6 +108,7 @@ cpes:
   - cpe:2.3:a:getoutline:outline:0.64.3:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.64.4:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:0.76.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.9.0:*:*:*:*:*:*:*

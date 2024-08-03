@@ -96,4 +96,5 @@ cpes:
   - cpe:2.3:a:thimpress:wp_hotel_booking:1.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:wp_hotel_booking:1.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:wp_hotel_booking:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thimpress:wp_hotel_booking:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:wp_hotel_booking:-:*:*:*:*:wordpress:*:*
