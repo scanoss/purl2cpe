@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cubecart:cubecart:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cubecart:cubecart:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cubecart:cubecart:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cubecart:cubecart:3.0.1:*:*:*:*:*:*:*
