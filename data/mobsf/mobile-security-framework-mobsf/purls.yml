@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mobsf/mobile-security-framework-mobsf
+  - pkg:golang/github.com/mobsf/mobile-security-framework-mobsf

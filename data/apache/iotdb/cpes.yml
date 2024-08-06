@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:iotdb:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:iotdb:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:iotdb:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:iotdb:0.11.0:*:*:*:*:*:*:*
@@ -28,3 +29,4 @@ cpes:
   - cpe:2.3:a:apache:iotdb:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:iotdb:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:iotdb:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:iotdb:1.3.0:*:*:*:*:*:*:*

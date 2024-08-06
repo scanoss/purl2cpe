@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*
   - cpe:2.3:a:netatalk:netatalk:1.4.99-0.20000927:*:*:*:*:*:*:*
   - cpe:2.3:a:netatalk:netatalk:1.4.99-0.20001108:*:*:*:*:*:*:*
   - cpe:2.3:a:netatalk:netatalk:1.5.0:*:*:*:*:*:*:*
@@ -83,3 +84,4 @@ cpes:
   - cpe:2.3:a:netatalk:netatalk:3.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:netatalk:netatalk:3.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:netatalk:netatalk:3.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:netatalk:netatalk:3.2.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:automattic:newspack_popups:1.47.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack_popups:-:*:*:*:*:wordpress:*:*

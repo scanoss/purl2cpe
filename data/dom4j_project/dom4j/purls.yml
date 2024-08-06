@@ -1,3 +1,9 @@
 purls:
+  - pkg:deb/debian/dom4j
+  - pkg:deb/ubuntu/dom4j
+  - pkg:gitee/mirrors/dom4j
   - pkg:github/dom4j/dom4j
   - pkg:maven/dom4j/dom4j
+  - pkg:maven/org.dom4j/dom4j
+  - pkg:rpm/fedora/dom4j
+  - pkg:rpm/opensuse/dom4j

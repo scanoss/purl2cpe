@@ -71,3 +71,4 @@ cpes:
   - cpe:2.3:a:stimulsoft:dashboard.js:2023.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:stimulsoft:dashboard.js:2024.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:stimulsoft:dashboard.js:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:stimulsoft:dashboard.js:-:*:*:*:*:node.js:*:*

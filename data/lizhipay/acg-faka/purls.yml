@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/lizhipay/acg-faka
+  - pkg:gitee/lizhipay/acg-faka
+  - pkg:github/lizhipay/acg-faka

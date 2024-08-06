@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linuxfoundation:harbor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:0.3.0:*:*:*:*:*:*:*

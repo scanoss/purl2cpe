@@ -749,3 +749,18 @@ cpes:
   - cpe:2.3:a:rocket.chat:rocket.chat:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:5.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc9:*:*:*:*:*:*
