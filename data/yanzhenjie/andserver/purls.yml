@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yanzhenjie/andserver
+  - pkg:maven/com.yanzhenjie/andserver

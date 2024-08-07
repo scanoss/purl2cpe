@@ -1,2 +1,27 @@
 cpes:
+  - cpe:2.3:a:twilio:authy:24.7.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.7.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.8.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.8.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.8.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.8.4:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.9.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.9.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:24.9.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.0.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.0.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.1.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.1.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.1.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.4:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.5:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.6:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:25.2.7:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:26.0.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:26.0.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:26.0.2:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:twilio:authy:*:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:twilio:authy:-:*:*:*:*:iphone_os:*:*

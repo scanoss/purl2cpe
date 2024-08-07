@@ -490,6 +490,7 @@ cpes:
   - cpe:2.3:a:casbin:casdoor:1.63.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.63.1:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.63.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.636.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.64.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.65.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.66.0:*:*:*:*:*:*:*
