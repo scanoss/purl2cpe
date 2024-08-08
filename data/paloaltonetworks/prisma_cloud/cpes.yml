@@ -11,10 +11,32 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:20.12:-:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:20.12:update_1:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:20.12:update_2:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.415:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.427:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.582:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.585:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.694:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:22.12.704:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:30.00.140:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:30.01.152:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:30.01.153:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:30.02.123:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:30.03.122:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.00.129:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.01.123:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.02.133:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.02.137:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.03.103:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:31.03.109:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.00.159:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.00:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.01.128:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.01:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.02.127:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.02:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.03.125:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.03:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04.113:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05:update_5:*:*:compute:*:*:*

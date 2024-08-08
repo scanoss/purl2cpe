@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:livemesh:beaver_builder_addons:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:livemesh:beaver_builder_addons:-:*:*:*:*:wordpress:*:*

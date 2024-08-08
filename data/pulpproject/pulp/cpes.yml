@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pulpproject:pulp:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:2.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:2.10.2:*:*:*:*:*:*:*

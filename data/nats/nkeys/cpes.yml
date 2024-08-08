@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:nats:nkeys:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nats:nkeys:0.4.6:*:*:*:*:*:*:*

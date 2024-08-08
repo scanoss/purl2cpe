@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:nats:nats_server:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nats:nats_server:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nats:nats_server:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nats:nats_server:2.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nats:nats_server:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nats:nats_server:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nats:nats_server:2.1.6:*:*:*:*:*:*:*

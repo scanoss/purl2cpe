@@ -62,6 +62,7 @@ cpes:
   - cpe:2.3:a:pingidentity:pingfederate:11.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:pingfederate:11.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pingidentity:pingfederate:11.1.2:*:*:*:*:*:*:*

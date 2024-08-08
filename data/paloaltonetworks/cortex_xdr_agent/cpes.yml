@@ -93,4 +93,5 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:content_update:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:critical_environment:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:critical_environment:windows:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:*:windows:*:*

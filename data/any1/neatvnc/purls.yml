@@ -1,2 +1,6 @@
 purls:
+  - pkg:deb/debian/neatvnc
   - pkg:github/any1/neatvnc
+  - pkg:rpm/fedora/neatvnc
+  - pkg:rpm/opensuse/neatvnc
+  - pkg:rpm/ubuntu/neatvnc
