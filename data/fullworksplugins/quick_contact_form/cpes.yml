@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:fullworksplugins:quick_contact_form:7.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_contact_form:8.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_contact_form:8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworksplugins:quick_contact_form:*:*:*:*:*:wordpress:*:*

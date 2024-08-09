@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:danny-avila:librechat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:danny-avila:librechat:0.7.4:rc1:*:*:*:*:*:*

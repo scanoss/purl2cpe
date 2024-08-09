@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/argoproj/argo-cd
+  - pkg:golang/github.com/argoproj/argo-cd
