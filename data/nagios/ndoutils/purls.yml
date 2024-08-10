@@ -1,3 +1,4 @@
 purls:
   - pkg:github/nagiosenterprises/ndoutils
   - pkg:golang/github.com/nagiosenterprises/ndoutils
+  - pkg:rpm/opensuse/ndoutils
