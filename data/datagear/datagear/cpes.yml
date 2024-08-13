@@ -49,3 +49,6 @@ cpes:
   - cpe:2.3:a:datagear:datagear:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:datagear:datagear:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:datagear:datagear:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:datagear:datagear:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:datagear:datagear:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:datagear:datagear:5.0.0:*:*:*:*:*:*:*

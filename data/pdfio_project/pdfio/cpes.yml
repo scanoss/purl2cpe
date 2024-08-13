@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:a:pdfio_project:pdfio:1.0:b2:*:*:*:*:*:*
   - cpe:2.3:a:pdfio_project:pdfio:1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:pdfio_project:pdfio:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfio_project:pdfio:1.1.1:*:*:*:*:*:*:*

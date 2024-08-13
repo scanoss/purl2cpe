@@ -59,9 +59,11 @@ cpes:
   - cpe:2.3:a:apache:cloudstack:4.18.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.18.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.18.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cloudstack:4.18.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.19.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.19.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.19.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cloudstack:4.19.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cloudstack:4.3.0:*:*:*:*:*:*:*

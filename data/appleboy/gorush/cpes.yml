@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:appleboy:gorush:1.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:appleboy:gorush:1.18.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:appleboy:gorush:*:*:*:*:*:go:*:*

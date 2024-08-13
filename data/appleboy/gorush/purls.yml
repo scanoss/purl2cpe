@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/appleboy/gorush
+  - pkg:golang/github.com/appleboy/gorush

@@ -47,4 +47,10 @@ cpes:
   - cpe:2.3:a:spider-themes:eazydocs:2.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:2.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:2.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:2.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:spider-themes:eazydocs:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:spider-themes:eazydocs:-:*:*:*:*:wordpress:*:*

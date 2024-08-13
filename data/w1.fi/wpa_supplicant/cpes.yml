@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:w1.fi:wpa_supplicant:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:w1.fi:wpa_supplicant:-:*:*:*:*:*:*:*
   - cpe:2.3:a:w1.fi:wpa_supplicant:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:w1.fi:wpa_supplicant:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:w1.fi:wpa_supplicant:0.2.2:*:*:*:*:*:*:*
