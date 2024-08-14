@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ofono
+  - pkg:deb/ubuntu/ofono
+  - pkg:github/ubports/ofono
+  - pkg:rpm/fedora/ofono
+  - pkg:rpm/opensuse/ofono

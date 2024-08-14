@@ -48,6 +48,7 @@ cpes:
   - cpe:2.3:a:traccar:traccar:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.4:*:*:*:*:*:*:*

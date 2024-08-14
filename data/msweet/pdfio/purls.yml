@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/michaelrsweet/pdfio
+  - pkg:rpm/opensuse/pdfio
+  - pkg:sourceforge/pdfio-jl.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/qwikdev/qwik-preact
+  - pkg:npm/@builder.io/qwik

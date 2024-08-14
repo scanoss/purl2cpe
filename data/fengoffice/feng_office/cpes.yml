@@ -48,4 +48,5 @@ cpes:
   - cpe:2.3:a:fengoffice:feng_office:2.3:beta:*:*:*:*:*:*
   - cpe:2.3:a:fengoffice:feng_office:2.3:rc:*:*:*:*:*:*
   - cpe:2.3:a:fengoffice:feng_office:2.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:fengoffice:feng_office:3.11.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fengoffice:feng_office:3.7.0.5:*:*:*:*:*:*:*

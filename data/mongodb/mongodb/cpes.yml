@@ -438,3 +438,4 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:7.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:7.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:*:*:*:*:enterprise:*:*:*
