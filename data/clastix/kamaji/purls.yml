@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/clastix/kamaji
+  - pkg:golang/github.com/clastix/kamaji
