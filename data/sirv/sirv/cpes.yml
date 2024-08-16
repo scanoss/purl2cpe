@@ -81,4 +81,5 @@ cpes:
   - cpe:2.3:a:sirv:sirv:3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:3.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sirv:sirv:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:-:*:*:*:*:wordpress:*:*
