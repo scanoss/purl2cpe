@@ -401,7 +401,15 @@ cpes:
   - cpe:2.3:a:elastic:kibana:8.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.2:*:*:*:*:*:*:*
