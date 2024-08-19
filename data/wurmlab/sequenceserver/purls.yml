@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/sequenceserver
+  - pkg:github/wurmlab/sequenceserver
