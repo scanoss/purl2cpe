@@ -8,4 +8,10 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r27:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r28:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r29:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r29:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r30:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r30:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r30:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r31:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r31:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:-:*:*:*:*:*:*
