@@ -27,3 +27,4 @@ cpes:
   - cpe:2.3:a:openhab:openhab:3.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:openhab:openhab:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openhab:openhab:3.1.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:openhab:openhab:4.2.1:*:*:*:*:*:*:*
