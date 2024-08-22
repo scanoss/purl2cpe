@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-flask-cors
+  - pkg:deb/ubuntu/python-flask-cors
+  - pkg:github/corydolphin/flask-cors
+  - pkg:pypi/flask-cors
+  - pkg:rpm/fedora/python-flask-cors
+  - pkg:rpm/opensuse/python-flask-cors

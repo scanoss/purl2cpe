@@ -50,6 +50,7 @@ cpes:
   - cpe:2.3:a:zen-cart:zen_cart:1.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:zen-cart:zen_cart:1.5.7a:*:*:*:*:*:*:*
   - cpe:2.3:a:zen-cart:zen_cart:1.5.7b:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen-cart:zen_cart:1.5.8a:*:*:*:*:*:*:*
   - cpe:2.3:a:zen-cart:zen_cart:1.5:*:*:ja:*:*:*:*
   - cpe:2.3:a:zen-cart:zen_cart:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zen-cart:zen_cart:2008:*:*:*:*:*:*:*

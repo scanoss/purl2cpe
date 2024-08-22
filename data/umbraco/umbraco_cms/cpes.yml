@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:umbraco:umbraco_cms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.0.0:rc2:*:*:*:*:*:*

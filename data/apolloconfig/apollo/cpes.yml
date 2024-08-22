@@ -37,3 +37,5 @@ cpes:
   - cpe:2.3:a:apolloconfig:apollo:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apolloconfig:apollo:2.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apolloconfig:apollo:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apolloconfig:apollo:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apolloconfig:apollo:2.2.0:*:*:*:*:*:*:*

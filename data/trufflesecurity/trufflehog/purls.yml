@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/trufflesecurity/trufflehog
+  - pkg:golang/github.com/trufflesecurity/trufflehog

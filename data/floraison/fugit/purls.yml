@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-fugit
+  - pkg:deb/ubuntu/ruby-fugit
+  - pkg:gem/fugit
+  - pkg:github/floraison/fugit
+  - pkg:rpm/opensuse//rubygem-fugit
