@@ -414,10 +414,15 @@ cpes:
   - cpe:2.3:a:ffmpeg:ffmpeg:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:5.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:5.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:5.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:5.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:5.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:5.7:*:*:*:*:*:*:*

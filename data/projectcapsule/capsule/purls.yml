@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/projectcapsule/capsule
+  - pkg:golang/github.com/projectcapsule/capsule-proxy

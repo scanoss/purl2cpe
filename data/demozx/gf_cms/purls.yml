@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/demozx/gf_cms
+  - pkg:golang/github.com/demozx/gf_cms

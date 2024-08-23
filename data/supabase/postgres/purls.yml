@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/supabase/postgrest-php
+  - pkg:docker/supabase/postgres
+  - pkg:github/supabase/postgres

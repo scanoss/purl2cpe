@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/go-tribe/gotribe-admin
+  - pkg:golang/github.com/go-tribe/gotribe-admin

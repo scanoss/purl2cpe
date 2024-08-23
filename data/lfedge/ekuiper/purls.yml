@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lf-edge/ekuiper
+  - pkg:golang/github.com/lf-edge/ekuiper

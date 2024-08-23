@@ -84,6 +84,21 @@ cpes:
   - cpe:2.3:a:weblate:weblate:4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:4.18.2:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.2.2:*:*:*:*:*:*:*
@@ -107,3 +122,24 @@ cpes:
   - cpe:2.3:a:weblate:weblate:4.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.6.1:*:*:*:*:*:*:*
