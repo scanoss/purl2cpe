@@ -65,3 +65,5 @@ cpes:
   - cpe:2.3:a:squirrelly:squirrelly:8.0.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:squirrelly:squirrelly:8.0.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:squirrelly:squirrelly:8.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:squirrelly:squirrelly:9.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:squirrelly:squirrelly:*:*:*:*:*:node.js:*:*

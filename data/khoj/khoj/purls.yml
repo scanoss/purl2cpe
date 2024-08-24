@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/khoj-ai/khoj
+  - pkg:pypi/khoj
+  - pkg:sourceforge/khoj.mirror
