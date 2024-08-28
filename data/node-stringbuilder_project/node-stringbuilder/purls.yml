@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/magiclen/node-stringbuilder
+  - pkg:npm/node-stringbuilder

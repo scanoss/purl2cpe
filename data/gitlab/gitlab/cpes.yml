@@ -1542,9 +1542,13 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:17.1.2:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*

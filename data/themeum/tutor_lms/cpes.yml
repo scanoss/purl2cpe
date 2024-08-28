@@ -131,4 +131,5 @@ cpes:
   - cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:2.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:2.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:-:*:*:*:*:wordpress:*:*

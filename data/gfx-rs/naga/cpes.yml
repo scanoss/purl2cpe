@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gfx-rs:naga:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gfx-rs:naga:0.14.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-rs:naga:-:*:*:*:*:rust:*:*
