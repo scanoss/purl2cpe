@@ -38,5 +38,13 @@ cpes:
   - cpe:2.3:a:mycred:mycred:2.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mycred:mycred:2.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mycred:mycred:-:*:*:*:*:wordpress:*:*

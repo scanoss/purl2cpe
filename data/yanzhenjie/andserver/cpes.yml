@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:yanzhenjie:andserver:*:*:*:*:*:*:*:*
   - cpe:2.3:a:yanzhenjie:andserver:2.1.12:*:*:*:*:*:*:*

@@ -494,10 +494,21 @@ cpes:
   - cpe:2.3:a:casbin:casdoor:1.56.1:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.56.2:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.575.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.576.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.577.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.578.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.579.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.579.1:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.580.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.581.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.582.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.583.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:1.583.1:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.4:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.58.5:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.59.0:*:*:*:*:*:*:*
