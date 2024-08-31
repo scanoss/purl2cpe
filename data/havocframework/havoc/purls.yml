@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/havocframework/havoc
+  - pkg:golang/github.com/havocframework/havoc

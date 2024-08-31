@@ -49,6 +49,7 @@ cpes:
   - cpe:2.3:a:traccar:traccar:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.4:*:*:*:*:*:*:*
@@ -57,3 +58,4 @@ cpes:
   - cpe:2.3:a:traccar:traccar:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:6.0:*:*:*:*:*:*:*

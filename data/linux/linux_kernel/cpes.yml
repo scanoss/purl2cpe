@@ -3430,6 +3430,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:4.19.318:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.19.319:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.19.32:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:4.19.320:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.19.33:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.19.34:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.19.35:*:*:*:*:*:*:*

@@ -126,4 +126,5 @@ cpes:
   - cpe:2.3:a:wpdeveloper:embedpress:3.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:embedpress:4.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:embedpress:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:embedpress:4.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:embedpress:-:*:*:*:*:wordpress:*:*

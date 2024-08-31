@@ -361,5 +361,10 @@ cpes:
   - cpe:2.3:a:metagauss:registrationmagic:5.2.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:registrationmagic:5.2.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:registrationmagic:5.2.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:registrationmagic:5.2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:registrationmagic:5.2.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:registrationmagic:5.2.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:registrationmagic:5.2.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:registrationmagic:5.2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:registrationmagic:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:registrationmagic:-:*:*:*:*:wordpress:*:*

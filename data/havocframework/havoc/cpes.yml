@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:havocframework:havoc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:havocframework:havoc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:havocframework:havoc:c2_0.7:*:*:*:*:*:*:*

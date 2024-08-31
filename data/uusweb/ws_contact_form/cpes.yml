@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:uusweb:ws_contact_form:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:uusweb:ws_contact_form:*:*:*:*:*:wordpress:*:*

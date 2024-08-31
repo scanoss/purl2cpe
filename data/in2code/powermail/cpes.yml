@@ -272,3 +272,4 @@ cpes:
   - cpe:2.3:a:in2code:powermail:7.2.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:7.3.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:7.3.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*
