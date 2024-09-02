@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ollama/ollama
+  - pkg:golang/github.com/ollama/ollama

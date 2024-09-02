@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:docker/apache/airflow
+  - pkg:github/apache/airflow
