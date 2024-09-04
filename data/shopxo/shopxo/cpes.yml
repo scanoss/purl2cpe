@@ -18,3 +18,4 @@ cpes:
   - cpe:2.3:a:shopxo:shopxo:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopxo:shopxo:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopxo:shopxo:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopxo:shopxo:6.2.0:*:*:*:*:*:*:*

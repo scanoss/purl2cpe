@@ -2,7 +2,9 @@ cpes:
   - cpe:2.3:a:collabora:online:*:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:-:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:21.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collabora:online:21.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:22.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:collabora:online:22.05.13:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:4.2.11:*:*:*:*:*:*:*
@@ -33,6 +35,7 @@ cpes:
   - cpe:2.3:a:collabora:online:6.4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:6.4.16:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collabora:online:6.4.27:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:6.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:6.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:collabora:online:6.4.5:*:*:*:*:*:*:*

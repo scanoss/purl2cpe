@@ -65,3 +65,4 @@ cpes:
   - cpe:2.3:a:roxy-wi:roxy-wi:6.3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roxy-wi:roxy-wi:6.3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roxy-wi:roxy-wi:6.3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roxy-wi:roxy-wi:8.0:*:*:*:*:*:*:*

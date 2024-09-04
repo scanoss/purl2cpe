@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chartist-js/chartist
+  - pkg:npm/chartist

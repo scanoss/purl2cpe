@@ -146,6 +146,7 @@ cpes:
   - cpe:2.3:a:kde:plasma-workspace:5.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.10:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.27.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.4:*:*:*:*:*:*:*
@@ -153,6 +154,7 @@ cpes:
   - cpe:2.3:a:kde:plasma-workspace:5.27.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.7:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.27.80:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.9:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.27.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.2.95:*:*:*:*:*:*:*
@@ -198,9 +200,13 @@ cpes:
   - cpe:2.3:a:kde:plasma-workspace:5.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.8.95:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.90.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.91.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.92.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:plasma-workspace:5.93.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kde:plasma-workspace:5.9.95:*:*:*:*:*:*:*

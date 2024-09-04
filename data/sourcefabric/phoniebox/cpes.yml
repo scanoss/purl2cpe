@@ -25,3 +25,4 @@ cpes:
   - cpe:2.3:a:sourcefabric:phoniebox:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sourcefabric:phoniebox:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sourcefabric:phoniebox:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcefabric:phoniebox:2.7.0:*:*:*:*:*:*:*

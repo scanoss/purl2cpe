@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hwameistor/hwameistor
+  - pkg:golang/github.com/hwameistor/hwameistor

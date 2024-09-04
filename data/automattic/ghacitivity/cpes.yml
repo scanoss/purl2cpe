@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:automattic:ghacitivity:2.0.0:alpha:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:ghacitivity:2.2.0:alpha:*:*:*:wordpress:*:*
