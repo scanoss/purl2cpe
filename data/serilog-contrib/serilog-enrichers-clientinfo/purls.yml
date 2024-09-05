@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/serilog-contrib/serilog-enrichers-clientinfo
+  - pkg:nuget/serilog.enrichers.clientinfo

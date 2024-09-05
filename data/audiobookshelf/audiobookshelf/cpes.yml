@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:audiobookshelf:audiobookshelf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:-:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:0.9.61:beta:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:0.9.61:beta0:*:*:*:*:*:*

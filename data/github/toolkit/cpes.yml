@@ -11,4 +11,5 @@ cpes:
   - cpe:2.3:a:github:toolkit:1.8.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:github:toolkit:1.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:github:toolkit:1.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:github:toolkit:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:github:toolkit:-:*:*:*:*:node.js:*:*
