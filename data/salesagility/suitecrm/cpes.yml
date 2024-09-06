@@ -240,3 +240,4 @@ cpes:
   - cpe:2.3:a:salesagility:suitecrm:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:8.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:salesagility:suitecrm:8.6.1:*:*:*:*:*:*:*

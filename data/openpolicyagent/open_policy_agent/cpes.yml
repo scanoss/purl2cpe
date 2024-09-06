@@ -138,3 +138,4 @@ cpes:
   - cpe:2.3:a:openpolicyagent:open_policy_agent:0.9.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openpolicyagent:open_policy_agent:0.9.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:openpolicyagent:open_policy_agent:0.9.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openpolicyagent:open_policy_agent:*:*:*:*:*:windows:*:*

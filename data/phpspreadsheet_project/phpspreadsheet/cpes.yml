@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:*:*:*:*:*:*:*:*
   - cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:-:*:*:*:*:*:*:*
   - cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.0.0:beta:*:*:*:*:*:*

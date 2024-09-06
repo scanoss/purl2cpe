@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/starship/starship
+  - pkg:github/mystarship/starship

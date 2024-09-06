@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:openatom:openharmony:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:openatom:openharmony:*:*:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:4.0:-:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:4.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:4.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:4.0:beta2:*:*:-:*:*:*

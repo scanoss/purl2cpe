@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:containers:aardvark-dns:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:containers:aardvark-dns:1.12.1:*:*:*:*:*:*:*
