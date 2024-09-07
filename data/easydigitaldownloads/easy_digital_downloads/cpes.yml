@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:*:*:*:*:*:easy_digital_downloads:*:*
   - cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:*:*:*:*:*:wordpress:*:*

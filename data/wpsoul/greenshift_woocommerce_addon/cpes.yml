@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpsoul:greenshift_woocommerce_addon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsoul:greenshift_woocommerce_addon:*:*:*:*:*:wordpress:*:*

@@ -430,6 +430,47 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev12:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.0:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev12:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev13:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.0:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev0:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev1:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev2:*:*:*:*:*:*

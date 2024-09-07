@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:clamav:clamav:*:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:-:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:0.02:*:*:*:*:*:*:*
@@ -211,4 +212,5 @@ cpes:
   - cpe:2.3:a:clamav:clamav:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.0.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:-:*:*:*:lts:*:*:*

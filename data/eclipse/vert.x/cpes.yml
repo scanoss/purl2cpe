@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:eclipse:vert.x:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:3.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:3.0.0:milestone3:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:kroxylicious:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:kroxylicious:-:*:*:*:*:*:*:*
