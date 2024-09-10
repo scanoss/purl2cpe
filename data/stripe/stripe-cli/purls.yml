@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/stripe/stripe-cli
+  - pkg:github/stripe/stripe-cli
+  - pkg:golang/github.com/stripe/stripe-cli

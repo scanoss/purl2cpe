@@ -187,4 +187,5 @@ cpes:
   - cpe:2.3:a:sygnoos:popup_builder:4.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:4.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sygnoos:popup_builder:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:-:*:*:*:*:wordpress:*:*

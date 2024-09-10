@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:overleaf:overleaf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:overleaf:overleaf:4.0.0:*:server_pro:*:*:*:*:*
+  - cpe:2.3:a:overleaf:overleaf:5.0.0:*:server_pro:*:*:*:*:*
+  - cpe:2.3:a:overleaf:overleaf:*:*:*:*:community:*:*:*
+  - cpe:2.3:a:overleaf:overleaf:*:*:*:*:server_pro:*:*:*
+  - cpe:2.3:a:overleaf:overleaf:*:*:server_pro:*:*:*:*:*

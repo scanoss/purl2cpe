@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/flask-appbuilder
+  - pkg:deb/ubuntu/flask-appbuilder
+  - pkg:github/dpgaspar/flask-appbuilder
+  - pkg:pypi/flask-appbuilder
+  - pkg:sourceforge/flaskappbuilder

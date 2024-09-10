@@ -8,6 +8,7 @@ cpes:
   - cpe:2.3:a:openzeppelin:contracts:0.5.0:*:*:*:*:cairo:*:*
   - cpe:2.3:a:openzeppelin:contracts:0.5.1:*:*:*:*:cairo:*:*
   - cpe:2.3:a:openzeppelin:contracts:0.6.0:*:*:*:*:cairo:*:*
+  - cpe:2.3:a:openzeppelin:contracts:0.6.1:*:*:*:*:cairo:*:*
   - cpe:2.3:a:openzeppelin:contracts:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts:2.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts:2.4.0:beta0:*:*:*:node.js:*:*

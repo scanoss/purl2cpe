@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/overleaf/overleaf
+  - pkg:golang/github.com/overleaf/overleaf

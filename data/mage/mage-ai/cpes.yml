@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:mage:mage-ai:0.8.70:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.71:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:*:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:-:*:*:*:*:python:*:*
