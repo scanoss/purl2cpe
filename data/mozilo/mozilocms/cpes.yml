@@ -34,3 +34,4 @@ cpes:
   - cpe:2.3:a:mozilo:mozilocms:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilo:mozilocms:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilo:mozilocms:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilo:mozilocms:3.0:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-request-store
+  - pkg:gem/request_store
+  - pkg:github/steveklabnik/request_store
+  - pkg:rpm/fedora/rubygem-request_store
+  - pkg:rpm/opensuse/rubygem-request_store

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpmudev:forminator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpmudev:forminator:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mezz/justenoughitems
+  - pkg:maven/mezz.jei/justenoughitems-mc1.13
