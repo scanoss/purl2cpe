@@ -99,3 +99,4 @@ cpes:
   - cpe:2.3:a:cern:indico:3.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.2.6:*:*:*:*:*:*:*

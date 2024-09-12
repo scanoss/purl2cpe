@@ -48,8 +48,26 @@ cpes:
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.22:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.39:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.41:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.5:*:*:*:*:wordpress:*:*

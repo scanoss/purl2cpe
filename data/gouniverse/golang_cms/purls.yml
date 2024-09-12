@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gouniverse/cms
+  - pkg:golang/github.com/gouniverse/cms

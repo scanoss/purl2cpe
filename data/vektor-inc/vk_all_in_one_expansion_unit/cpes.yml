@@ -524,5 +524,33 @@ cpes:
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.88.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.89.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.89.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.9.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.90.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.91.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.91.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.92.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.93.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.94.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.95.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.96.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.97.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.98.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.98.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:-:*:*:*:*:wordpress:*:*

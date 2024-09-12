@@ -122,6 +122,7 @@ cpes:
   - cpe:2.3:a:canonical:juju:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:3.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.3:beta1:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.3:beta2:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.3:rc1:*:*:*:*:*:*
