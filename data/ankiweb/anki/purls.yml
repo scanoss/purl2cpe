@@ -1,0 +1,6 @@
+purls:
+  - pkg:cargo/anki
+  - pkg:deb/debian/anki
+  - pkg:deb/ubuntu/anki
+  - pkg:github/ankitects/anki
+  - pkg:pypi/anki

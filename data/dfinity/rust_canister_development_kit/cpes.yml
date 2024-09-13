@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:dfinity:rust_canister_development_kit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dfinity:rust_canister_development_kit:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dfinity:rust_canister_development_kit:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dfinity:rust_canister_development_kit:0.14.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/qnap-download_station
+  - pkg:github/cyclotron3k/qnap-download_station

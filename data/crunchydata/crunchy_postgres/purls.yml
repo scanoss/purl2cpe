@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/crunchydata/postgres-operator
+  - pkg:golang/github.com/crunchydata/postgres-operator
