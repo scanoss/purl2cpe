@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dnkorpushov/ebookmeta
+  - pkg:pypi/ebookmeta

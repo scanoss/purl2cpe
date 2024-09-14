@@ -1,5 +1,30 @@
 cpes:
   - cpe:2.3:a:loway:queuemetrics:*:*:*:*:*:*:*:*
   - cpe:2.3:a:loway:queuemetrics:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:12.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:12.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:12.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:13.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:13.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:14.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:14.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:14.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:15.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:15.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:16.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:17.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:17.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:18.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:19.04:*:*:*:*:*:*:*
   - cpe:2.3:a:loway:queuemetrics:19.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:19.10:*:*:*:*:*:*:*
   - cpe:2.3:a:loway:queuemetrics:19.10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:20.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:21.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:22.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:22.02.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:22.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:22.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:23.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:24.05:*:*:*:*:*:*:*

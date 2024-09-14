@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:octavolabs:vernemq:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:octavolabs:vernemq:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:octavolabs:vernemq:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:octavolabs:vernemq:2.0.1:*:*:*:*:*:*:*

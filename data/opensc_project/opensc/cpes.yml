@@ -44,5 +44,8 @@ cpes:
   - cpe:2.3:a:opensc_project:opensc:0.23.0:-:*:*:*:*:*:*
   - cpe:2.3:a:opensc_project:opensc:0.23.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opensc_project:opensc:0.23.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opensc_project:opensc:0.24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:opensc_project:opensc:0.24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opensc_project:opensc:0.24.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opensc_project:opensc:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensc_project:opensc:0.3.1:*:*:*:*:*:*:*

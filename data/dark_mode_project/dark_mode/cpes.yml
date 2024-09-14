@@ -15,3 +15,4 @@ cpes:
   - cpe:2.3:a:dark_mode_project:dark_mode:3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dark_mode_project:dark_mode:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dark_mode_project:dark_mode:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dark_mode_project:dark_mode:*:*:*:*:*:wordpress:*:*
