@@ -137,10 +137,15 @@ cpes:
   - cpe:2.3:a:crunchydata:crunchy_postgres:15:*:beta4:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:15:*:rc1:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:15:*:rc2:*:*:*:*:*
+  - cpe:2.3:a:crunchydata:crunchy_postgres:16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16.0:*:-:*:*:*:*:*
+  - cpe:2.3:a:crunchydata:crunchy_postgres:16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16.1:*:-:*:*:*:*:*
+  - cpe:2.3:a:crunchydata:crunchy_postgres:16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16.2:*:-:*:*:*:*:*
+  - cpe:2.3:a:crunchydata:crunchy_postgres:16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16.3:*:-:*:*:*:*:*
+  - cpe:2.3:a:crunchydata:crunchy_postgres:16.4:*:*:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16.4:*:-:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16:*:beta1:*:*:*:*:*
   - cpe:2.3:a:crunchydata:crunchy_postgres:16:*:beta2:*:*:*:*:*
