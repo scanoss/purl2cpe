@@ -105,4 +105,5 @@ cpes:
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joomunited:wp_meta_seo:4.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:-:*:*:*:*:wordpress:*:*
