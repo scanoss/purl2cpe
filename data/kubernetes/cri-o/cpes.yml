@@ -132,6 +132,9 @@ cpes:
   - cpe:2.3:a:kubernetes:cri-o:1.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:cri-o:1.24.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:cri-o:1.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:cri-o:1.28.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:cri-o:1.29.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:cri-o:1.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:cri-o:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:cri-o:1.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:cri-o:1.8.2:*:*:*:*:*:*:*

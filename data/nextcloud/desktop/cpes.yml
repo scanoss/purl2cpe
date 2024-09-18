@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nextcloud:desktop:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:desktop:1.1.0:-:*:*:*:*:*:*
