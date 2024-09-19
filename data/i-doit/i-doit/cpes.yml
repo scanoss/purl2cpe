@@ -119,4 +119,5 @@ cpes:
   - cpe:2.3:a:i-doit:i-doit:25:*:*:*:open:*:*:*
   - cpe:2.3:a:i-doit:i-doit:25:*:*:*:pro:*:*:*
   - cpe:2.3:a:i-doit:i-doit:26:*:*:*:pro:*:*:*
+  - cpe:2.3:a:i-doit:i-doit:28:*:*:*:pro:*:*:*
   - cpe:2.3:a:i-doit:i-doit:-:*:*:*:open:*:*:*
