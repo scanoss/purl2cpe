@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:apache:seata:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:2.0.0:*:*:*:*:*:*:*
