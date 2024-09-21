@@ -72,4 +72,5 @@ cpes:
   - cpe:2.3:a:openzeppelin:contracts:4.9.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts:4.9.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts:4.9.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:contracts:*:*:*:*:*:cairo:*:*
   - cpe:2.3:a:openzeppelin:contracts:*:*:*:*:*:node.js:*:*
