@@ -297,6 +297,7 @@ cpes:
   - cpe:2.3:a:contao:contao:4.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.20:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.28:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.5:*:*:*:*:*:*:*

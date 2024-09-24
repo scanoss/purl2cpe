@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:apache:hugegraph:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hugegraph:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hugegraph:1.2.0:*:*:*:*:*:*:*

@@ -1,2 +1,13 @@
 cpes:
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms_-_migration_tool:-:*:*:*:*:wordpress:*:*

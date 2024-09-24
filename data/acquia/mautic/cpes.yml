@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:acquia:mautic:*:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:-:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:1.0.0:-:*:*:*:*:*:*
