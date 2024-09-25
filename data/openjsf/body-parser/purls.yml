@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/expressjs/body-parser
+  - pkg:npm/body-parser

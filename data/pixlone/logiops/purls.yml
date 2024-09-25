@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/logiops
+  - pkg:deb/ubuntu/logiops
+  - pkg:github/pixlone/logiops
+  - pkg:rpm/fedora/logiops
+  - pkg:rpm/opensuse/logiops
+  - pkg:sourceforge/logiops.mirror

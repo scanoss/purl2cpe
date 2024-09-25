@@ -410,6 +410,7 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.38.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.38.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.38.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.39.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.39.1:*:*:*:*:*:*:*
@@ -428,3 +429,5 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.41.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.41.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.62.0:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 purls:
   - pkg:github/lizardbyte/sunshine
+  - pkg:rpm/opensuse/sunshine

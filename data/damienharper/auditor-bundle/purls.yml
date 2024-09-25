@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/damienharper/auditor-bundle
+  - pkg:github/damienharper/auditor-bundle

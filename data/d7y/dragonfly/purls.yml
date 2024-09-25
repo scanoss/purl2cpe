@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dragonflyoss/dragonfly2
+  - pkg:golang/github.com/dragonflyoss/dragonfly2

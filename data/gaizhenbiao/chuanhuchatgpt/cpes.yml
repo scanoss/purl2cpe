@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230303:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230305:*:*:*:*:*:*:*

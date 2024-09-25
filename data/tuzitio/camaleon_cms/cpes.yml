@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tuzitio:camaleon_cms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:0.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:0.2.0:*:*:*:*:*:*:*

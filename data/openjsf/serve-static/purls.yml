@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/expressjs/serve-static
+  - pkg:npm/serve-static

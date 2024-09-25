@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webhammer:wp_custom_fields_search:*:*:*:*:*:wordpress:*:*
