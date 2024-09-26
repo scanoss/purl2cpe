@@ -109,4 +109,5 @@ cpes:
   - cpe:2.3:a:pickplugins:post_grid:2.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:-:*:*:*:*:wordpress:*:*

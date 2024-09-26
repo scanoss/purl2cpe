@@ -83,3 +83,4 @@ cpes:
   - cpe:2.3:a:geo_mashup_project:geo_mashup:1.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geo_mashup_project:geo_mashup:1.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geo_mashup_project:geo_mashup:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geo_mashup_project:geo_mashup:*:*:*:*:*:wordpress:*:*

@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:o:openplcproject:openplc_v3_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:openplcproject:openplc_v3_firmware:16bf8bac1a36d95b73e7b8722d0edb8b9c5bb56a:*:*:*:*:*:*:*
+  - cpe:2.3:o:openplcproject:openplc_v3_firmware:b4702061dc14d1024856f71b4543298d77007b8:*:*:*:*:*:*:*

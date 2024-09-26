@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gematik/app-referencevalidator
+  - pkg:maven/de.gematik.refv/referencevalidator

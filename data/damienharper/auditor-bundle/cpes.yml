@@ -1,2 +1,14 @@
 cpes:
   - cpe:2.3:a:damienharper:auditor-bundle:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:damienharper:auditor-bundle:5.2.5:*:*:*:*:*:*:*
