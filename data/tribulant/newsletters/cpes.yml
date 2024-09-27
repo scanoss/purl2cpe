@@ -126,5 +126,6 @@ cpes:
   - cpe:2.3:a:tribulant:newsletters:4.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tribulant:newsletters:4.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:-:*:*:*:*:wordpress:*:*

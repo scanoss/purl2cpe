@@ -1585,6 +1585,7 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:17.3.2:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.3.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.3.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.4.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*

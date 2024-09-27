@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:freeipa:freeipa:*:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:-:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:0.99-641-20080218:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:0.99-698-20080228:*:*:*:*:*:*:*

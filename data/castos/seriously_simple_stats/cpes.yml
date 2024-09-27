@@ -18,3 +18,4 @@ cpes:
   - cpe:2.3:a:castos:seriously_simple_stats:1.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_stats:1.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_stats:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_stats:1.5.2:*:*:*:*:wordpress:*:*

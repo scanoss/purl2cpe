@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wordpress/gutenberg
+  - pkg:github/wpplugins/gutenberg
