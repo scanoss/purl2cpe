@@ -63,6 +63,13 @@ cpes:
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.40:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.48:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:product_slider_for_woocommerce:1.13.6:*:*:*:*:wordpress:*:*

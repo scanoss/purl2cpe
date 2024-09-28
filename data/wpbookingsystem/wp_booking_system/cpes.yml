@@ -30,6 +30,8 @@ cpes:
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.2:*:*:*:*:wordpress:*:*

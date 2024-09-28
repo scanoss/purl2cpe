@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tinfoilsecurity:devise-two-factor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tinfoilsecurity:devise-two-factor:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tinfoilsecurity:devise-two-factor:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tinfoilsecurity:devise-two-factor:1.0.1:*:*:*:*:*:*:*

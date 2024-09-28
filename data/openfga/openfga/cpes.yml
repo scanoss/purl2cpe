@@ -48,3 +48,5 @@ cpes:
   - cpe:2.3:a:openfga:openfga:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.5.8:*:*:*:*:*:*:*

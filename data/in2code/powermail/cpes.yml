@@ -57,6 +57,7 @@ cpes:
   - cpe:2.3:a:in2code:powermail:10.8.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:10.8.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.0.8:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:in2code:powermail:10.9.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.0.9:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.1.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.1.10:*:*:*:*:typo3:*:*
@@ -84,6 +85,7 @@ cpes:
   - cpe:2.3:a:in2code:powermail:12.3.4:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:12.3.5:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.2.3:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:in2code:powermail:12.4.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.2.4:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.3.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:1.3.10:*:*:*:*:typo3:*:*
@@ -305,6 +307,7 @@ cpes:
   - cpe:2.3:a:in2code:powermail:7.4.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:7.4.2:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:in2code:powermail:7.5.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:8.0.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:8.0.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:8.0.2:*:*:*:*:typo3:*:*
@@ -323,6 +326,7 @@ cpes:
   - cpe:2.3:a:in2code:powermail:8.4.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:8.4.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:8.4.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:in2code:powermail:8.5.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:9.0.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:9.0.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:in2code:powermail:9.0.2:*:*:*:*:typo3:*:*

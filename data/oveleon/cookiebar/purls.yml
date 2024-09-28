@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/oveleon/contao-cookiebar
+  - pkg:github/oveleon/contao-cookiebar

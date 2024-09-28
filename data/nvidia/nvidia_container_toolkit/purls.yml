@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nvidia/nvidia-container-toolkit
+  - pkg:golang/github.com/nvidia/nvidia-container-toolkit

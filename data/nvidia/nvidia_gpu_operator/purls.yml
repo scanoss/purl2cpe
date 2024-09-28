@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nvidia/gpu-operator
+  - pkg:golang/github.com/nvidia/gpu-operator

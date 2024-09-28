@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:iredmail:iredadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:*:*:*:*:open_source:*:*:*

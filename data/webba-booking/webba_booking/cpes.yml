@@ -160,9 +160,67 @@ cpes:
   - cpe:2.3:a:webba-booking:webba_booking:4.2.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.30.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.30.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.30.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.30.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.2.30.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:4.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:4.5.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.29:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0:*:*:*:*:wordpress:*:*
