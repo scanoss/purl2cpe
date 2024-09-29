@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rollup/rollup
+  - pkg:npm/rollup

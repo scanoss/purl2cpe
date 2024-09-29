@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/czim/file-handling
+  - pkg:github/czim/file-handling
