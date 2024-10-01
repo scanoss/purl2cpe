@@ -80,4 +80,5 @@ cpes:
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.6:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.7:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:*:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:-:*:*:*:*:go:*:*

@@ -1,3 +1,19 @@
 cpes:
   - cpe:2.3:a:coffee2code:remember_me_controls:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:coffee2code:remember_me_controls:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:coffee2code:remember_me_controls:-:*:*:*:*:wordpress:*:*

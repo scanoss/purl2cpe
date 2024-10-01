@@ -73,5 +73,18 @@ cpes:
   - cpe:2.3:a:dineshkarki:use_any_font:6.2.91:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dineshkarki:use_any_font:6.2.92:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dineshkarki:use_any_font:6.2.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.2.95:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.2.96:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.2.97:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.2.98:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dineshkarki:use_any_font:6.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dineshkarki:use_any_font:6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:6.3.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:use_any_font:-:*:*:*:*:wordpress:*:*
