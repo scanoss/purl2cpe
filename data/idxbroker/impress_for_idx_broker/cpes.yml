@@ -62,3 +62,24 @@ cpes:
   - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.0:*:*:*:platinum:wordpress:*:*
   - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.1:*:*:*:platinum:wordpress:*:*
   - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.2:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.3:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.4:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.5:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.6:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:2.6.7:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.0:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.10:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.1:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.2:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.3:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.4:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.5:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.6:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.7:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.8:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.0.9:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.1.0:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.2.0:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.2.1:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:3.2.2:*:*:*:platinum:wordpress:*:*
+  - cpe:2.3:a:idxbroker:impress_for_idx_broker:-:*:*:*:platinum:wordpress:*:*
