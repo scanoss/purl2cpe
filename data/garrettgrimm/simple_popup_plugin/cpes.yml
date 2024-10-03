@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:garrettgrimm:simple_popup_plugin:4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:garrettgrimm:simple_popup_plugin:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/wireui/wireui
+  - pkg:github/wireui/wireui

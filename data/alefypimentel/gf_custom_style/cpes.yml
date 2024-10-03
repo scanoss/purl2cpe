@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:alefypimentel:gf_custom_style:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alefypimentel:gf_custom_style:-:*:*:*:*:wordpress:*:*

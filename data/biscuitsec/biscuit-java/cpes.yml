@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:biscuitsec:biscuit-java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:biscuitsec:biscuit-java:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:biscuitsec:biscuit-java:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:biscuitsec:biscuit-java:3.0.2:*:*:*:*:*:*:*

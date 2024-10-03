@@ -86,20 +86,46 @@ cpes:
   - cpe:2.3:a:redhat:keycloak:2.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.1.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:22.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:22.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:22.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:22.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:22.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:22.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:22.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:22.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:23.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.3.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:24.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:24.0.7-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:24.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.4.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:25.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.5.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:2.5.10:*:*:*:*:*:*:*
