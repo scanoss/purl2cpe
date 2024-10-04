@@ -219,6 +219,12 @@ cpes:
   - cpe:2.3:a:givewp:givewp:3.12.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.13.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.14.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.16.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.2:*:*:*:*:wordpress:*:*
@@ -236,3 +242,4 @@ cpes:
   - cpe:2.3:a:givewp:givewp:3.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:-:*:*:*:*:wordpress:*:*

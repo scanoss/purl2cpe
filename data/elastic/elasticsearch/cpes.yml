@@ -352,6 +352,10 @@ cpes:
   - cpe:2.3:a:elastic:elasticsearch:8.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.2.2:*:*:*:*:*:*:*
