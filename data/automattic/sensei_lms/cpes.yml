@@ -45,7 +45,21 @@ cpes:
   - cpe:2.3:a:automattic:sensei_lms:4.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.19.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.19.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.20.2:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.20.2:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.21.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.21.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.22.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.23.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.23.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.24.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.24.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.4.1:*:*:*:*:wordpress:*:*

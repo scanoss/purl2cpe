@@ -125,6 +125,7 @@ cpes:
   - cpe:2.3:a:librenms:librenms:23.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:librenms:librenms:23.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:23.4.1:*:*:*:*:*:*:*
