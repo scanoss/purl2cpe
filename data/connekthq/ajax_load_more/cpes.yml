@@ -45,3 +45,4 @@ cpes:
   - cpe:2.3:a:connekthq:ajax_load_more:7.1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:7.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:7.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.1.2:*:*:*:*:wordpress:*:*

@@ -82,6 +82,8 @@ cpes:
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p34:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p35:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p37:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:collaboration:8.8.15:p38:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:collaboration:8.8.15:p39:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p4:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p40:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.8.15:p41:*:*:*:*:*:*
