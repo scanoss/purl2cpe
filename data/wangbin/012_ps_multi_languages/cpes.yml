@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wangbin:012_ps_multi_languages:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wangbin:012_ps_multi_languages:*:*:*:*:*:wordpress:*:*

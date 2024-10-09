@@ -202,5 +202,6 @@ cpes:
   - cpe:2.3:a:veronalabs:wp_sms:6.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:*:*:*:*:*:wordpress:*:*

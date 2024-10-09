@@ -158,11 +158,53 @@ cpes:
   - cpe:2.3:a:plainware:shiftcontroller:4.9.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.39:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.49:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.54:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.55:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.56:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.57:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.58:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.59:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:4.9.66:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plainware:shiftcontroller:4.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainware:shiftcontroller:-:*:*:*:*:wordpress:*:*
