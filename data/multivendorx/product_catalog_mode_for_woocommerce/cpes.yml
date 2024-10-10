@@ -48,3 +48,4 @@ cpes:
   - cpe:2.3:a:multivendorx:product_catalog_mode_for_woocommerce:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:product_catalog_mode_for_woocommerce:5.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:product_catalog_mode_for_woocommerce:5.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:product_catalog_mode_for_woocommerce:5.0.3:*:*:*:*:wordpress:*:*

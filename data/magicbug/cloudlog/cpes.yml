@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:magicbug:cloudlog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.15:*:*:*:*:*:*:*

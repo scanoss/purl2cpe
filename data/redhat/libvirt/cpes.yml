@@ -146,28 +146,45 @@ cpes:
   - cpe:2.3:a:redhat:libvirt:0.9.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.4:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.4:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.5.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.5.3:*:*:*:*:*:*:*
@@ -180,8 +197,14 @@ cpes:
   - cpe:2.3:a:redhat:libvirt:1.0.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.0.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.7.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:10.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:1.1.0:rc1:*:*:*:*:*:*
@@ -507,8 +530,65 @@ cpes:
   - cpe:2.3:a:redhat:libvirt:8.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:libvirt:8.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.7.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:8.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.7.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:libvirt:9.9.0:rc2:*:*:*:*:*:*
