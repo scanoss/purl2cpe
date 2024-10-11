@@ -15,6 +15,7 @@ cpes:
   - cpe:2.3:a:pixelfed:pixelfed:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pixelfed:pixelfed:0.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pixelfed:pixelfed:0.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelfed:pixelfed:0.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pixelfed:pixelfed:0.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pixelfed:pixelfed:0.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pixelfed:pixelfed:0.6.0:*:*:*:*:*:*:*

@@ -79,6 +79,7 @@ cpes:
   - cpe:2.3:a:payara:payara:5.64.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.65.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.66.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:payara:payara:5.67.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.10.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.1.0:*:*:*:enterprise:*:*:*
@@ -89,6 +90,7 @@ cpes:
   - cpe:2.3:a:payara:payara:6.15.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.16.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.17.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:payara:payara:6.18.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.2022.1:alpha1:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2022.1:alpha3:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2022.1:alpha4:*:*:community:*:*:*
@@ -114,6 +116,7 @@ cpes:
   - cpe:2.3:a:payara:payara:6.2024.6:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2024.7:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2024.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:6.2024.9:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.4.0:*:*:*:enterprise:*:*:*

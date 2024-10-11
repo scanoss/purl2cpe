@@ -119,3 +119,4 @@ cpes:
   - cpe:2.3:a:pytorchlightning:pytorch_lightning:1.5.6:*:*:*:*:python:*:*
   - cpe:2.3:a:pytorchlightning:pytorch_lightning:1.5.7:*:*:*:*:python:*:*
   - cpe:2.3:a:pytorchlightning:pytorch_lightning:1.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pytorchlightning:pytorch_lightning:*:*:*:*:*:python:*:*

@@ -125,4 +125,5 @@ cpes:
   - cpe:2.3:a:link_library_project:link_library:7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:link_library_project:link_library:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:link_library_project:link_library:-:*:*:*:*:wordpress:*:*

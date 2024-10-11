@@ -1,3 +1,6 @@
 cpes:
+  - cpe:2.3:a:syracom:secure_login:3.1.1.0:*:*:*:*:jira:*:*
+  - cpe:2.3:a:syracom:secure_login:*:*:*:*:*:bitbucket:*:*
+  - cpe:2.3:a:syracom:secure_login:*:*:*:*:*:confluence:*:*
   - cpe:2.3:a:syracom:secure_login:*:*:*:*:*:jira:*:*
   - cpe:2.3:a:syracom:secure_login:-:*:*:*:*:jira:*:*

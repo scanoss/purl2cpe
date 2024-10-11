@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/azure/azure-uamqp-c
+  - pkg:github/azure/azure-uamqp-python
+  - pkg:pypi/uamqp

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/aimeos/ai-controller-frontend
+  - pkg:github/aimeos/ai-controller-frontend

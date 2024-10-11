@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libcap_project:libcap:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.00:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.01:*:*:*:*:*:*:*
@@ -66,3 +67,5 @@ cpes:
   - cpe:2.3:a:libcap_project:libcap:2.64:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.65:*:*:*:*:*:*:*
   - cpe:2.3:a:libcap_project:libcap:2.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap_project:libcap:2.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap_project:libcap:2.68:*:*:*:*:*:*:*
