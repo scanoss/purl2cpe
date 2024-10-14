@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:plexus-utils_project:plexus-utils:*:*:*:*:*:*:*:*
   - cpe:2.3:a:plexus-utils_project:plexus-utils:1.4:-:*:*:*:*:*:*
   - cpe:2.3:a:plexus-utils_project:plexus-utils:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:plexus-utils_project:plexus-utils:1.4.2:*:*:*:*:*:*:*
