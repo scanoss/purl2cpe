@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/dnspod/dnspod-sr
+  - pkg:github/dnspod/dnspod-sr
+  - pkg:golang/github.com/dnspod/dnspod-sr

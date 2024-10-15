@@ -1,3 +1,29 @@
 cpes:
   - cpe:2.3:a:lollms:lollms_web_ui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:0.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:6.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:6.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.4:*:*:*:*:*:*:*
