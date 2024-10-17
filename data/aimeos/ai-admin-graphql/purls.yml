@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/aimeos/ai-admin-graphql
+  - pkg:github/aimeos/ai-admin-graphql

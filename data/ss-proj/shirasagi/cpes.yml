@@ -35,6 +35,7 @@ cpes:
   - cpe:2.3:a:ss-proj:shirasagi:1.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ss-proj:shirasagi:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ss-proj:shirasagi:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ss-proj:shirasagi:1.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ss-proj:shirasagi:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ss-proj:shirasagi:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ss-proj:shirasagi:1.3.0:*:*:*:*:*:*:*

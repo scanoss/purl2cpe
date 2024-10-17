@@ -406,5 +406,6 @@ cpes:
   - cpe:2.3:a:elementor:website_builder:3.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:-:*:*:*:*:wordpress:*:*
