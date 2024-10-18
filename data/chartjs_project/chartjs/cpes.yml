@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:chartjs_project:chartjs:2023.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:chartjs_project:chartjs:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chartjs_project:chartjs:-:*:*:*:*:wordpress:*:*

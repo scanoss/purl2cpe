@@ -47,3 +47,4 @@ cpes:
   - cpe:2.3:a:opensecurity:mobile_security_framework:3.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opensecurity:mobile_security_framework:3.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:opensecurity:mobile_security_framework:3.7.8:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opensecurity:mobile_security_framework:4.0.5:*:*:*:*:*:*:*

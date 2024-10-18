@@ -1,411 +1,825 @@
 cpes:
+  - cpe:2.3:a:elementor:website_builder:0.10.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.10.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.10.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.11.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.11.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.11.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.1.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.2.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.3.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.3.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.3.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.4.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.4.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.5.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.5.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.5.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.6.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.7.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.7.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.7.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.7.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.7.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.8.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.8.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.9.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.9.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.9.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:0.9.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:0.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.0.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.1.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.2.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.2.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.2.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.2.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.2.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.3.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.0:rc3:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.4.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.0:rc3:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.5.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.0:rc3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.0:rc4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.0:rc4:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.6.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.0:rc3:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.7.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.7.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.0:rc3:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.8.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.0:-:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.0:rc1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.0:rc1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.0:rc2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.0:rc2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.0:rc3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.0:rc3:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:1.9.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:1.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.13:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.14:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.15:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.16:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.0.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.1.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.2.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:beta5:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:beta5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.3.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.4.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.13:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.14:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.15:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.16:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.5.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.6.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.7.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.8.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:beta5:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:beta5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.13:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.14:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:2.9.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:2.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta5:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:beta6:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:beta6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.10:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.11:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.12:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.13:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.14:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.15:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.16:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.8.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.0.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.0:beta1:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.0:beta2:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.0:beta3:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.0:beta4:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.0:-:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.13.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.1.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.16.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.16.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.16.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.16.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.16.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.16.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.17.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.17.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.17.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.17.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.17.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.17.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.17.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.18.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.18.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.18.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.18.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.18.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.18.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.19.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.19.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.19.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.19.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.19.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.19.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.19.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.19.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.19.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.20.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.20.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.20.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.20.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.20.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.20.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.20.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.20.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.2.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.21.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.21.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.2.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.22.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.22.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.22.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.22.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.22.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.22.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.22.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.22.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.23.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.23.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.23.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.23.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.23.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.23.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.23.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.23.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.23.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.23.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.2.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.2.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.2.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.3.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.3.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.4.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.5.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.6.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:*:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:-:*:*:*:*:wordpress:*:*

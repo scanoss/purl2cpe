@@ -189,6 +189,7 @@ cpes:
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p46:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p47:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p48:*:*:*:*:*:*
+  - cpe:2.3:a:checkmk:checkmk:2.1.0:p49:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p6:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.1.0:p7:*:*:*:*:*:*

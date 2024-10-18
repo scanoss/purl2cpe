@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openrefine:openrefine:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0.2:*:*:*:*:*:*:*

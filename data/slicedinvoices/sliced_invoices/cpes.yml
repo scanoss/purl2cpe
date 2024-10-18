@@ -93,6 +93,11 @@ cpes:
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.3:*:*:*:*:wordpress:*:*
@@ -102,4 +107,7 @@ cpes:
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slicedinvoices:sliced_invoices:3.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slicedinvoices:sliced_invoices:-:*:*:*:*:wordpress:*:*

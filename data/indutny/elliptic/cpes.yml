@@ -84,4 +84,6 @@ cpes:
   - cpe:2.3:a:indutny:elliptic:6.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:indutny:elliptic:6.5.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:indutny:elliptic:6.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:indutny:elliptic:6.5.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:indutny:elliptic:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:indutny:elliptic:-:*:*:*:*:node.js:*:*

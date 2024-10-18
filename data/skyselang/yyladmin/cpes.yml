@@ -1,2 +1,18 @@
 cpes:
   - cpe:2.3:a:skyselang:yyladmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyselang:yyladmin:2.5.6:*:*:*:*:*:*:*

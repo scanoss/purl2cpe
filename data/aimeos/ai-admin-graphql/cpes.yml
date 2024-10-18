@@ -1,3 +1,22 @@
 cpes:
   - cpe:2.3:a:aimeos:ai-admin-graphql:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2022.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.04.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.04.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.07.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.07.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimeos:ai-admin-graphql:2023.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:aimeos:ai-admin-graphql:2024.04.1:*:*:*:*:*:*:*
