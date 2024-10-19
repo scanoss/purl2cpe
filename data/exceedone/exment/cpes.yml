@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:exceedone:exment:*:*:*:*:*:*:*:*
   - cpe:2.3:a:exceedone:exment:-:*:*:*:*:*:*:*
   - cpe:2.3:a:exceedone:exment:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:exceedone:exment:0.1.2:*:*:*:*:*:*:*

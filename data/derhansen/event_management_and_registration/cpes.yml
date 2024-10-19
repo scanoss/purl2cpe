@@ -47,3 +47,4 @@ cpes:
   - cpe:2.3:a:derhansen:event_management_and_registration:5.1.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:derhansen:event_management_and_registration:5.1.1:*:*:*:*:typo3:*:*
   - cpe:2.3:a:derhansen:event_management_and_registration:7.0.0:*:*:*:*:*:typo3:*
+  - cpe:2.3:a:derhansen:event_management_and_registration:7.0.0:*:*:*:*:typo3:*:*

@@ -73,6 +73,19 @@ cpes:
   - cpe:2.3:a:jupyter:jupyter_server:2.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.3.0:*:*:*:*:*:*:*
@@ -82,6 +95,10 @@ cpes:
   - cpe:2.3:a:jupyter:jupyter_server:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyter_server:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyter_server:4.0.2:*:*:*:*:*:*:*

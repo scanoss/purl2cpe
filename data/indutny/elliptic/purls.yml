@@ -1,2 +1,5 @@
 purls:
+  - pkg:deb/debian/node-elliptic
+  - pkg:deb/ubuntu/node-elliptic
   - pkg:github/indutny/elliptic
+  - pkg:npm/elliptic

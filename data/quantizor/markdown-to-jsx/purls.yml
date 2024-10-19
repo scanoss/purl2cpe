@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quantizor/markdown-to-jsx
+  - pkg:npm/markdown-to-jsx

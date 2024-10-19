@@ -1,3 +1,17 @@
 cpes:
   - cpe:2.3:a:shedaniel:roughlyenoughitems:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:11.1.717:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:11.1.739:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:12.1.725:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:12.1.740:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:13.1.726:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:13.1.741:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:14.1.727:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:14.1.742:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:16.0.729:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:8.4.723:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:8.4.737:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:9.2.724:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:9.2.738:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:shedaniel:roughlyenoughitems:*:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:shedaniel:roughlyenoughitems:-:*:*:*:*:minecraft:*:*

@@ -132,6 +132,9 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.1.4:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.14.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.14.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.14.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.14.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.14.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.14.4:*:*:*:enterprise:*:*:*
@@ -141,17 +144,54 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.1.5:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.14:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.15.15:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.16:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.15.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.1.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.0:-:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.0:rc1:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.0:rc2:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.0:rc3:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.0:-:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.0:rc1:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.3:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.4:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.5:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.17.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.17.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:-:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:beta1:*:*:enterprise:*:*:*
