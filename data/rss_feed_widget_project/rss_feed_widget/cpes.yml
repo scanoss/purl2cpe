@@ -51,3 +51,4 @@ cpes:
   - cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:2.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:2.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:*:*:*:*:*:wordpress:*:*
