@@ -29,3 +29,4 @@ cpes:
   - cpe:2.3:a:lollms:lollms_web_ui:9.3:*:*:*:*:linux:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:9.3:*:*:*:*:windows:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:9.8:*:*:*:*:*:*:*

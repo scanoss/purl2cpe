@@ -4500,6 +4500,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.10.224:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.225:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.226:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.10.227:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.23:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.24:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.10.25:*:*:*:*:*:*:*
