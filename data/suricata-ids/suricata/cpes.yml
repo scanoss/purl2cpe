@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:suricata-ids:suricata:*:*:*:*:*:*:*:*
   - cpe:2.3:a:suricata-ids:suricata:0.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:suricata-ids:suricata:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:suricata-ids:suricata:1.0.1:*:*:*:*:*:*:*
