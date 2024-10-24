@@ -26,6 +26,7 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:10.5.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:10.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:10.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:11.0.0:rc2:*:*:*:*:*:*
@@ -63,6 +64,25 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:12.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:12.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:12.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.3.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.4.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:14.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc2:*:*:*:*:*:*
@@ -73,6 +93,8 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:14.1.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:14.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:14.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:14.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:4.11.1:*:*:*:*:*:*:*

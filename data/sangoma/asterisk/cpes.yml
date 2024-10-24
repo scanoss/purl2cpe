@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:sangoma:asterisk:13.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:13.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:13.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:13.37.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:13.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:13.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:13.5.0:-:*:*:*:*:*:*
@@ -50,6 +51,7 @@ cpes:
   - cpe:2.3:a:sangoma:asterisk:15.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:15.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:15.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:15.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:16.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:16.10.0:rc1:*:*:*:*:*:*
@@ -100,7 +102,15 @@ cpes:
   - cpe:2.3:a:sangoma:asterisk:18.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:18.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.2.1:-:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:18.2.2:*:*:*:*:*:*:*
@@ -126,4 +136,16 @@ cpes:
   - cpe:2.3:a:sangoma:asterisk:19.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:19.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:19.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:19.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:19.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:19.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:asterisk:20.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:20.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:asterisk:21.0.0:*:*:*:*:*:*:*
