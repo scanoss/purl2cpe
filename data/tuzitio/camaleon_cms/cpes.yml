@@ -56,4 +56,5 @@ cpes:
   - cpe:2.3:a:tuzitio:camaleon_cms:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tuzitio:camaleon_cms:2.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tuzitio:camaleon_cms:2.8.2:*:*:*:*:*:*:*
