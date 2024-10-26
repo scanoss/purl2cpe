@@ -29,3 +29,6 @@ cpes:
   - cpe:2.3:a:intel:computer_vision_annotation_tool:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:intel:computer_vision_annotation_tool:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:intel:computer_vision_annotation_tool:2.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:intel:computer_vision_annotation_tool:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:computer_vision_annotation_tool:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:computer_vision_annotation_tool:2.3.0:*:*:*:*:*:*:*

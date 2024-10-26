@@ -23,3 +23,4 @@ cpes:
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.60:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.61:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:servmask:all-in-one_wp_migration:7.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:all-in-one_wp_migration:*:*:*:*:free:wordpress:*:*
