@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:1.0.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:1.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:enterprise:*:*:*

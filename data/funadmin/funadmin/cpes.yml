@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:funadmin:funadmin:3.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:funadmin:funadmin:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:funadmin:funadmin:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:funadmin:funadmin:5.0.2:*:*:*:*:*:*:*
