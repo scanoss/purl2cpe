@@ -32,3 +32,4 @@ cpes:
   - cpe:2.3:a:wp-members_project:wp-members:3.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-members_project:wp-members:3.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-members_project:wp-members:3.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-members_project:wp-members:*:*:*:*:*:wordpress:*:*

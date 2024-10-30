@@ -343,3 +343,6 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.7.1:rc7:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.7.1:rc8:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.7.1:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.7.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:*:*:*:*:*:*:*:undefined
