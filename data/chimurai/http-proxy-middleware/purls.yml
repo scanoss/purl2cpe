@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chimurai/http-proxy-middleware
+  - pkg:npm/http-proxy-middleware

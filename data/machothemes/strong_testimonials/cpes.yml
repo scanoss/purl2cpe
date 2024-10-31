@@ -177,4 +177,5 @@ cpes:
   - cpe:2.3:a:machothemes:strong_testimonials:2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:strong_testimonials:2.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:strong_testimonials:3.1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:machothemes:strong_testimonials:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:strong_testimonials:-:*:*:*:*:wordpress:*:*

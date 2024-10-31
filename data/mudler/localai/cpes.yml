@@ -75,6 +75,7 @@ cpes:
   - cpe:2.3:a:mudler:localai:2.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mudler:localai:2.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mudler:localai:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mudler:localai:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mudler:localai:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mudler:localai:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mudler:localai:2.3.1:*:*:*:*:*:*:*
