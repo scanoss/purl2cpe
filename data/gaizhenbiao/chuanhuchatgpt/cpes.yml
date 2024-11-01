@@ -25,6 +25,7 @@ cpes:
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230601:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230614:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230619:*:*:*:*:*:*:*
+  - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:2023-06-28:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230628:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230709:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20230719:*:*:*:*:*:*:*
@@ -44,6 +45,7 @@ cpes:
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240305:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240310:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240410:*:*:*:*:*:*:*
+  - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:2024-06-28:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240628:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240802:*:*:*:*:*:*:*
   - cpe:2.3:a:gaizhenbiao:chuanhuchatgpt:20240914:*:*:*:*:*:*:*

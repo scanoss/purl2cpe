@@ -34,4 +34,5 @@ cpes:
   - cpe:2.3:a:themehunk:wp_popup_builder:1.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:wp_popup_builder:1.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:wp_popup_builder:1.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:wp_popup_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:wp_popup_builder:-:*:*:*:*:wordpress:*:*

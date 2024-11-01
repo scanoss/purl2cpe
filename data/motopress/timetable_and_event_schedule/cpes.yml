@@ -57,4 +57,5 @@ cpes:
   - cpe:2.3:a:motopress:timetable_and_event_schedule:2.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:timetable_and_event_schedule:2.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:timetable_and_event_schedule:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:timetable_and_event_schedule:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:timetable_and_event_schedule:-:*:*:*:*:wordpress:*:*

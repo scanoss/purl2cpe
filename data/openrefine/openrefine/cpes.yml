@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:openrefine:openrefine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:-:*:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:1.0.2:*:*:*:*:*:*:*
@@ -41,4 +42,43 @@ cpes:
   - cpe:2.3:a:openrefine:openrefine:3.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:3.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.4:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.5:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.6:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.6:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.7:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openrefine:openrefine:3.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openrefine:openrefine:3.8:beta5:*:*:*:*:*:*
