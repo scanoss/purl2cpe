@@ -17,5 +17,11 @@ cpes:
   - cpe:2.3:a:ruby-lang:rexml:3.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rexml:3.3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rexml:3.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rexml:3.3.8:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rexml:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rexml:-:*:*:*:*:ruby:*:*

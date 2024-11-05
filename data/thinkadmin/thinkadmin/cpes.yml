@@ -1,6 +1,15 @@
 cpes:
   - cpe:2.3:a:thinkadmin:thinkadmin:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:6.1.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkadmin:thinkadmin:6.1.7:*:*:*:*:*:*:*

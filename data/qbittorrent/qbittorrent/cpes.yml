@@ -223,3 +223,7 @@ cpes:
   - cpe:2.3:a:qbittorrent:qbittorrent:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:qbittorrent:qbittorrent:4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:qbittorrent:qbittorrent:4.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qbittorrent:qbittorrent:4.6.0:rc2:*:*:*:*:*:*

@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:a:tainacan:tainacan:0.20.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tainacan:tainacan:0.20.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tainacan:tainacan:0.20.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tainacan:tainacan:0.20.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tainacan:tainacan:0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tainacan:tainacan:0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tainacan:tainacan:0.4:*:*:*:*:wordpress:*:*

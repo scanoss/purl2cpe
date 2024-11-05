@@ -162,3 +162,4 @@ cpes:
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.3:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.4:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:rc1:*:*:*:kubernetes:*:*
