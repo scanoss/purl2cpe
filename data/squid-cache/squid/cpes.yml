@@ -341,3 +341,4 @@ cpes:
   - cpe:2.3:a:squid-cache:squid:6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:squid-cache:squid:6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid-cache:squid:6.6:*:*:*:*:*:*:*

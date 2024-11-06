@@ -110,6 +110,14 @@ cpes:
   - cpe:2.3:a:combodo:itop:3.0.2-1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.1.0-2-11973:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:*:*:*:*:essential:*:*:*
   - cpe:2.3:a:combodo:itop:*:*:*:*:professional:*:*:*

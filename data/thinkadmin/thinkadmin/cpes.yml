@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:thinkadmin:thinkadmin:*:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkadmin:thinkadmin:3.0:*:*:*:*:*:*:*
