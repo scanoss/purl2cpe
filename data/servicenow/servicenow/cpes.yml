@@ -170,6 +170,7 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2_hotfix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2_hotfix1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_4:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_4_hotfix_1a:*:*:*:*:*:*
@@ -180,9 +181,22 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_2a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotfix_2b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotifix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotifix_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotifix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_7_hotifix_2b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_1a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_1b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_2b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_1_hotfix_2a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:-:*:*:*:*:*:*

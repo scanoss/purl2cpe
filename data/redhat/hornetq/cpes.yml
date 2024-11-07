@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:redhat:hornetq:2.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:hornetq:2.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:hornetq:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.4.9:*:*:*:*:*:*:*
