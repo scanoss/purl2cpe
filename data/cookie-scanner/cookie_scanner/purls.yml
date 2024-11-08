@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/covenantsql/cookiescanner
+  - pkg:golang/github.com/covenantsql/cookiescanner

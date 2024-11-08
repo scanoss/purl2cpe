@@ -149,10 +149,25 @@ cpes:
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.16.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.16.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.20.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.20.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.21.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.22.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.22.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.23.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.24.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.25.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.25.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.25.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:2.25.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.4:*:*:*:*:wordpress:*:*
@@ -183,3 +198,15 @@ cpes:
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:castos:seriously_simple_podcasting:2.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:castos:seriously_simple_podcasting:-:*:*:*:*:wordpress:*:*

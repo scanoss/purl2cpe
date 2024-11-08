@@ -44,6 +44,7 @@ cpes:
   - cpe:2.3:a:themeum:wp_crowdfunding:2.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:wp_crowdfunding:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:wp_crowdfunding:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeum:wp_crowdfunding:2.1.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:wp_crowdfunding:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:wp_crowdfunding:2.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:wp_crowdfunding:2.1.3:*:*:*:*:wordpress:*:*

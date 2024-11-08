@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cookie-scanner:cookie_scanner:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:*:cookie-scanner:cookie_scanner:1.1:*:*:*:*:*:*:*

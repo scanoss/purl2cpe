@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pallets/quart
+  - pkg:pypi/quart

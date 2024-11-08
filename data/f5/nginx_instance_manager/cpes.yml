@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:f5:nginx_instance_manager:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_instance_manager:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_instance_manager:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_instance_manager:2.9.0:*:*:*:*:*:*:*

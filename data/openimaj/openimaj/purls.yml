@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openimaj/openimaj
+  - pkg:maven/org.openimaj/openimaj

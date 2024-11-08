@@ -1,4 +1,16 @@
 cpes:
   - cpe:2.3:a:pretix:pretix:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2023.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:4.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:4.17.0:*:*:*:*:*:*:*

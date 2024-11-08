@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r1:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r22:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r23:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r24:*:*:*:*:*:*:*

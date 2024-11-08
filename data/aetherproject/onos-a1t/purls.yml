@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onosproject/onos-a1t
+  - pkg:golang/github.com/onosproject/onos-a1t
