@@ -420,3 +420,4 @@ cpes:
   - cpe:2.3:a:sentry:sentry:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:*:*:*:*:*:ada:*:*

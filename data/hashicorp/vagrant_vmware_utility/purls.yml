@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hashicorp/vagrant-vmware-desktop
+  - pkg:golang/github.com/hashicorp/vagrant-vmware-desktop
