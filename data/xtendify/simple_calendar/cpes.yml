@@ -98,4 +98,9 @@ cpes:
   - cpe:2.3:a:xtendify:simple_calendar:3.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xtendify:simple_calendar:3.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xtendify:simple_calendar:3.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xtendify:simple_calendar:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xtendify:simple_calendar:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xtendify:simple_calendar:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xtendify:simple_calendar:3.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xtendify:simple_calendar:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xtendify:simple_calendar:-:*:*:*:*:wordpress:*:*

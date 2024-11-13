@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:neomutt:neomutt:-:*:*:*:*:*:*:*
   - cpe:2.3:a:neomutt:neomutt:20160307:*:*:*:*:*:*:*
   - cpe:2.3:a:neomutt:neomutt:20160317:*:*:*:*:*:*:*
   - cpe:2.3:a:neomutt:neomutt:20160320:*:*:*:*:*:*:*

@@ -246,6 +246,7 @@ cpes:
   - cpe:2.3:a:onedev_project:onedev:7.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:onedev_project:onedev:7.9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:onedev_project:onedev:7.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:onedev_project:onedev:7.9.12:*:*:*:*:*:*:*
   - cpe:2.3:a:onedev_project:onedev:7.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:onedev_project:onedev:7.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:onedev_project:onedev:7.9.4:*:*:*:*:*:*:*

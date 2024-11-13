@@ -1,36 +1,131 @@
 cpes:
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.00.024:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.01.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.02.010:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.03.006:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.04.007:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.05.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.06.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.07.018:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.08.008:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.09.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.0.10.006:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.00.009:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.01.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.02.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.03.003:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.04.004:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.05.003:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.06.006:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.07.004:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.08.004:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.09.008:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.09:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.10.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.01.008:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.02.010:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.03.006:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.04.009:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.05.008:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.06.006:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.07.003:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.08.006:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.2.09.103:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.01.010:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.02.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.03.009:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.03:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.04.009:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.05.006:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.06.003:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.07.004:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.3.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.00.001:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.01.008:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.02.009:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.03.012:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.4.04.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.01.009:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.01:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.02.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.5.03.012:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.01.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.03.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.04.009:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.6.05.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.7.00.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.7.01.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.7.02.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.7.03.007:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.7.04.005:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.001:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.00.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.006:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.01.007:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.02.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.02.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.02.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.03.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.03.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.03.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.04.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.04.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.04.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.04.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.04.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.05.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.05.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.005:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.006:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.007:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.008:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.009:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.06.010:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.07.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.07.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.07.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.07.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.001:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.002:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.004:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.006:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wppa:wp_photo_album_plus:8.8.08.007:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wppa:wp_photo_album_plus:-:*:*:*:*:wordpress:*:*

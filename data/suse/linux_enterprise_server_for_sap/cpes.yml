@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:o:suse:linux_enterprise_server_for_sap:12:*:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise_server_for_sap:12:sp5:*:*:*:*:*:*
