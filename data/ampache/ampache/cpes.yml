@@ -97,3 +97,6 @@ cpes:
   - cpe:2.3:a:ampache:ampache:6.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ampache:ampache:6.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ampache:ampache:6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ampache:ampache:6.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ampache:ampache:6.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ampache:ampache:6.6.3:*:*:*:*:*:*:*

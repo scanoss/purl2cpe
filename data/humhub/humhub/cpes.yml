@@ -55,6 +55,39 @@ cpes:
   - cpe:2.3:a:humhub:humhub:1.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.12.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.13.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.13.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:beta1:*:*:*:*:*:*

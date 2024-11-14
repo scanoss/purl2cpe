@@ -29,6 +29,8 @@ cpes:
   - cpe:2.3:a:zope:restrictedpython:5.2:a1.dev0:*:*:*:*:*:*
   - cpe:2.3:a:zope:restrictedpython:5.3:-:*:*:*:*:*:*
   - cpe:2.3:a:zope:restrictedpython:5.3:a1.dev0:*:*:*:*:*:*
+  - cpe:2.3:a:zope:restrictedpython:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zope:restrictedpython:6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zope:restrictedpython:6.0:a1.dev0:*:*:*:*:*:*
   - cpe:2.3:a:zope:restrictedpython:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zope:restrictedpython:6.2:*:*:*:*:*:*:*

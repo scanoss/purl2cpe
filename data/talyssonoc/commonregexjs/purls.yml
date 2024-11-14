@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/commonregex
+  - pkg:github/talyssonoc/commonregexjs
+  - pkg:npm/commonregex

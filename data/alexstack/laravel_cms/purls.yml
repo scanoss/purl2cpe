@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/alexstack/laravel-cms
+  - pkg:github/alexstack/laravel-cms

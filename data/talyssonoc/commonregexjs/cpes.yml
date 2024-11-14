@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:talyssonoc:commonregexjs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:talyssonoc:commonregexjs:*:*:*:*:*:node.js:*:*
