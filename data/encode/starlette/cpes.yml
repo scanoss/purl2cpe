@@ -80,6 +80,8 @@ cpes:
   - cpe:2.3:a:encode:starlette:0.26.0:post1:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.26.0:-:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.26.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:0.27.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:0.28.0:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.3.0:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.3.1:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.3.2:*:*:*:*:python:*:*

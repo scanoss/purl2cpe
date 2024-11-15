@@ -4,6 +4,11 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.0.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:1.2.0:*:*:*:*:*:*:*
