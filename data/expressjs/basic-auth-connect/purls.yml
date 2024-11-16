@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/expressjs/basic-auth-connect
+  - pkg:npm/basic-auth-connect

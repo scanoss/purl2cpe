@@ -4822,6 +4822,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.15.166:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.167:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.168:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.15.169:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.17:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.18:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.15.19:*:*:*:*:*:*:*

@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.18:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.19:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:calibre-web_project:calibre-web:0.6.20:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-web_project:calibre-web:0.6.5:*:*:*:*:*:*:*

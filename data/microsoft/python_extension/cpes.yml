@@ -97,6 +97,13 @@ cpes:
   - cpe:2.3:a:microsoft:python_extension:2019.8.30787:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2019.9.34474:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2019.9.34911:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.10.332292344:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.11.358366026:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.11.367453362:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.11.371526539:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.12.422005962:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.12.424027540:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.12.424452561:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2020.1.57204:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2020.1.58038:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2020.2.62710:*:*:*:*:visual_studio_code:*:*
@@ -125,5 +132,69 @@ cpes:
   - cpe:2.3:a:microsoft:python_extension:2020.8.106424:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2020.8.108011:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:2020.8.109390:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.9.111407:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.9.112786:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.9.114305:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2020.9.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.10.1317843341:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.10.1336267007:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.10.1365161279:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.11.1422169775:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.12.1559732655:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.1.502429796:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.2.576481509:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.2.582707922:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.2.625869727:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.2.633441544:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.2.636928669:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.3.658691958:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.3.680753044:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.4.765268190:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.5.829140558:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.5.840043038:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.5.842923320:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.5.926500501:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.6.944021595:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.7.1050252941:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.7.1053846006:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.7.1060902895:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.8.1102490946:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.8.1105858891:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.8.1147840270:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.8.1159798656:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.9.1191016588:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.9.1218897484:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.9.1230869389:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2021.9.1246542782:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.0.1786462952:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.0.1814523869:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.10.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.10.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.12.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.12.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.14.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.16.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.16.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.18.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.18.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.18.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.20.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.20.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.20.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.2.1924087327:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.4.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.4.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.6.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.6.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.6.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.6.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.8.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2022.8.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.2.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.4.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.4.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.6.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.6.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:python_extension:2023.8.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:*:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:microsoft:python_extension:-:*:*:*:*:visual_studio_code:*:*

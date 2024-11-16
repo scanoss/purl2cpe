@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:expressjs:basic-auth-connect:*:*:*:*:*:node.js:*:*

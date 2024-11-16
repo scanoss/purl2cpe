@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:amd:ryzen_ai_software:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amd:ryzen_ai_software:1.2:*:*:*:*:*:*:*

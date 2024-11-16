@@ -52,6 +52,20 @@ cpes:
   - cpe:2.3:a:fontsplugin:fonts:3.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fontsplugin:fonts:3.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fontsplugin:fonts:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.31:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fontsplugin:fonts:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fontsplugin:fonts:3.7.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fontsplugin:fonts:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fontsplugin:fonts:-:*:*:*:*:wordpress:*:*
