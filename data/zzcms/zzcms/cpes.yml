@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:zzcms:zzcms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:zzcms:zzcms:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zzcms:zzcms:2018:*:*:*:*:*:*:*
   - cpe:2.3:a:zzcms:zzcms:2019:*:*:*:*:*:*:*
