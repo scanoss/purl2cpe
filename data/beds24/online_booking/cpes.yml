@@ -18,6 +18,8 @@ cpes:
   - cpe:2.3:a:beds24:online_booking:2.0.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beds24:online_booking:2.0.22:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beds24:online_booking:2.0.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beds24:online_booking:2.0.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beds24:online_booking:2.0.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beds24:online_booking:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beds24:online_booking:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beds24:online_booking:2.0.4:*:*:*:*:wordpress:*:*
