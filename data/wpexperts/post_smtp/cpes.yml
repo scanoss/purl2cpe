@@ -104,5 +104,6 @@ cpes:
   - cpe:2.3:a:wpexperts:post_smtp:2.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:2.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:2.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:2.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:-:*:*:*:*:wordpress:*:*

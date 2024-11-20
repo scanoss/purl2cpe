@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:supsystic:popup:1.10.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.3:*:*:*:*:wordpress:*:*

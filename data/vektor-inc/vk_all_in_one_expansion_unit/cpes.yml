@@ -553,4 +553,6 @@ cpes:
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.98.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:9.99.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vektor-inc:vk_all_in_one_expansion_unit:-:*:*:*:*:wordpress:*:*
