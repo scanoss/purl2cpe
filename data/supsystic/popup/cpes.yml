@@ -18,6 +18,16 @@ cpes:
   - cpe:2.3:a:supsystic:popup:1.10.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:1.10.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.10.4:*:*:*:*:wordpress:*:*
@@ -159,3 +169,4 @@ cpes:
   - cpe:2.3:a:supsystic:popup:1.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:popup:1.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:popup:-:*:*:*:*:wordpress:*:*
