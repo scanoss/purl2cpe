@@ -256,6 +256,8 @@ cpes:
   - cpe:2.3:a:wpdownloadmanager:download_manager:3.2.91:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdownloadmanager:download_manager:3.2.92:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdownloadmanager:download_manager:3.2.93:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdownloadmanager:download_manager:3.2.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdownloadmanager:download_manager:3.2.95:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdownloadmanager:download_manager:6.0.0:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:wpdownloadmanager:download_manager:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:wpdownloadmanager:download_manager:*:*:*:*:*:wordpress:*:*
