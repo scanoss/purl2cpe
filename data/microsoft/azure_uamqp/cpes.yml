@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:microsoft:azure_uamqp:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_uamqp:2023-12-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_uamqp:*:*:*:*:*:c:*:*
