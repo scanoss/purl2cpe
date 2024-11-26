@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/emqx/neuron
+  - pkg:github/emqx/neuron
