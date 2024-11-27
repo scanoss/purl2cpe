@@ -120,6 +120,7 @@ cpes:
   - cpe:2.3:a:inspireui:mstore_api:4.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.10.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.3:*:*:*:*:wordpress:*:*
@@ -129,4 +130,49 @@ cpes:
   - cpe:2.3:a:inspireui:mstore_api:4.10.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.10.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.11.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.12.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.13.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.14.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:-:*:*:*:*:wordpress:*:*

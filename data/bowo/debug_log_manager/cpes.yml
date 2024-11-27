@@ -34,5 +34,6 @@ cpes:
   - cpe:2.3:a:bowo:debug_log_manager:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:debug_log_manager:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:debug_log_manager:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:debug_log_manager:2.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:debug_log_manager:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:debug_log_manager:-:*:*:*:*:wordpress:*:*
