@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:arm:trusted_firmware-a:*:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:trusted_firmware-a:-:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:trusted_firmware-a:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:trusted_firmware-a:0.3:*:*:*:*:*:*:*
