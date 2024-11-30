@@ -35,4 +35,5 @@ cpes:
   - cpe:2.3:a:qurl:dynamic_widgets:1.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:qurl:dynamic_widgets:1.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:qurl:dynamic_widgets:1.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qurl:dynamic_widgets:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:qurl:dynamic_widgets:-:*:*:*:*:wordpress:*:*
