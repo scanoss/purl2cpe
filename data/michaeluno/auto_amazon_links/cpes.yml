@@ -200,8 +200,18 @@ cpes:
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:5.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:michaeluno:auto_amazon_links:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:michaeluno:auto_amazon_links:-:*:*:*:*:wordpress:*:*
