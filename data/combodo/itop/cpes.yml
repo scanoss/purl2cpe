@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:combodo:itop:-:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:0.7.1:beta:*:*:community:*:*:*
   - cpe:2.3:a:combodo:itop:0.7.2:*:*:*:*:*:*:*
@@ -81,6 +82,8 @@ cpes:
   - cpe:2.3:a:combodo:itop:2.7.0:*:*:*:essential:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.0:*:*:*:professional:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:2.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:2.7.11:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.2-1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.3:*:*:*:*:*:*:*
@@ -93,6 +96,7 @@ cpes:
   - cpe:2.3:a:combodo:itop:2.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:2.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.0:beta:*:*:*:*:*:*
@@ -111,9 +115,11 @@ cpes:
   - cpe:2.3:a:combodo:itop:3.0.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.1.0-2-11973:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.2.0:rc1:*:*:*:*:*:*
