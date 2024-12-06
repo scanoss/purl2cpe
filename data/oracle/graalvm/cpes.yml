@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:oracle:graalvm:17.0.11:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:17.0.8:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:19.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:19.0.2:*:*:*:enterprise:*:*:*
@@ -52,6 +53,7 @@ cpes:
   - cpe:2.3:a:oracle:graalvm:21.0.0.2:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.0.0.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.0.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:oracle:graalvm:21.0.3:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.1.0:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.2.0:*:*:*:enterprise:*:*:*
@@ -68,6 +70,7 @@ cpes:
   - cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:22.0.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:oracle:graalvm:22.0.1:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:22.0.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:22.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:22.2.0:*:*:*:enterprise:*:*:*

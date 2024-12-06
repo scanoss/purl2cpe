@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:alaingonzalez:accordion_image_menu:3.1.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:alaingonzalez:accordion_image_menu:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alaingonzalez:accordion_image_menu:-:*:*:*:*:wordpress:*:*

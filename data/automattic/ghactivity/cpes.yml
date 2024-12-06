@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:automattic:ghactivity:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:ghactivity:-:*:*:*:*:wordpress:*:*
