@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:giveawayboost:giveaway_boost:2.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:giveawayboost:giveaway_boost:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:giveawayboost:giveaway_boost:-:*:*:*:*:wordpress:*:*

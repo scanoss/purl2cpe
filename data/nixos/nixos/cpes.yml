@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:o:nixos:nixos:-:*:*:*:*:*:*:*
   - cpe:2.3:o:nixos:nixos:17.03:*:*:*:*:*:*:*
