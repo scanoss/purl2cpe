@@ -15,4 +15,13 @@ cpes:
   - cpe:2.3:a:ujcms:ujcms:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ujcms:ujcms:5.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ujcms:ujcms:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:7.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:8.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ujcms:ujcms:8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ujcms:ujcms:9.0.3:*:*:*:*:*:*:*
