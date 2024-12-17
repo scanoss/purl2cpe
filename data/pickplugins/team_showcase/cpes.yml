@@ -30,6 +30,11 @@ cpes:
   - cpe:2.3:a:pickplugins:team_showcase:1.22.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.22.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.22.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:1.22.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:1.22.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:1.22.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:1.22.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:1.22.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.22.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.22.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.22.4:*:*:*:*:wordpress:*:*
@@ -46,3 +51,4 @@ cpes:
   - cpe:2.3:a:pickplugins:team_showcase:1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:team_showcase:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:team_showcase:-:*:*:*:*:wordpress:*:*

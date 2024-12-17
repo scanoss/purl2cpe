@@ -1,3 +1,12 @@
 cpes:
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slimndap:theater_for_wordpress:0.18.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:0.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:slimndap:theater_for_wordpress:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slimndap:theater_for_wordpress:-:*:*:*:*:wordpress:*:*

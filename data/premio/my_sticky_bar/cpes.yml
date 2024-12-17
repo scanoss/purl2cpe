@@ -81,4 +81,9 @@ cpes:
   - cpe:2.3:a:premio:my_sticky_bar:2.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:premio:my_sticky_bar:2.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:premio:my_sticky_bar:2.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:premio:my_sticky_bar:2.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:premio:my_sticky_bar:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:premio:my_sticky_bar:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:premio:my_sticky_bar:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:premio:my_sticky_bar:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:premio:my_sticky_bar:-:*:*:*:*:wordpress:*:*
