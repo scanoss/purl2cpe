@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:matrix:javascript_sdk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:-:*:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:0.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:0.10.0:rc1:*:*:*:*:*:*

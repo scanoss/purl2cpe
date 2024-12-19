@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cesanta:mongoose:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cesanta:mongoose:3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cesanta:mongoose:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cesanta:mongoose:3.4:*:*:*:*:*:*:*

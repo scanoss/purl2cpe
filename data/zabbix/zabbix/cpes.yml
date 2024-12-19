@@ -732,7 +732,15 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:5.0.40:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.41:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.41:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.42:*:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.42:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.43:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.43:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.44:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.44:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.45:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.45:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:5.0.46:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.5:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:5.0.5:rc1:*:*:*:*:*:*
