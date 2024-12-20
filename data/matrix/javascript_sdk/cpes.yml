@@ -220,6 +220,15 @@ cpes:
   - cpe:2.3:a:matrix:javascript_sdk:2.4.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.3.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:javascript_sdk:34.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:javascript_sdk:5.0.0:-:*:*:*:*:*:*
