@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:zimbra:zimbra:*:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.8:-:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:2013:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.11:-:*:*:*:*:*:*
