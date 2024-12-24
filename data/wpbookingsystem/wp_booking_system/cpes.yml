@@ -33,6 +33,14 @@ cpes:
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.3:*:*:*:*:wordpress:*:*
@@ -43,3 +51,4 @@ cpes:
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingsystem:wp_booking_system:3.6:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:wpbookingsystem:wp_booking_system:-:*:*:*:*:wordpress:*:*

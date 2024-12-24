@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:bestwebsoft:contact_form_to_db:1.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:contact_form_to_db:1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:contact_form_to_db:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bestwebsoft:contact_form_to_db:-:*:*:*:*:wordpress:*:*

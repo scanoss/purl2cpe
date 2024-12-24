@@ -51,3 +51,4 @@ cpes:
   - cpe:2.3:a:bitapps:file_manager:6.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bitapps:file_manager:6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bitapps:file_manager:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bitapps:file_manager:-:*:*:*:*:wordpress:*:*

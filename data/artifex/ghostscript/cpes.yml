@@ -6,7 +6,9 @@ cpes:
   - cpe:2.3:a:artifex:ghostscript:10.01.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:10.01.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:10.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.02.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:10.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript:10.03.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:ghostscript:1.3:*:*:*:*:*:*:*

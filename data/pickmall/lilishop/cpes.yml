@@ -1,2 +1,10 @@
 cpes:
   - cpe:2.3:a:pickmall:lilishop:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pickmall:lilishop:4.2.4:*:*:*:*:*:*:*

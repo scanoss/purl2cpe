@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:osuuu:lightpicture:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:osuuu:lightpicture:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osuuu:lightpicture:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:osuuu:lightpicture:1.2.2:*:*:*:*:*:*:*

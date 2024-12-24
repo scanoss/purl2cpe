@@ -78,6 +78,7 @@ cpes:
   - cpe:2.3:a:xwp:stream:3.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xwp:stream:3.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.2.0:*:*:*:*:wordpress:*:*
@@ -101,4 +102,7 @@ cpes:
   - cpe:2.3:a:xwp:stream:3.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:3.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xwp:stream:3.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xwp:stream:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xwp:stream:4.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xwp:stream:-:*:*:*:*:wordpress:*:*
