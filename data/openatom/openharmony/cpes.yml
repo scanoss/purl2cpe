@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:o:openatom:openharmony:*:*:*:*:*:*:*:*
   - cpe:2.3:o:openatom:openharmony:*:*:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:-:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:1.0:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:1.1.0:*:*:*:lts:*:*:*
   - cpe:2.3:o:openatom:openharmony:1.1.1:*:*:*:lts:*:*:*
@@ -43,5 +44,6 @@ cpes:
   - cpe:2.3:o:openatom:openharmony:4.0:beta1:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:4.0:beta2:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:4.1:-:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:4.1.0:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:4.1.1:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:4.1:beta1:*:*:-:*:*:*

@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:loomio:loomio:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:loomio:loomio:2.0:beta263:*:*:*:*:*:*
   - cpe:2.3:a:loomio:loomio:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:loomio:loomio:2.22.0:*:*:*:*:*:*:*
