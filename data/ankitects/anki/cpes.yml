@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:ankitects:anki:24.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:ankitects:anki:24.04:-:*:*:*:*:*:*
+  - cpe:2.3:a:ankitects:anki:24.04:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:ankitects:anki:24.04:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ankitects:anki:24.04:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ankitects:anki:24.04:rc3:*:*:*:*:*:*

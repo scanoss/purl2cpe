@@ -133,5 +133,14 @@ cpes:
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:-:*:*:*:*:wordpress:*:*
