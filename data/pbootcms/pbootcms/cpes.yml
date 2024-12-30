@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pbootcms:pbootcms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pbootcms:pbootcms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pbootcms:pbootcms:0.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:pbootcms:pbootcms:1.0.0:*:*:*:*:*:*:*
