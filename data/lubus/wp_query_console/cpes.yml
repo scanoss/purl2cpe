@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:lubus:wp_query_console:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lubus:wp_query_console:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lubus:wp_query_console:-:*:*:*:*:wordpress:*:*

@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:o:netbsd:netbsd:0.8:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:0.9:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:10.0:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:1.1:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:1.2:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:1.2.1:*:*:*:*:*:*:*
@@ -84,5 +85,10 @@ cpes:
   - cpe:2.3:o:netbsd:netbsd:6.1.5:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:7.0:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:9.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:9.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:9.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:netbsd:netbsd:9.4:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:current:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:-:*:*:*:*:*:x86:*

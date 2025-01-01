@@ -1,2 +1,8 @@
 cpes:
   - cpe:2.3:a:canonical:anbox_cloud:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:anbox_cloud:1.23.0:*:*:*:*:*:*:*

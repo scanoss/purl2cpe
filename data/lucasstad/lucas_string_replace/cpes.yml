@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:lucasstad:lucas_string_replace:2.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lucasstad:lucas_string_replace:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lucasstad:lucas_string_replace:-:*:*:*:*:wordpress:*:*
