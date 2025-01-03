@@ -26,3 +26,4 @@ cpes:
   - cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:arconix_shortcodes:2.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:arconix_shortcodes:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tychesoftwares:arconix_shortcodes:-:*:*:*:*:wordpress:*:*
