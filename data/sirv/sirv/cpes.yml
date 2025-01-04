@@ -167,5 +167,6 @@ cpes:
   - cpe:2.3:a:sirv:sirv:7.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:7.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:7.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sirv:sirv:7.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sirv:sirv:-:*:*:*:*:wordpress:*:*

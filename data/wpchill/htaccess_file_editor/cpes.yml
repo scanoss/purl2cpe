@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:htaccess_file_editor:-:*:*:*:*:wordpress:*:*

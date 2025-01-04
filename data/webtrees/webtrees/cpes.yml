@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:webtrees:webtrees:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webtrees:webtrees:2.1.18:*:*:*:*:*:*:*

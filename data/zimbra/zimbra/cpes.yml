@@ -72,6 +72,14 @@ cpes:
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p30:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p31:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p33:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p34:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p35:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p36:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p37:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p38:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p39:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p4:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p40:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p41:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p7:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p7.1:*:*:*:*:*:*

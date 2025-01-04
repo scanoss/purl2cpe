@@ -80,5 +80,6 @@ cpes:
   - cpe:2.3:a:dfactory:responsive_lightbox:2.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dfactory:responsive_lightbox:2.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dfactory:responsive_lightbox:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dfactory:responsive_lightbox:2.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dfactory:responsive_lightbox:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dfactory:responsive_lightbox:-:*:*:*:*:wordpress:*:*

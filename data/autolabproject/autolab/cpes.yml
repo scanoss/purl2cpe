@@ -36,3 +36,4 @@ cpes:
   - cpe:2.3:a:autolabproject:autolab:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:autolabproject:autolab:3.0.1:*:*:*:*:*:*:*

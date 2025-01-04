@@ -13,5 +13,7 @@ cpes:
   - cpe:2.3:a:cminds:cm_popup:1.6.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_popup:1.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_popup:1.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_popup:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_popup:1.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_popup:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_popup:-:*:*:*:*:wordpress:*:*
