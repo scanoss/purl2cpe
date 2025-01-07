@@ -122,6 +122,7 @@ cpes:
   - cpe:2.3:a:thimpress:learnpress:4.2.6.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.2.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thimpress:learnpress:4.2.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:4.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:thimpress:learnpress:-:*:*:*:*:wordpress:*:*
