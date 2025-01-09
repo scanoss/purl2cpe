@@ -51,6 +51,7 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.11.1:*:*:*:*:*:*:*
@@ -59,6 +60,12 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.12.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.12.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.2.0:*:*:*:*:*:*:*
@@ -86,6 +93,7 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.7.2:*:*:*:*:*:*:*

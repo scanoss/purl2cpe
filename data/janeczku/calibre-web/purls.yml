@@ -1,2 +1,5 @@
 purls:
+  - pkg:docker/janeczku/calibre-web
   - pkg:github/janeczku/calibre-web
+  - pkg:pypi/calibreweb
+  - pkg:rpm/opensuse/python-calibreweb

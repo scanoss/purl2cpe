@@ -1,0 +1,6 @@
+purls:
+  - pkg:cargo/svix
+  - pkg:github/svix/svix-webhooks
+  - pkg:golang/github.com/svix/svix-webhooks
+  - pkg:pypi/svix
+  - pkg:sourceforge/svix.mirror
