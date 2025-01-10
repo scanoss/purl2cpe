@@ -4,3 +4,16 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:prisma_access:2.1:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:2.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:2.2:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:4.0:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:4.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:4.2:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.1:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.1:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2:*:*:*:preferred:*:*:*

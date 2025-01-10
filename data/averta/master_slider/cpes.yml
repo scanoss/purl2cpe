@@ -45,4 +45,5 @@ cpes:
   - cpe:2.3:a:averta:master_slider:3.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:master_slider:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:-:*:*:*:*:wordpress:*:*
