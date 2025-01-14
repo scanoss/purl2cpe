@@ -1,7 +1,25 @@
 cpes:
   - cpe:2.3:a:zimbra:zimbra:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:10.0.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:10.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:2013:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.11:-:*:*:*:*:*:*
@@ -23,6 +41,7 @@ cpes:
   - cpe:2.3:a:zimbra:zimbra:8.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.10:-:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.10:p8:*:*:*:*:*:*
@@ -46,6 +65,13 @@ cpes:
   - cpe:2.3:a:zimbra:zimbra:8.8.15:p37:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.15:p38:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.15:p40:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p41:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p42:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p43:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p44:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p45:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p46:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:8.8.15:p47:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.15:p5:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:8.8.3:*:*:*:*:*:*:*
@@ -81,5 +107,7 @@ cpes:
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p40:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p41:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p42:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:zimbra:9.0.0:p43:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p7:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:zimbra:9.0.0:p7.1:*:*:*:*:*:*
