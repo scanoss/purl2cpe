@@ -58,6 +58,7 @@ cpes:
   - cpe:2.3:a:weformspro:weforms:1.6.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:weformspro:weforms:1.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:weformspro:weforms:1.6.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:weformspro:weforms:1.6.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:weformspro:weforms:1.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:weformspro:weforms:1.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:weformspro:weforms:1.6.4:*:*:*:*:wordpress:*:*

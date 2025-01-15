@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:rafasashi:todo_custom_field:3.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rafasashi:todo_custom_field:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rafasashi:todo_custom_field:-:*:*:*:*:wordpress:*:*

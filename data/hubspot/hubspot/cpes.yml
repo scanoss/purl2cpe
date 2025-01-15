@@ -99,3 +99,4 @@ cpes:
   - cpe:2.3:a:hubspot:hubspot:8.9.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:hubspot:hubspot:8.9.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:hubspot:hubspot:8.9.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hubspot:hubspot:-:*:*:*:*:wordpress:*:*

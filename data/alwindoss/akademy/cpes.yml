@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:alwindoss:akademy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alwindoss:akademy:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:alwindoss:akademy:2024-08-24:*:*:*:*:*:*:*
