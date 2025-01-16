@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/matthewmueller/dom-iterator
   - pkg:maven/org.webjars.npm/dom-iterator
   - pkg:npm/dom-iterator

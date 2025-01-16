@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:f5:nginx_open_source:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_open_source:1.25.3:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_open_source:1.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_open_source:1.5.13:*:*:*:*:*:*:*

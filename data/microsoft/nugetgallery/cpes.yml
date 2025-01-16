@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:microsoft:nugetgallery:2019.01.14:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2019.06.24:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2020.06.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2024.06.21:*:*:*:*:*:*:*

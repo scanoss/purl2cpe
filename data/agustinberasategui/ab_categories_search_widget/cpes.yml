@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:agustinberasategui:ab_categories_search_widget:0.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agustinberasategui:ab_categories_search_widget:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agustinberasategui:ab_categories_search_widget:-:*:*:*:*:wordpress:*:*

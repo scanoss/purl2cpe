@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:0.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.2.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.55:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.56:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.57:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.60:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.65:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:1.66:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:webfactoryltd:wp_force_ssl:*:*:*:*:free:wordpress:*:*

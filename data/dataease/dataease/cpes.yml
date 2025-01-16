@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:dataease:dataease:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.0.0:rc1:*:*:*:*:*:*
@@ -31,7 +32,25 @@ cpes:
   - cpe:2.3:a:dataease:dataease:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.19:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:1.18.27:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.18.5:*:*:*:*:*:*:*
@@ -56,3 +75,18 @@ cpes:
   - cpe:2.3:a:dataease:dataease:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.9.0:*:*:*:*:*:*:*

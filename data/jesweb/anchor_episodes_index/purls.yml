@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/anchor-episodes-index
   - pkg:github/jes-wd/anchor-episodes-index

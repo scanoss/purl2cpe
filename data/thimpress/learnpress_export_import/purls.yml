@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/common-repository/learnpress-import-export
+  - pkg:github/wp-plugins/learnpress-import-export
+  - pkg:github/wpplugins/learnpress-import-export

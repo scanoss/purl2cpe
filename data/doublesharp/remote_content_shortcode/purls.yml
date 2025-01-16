@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/common-repository/remote-content-shortcode
+  - pkg:github/wp-plugins/remote-content-shortcode

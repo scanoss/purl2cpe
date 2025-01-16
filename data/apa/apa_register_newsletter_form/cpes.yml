@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:apa:apa_register_newsletter_form:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apa:apa_register_newsletter_form:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apa:apa_register_newsletter_form:-:*:*:*:*:wordpress:*:*

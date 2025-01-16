@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:emqx:neuron:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:neuron:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:neuron:2.10.0:*:*:*:*:*:*:*

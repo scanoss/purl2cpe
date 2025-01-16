@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/common-repository/appointmind
+  - pkg:github/wp-plugins/appointmind

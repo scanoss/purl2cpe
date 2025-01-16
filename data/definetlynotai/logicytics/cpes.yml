@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:definetlynotai:logicytics:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:definetlynotai:logicytics:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:definetlynotai:logicytics:2.3.1:*:*:*:*:*:*:*

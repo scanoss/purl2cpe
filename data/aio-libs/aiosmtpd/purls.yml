@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-aiosmtpd
+  - pkg:github/aio-libs/aiosmtpd
+  - pkg:pypi/aiosmtpd
+  - pkg:rpm/fedora/python-aiosmtpd
+  - pkg:rpm/opensuse/python-aiosmtpd

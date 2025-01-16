@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:terraform:power_platform_terraform_provider:*:*:*:*:*:*:*:*

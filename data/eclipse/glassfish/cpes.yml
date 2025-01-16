@@ -1,9 +1,11 @@
 cpes:
   - cpe:2.3:a:eclipse:glassfish:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:glassfish:-:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:5.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:6.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:glassfish:7.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:7.0.11:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:7.0.11:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:glassfish:7.0.11:milestone2:*:*:*:*:*:*

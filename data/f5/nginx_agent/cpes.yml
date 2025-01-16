@@ -11,3 +11,6 @@ cpes:
   - cpe:2.3:a:f5:nginx_agent:2.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_agent:2.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_agent:2.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.24.1:*:*:*:*:*:*:*

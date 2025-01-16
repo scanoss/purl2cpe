@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:w3speedster:w3speedster:7.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:7.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3speedster:w3speedster:-:*:*:*:*:wordpress:*:*

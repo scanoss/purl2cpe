@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:filamentphp:filament:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:3.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ahmetimamoglu:ahmeti_wp_timeline:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ahmetimamoglu:ahmeti_wp_timeline:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ahmetimamoglu:ahmeti_wp_timeline:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:widgilabs:plugin_propagator:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:widgilabs:plugin_propagator:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:widgilabs:plugin_propagator:-:*:*:*:*:wordpress:*:*

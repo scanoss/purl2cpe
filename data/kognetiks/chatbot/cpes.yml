@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kognetiks:chatbot:1.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kognetiks:chatbot:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ahmeti/ahmeti-wp-timeline
+  - pkg:github/common-repository/ahmeti-wp-timeline
+  - pkg:github/wpplugins/ahmeti-wp-timeline
