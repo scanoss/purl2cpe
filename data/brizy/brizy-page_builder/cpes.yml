@@ -252,5 +252,6 @@ cpes:
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:2.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy-page_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:*:*:*:*:wordpress:*:*:*
   - cpe:2.3:a:brizy:brizy-page_builder:-:*:*:*:*:wordpress:*:*

@@ -42,4 +42,5 @@ cpes:
   - cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:6.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:6.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:-:*:*:*:*:wordpress:*:*

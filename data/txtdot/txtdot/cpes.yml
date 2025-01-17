@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:txtdot:txtdot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:txtdot:txtdot:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:txtdot:txtdot:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:txtdot:txtdot:1.6.1:*:*:*:*:*:*:*
