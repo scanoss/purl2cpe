@@ -68,3 +68,12 @@ cpes:
   - cpe:2.3:a:jenkins:owasp_dependency-check:5.0.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:owasp_dependency-check:5.1.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:owasp_dependency-check:5.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:5.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:owasp_dependency-check:-:*:*:*:*:jenkins:*:*
