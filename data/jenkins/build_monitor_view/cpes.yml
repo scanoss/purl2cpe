@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:build_monitor_view:*:*:*:*:*:jenkins:*:*
