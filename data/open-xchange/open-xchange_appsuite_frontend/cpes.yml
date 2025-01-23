@@ -40,6 +40,53 @@ cpes:
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:7:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:8:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:9:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision10:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision11:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision12:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision13:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision14:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision15:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision16:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision17:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision18:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision19:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision20:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision21:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision22:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision23:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision24:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision25:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision26:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision27:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision28:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision29:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision3:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision30:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision31:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision32:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision33:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision34:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision35:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision36:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision37:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision38:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision39:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision4:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision40:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision41:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision42:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision43:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision44:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision45:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision46:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision47:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision48:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision49:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision5:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision6:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision7:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision8:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.10.6:revision9:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.6.2:rev46:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.6.3:revision15:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:open-xchange_appsuite_frontend:7.6.3:revision16:*:*:*:*:*:*

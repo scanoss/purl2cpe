@@ -17,3 +17,5 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:preferred:*:*:*
