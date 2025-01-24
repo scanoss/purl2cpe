@@ -323,6 +323,7 @@ cpes:
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:ninja_forms:3.8.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ninjaforms:ninja_forms:3.8.3:*:*:*:*:wordpress:*:*

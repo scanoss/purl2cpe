@@ -136,6 +136,7 @@ cpes:
   - cpe:2.3:a:relevanssi:relevanssi:3.6.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:3.6.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.0.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.0.3:*:*:*:*:wordpress:*:*
@@ -146,10 +147,63 @@ cpes:
   - cpe:2.3:a:relevanssi:relevanssi:4.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.12.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.13.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.13.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.14.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.15.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.17.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.18.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.18.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.18.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.21.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.21.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.21.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.22.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.7.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:*:*:*:*:premium:wordpress:*:*

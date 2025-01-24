@@ -59,3 +59,5 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.0.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.0.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.0.0:milestone5:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.9:*:*:*:*:*:*:*
