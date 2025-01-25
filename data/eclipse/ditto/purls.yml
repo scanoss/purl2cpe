@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/eclipse/ditto
+  - pkg:github/eclipse-ditto/ditto

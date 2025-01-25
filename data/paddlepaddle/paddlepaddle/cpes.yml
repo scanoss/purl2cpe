@@ -66,4 +66,10 @@ cpes:
   - cpe:2.3:a:paddlepaddle:paddlepaddle:2.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:paddlepaddle:paddlepaddle:2.4.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:paddlepaddle:paddlepaddle:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.5.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:paddlepaddle:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:paddlepaddle:paddlepaddle:2.6.0:*:*:*:*:*:*:*
