@@ -46,5 +46,9 @@ cpes:
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:1.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpthemespace:magical_addons_for_elementor:-:*:*:*:*:wordpress:*:*

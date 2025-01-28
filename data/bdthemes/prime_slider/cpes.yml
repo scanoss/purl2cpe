@@ -121,6 +121,25 @@ cpes:
   - cpe:2.3:a:bdthemes:prime_slider:3.14.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:3.14.6:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:3.14.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.14.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.10:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.11:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.12:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.13:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.14:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.15:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.16:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.18:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:3.15.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:3.2.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:3.3.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:3.4.0:*:*:*:free:wordpress:*:*

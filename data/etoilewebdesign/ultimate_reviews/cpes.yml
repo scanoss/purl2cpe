@@ -158,4 +158,5 @@ cpes:
   - cpe:2.3:a:etoilewebdesign:ultimate_reviews:3.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:etoilewebdesign:ultimate_reviews:3.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:etoilewebdesign:ultimate_reviews:3.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:etoilewebdesign:ultimate_reviews:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:etoilewebdesign:ultimate_reviews:-:*:*:*:*:wordpress:*:*

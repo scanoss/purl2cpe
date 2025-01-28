@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:concretecms:concrete_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:5.4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:5.4.2.1:*:*:*:*:*:*:*
@@ -75,6 +76,7 @@ cpes:
   - cpe:2.3:a:concretecms:concrete_cms:8.5.16:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:8.5.17:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:8.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:8.5.19:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:8.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:8.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:8.5.4:*:*:*:*:*:*:*
