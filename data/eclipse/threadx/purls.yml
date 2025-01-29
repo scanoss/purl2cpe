@@ -1,3 +1,2 @@
 purls:
-  - pkg:github/eclipse-threadx/netxduo
   - pkg:github/eclipse-threadx/threadx

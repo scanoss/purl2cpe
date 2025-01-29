@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/magma/magma
+  - pkg:golang/github.com/magma/magma
+  - pkg:sourceforge/magma.mirror

@@ -68,6 +68,7 @@ cpes:
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.3.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.3.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.3.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:*:*:*:*:free:*:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:*:*:*:*:pro:*:*:*
