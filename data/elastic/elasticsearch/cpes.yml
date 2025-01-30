@@ -303,7 +303,14 @@ cpes:
   - cpe:2.3:a:elastic:elasticsearch:7.17.13:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.14:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.19:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:7.17.22:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:7.17.5:*:*:*:*:*:*:*
@@ -350,8 +357,15 @@ cpes:
   - cpe:2.3:a:elastic:elasticsearch:8.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elasticsearch:8.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elasticsearch:8.13.3:*:*:*:*:*:*:*

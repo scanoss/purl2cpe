@@ -187,6 +187,8 @@ cpes:
   - cpe:2.3:a:relevanssi:relevanssi:4.21.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.21.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.22.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.22.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:4.22.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.3.1:*:*:*:*:wordpress:*:*
@@ -207,3 +209,4 @@ cpes:
   - cpe:2.3:a:relevanssi:relevanssi:4.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:4.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:relevanssi:relevanssi:*:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:relevanssi:relevanssi:-:*:*:*:*:wordpress:*:*

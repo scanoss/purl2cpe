@@ -69,6 +69,20 @@ cpes:
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.3.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.3.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.4.9:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.5.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.5.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.5.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.5.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:easysocialfeed:easy_social_feed:6.5.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:*:*:*:*:free:*:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:easysocialfeed:easy_social_feed:*:*:*:*:pro:*:*:*
