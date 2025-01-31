@@ -765,6 +765,7 @@ cpes:
   - cpe:2.3:a:elementor:website_builder:3.24.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.24.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.24.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.24.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.2.5:*:*:*:free:wordpress:*:*
@@ -821,5 +822,6 @@ cpes:
   - cpe:2.3:a:elementor:website_builder:3.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:-:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:-:*:*:*:*:wordpress:*:*

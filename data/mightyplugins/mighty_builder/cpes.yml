@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:mightyplugins:mighty_builder:1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mightyplugins:mighty_builder:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mightyplugins:mighty_builder:-:*:*:*:*:wordpress:*:*
