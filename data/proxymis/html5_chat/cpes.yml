@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:proxymis:html5_chat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:proxymis:html5_chat:*:*:*:*:*:wordpress:*:*

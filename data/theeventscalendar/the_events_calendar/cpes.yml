@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:theeventscalendar:the_events_calendar:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:theeventscalendar:the_events_calendar:-:*:*:*:*:wordpress:*:*
