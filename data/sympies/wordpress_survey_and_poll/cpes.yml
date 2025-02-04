@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:sympies:wordpress_survey_and_poll:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sympies:wordpress_survey_and_poll:*:*:*:*:*:wordpress:*:*

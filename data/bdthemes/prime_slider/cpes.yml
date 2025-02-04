@@ -168,4 +168,5 @@ cpes:
   - cpe:2.3:a:bdthemes:prime_slider:3.9.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:-:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bdthemes:prime_slider:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:bdthemes:prime_slider:*:*:*:*:*:wordpress:*:*
