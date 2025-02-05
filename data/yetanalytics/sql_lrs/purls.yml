@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/yetanalytics/lrsql
+  - pkg:github/yetanalytics/lrsql

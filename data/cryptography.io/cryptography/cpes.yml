@@ -198,4 +198,8 @@ cpes:
   - cpe:2.3:a:cryptography.io:cryptography:41.0.4:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:41.0.5:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:41.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography.io:cryptography:42.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography.io:cryptography:42.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography.io:cryptography:42.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography.io:cryptography:42.0.3:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:*:*:*:*:*:python:*:*

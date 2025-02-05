@@ -53,6 +53,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:0.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:0.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:0.21.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:linuxfoundation:backstage:0.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:0.22.1:*:*:*:*:*:*:*
@@ -370,3 +371,4 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:2021-06-10:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:2021-06-10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:2021-1-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:node.js:*:*

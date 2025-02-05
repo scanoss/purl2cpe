@@ -50,11 +50,16 @@ cpes:
   - cpe:2.3:a:motopress:getwid:1.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:1.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:getwid:2.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:getwid:2.0.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:getwid:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:getwid:2.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:motopress:getwid:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:motopress:getwid:-:*:*:*:*:wordpress:*:*
