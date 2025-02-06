@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eventstore/eventstore
+  - pkg:sourceforge/eventstoredb.mirror

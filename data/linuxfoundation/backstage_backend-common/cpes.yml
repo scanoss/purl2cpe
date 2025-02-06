@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:backstage_backend-common:0.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:linuxfoundation:backstage_backend-common:*:*:*:*:*:node.js:*:*

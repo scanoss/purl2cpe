@@ -42,4 +42,5 @@ cpes:
   - cpe:2.3:a:kennethreitz:certifi:2022.09.24:*:*:*:*:python:*:*
   - cpe:2.3:a:kennethreitz:certifi:2022.12.07:*:*:*:*:python:*:*
   - cpe:2.3:a:kennethreitz:certifi:2023.05.07:*:*:*:*:python:*:*
+  - cpe:2.3:a:kennethreitz:certifi:2023.07.22:*:*:*:*:python:*:*
   - cpe:2.3:a:kennethreitz:certifi:*:*:*:*:*:python:*:*

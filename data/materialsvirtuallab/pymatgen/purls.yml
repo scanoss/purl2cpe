@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pymatgen
+  - pkg:deb/ubuntu/pymatgen
+  - pkg:github/materialsproject/pymatgen
+  - pkg:pypi/pymatgen
+  - pkg:rpm/opensuse/python-pymatgen

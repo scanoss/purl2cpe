@@ -189,6 +189,7 @@ cpes:
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.10.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.10.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easy_appointments_project:easy_appointments:3.11.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.11.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.11.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:easy_appointments_project:easy_appointments:3.11.3:*:*:*:*:wordpress:*:*

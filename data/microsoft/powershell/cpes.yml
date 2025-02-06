@@ -133,3 +133,4 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5.0:*:*:*:*:*:*:*

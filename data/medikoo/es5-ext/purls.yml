@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/medikoo/es5-ext
+  - pkg:maven/org.webjars.npm/es5-ext
+  - pkg:npm/es5-ext
