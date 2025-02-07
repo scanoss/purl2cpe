@@ -296,5 +296,24 @@ cpes:
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.44:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.45:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.49:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.2.54:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:-:*:*:*:*:wordpress:*:*
