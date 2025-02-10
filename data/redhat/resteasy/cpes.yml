@@ -94,6 +94,7 @@ cpes:
   - cpe:2.3:a:redhat:resteasy:3.15.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:3.15.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:3.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:resteasy:3.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:3.5.0:cr1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:3.5.0:cr2:*:*:*:*:*:*
@@ -165,3 +166,5 @@ cpes:
   - cpe:2.3:a:redhat:resteasy:4.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:4.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:4.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:resteasy:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:resteasy:6.2.2:*:*:*:*:*:*:*
