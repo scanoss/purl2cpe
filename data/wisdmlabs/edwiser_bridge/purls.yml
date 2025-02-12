@@ -1,2 +1,4 @@
 purls:
   - pkg:github/wisdmlabs/edwiser-bridge
+  - pkg:github/wp-plugins/edwiser-bridge
+  - pkg:github/wpplugins/edwiser-bridge

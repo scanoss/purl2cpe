@@ -63,3 +63,4 @@ cpes:
   - cpe:2.3:a:soflyy:wp_all_import:3.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:soflyy:wp_all_import:3.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:soflyy:wp_all_import:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:soflyy:wp_all_import:*:*:*:*:pro:wordpress:*:*

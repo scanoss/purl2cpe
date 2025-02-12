@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:apache:subversion:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:subversion:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:0.10.2:*:*:*:*:*:*:*
@@ -93,6 +94,9 @@ cpes:
   - cpe:2.3:a:apache:subversion:1.14.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:1.14.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:subversion:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:subversion:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:subversion:1.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:subversion:1.2.2:*:*:*:*:*:*:*

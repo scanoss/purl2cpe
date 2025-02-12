@@ -641,12 +641,56 @@ cpes:
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.16:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.17:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.18:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.19:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.19:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.1:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.20:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.20:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.21:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.21:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.22:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.22:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.23:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.23:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.24:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.24:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.25:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.25:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.26:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.26:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.27:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.27:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.28:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.28:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.29:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.29:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.2:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.2:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.30:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.30:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.31:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.31:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.32:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.32:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.33:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.33:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.34:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.34:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.35:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.35:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.36:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.36:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.37:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.37:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.38:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.38:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.39:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.39:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.3:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.3:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.40:*:*:*:basic:wordpress:*:*
+  - cpe:2.3:a:codecabin:wp_go_maps:9.0.40:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.4:*:*:*:basic:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.4:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:codecabin:wp_go_maps:9.0.5:*:*:*:basic:wordpress:*:*

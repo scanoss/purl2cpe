@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/lucenenet
+  - pkg:nuget/lucene.net

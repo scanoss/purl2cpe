@@ -203,3 +203,4 @@ cpes:
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:4.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simple-membership-plugin:simple_membership:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple-membership-plugin:simple_membership:-:*:*:*:*:wordpress:*:*

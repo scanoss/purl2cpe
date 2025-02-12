@@ -126,6 +126,8 @@ cpes:
   - cpe:2.3:a:apache:nifi:1.27.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.27.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.27.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:1.28.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:1.3.0:rc1:*:*:*:*:*:*

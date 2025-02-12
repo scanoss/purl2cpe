@@ -90,5 +90,6 @@ cpes:
   - cpe:2.3:a:pgadmin:pgadmin:7.4:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin:7.5:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin:7.6:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin:7.7:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin:*:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin:-:*:*:*:*:postgresql:*:*
