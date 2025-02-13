@@ -40,3 +40,4 @@ cpes:
   - cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:youtube_video_gallery:*:*:*:*:*:wordpress:*:*

@@ -739,6 +739,8 @@ cpes:
   - cpe:2.3:a:mezz:justenoughitems:7.1.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:mezz:justenoughitems:7.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mezz:justenoughitems:7.1.1:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:mezz:justenoughitems:7.1.3_withconfiggui:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:mezz:justenoughitems:7.1.3_withconfig:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:mezz:justenoughitems:7.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mezz:justenoughitems:7.2.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:mezz:justenoughitems:7.3.0:*:*:*:*:*:*:*
