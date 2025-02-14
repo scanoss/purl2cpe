@@ -125,11 +125,39 @@ cpes:
   - cpe:2.3:a:acquia:mautic:3.3.3:-:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:3.3.3:rc:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:3.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.0.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.0.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.3.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:5.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:5.0.0:alpha1:*:*:*:*:*:*

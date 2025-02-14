@@ -371,6 +371,7 @@ cpes:
   - cpe:2.3:a:brizy:brizy:2.4.42:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.43:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.44:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.4.45:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.4:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.5:*:*:*:free:wordpress:*:*
@@ -383,6 +384,37 @@ cpes:
   - cpe:2.3:a:brizy:brizy:2.4.8:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.4.9:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.0:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.2:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.3:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.4:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.5:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.6:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.5.9:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.0:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.2:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.3:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.4:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:*:*:*:*:-:wordpress:*:*

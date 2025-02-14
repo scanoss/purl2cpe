@@ -229,6 +229,7 @@ cpes:
   - cpe:2.3:a:fooplugins:foogallery:2.4.0.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.15:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.15:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.4.16:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.2:*:*:*:*:wordpress:*:*

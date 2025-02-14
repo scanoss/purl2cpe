@@ -1,3 +1,5 @@
 cpes:
+  - cpe:2.3:a:bowo:system_dashboard:2.8.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:2.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:-:*:*:*:*:wordpress:*:*

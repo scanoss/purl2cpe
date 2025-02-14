@@ -229,6 +229,9 @@ cpes:
   - cpe:2.3:a:collne:welcart_e-commerce:2.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart_e-commerce:2.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart_e-commerce:2.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:collne:welcart_e-commerce:2.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:collne:welcart_e-commerce:2.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:collne:welcart_e-commerce:2.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart_e-commerce:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart_e-commerce:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:collne:welcart_e-commerce:-:*:*:*:*:wordpress:*:*

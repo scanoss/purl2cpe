@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:3.0.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:-:*:*:*:*:wordpress:*:*

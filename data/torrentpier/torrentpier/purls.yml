@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/torrentpier/torrentpier
+  - pkg:composer/torrentpier/torrentpier
+  - pkg:github/torrentpier/torrentpier

@@ -140,4 +140,6 @@ cpes:
   - cpe:2.3:a:blueglass:jobs_for_wordpress:2.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blueglass:jobs_for_wordpress:2.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blueglass:jobs_for_wordpress:2.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:blueglass:jobs_for_wordpress:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:blueglass:jobs_for_wordpress:2.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blueglass:jobs_for_wordpress:*:*:*:*:*:wordpress:*:*

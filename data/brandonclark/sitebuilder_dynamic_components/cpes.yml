@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:brandonclark:sitebuilder_dynamic_components:1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brandonclark:sitebuilder_dynamic_components:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brandonclark:sitebuilder_dynamic_components:-:*:*:*:*:wordpress:*:*
