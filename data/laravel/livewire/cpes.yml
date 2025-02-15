@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:laravel:livewire:*:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:livewire:*:*:*:*:*:wordpress:*:*

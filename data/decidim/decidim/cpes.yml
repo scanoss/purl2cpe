@@ -104,6 +104,7 @@ cpes:
   - cpe:2.3:a:decidim:decidim:0.28.0:rc5:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.28.0:-:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.28.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.28.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.3.2:*:*:*:*:ruby:*:*
