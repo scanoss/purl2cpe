@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:athemes:sydney_toolbox:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.09:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.28:*:*:*:*:wordpress:*:*

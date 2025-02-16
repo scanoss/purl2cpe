@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ibm-watson-iot/iot-python
+  - pkg:pypi/wiotp-sdk

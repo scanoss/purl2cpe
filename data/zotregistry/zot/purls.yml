@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/project-zot/zot
+  - pkg:golang/github.com/project-zot/zot

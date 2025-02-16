@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dvsekhvalnov/jose2go
+  - pkg:golang/github.com/dvsekhvalnov/jose2go
