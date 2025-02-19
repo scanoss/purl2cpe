@@ -32,4 +32,9 @@ cpes:
   - cpe:2.3:a:putty:putty:0.73:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:0.74:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:0.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.77:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.78:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.79:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.80:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:2010-06-01:r8967:*:*:development_snapshot:*:*:*

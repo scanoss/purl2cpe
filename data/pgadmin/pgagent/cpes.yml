@@ -1,2 +1,14 @@
 cpes:
+  - cpe:2.3:a:pgadmin:pgagent:2.0.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:2.0.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.0.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.0.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.2.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.2.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.4.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:3.4.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:4.0.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:4.2.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:4.2.2:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgagent:*:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgagent:-:*:*:*:*:postgresql:*:*

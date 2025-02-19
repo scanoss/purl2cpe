@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:phpgurukul:student_record_system:3.20:*:*:*:*:*:*:*
   - cpe:2.3:a:phpgurukul:student_record_system:4.0:*:*:*:*:*:*:*

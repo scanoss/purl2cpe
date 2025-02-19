@@ -126,10 +126,45 @@ cpes:
   - cpe:2.3:a:winscp:winscp:5.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.17.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.17.7:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.17.8:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.17.9:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.5:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18.6:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.18:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.20.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.20.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.20.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.20.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.20:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:5.21.8:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.2.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.2.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.2.3:beta:*:*:*:*:*:*
@@ -171,3 +206,17 @@ cpes:
   - cpe:2.3:a:winscp:winscp:5.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:winscp:winscp:5.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.0.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.0.2:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.2.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.2.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.2.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.2.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:winscp:winscp:6.3.2:*:*:*:*:*:*:*
