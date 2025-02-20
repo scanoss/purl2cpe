@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-yaql
+  - pkg:deb/ubuntu/python-yaql
+  - pkg:github/openstack/yaql
+  - pkg:pypi/yaql
+  - pkg:rpm/fedora/python-yaql
+  - pkg:rpm/opensuse/python-yaql

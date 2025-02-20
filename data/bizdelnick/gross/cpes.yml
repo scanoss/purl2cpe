@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:bizdelnick:gross:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bizdelnick:gross:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bizdelnick:gross:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bizdelnick:gross:1.0.3:*:*:*:*:*:*:*

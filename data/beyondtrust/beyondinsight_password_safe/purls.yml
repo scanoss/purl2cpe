@@ -1,2 +1,3 @@
 purls:
   - pkg:github/beyondtrust/secrets-safe-action
+  - pkg:github/keyfactor/beyondtrust-beyondinsight-pam

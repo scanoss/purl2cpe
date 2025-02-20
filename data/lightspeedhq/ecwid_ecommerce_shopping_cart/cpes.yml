@@ -170,6 +170,9 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.2.1:*:*:*:*:wordpress:*:*

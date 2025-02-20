@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mikhirev/gross
+  - pkg:rpm/opensuse/gross
+  - pkg:sourceforge/gross
