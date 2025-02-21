@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/threeten/threetenbp
+  - pkg:maven/org.threeten/threetenbp

@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:*:*:*:*:*:-:*:*
   - cpe:2.3:a:mozilla:thunderbird:*:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:-:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:0.3:*:*:*:*:*:*:*
@@ -72,13 +73,25 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:115.0:beta6:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.10.2:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.11.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.11.1:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.12.1:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.12.2:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.13.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.14.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.16.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.16.1:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.16.2:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.16.3:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.18.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.3.1:*:*:*:*:*:*:*
@@ -87,6 +100,7 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:115.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:115.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:115.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:12.0:*:*:*:*:*:*:*
@@ -140,6 +154,7 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:13.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:131.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:132.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:135.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:14.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:14.0:beta2:*:*:*:*:*:*

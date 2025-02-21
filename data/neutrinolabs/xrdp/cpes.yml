@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:neutrinolabs:xrdp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:neutrinolabs:xrdp:-:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.6.2:*:*:*:*:*:*:*
@@ -25,6 +26,10 @@ cpes:
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.23:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neutrinolabs:xrdp:0.9.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:neutrinolabs:xrdp:0.9.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:neutrinolabs:xrdp:0.9.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neutrinolabs:xrdp:0.9.26:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.3:-:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neutrinolabs:xrdp:0.9.3:rc1:*:*:*:*:*:*

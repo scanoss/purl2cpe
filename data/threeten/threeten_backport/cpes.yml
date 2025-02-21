@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:threeten:threeten_backport:1.6.8:*:*:*:*:*:*:*

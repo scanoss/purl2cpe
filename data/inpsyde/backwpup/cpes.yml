@@ -122,3 +122,7 @@ cpes:
   - cpe:2.3:a:inpsyde:backwpup:3.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inpsyde:backwpup:3.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inpsyde:backwpup:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inpsyde:backwpup:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inpsyde:backwpup:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inpsyde:backwpup:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inpsyde:backwpup:-:*:*:*:*:wordpress:*:*

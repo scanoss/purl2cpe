@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2021.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2021:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2022:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.1:*:*:*:*:wordpress:*:*
