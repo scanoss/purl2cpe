@@ -6,6 +6,7 @@ cpes:
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:10.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbookingcalendar:booking_calendar:10.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpbookingcalendar:booking_calendar:4.0.1:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/peeringmanager/peering-manager
+  - pkg:github/peering-manager/peering-manager

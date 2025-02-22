@@ -25,5 +25,6 @@ cpes:
   - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:4.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:4.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:4.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpswings:return_refund_and_exchange_for_woocommerce:-:*:*:*:*:wordpress:*:*

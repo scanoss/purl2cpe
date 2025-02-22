@@ -52,10 +52,14 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.12.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.12.0:rc2:*:*:*:*:*:*
@@ -66,8 +70,12 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.3.0:*:*:*:*:*:*:*
@@ -87,6 +95,7 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:2.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.6.4:*:*:*:*:*:*:*
@@ -103,3 +112,7 @@ cpes:
   - cpe:2.3:a:eprosima:fast_dds:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eprosima:fast_dds:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eprosima:fast_dds:3.1.1:*:*:*:*:*:*:*

@@ -78,4 +78,5 @@ cpes:
   - cpe:2.3:a:cyberchimps:responsive_addons:3.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons:3.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cyberchimps:responsive_addons:3.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons:-:*:*:*:*:wordpress:*:*
