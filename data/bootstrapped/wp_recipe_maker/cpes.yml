@@ -179,5 +179,7 @@ cpes:
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:8.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:-:*:*:*:*:wordpress:*:*

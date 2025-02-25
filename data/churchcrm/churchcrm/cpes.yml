@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:churchcrm:churchcrm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:-:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:2.0.1:*:*:*:*:*:*:*

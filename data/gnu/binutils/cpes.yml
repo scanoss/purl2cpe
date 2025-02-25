@@ -66,7 +66,11 @@ cpes:
   - cpe:2.3:a:gnu:binutils:2.38.50:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.39:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:binutils:2.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:binutils:2.42:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:binutils:2.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:binutils:2.44:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:binutils:2.8:*:*:*:*:*:*:*

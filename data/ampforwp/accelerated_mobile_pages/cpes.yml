@@ -124,5 +124,10 @@ cpes:
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.96.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.96:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.97:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.98:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.99.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.99.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.0.99:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ampforwp:accelerated_mobile_pages:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ampforwp:accelerated_mobile_pages:-:*:*:*:*:wordpress:*:*

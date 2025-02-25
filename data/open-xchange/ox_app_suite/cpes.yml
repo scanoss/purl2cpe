@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:open-xchange:ox_app_suite:-:*:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:-:*:*:*:*:*:*
@@ -57,5 +58,15 @@ cpes:
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev53:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev54:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev55:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:8.16:*:*:*:*:*:*:*
   - cpe:2.3:a:open-xchange:ox_app_suite:8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:ox_app_suite:8.21:*:*:*:*:*:*:*

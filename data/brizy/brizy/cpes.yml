@@ -411,6 +411,7 @@ cpes:
   - cpe:2.3:a:brizy:brizy:2.6.3:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.6.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.6.4:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brizy:brizy:2.6.5:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.6.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.6.7:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:brizy:brizy:2.6.8:*:*:*:free:wordpress:*:*

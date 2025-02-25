@@ -88,5 +88,6 @@ cpes:
   - cpe:2.3:a:gamipress:gamipress:7.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gamipress:gamipress:7.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gamipress:gamipress:7.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamipress:gamipress:7.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gamipress:gamipress:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gamipress:gamipress:-:*:*:*:*:wordpress:*:*

@@ -244,6 +244,7 @@ cpes:
   - cpe:2.3:a:ultimatemember:ultimate_member:2.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:2.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.1.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.1.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.1.12:*:*:*:*:wordpress:*:*
@@ -303,4 +304,8 @@ cpes:
   - cpe:2.3:a:ultimatemember:ultimate_member:2.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:2.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:2.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:2.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:-:*:*:*:*:wordpress:*:*

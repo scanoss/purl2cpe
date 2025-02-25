@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mintty_project:mintty:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mintty_project:mintty:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mintty_project:mintty:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mintty_project:mintty:0.3.1:*:*:*:*:*:*:*

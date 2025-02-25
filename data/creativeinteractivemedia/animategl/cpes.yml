@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:creativeinteractivemedia:animategl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:creativeinteractivemedia:animategl:1.4.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:creativeinteractivemedia:animategl:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creativeinteractivemedia:animategl:-:*:*:*:*:wordpress:*:*
