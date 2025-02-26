@@ -225,6 +225,7 @@ cpes:
   - cpe:2.3:a:givewp:givewp:3.15.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.16.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:givewp:givewp:3.16.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:givewp:givewp:3.2.2:*:*:*:*:wordpress:*:*

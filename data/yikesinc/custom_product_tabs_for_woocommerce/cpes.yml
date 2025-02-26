@@ -48,4 +48,5 @@ cpes:
   - cpe:2.3:a:yikesinc:custom_product_tabs_for_woocommerce:1.7.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:custom_product_tabs_for_woocommerce:1.7.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:custom_product_tabs_for_woocommerce:1.7.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yikesinc:custom_product_tabs_for_woocommerce:1.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:yikesinc:custom_product_tabs_for_woocommerce:-:*:*:*:*:wordpress:*:*
