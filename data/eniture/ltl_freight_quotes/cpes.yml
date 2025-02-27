@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:abf_freight:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:abf:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:globaltranz:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:odfl:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:old_dominion:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:saia:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:southeastern_freight_lines:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:tforce:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:unishippers:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:ups:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eniture:ltl_freight_quotes:*:*:*:*:xpo:wordpress:*:*
