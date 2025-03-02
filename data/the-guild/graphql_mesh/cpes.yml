@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:the-guild:graphql_mesh:0.96.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:the-guild:graphql_mesh:0.96.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:the-guild:graphql_mesh:0.96.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:the-guild:graphql_mesh:0.96.8:*:*:*:*:*:*:*
