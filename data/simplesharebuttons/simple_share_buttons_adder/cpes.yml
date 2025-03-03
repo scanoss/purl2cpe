@@ -112,3 +112,4 @@ cpes:
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:8.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplesharebuttons:simple_share_buttons_adder:*:*:*:*:*:wordpress:*:*

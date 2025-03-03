@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:11.0:*:*:*:*:*:*:*

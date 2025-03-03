@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/greenpau/caddy-security
+  - pkg:golang/github.com/greenpau/caddy-security

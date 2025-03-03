@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:navidrome:navidrome:*:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:-:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.11.0:*:*:*:*:*:*:*

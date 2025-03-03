@@ -167,4 +167,5 @@ cpes:
   - cpe:2.3:a:mainwp:mainwp_child:4.4.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child:4.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child:4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:mainwp_child:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child:-:*:*:*:*:wordpress:*:*

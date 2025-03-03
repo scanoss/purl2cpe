@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:reproducible_builds:diffoscope:*:*:*:*:*:*:*:*
   - cpe:2.3:a:reproducible_builds:diffoscope:1:*:*:*:*:*:*:*
   - cpe:2.3:a:reproducible_builds:diffoscope:10:*:*:*:*:*:*:*
   - cpe:2.3:a:reproducible_builds:diffoscope:100:*:*:*:*:*:*:*

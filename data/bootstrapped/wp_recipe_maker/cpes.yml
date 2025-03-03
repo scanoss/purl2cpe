@@ -195,5 +195,6 @@ cpes:
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.5.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.6.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:9.6.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:bootstrapped:wp_recipe_maker:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bootstrapped:wp_recipe_maker:-:*:*:*:*:wordpress:*:*

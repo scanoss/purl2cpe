@@ -45,3 +45,4 @@ cpes:
   - cpe:2.3:a:wpeverest:everest_forms:1.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpeverest:everest_forms:1.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpeverest:everest_forms:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpeverest:everest_forms:*:*:*:*:*:wordpress:*:*

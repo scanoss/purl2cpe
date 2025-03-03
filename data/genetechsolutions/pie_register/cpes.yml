@@ -164,4 +164,5 @@ cpes:
   - cpe:2.3:a:genetechsolutions:pie_register:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:genetechsolutions:pie_register:3.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:genetechsolutions:pie_register:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genetechsolutions:pie_register:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:genetechsolutions:pie_register:-:*:*:*:*:wordpress:*:*
