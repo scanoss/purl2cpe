@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:saitodev:soy_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:saitodev:soy_cms:1.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:saitodev:soy_cms:3.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:saitodev:soy_cms:3.14.1:*:*:*:*:*:*:*
