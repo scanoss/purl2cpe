@@ -80,6 +80,13 @@ cpes:
   - cpe:2.3:a:pomerium:pomerium:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pomerium:pomerium:0.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pomerium:pomerium:0.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomerium:pomerium:0.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pomerium:pomerium:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pomerium:pomerium:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pomerium:pomerium:0.4.0:*:*:*:*:*:*:*

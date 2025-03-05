@@ -238,6 +238,7 @@ cpes:
   - cpe:2.3:a:fooplugins:foogallery:2.4.20:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.22:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.25:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:2.4.26:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.2:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.5:*:*:*:*:wordpress:*:*
@@ -247,5 +248,6 @@ cpes:
   - cpe:2.3:a:fooplugins:foogallery:2.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:2.4.7:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:-:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:-:wordpress:*:*
