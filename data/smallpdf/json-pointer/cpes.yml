@@ -11,4 +11,5 @@ cpes:
   - cpe:2.3:a:smallpdf:json-pointer:0.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:smallpdf:json-pointer:0.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:smallpdf:json-pointer:0.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:smallpdf:json-pointer:-:*:*:*:*:node.js:*:*
