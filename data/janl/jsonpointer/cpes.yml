@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:janl:jsonpointer:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:janl:jsonpointer:-:*:*:*:*:node.js:*:*
