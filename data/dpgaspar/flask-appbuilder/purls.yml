@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dpgaspar/flask-appbuilder
+  - pkg:pypi/flask-appbuilder
