@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openziti/ziti
+  - pkg:golang/github.com/openziti/ziti

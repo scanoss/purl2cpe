@@ -5,4 +5,5 @@ cpes:
   - cpe:2.3:a:ruby-lang:cgi:0.2.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:cgi:0.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:cgi:0.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:cgi:0.3.6:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:cgi:*:*:*:*:*:ruby:*:*

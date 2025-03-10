@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dpgaspar:flask-appbuilder:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dpgaspar:flask-appbuilder:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dpgaspar:flask-appbuilder:1.11.0:*:*:*:*:*:*:*

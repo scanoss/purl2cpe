@@ -1713,6 +1713,8 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:17.6.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.6.2:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.6.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.9.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.9.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*

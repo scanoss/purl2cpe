@@ -134,4 +134,5 @@ cpes:
   - cpe:2.3:a:themekraft:buddyforms:2.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themekraft:buddyforms:2.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themekraft:buddyforms:2.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themekraft:buddyforms:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themekraft:buddyforms:-:*:*:*:*:wordpress:*:*

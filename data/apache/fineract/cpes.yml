@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:fineract:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:0.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:0.3.1:*:*:*:*:*:*:*

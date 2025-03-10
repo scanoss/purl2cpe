@@ -82,4 +82,5 @@ cpes:
   - cpe:2.3:a:iqonic:kivicare:3.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iqonic:kivicare:3.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iqonic:kivicare:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iqonic:kivicare:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iqonic:kivicare:-:*:*:*:*:wordpress:*:*

@@ -18,3 +18,4 @@ cpes:
   - cpe:2.3:a:purechat:pure_chat:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:purechat:pure_chat:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:purechat:pure_chat:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:purechat:pure_chat:*:*:*:*:*:wordpress:*:*

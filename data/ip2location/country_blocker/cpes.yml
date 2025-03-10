@@ -111,4 +111,5 @@ cpes:
   - cpe:2.3:a:ip2location:country_blocker:2.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ip2location:country_blocker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:-:*:*:*:*:wordpress:*:*

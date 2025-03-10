@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2020.0118:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2020.0818:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2021.0713:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:*:*:*:*:*:wordpress:*:*

@@ -105,3 +105,4 @@ cpes:
   - cpe:2.3:a:codepeople:calculated_fields_form:1.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:1.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:1.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:calculated_fields_form:*:*:*:*:*:wordpress:*:*

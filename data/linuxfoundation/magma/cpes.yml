@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linuxfoundation:magma:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:magma:-:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:magma:0.3.70:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:magma:0.3.71:*:*:*:*:*:*:*
