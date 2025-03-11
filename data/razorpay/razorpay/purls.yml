@@ -1,0 +1,11 @@
+purls:
+  - pkg:gem/razorpay
+  - pkg:github/razorpay/razorpay-flutter
+  - pkg:github/razorpay/razorpay-java
+  - pkg:github/razorpay/razorpay-node
+  - pkg:github/razorpay/razorpay-php
+  - pkg:github/razorpay/razorpay-python
+  - pkg:github/razorpay/razorpay-ruby
+  - pkg:maven/com.razorpay/razorpay-java
+  - pkg:npm/razorpay
+  - pkg:pypi/razorpay
