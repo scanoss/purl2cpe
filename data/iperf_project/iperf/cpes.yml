@@ -25,3 +25,5 @@ cpes:
   - cpe:2.3:a:iperf_project:iperf:3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:iperf_project:iperf:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:iperf_project:iperf:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:iperf_project:iperf:3.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:iperf_project:iperf:3.1.4:*:*:*:*:*:*:*

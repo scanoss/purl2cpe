@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:*:*:*:*:*:*:*:*
   - cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:-:*:*:*:*:*:*:*
   - cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:1.11.0:*:*:*:*:*:*:*

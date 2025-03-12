@@ -110,9 +110,18 @@ cpes:
   - cpe:2.3:a:pickplugins:post_grid:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.2.80:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.81:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.82:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.83:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.84:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.85a:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.86:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.2.87:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.2.88:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.2.89:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:2.2.90:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.92:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pickplugins:post_grid:2.2.93:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pickplugins:post_grid:-:*:*:*:*:wordpress:*:*

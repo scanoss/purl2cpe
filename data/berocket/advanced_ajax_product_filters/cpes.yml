@@ -122,5 +122,33 @@ cpes:
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.4.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6:*:*:*:*:wordpress:*:*

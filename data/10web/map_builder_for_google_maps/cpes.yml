@@ -63,6 +63,7 @@ cpes:
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.70:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.71:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.73:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.74:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10web:map_builder_for_google_maps:1.0.8:*:*:*:*:wordpress:*:*

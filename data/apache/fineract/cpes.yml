@@ -29,3 +29,4 @@ cpes:
   - cpe:2.3:a:apache:fineract:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fineract:1.9.0:*:*:*:*:*:*:*

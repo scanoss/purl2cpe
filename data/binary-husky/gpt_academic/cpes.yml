@@ -22,3 +22,7 @@ cpes:
   - cpe:2.3:a:binary-husky:gpt_academic:3.34:*:*:*:*:*:*:*
   - cpe:2.3:a:binary-husky:gpt_academic:3.35:*:*:*:*:*:*:*
   - cpe:2.3:a:binary-husky:gpt_academic:3.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:binary-husky:gpt_academic:3.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:binary-husky:gpt_academic:3.37-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:binary-husky:gpt_academic:3.37-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:binary-husky:gpt_academic:3.37-4:*:*:*:*:*:*:*

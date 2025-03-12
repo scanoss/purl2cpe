@@ -58,4 +58,5 @@ cpes:
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:2.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themesgrove:all-in-one_addons_for_elementor:-:*:*:*:*:wordpress:*:*

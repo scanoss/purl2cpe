@@ -184,6 +184,7 @@ cpes:
   - cpe:2.3:a:webnus:modern_events_calendar:7.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar:7.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar:7.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar:7.12.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar:7.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar:7.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar:7.3.0:*:*:*:*:wordpress:*:*

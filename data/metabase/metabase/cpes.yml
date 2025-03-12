@@ -646,6 +646,9 @@ cpes:
   - cpe:2.3:a:metabase:metabase:1.46.6.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.46.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.47.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.47.0:rc1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.47.0:rc2:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.47.0:rc3:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.47.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.47.11:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.47.12:*:*:*:enterprise:*:*:*

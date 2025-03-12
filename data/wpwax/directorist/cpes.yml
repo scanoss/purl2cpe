@@ -181,5 +181,6 @@ cpes:
   - cpe:2.3:a:wpwax:directorist:8.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:8.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpwax:directorist:8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpwax:directorist:-:*:*:*:*:wordpress:*:*

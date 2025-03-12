@@ -138,6 +138,7 @@ cpes:
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.24.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.24.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.24.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iptanus:wordpress_file_upload:4.24.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.2:*:*:*:*:wordpress:*:*

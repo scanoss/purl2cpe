@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.1.1:*:*:*:*:wordpress:*:*
@@ -11,4 +13,6 @@ cpes:
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:2.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:directsoftware:order_attachments_for_woocommerce:*:*:*:*:*:wordpress:*:*

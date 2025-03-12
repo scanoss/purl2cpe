@@ -179,4 +179,16 @@ cpes:
   - cpe:2.3:a:webnus:modern_events_calendar_lite:6.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar_lite:6.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar_lite:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webnus:modern_events_calendar_lite:7.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webnus:modern_events_calendar_lite:*:*:*:*:*:wordpress:*:*
