@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:linux:linux_kernel:5.4.52:*:*:*:*:*:*:*
   - cpe:2.3:a:linux:linux_kernel:5.4.53:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:10.2.0:*:*:*:*:endpoint_security_linux_threat_prevention:*:*
   - cpe:2.3:o:linux:linux_kernel:10.2.2:*:*:*:*:endpoint_security_linux_threat_prevention:*:*
