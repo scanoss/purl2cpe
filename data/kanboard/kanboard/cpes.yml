@@ -89,6 +89,7 @@ cpes:
   - cpe:2.3:a:kanboard:kanboard:1.2.38:*:*:*:*:*:*:*
   - cpe:2.3:a:kanboard:kanboard:1.2.39:*:*:*:*:*:*:*
   - cpe:2.3:a:kanboard:kanboard:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kanboard:kanboard:1.2.40:*:*:*:*:*:*:*
   - cpe:2.3:a:kanboard:kanboard:1.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kanboard:kanboard:1.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kanboard:kanboard:1.2.7:*:*:*:*:*:*:*

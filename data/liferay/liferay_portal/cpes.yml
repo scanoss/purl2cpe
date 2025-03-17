@@ -234,6 +234,7 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:7.2.0:rc3:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.2.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.2.1:ga1:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.2.1:ga2:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.2:ga1:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.3.0:*:*:*:*:*:*:*

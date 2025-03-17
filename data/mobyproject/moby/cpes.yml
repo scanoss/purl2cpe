@@ -380,3 +380,6 @@ cpes:
   - cpe:2.3:a:mobyproject:moby:25.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:25.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:moby:25.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:26.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:26.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:moby:26.0.0:rc3:*:*:*:*:*:*

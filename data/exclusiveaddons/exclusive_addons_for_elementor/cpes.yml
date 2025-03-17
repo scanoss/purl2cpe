@@ -152,6 +152,7 @@ cpes:
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.7.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.7.6:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:free:wordpress:*:*
+  - "cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:free:wordpress:*:*\t"
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:*:wordpress:*:*
