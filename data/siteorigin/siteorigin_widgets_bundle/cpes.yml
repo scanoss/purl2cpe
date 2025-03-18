@@ -30,9 +30,15 @@ cpes:
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.51.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.52.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.58.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.58.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.58.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.62.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.62.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:-:*:*:*:*:wordpress:*:*

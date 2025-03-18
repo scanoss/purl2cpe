@@ -47,6 +47,9 @@ cpes:
   - cpe:2.3:a:brizy:unyson:2.7.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:unyson:2.7.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:unyson:2.7.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:unyson:2.7.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:unyson:2.7.29:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brizy:unyson:2.7.30:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:unyson:2.7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:unyson:2.7.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brizy:unyson:2.7.7:*:*:*:*:wordpress:*:*

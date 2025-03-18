@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mljar/plotai
+  - pkg:pypi/plotai

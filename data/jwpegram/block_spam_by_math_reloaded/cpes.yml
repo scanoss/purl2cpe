@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:1.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jwpegram:block_spam_by_math_reloaded:*:*:*:*:*:wordpress:*:*

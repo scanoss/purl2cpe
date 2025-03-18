@@ -9,7 +9,18 @@ cpes:
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.1:*:*:*:*:*:*:*
@@ -26,3 +37,4 @@ cpes:
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.3:*:*:*:*:*:*:*

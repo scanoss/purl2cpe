@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aio-libs/aiohttp-session
+  - pkg:pypi/aiohttp-session

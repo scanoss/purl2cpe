@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:mljar:plotai:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mljar:plotai:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mljar:plotai:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mljar:plotai:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mljar:plotai:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mljar:plotai:0.0.6:*:*:*:*:*:*:*
