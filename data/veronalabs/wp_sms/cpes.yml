@@ -508,8 +508,23 @@ cpes:
   - cpe:2.3:a:veronalabs:wp_sms:6.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.5.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.5.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.5.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.5.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.5:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.6.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.6.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.6.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.7.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.8.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.9.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.9.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.9.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:veronalabs:wp_sms:6.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:veronalabs:wp_sms:*:*:*:*:*:wordpress:*:*

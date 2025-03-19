@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/dpage/pgadmin4
+  - pkg:github/pgadmin-org/pgadmin4
+  - pkg:pypi/pgadmin4
+  - pkg:rpm/fedora/pgadmin4
+  - pkg:rpm/opensuse/pgadmin4

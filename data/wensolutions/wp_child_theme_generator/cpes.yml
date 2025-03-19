@@ -11,5 +11,6 @@ cpes:
   - cpe:2.3:a:wensolutions:wp_child_theme_generator:1.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wensolutions:wp_child_theme_generator:1.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wensolutions:wp_child_theme_generator:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wensolutions:wp_child_theme_generator:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wensolutions:wp_child_theme_generator:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wensolutions:wp_child_theme_generator:-:*:*:*:*:wordpress:*:*
