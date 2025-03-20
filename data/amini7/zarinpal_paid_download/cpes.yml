@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:amini7:zarinpal_paid_download:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amini7:zarinpal_paid_download:2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amini7:zarinpal_paid_download:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amini7:zarinpal_paid_download:-:*:*:*:*:wordpress:*:*

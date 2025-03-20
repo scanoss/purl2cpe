@@ -91,5 +91,6 @@ cpes:
   - cpe:2.3:a:androidbubbles:wp_datepicker:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:androidbubbles:wp_datepicker:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:androidbubbles:wp_datepicker:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:androidbubbles:wp_datepicker:2.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:androidbubbles:wp_datepicker:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:androidbubbles:wp_datepicker:-:*:*:*:*:wordpress:*:*

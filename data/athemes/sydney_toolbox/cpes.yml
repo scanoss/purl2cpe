@@ -24,3 +24,6 @@ cpes:
   - cpe:2.3:a:athemes:sydney_toolbox:1.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:athemes:sydney_toolbox:1.27:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:athemes:sydney_toolbox:1.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:1.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:athemes:sydney_toolbox:-:*:*:*:*:wordpress:*:*

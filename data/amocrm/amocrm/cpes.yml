@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:amocrm:amocrm:1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:amocrm:amocrm:*:*:*:*:*:wordpress:*:*

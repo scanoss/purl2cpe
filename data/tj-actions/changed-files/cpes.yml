@@ -258,6 +258,8 @@ cpes:
   - cpe:2.3:a:tj-actions:changed-files:4.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:tj-actions:changed-files:4.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:tj-actions:changed-files:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tj-actions:changed-files:41.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tj-actions:changed-files:41.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tj-actions:changed-files:4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tj-actions:changed-files:4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tj-actions:changed-files:4.4:*:*:*:*:*:*:*

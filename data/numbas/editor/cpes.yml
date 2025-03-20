@@ -1,2 +1,19 @@
 cpes:
   - cpe:2.3:a:numbas:editor:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:numbas:editor:7.2:*:*:*:*:*:*:*

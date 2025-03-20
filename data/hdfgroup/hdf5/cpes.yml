@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hdfgroup:hdf5:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.10.2:*:*:*:*:*:*:*

@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:bestwebsoft:error_log_viewer:1.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:error_log_viewer:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bestwebsoft:error_log_viewer:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bestwebsoft:error_log_viewer:-:*:*:*:*:wordpress:*:*

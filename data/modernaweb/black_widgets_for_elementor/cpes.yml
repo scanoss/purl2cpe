@@ -15,5 +15,7 @@ cpes:
   - cpe:2.3:a:modernaweb:black_widgets_for_elementor:1.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:modernaweb:black_widgets_for_elementor:1.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:modernaweb:black_widgets_for_elementor:1.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:modernaweb:black_widgets_for_elementor:1.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:modernaweb:black_widgets_for_elementor:1.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:modernaweb:black_widgets_for_elementor:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:modernaweb:black_widgets_for_elementor:-:*:*:*:*:wordpress:*:*

@@ -45,6 +45,9 @@ cpes:
   - cpe:2.3:a:code-atlantic:popup_maker:1.19.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:code-atlantic:popup_maker:1.19.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:code-atlantic:popup_maker:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:code-atlantic:popup_maker:1.20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:code-atlantic:popup_maker:1.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:code-atlantic:popup_maker:1.20.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:code-atlantic:popup_maker:1.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:code-atlantic:popup_maker:1.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:code-atlantic:popup_maker:1.2.2:*:*:*:*:wordpress:*:*
