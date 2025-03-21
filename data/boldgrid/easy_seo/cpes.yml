@@ -1,2 +1,19 @@
 cpes:
+  - cpe:2.3:a:boldgrid:easy_seo:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:1.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:easy_seo:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:easy_seo:-:*:*:*:*:wordpress:*:*

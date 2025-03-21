@@ -26,3 +26,4 @@ cpes:
   - cpe:2.3:a:pu-gh:sockso:1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pu-gh:sockso:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pu-gh:sockso:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pu-gh:sockso:1.5:*:*:*:*:*:*:*

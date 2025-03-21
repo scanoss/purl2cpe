@@ -1,2 +1,3 @@
 purls:
   - pkg:github/absolunet/kafe
+  - pkg:npm/%40absolunet/kafe
