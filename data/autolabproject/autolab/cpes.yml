@@ -27,6 +27,8 @@ cpes:
   - cpe:2.3:a:autolabproject:autolab:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:autolabproject:autolab:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:autolabproject:autolab:2.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:2.3.0:*:*:*:*:*:*:*
@@ -37,3 +39,4 @@ cpes:
   - cpe:2.3:a:autolabproject:autolab:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:autolabproject:autolab:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:autolabproject:autolab:3.0.2:*:*:*:*:*:*:*

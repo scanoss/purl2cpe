@@ -82,8 +82,52 @@ cpes:
   - cpe:2.3:a:ollama:ollama:0.1.45:rc4:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.45:rc5:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc13:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc14:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.1.49:rc9:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.2.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.7:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.3.8:*:*:*:*:*:*:*

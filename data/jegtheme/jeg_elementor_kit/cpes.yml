@@ -60,6 +60,8 @@ cpes:
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.6.3:*:*:*:*:wordpress:*:*
