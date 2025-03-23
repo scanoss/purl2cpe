@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kyivstarteam/react-native-sms-user-consent
+  - pkg:npm/%40kyivstarteam/react-native-sms-user-consent
