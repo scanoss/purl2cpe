@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/snowflakedb/snowflake-hive-metastore-connector
+  - pkg:maven/net.snowflake/snowflake-hive-metastore-connector

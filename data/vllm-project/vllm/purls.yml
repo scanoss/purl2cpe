@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vllm-project/vllm
+  - pkg:pypi/vllm
+  - pkg:sourceforge/vllm.mirror

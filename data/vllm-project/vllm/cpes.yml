@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:vllm-project:vllm:0.6.0:*:*:*:*:*:*:*

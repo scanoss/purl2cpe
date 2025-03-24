@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:kyivstarteam:react_native_sms_user_consent:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kyivstarteam:react_native_sms_user_consent:*:*:*:*:*:android:*:*

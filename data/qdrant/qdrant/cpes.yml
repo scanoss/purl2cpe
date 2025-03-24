@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:qdrant:qdrant:*:*:*:*:*:*:*:*
   - cpe:2.3:a:qdrant:qdrant:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qdrant:qdrant:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:qdrant:qdrant:0.10.2:*:*:*:*:*:*:*
@@ -53,3 +54,5 @@ cpes:
   - cpe:2.3:a:qdrant:qdrant:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:qdrant:qdrant:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qdrant:qdrant:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdrant:qdrant:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdrant:qdrant:1.8.2:*:*:*:*:*:*:*

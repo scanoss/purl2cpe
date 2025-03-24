@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/billz/raspap-webgui
+  - pkg:github/raspap/raspap-webgui

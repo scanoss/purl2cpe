@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:snowflake:snowflake_hive_metastore_connector:*:*:*:*:*:*:*:*

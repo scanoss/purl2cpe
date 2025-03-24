@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/quickjs
+  - pkg:deb/ubuntu/quickjs
+  - pkg:rpm/opensuse/quickjs

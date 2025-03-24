@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:limbas:limbas:4.3.36.1319:*:*:*:*:*:*:*
+  - cpe:2.3:a:limbas:limbas:5.2.14:*:*:*:*:*:*:*

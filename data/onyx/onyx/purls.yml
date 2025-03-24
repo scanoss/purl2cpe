@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onyx-platform/onyx
+  - pkg:maven/org.onyxplatform/onyx
