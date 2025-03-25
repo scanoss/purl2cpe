@@ -72,9 +72,27 @@ cpes:
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.24.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.24.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.24.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.25.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.25.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.26.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:post_and_page_builder:1.27.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:post_and_page_builder:1.2.9:*:*:*:*:wordpress:*:*

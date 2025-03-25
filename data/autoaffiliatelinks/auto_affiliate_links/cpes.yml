@@ -616,4 +616,5 @@ cpes:
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:autoaffiliatelinks:auto_affiliate_links:-:*:*:*:*:wordpress:*:*
