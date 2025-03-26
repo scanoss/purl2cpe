@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:udx:wp-stateless:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:udx:wp-stateless:3.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:udx:wp-stateless:*:*:*:*:*:wordpress:*:*

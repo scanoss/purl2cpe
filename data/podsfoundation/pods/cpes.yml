@@ -55,6 +55,7 @@ cpes:
   - cpe:2.3:a:podsfoundation:pods:2.7.28:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.7.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:2.7.31.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.7.5:*:*:*:*:wordpress:*:*
@@ -77,6 +78,7 @@ cpes:
   - cpe:2.3:a:podsfoundation:pods:2.8.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.8.22.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.8.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:2.8.23.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.8.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.8.4.1:*:*:*:*:wordpress:*:*
@@ -103,6 +105,7 @@ cpes:
   - cpe:2.3:a:podsfoundation:pods:2.9.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.9.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.9.19.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:2.9.19.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.9.19.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.9.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:2.9.1:*:*:*:*:wordpress:*:*
@@ -115,6 +118,7 @@ cpes:
   - cpe:2.3:a:podsfoundation:pods:2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.0.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:3.0.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.0.10.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.0.1:*:*:*:*:wordpress:*:*
@@ -139,5 +143,8 @@ cpes:
   - cpe:2.3:a:podsfoundation:pods:3.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:3.2.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:3.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:3.2.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:podsfoundation:pods:3.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:podsfoundation:pods:-:*:*:*:*:wordpress:*:*
