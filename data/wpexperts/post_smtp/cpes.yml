@@ -125,5 +125,10 @@ cpes:
   - cpe:2.3:a:wpexperts:post_smtp:2.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:2.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:2.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smtp:3.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpexperts:post_smtp:-:*:*:*:*:wordpress:*:*
