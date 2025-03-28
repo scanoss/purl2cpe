@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/commons-vfs
+  - pkg:github/apache/commons-vfs
+  - pkg:maven/org.apache.commons/commons-vfs2

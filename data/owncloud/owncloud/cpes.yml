@@ -668,5 +668,7 @@ cpes:
   - cpe:2.3:a:owncloud:owncloud:9.1.8:-:*:*:*:*:*:*
   - cpe:2.3:a:owncloud:owncloud:9.1.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:owncloud:owncloud:9.1.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:owncloud:owncloud:*:*:*:*:*:android:*:*
   - cpe:2.3:a:owncloud:owncloud:*:*:*:*:community:*:*:*
+  - cpe:2.3:a:owncloud:owncloud:*:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:owncloud:owncloud:-:*:*:*:*:iphone_os:*:*
