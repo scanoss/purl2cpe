@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pipe-cd/pipecd
+  - pkg:golang/github.com/pipe-cd/pipecd
