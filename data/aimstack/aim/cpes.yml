@@ -96,5 +96,6 @@ cpes:
   - cpe:2.3:a:aimstack:aim:3.1.0:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.1.1:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aimstack:aim:3.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aimstack:aim:3.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aimstack:aim:3.25.0:*:*:*:*:*:*:*

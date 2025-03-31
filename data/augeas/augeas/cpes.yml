@@ -38,4 +38,5 @@ cpes:
   - cpe:2.3:a:augeas:augeas:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:augeas:augeas:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:augeas:augeas:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:augeas:augeas:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:augeas:augeas:1.8.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/getmeuk/contenttools
+  - pkg:npm/npm/contenttools

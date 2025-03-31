@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:canvg:canvg:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:canvg:canvg:4.0.2:*:*:*:*:*:*:*

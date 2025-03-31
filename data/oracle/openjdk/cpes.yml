@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:-:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:10:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:10.0.1:*:*:*:*:*:*:*
@@ -206,7 +207,16 @@ cpes:
   - cpe:2.3:a:oracle:openjdk:8:update342:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update352:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update362:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update372:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update382:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update392:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update40:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b00:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b01:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b02:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b03:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b04:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update402-b05:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update45:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update5:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update51:*:*:*:*:*:*
