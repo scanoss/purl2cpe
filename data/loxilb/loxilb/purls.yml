@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/loxilb-io/loxilb
+  - pkg:golang/github.com/loxilb-io/loxilb

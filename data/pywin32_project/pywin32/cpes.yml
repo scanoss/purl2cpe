@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pywin32_project:pywin32:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pywin32_project:pywin32:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pywin32_project:pywin32:b126:*:*:*:*:*:*:*
   - cpe:2.3:a:pywin32_project:pywin32:b127:*:*:*:*:*:*:*
