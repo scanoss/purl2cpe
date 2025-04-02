@@ -69,6 +69,20 @@ cpes:
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.3.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:12.4.07:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:squirrly:seo_plugin_by_squirrly_seo:5.0.3:*:*:*:*:wordpress:*:*
