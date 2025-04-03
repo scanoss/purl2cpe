@@ -249,3 +249,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:6.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.2.1:*:*:*:*:*:*:*

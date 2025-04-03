@@ -21,6 +21,7 @@ cpes:
   - cpe:2.3:a:openvpn:connect:3.3.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:openvpn:connect:3.3.6.4368:*:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:3.3.7.2979:*:*:*:*:windows:*:*
+  - cpe:2.3:a:openvpn:connect:3.4.0.3121:*:*:*:*:windows:*:*
   - cpe:2.3:a:openvpn:connect:3.4.0.4506:*:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:3.4.6:*:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:*:*:*:*:*:windows:*:*

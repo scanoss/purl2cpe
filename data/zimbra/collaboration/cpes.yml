@@ -10,6 +10,7 @@ cpes:
   - cpe:2.3:a:zimbra:collaboration:10.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:10.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:10.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:zimbra:collaboration:10.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:zimbra:collaboration:8.7.11:-:*:*:*:*:*:*

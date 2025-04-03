@@ -13,4 +13,6 @@ cpes:
   - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:1.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:1.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syncpostwithothersite:sync_post_with_other_site:*:*:*:*:*:wordpress:*:*

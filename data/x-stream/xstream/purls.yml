@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/x-stream/xstream
+  - pkg:maven/com.thoughtworks.xstream/xstream
