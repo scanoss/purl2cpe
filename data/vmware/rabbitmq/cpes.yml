@@ -167,6 +167,7 @@ cpes:
   - cpe:2.3:a:vmware:rabbitmq:3.6.6:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.6.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.6.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:rabbitmq:3.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.6.7:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.6.7:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.6.7:milestone2:*:*:*:*:*:*
@@ -289,6 +290,7 @@ cpes:
   - cpe:2.3:a:vmware:rabbitmq:3.7.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.7.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.7.9:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:rabbitmq:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:rabbitmq:3.8.0:beta2:*:*:*:*:*:*

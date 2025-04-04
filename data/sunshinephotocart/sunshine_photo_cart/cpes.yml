@@ -196,6 +196,7 @@ cpes:
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.3:*:*:*:*:wordpress:*:*
@@ -206,6 +207,21 @@ cpes:
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sunshinephotocart:sunshine_photo_cart:-:*:*:*:*:wordpress:*:*

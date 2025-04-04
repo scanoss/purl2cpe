@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/rabbitmq
+  - pkg:github/rabbitmq/rabbitmq-server
+  - pkg:sourceforge/rabbitmq-server.mirror
