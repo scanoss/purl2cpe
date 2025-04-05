@@ -77,3 +77,6 @@ cpes:
   - cpe:2.3:a:open5gs:open5gs:2.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:open5gs:open5gs:2.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:open5gs:open5gs:2.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:open5gs:open5gs:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:open5gs:open5gs:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open5gs:open5gs:2.7.2:*:*:*:*:*:*:*

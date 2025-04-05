@@ -1,2 +1,6 @@
 cpes:
+  - cpe:2.3:a:mindstien:my_geo_posts_free:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mindstien:my_geo_posts_free:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mindstien:my_geo_posts_free:1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mindstien:my_geo_posts_free:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mindstien:my_geo_posts_free:-:*:*:*:*:wordpress:*:*
