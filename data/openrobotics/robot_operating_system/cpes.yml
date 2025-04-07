@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:a:openrobotics:robot_operating_system:2:humble:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:2:iron:*:*:*:*:*:*
   - cpe:2.3:o:openrobotics:robot_operating_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:openrobotics:robot_operating_system:2:humble:*:*:*:*:*:*

@@ -6,4 +6,5 @@ cpes:
   - cpe:2.3:a:softether:vpn:5.01.9674:beta:*:*:*:*:*:*
   - cpe:2.3:a:softether:vpn:5.02:*:*:*:*:*:*:*
   - cpe:2.3:a:softether:vpn:5.02:-:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.02.5187:*:*:*:*:*:*:*
   - cpe:2.3:a:softether:vpn:5.02:beta:*:*:*:*:*:*

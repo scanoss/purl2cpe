@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jonschlinkert/parse-git-config
+  - pkg:maven/org.webjars.npm/parse-git-config
+  - pkg:npm/parse-git-config

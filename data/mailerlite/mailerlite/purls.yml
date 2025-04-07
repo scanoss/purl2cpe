@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/mailerlite/mailerlite-php
+  - pkg:github/mailerlite/mailerlite-php

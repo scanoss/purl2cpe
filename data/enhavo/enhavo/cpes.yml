@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:enhavo:enhavo:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enhavo:enhavo:0.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:enhavo:enhavo:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:enhavo:enhavo:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:enhavo:enhavo:0.4.0:*:*:*:*:*:*:*
