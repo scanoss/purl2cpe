@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:spotipy_project:spotipy:2.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:spotipy_project:spotipy:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:spotipy_project:spotipy:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spotipy_project:spotipy:2.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:spotipy_project:spotipy:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:spotipy_project:spotipy:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:spotipy_project:spotipy:2.6.1:*:*:*:*:*:*:*

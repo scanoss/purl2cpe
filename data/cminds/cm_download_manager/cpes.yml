@@ -55,8 +55,12 @@ cpes:
   - cpe:2.3:a:cminds:cm_download_manager:2.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_download_manager:2.8.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.8.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:2.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_download_manager:2.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_download_manager:2.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_download_manager:2.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cminds:cm_download_manager:*:*:*:*:*:wordpress:*:*

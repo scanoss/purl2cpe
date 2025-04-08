@@ -1,3 +1,20 @@
 cpes:
+  - cpe:2.3:a:infiniflow:ragflow:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.9.0:*:*:*:*:*:*:*

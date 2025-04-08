@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dreamer_cms_project:dreamer_cms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dreamer_cms_project:dreamer_cms:2.0.1:*:*:*:*:*:*:*

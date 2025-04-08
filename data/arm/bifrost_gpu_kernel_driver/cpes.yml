@@ -2,9 +2,22 @@ cpes:
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:-:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r0p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r11p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r16p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r16p0-01eac0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r17p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r19p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r1p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r25p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r28p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r30p0-01eac0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r35p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r36p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*
@@ -19,3 +32,5 @@ cpes:
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r47p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r48p0:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r49p0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r49p1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r7p0:*:*:*:*:*:*:*
