@@ -12,8 +12,47 @@ cpes:
   - cpe:2.3:a:projeqtor:projeqtor:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:10.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:11.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:1.3.0:*:*:*:*:*:*:*
@@ -295,3 +334,10 @@ cpes:
   - cpe:2.3:a:projeqtor:projeqtor:9.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:9.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:projeqtor:projeqtor:9.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:projeqtor:projeqtor:9.5.5:*:*:*:*:*:*:*
