@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:hyperledger:fabric:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hyperledger:fabric:-:*:*:*:*:*:*:*
   - cpe:2.3:a:hyperledger:fabric:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:hyperledger:fabric:1.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:hyperledger:fabric:1.0.0:alpha2:*:*:*:*:*:*
@@ -88,3 +89,4 @@ cpes:
   - cpe:2.3:a:hyperledger:fabric:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hyperledger:fabric:2.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hyperledger:fabric:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hyperledger:fabric:2.5.9:*:*:*:*:*:*:*

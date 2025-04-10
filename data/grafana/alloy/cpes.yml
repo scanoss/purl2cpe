@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:grafana:alloy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:alloy:-:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:alloy:1.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:alloy:1.1.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:grafana:alloy:1.1.1:*:*:*:*:*:*:*
