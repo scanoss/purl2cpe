@@ -1,3 +1,4 @@
 purls:
+  - pkg:docker/lnbits/lnbits
   - pkg:github/lnbits/lnbits
   - pkg:pypi/lnbits
