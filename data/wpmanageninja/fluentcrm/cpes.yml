@@ -26,4 +26,6 @@ cpes:
   - cpe:2.3:a:wpmanageninja:fluentcrm:2.8.01:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmanageninja:fluentcrm:2.8.02:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmanageninja:fluentcrm:2.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmanageninja:fluentcrm:2.8.44:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmanageninja:fluentcrm:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmanageninja:fluentcrm:-:*:*:*:*:wordpress:*:*

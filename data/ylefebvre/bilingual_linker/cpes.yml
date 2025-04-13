@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:ylefebvre:bilingual_linker:2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ylefebvre:bilingual_linker:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ylefebvre:bilingual_linker:-:*:*:*:*:wordpress:*:*

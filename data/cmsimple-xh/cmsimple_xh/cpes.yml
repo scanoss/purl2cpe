@@ -19,3 +19,4 @@ cpes:
   - cpe:2.3:a:cmsimple-xh:cmsimple_xh:1.7.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:cmsimple-xh:cmsimple_xh:1.7.5:-:*:*:*:*:*:*
   - cpe:2.3:a:cmsimple-xh:cmsimple_xh:1.7.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:cmsimple-xh:cmsimple_xh:1.7.6:-:*:*:*:*:*:*

@@ -353,6 +353,7 @@ cpes:
   - cpe:2.3:a:wireshark:wireshark:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.0.4:*:*:*:*:*:*:*
@@ -372,4 +373,6 @@ cpes:
   - cpe:2.3:a:wireshark:wireshark:4.2.5:rc0:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.2.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.2.8:rc0:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.0:*:*:*:*:*:*:*

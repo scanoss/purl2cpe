@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:zulip:zulip:*:*:*:*:*:*:*:*
   - cpe:2.3:a:zulip:zulip:-:*:*:*:*:*:*:*
   - cpe:2.3:a:zulip:zulip:0.7.1:*:*:*:*:android:*:*
   - cpe:2.3:a:zulip:zulip:0.7.1:*:*:*:*:iphone_os:*:*

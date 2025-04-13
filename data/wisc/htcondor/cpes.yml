@@ -1,6 +1,34 @@
 cpes:
   - cpe:2.3:a:wisc:htcondor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wisc:htcondor:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.0:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.10:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.12:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.14:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.15:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.16:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.18:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.19:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.20:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.21:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.4:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.6:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.0.8:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.18:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.19:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.20:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:23.10.21:*:*:*:-:*:*:*
+  - cpe:2.3:a:wisc:htcondor:24.0.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:24.0.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:24.0.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:24.0.4:*:*:*:lts:*:*:*
+  - cpe:2.3:a:wisc:htcondor:24.0.5:*:*:*:lts:*:*:*
   - cpe:2.3:a:wisc:htcondor:3:*:*:*:*:*:*:*
   - cpe:2.3:a:wisc:htcondor:4:*:*:*:*:*:*:*
   - cpe:2.3:a:wisc:htcondor:5:*:*:*:*:*:*:*

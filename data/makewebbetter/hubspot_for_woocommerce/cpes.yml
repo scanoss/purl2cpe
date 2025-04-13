@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:makewebbetter:hubspot_for_woocommerce:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:makewebbetter:hubspot_for_woocommerce:-:*:*:*:*:wordpress:*:*

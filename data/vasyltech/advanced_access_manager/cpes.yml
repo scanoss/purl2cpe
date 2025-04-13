@@ -148,6 +148,7 @@ cpes:
   - cpe:2.3:a:vasyltech:advanced_access_manager:5.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:5.9.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:5.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vasyltech:advanced_access_manager:5.9.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:6.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:6.0.1:*:*:*:*:wordpress:*:*
@@ -215,3 +216,4 @@ cpes:
   - cpe:2.3:a:vasyltech:advanced_access_manager:6.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:6.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vasyltech:advanced_access_manager:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vasyltech:advanced_access_manager:-:*:*:*:*:wordpress:*:*
