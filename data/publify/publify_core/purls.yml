@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/publify_core
+  - pkg:github/publify/publify_core

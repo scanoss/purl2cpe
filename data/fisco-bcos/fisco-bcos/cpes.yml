@@ -30,3 +30,4 @@ cpes:
   - cpe:2.3:a:fisco-bcos:fisco-bcos:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fisco-bcos:fisco-bcos:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fisco-bcos:fisco-bcos:3.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:fisco-bcos:fisco-bcos:3.11.0:*:*:*:*:*:*:*

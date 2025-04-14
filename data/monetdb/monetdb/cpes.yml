@@ -9,3 +9,5 @@ cpes:
   - cpe:2.3:a:monetdb:monetdb:11.43.13:*:*:*:*:*:*:*
   - cpe:2.3:a:monetdb:monetdb:11.45.17:*:*:*:*:*:*:*
   - cpe:2.3:a:monetdb:monetdb:11.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.47.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.49.1:*:*:*:*:*:*:*

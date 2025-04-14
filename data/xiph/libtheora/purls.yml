@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libtheora
+  - pkg:deb/ubuntu/libtheora
+  - pkg:github/xiph/theora
+  - pkg:gitlab/xiph/theora
+  - pkg:rpm/fedora/libtheora
+  - pkg:rpm/opensuse/libtheora

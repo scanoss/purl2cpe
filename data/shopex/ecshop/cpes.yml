@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:a:shopex:ecshop:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:shopex:ecshop:2.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:shopex:ecshop:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopex:ecshop:3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:shopex:ecshop:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopex:ecshop:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopex:ecshop:4.1.1:*:*:*:*:*:*:*

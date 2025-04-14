@@ -5,4 +5,5 @@ cpes:
   - cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.09.02:*:*:*:*:*:*:*
   - cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.173.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.194.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.247.01:*:*:*:*:*:*:*
   - cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.89.05b:*:*:*:*:*:*:*

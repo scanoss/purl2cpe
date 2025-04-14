@@ -49,3 +49,4 @@ cpes:
   - cpe:2.3:a:raspap:raspap:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:raspap:raspap:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:raspap:raspap:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:raspap:raspap:3.0.9:*:*:*:*:*:*:*

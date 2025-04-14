@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:fontforge:fontforge:20200314:*:*:*:*:*:*:*
   - cpe:2.3:a:fontforge:fontforge:2.0.20140101:*:*:*:*:*:*:*
   - cpe:2.3:a:fontforge:fontforge:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontforge:fontforge:*:*:*:*:*:splinefont:*:*
