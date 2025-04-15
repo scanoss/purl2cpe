@@ -1,2 +1,4 @@
 purls:
   - pkg:github/upx/upx
+  - pkg:rpm/fedora/upx
+  - pkg:rpm/opensuse/upx

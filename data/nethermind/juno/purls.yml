@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nethermindeth/juno
+  - pkg:golang/github.com/nethermindeth/juno
