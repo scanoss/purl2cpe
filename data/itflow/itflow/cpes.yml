@@ -1,2 +1,10 @@
 cpes:
   - cpe:2.3:a:itflow:itflow:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.01.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.01.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.02.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.02.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.02.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.02.4:*:*:*:*:*:*:*

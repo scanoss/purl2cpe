@@ -1,2 +1,14 @@
 cpes:
   - cpe:2.3:a:b3log:siyuan:3.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.11:dev9:*:*:*:*:*:*

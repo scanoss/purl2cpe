@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:publify:publify:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:publify:publify:1.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:publify:publify:1.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:publify:publify:2.0.0:*:*:*:*:*:*:*

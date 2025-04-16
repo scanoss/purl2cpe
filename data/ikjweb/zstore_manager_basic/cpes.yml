@@ -1,2 +1,21 @@
 cpes:
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.011:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.311:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ikjweb:zstore_manager_basic:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ikjweb:zstore_manager_basic:-:*:*:*:*:wordpress:*:*

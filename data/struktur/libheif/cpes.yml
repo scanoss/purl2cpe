@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:struktur:libheif:1.17.4:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.17.5:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:struktur:libheif:1.19.7:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:struktur:libheif:1.3.1:*:*:*:*:*:*:*

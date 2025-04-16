@@ -32,6 +32,7 @@ cpes:
   - cpe:2.3:a:thinkcmf:thinkcmf:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkcmf:thinkcmf:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkcmf:thinkcmf:6.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinkcmf:thinkcmf:6.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkcmf:thinkcmf:x1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkcmf:thinkcmf:x2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thinkcmf:thinkcmf:x2.2.0:*:*:*:*:*:*:*
