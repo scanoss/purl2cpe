@@ -81,8 +81,10 @@ cpes:
   - cpe:2.3:a:zammad:zammad:6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:6.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.2.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.3.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.4.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:6.4.1:*:*:*:*:*:*:*

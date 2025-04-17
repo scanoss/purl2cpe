@@ -2,4 +2,5 @@ cpes:
   - cpe:2.3:a:beyondtrust:beyondinsight_password_safe:*:*:*:*:*:*:*:*
   - cpe:2.3:a:beyondtrust:beyondinsight_password_safe:23.2:*:*:*:*:*:*:*
   - cpe:2.3:a:beyondtrust:beyondinsight_password_safe:23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:beyondtrust:beyondinsight_password_safe:23.3.0.929:*:*:*:*:*:*:*
   - cpe:2.3:a:beyondtrust:beyondinsight_password_safe:24.1:*:*:*:*:*:*:*

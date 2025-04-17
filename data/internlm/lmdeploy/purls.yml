@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/internlm/lmdeploy
+  - pkg:pypi/lmdeploy

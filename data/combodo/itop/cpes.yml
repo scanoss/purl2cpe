@@ -84,6 +84,7 @@ cpes:
   - cpe:2.3:a:combodo:itop:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:2.7.12:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.2-1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:2.7.3:*:*:*:*:*:*:*

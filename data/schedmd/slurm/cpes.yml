@@ -474,6 +474,7 @@ cpes:
   - cpe:2.3:a:schedmd:slurm:22.05.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:22.05.10:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:22.05.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:schedmd:slurm:22.05.12:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:22.05.2:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:22.05.3:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:22.05.4:*:*:*:*:*:*:*
@@ -510,10 +511,12 @@ cpes:
   - cpe:2.3:a:schedmd:slurm:23.02.4:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:23.02.5:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:23.02.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:schedmd:slurm:23.02.7:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:23.02:rc1:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:23.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:schedmd:slurm:23.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:23.11:rc1:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:schedmd:slurm:2.3.2.1:*:*:*:*:*:*:*

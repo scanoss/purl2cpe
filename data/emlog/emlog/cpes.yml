@@ -87,6 +87,11 @@ cpes:
   - cpe:2.3:a:emlog:emlog:2.4.3:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.3:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.4:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.5:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.6:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.7:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.8:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.9:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:emlog:emlog:3.5.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:emlog:emlog:5.3.1:*:*:*:*:*:*:*

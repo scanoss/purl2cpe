@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:upx_project:upx:*:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:-:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:upx_project:upx:1.11:*:*:*:*:*:*:*

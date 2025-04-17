@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alizeait/unflatto
+  - pkg:npm/%40alizeait/unflatto

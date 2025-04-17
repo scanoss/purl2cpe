@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:devfile:registry-support:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:devfile:registry-support:-:*:*:*:*:*:*:*

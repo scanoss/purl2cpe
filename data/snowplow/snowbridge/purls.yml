@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/snowfork/snowbridge
+  - pkg:golang/github.com/snowfork/snowbridge

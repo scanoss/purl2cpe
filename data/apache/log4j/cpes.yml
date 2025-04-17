@@ -103,6 +103,7 @@ cpes:
   - cpe:2.3:a:apache:log4j:2.3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4j:2.3.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4j:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4j:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4j:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4j:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4j:2.5:-:*:*:*:*:*:*
