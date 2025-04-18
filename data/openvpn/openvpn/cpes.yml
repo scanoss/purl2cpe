@@ -498,3 +498,4 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:*:*:*:*:community:*:*:*

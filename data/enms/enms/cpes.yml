@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:enms:enms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:enms:enms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:enms:enms:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:enms:enms:4.4.0:*:*:*:*:*:*:*
