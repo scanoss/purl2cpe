@@ -195,10 +195,39 @@ cpes:
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.2.26:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:tcpdf_project:tcpdf:6.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tcpdf_project:tcpdf:6.7.8:*:*:*:*:*:*:*

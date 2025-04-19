@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ehang-io/nps
+  - pkg:golang/github.com/ehang-io/nps

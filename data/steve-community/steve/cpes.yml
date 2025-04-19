@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:steve-community:steve:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:steve-community:steve:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:steve-community:steve:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:steve-community:steve:3.7.1:*:*:*:*:*:*:*

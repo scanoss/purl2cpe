@@ -249,6 +249,10 @@ cpes:
   - cpe:2.3:a:shopware:shopware:6.5.8.10:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.5.8.11:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.5.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.5.8.16:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.5.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.5.8.4:*:*:*:*:*:*:*
@@ -269,6 +273,9 @@ cpes:
   - cpe:2.3:a:shopware:shopware:6.6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.2.0:*:*:*:*:*:*:*
@@ -277,3 +284,13 @@ cpes:
   - cpe:2.3:a:shopware:shopware:6.6.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shopware:shopware:6.6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.6.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopware:shopware:6.7.0.0:rc1:*:*:*:*:*:*

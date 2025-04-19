@@ -1,2 +1,15 @@
 cpes:
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.30.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.30.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.30.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.31.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.31.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.31.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.31.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.31.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.32.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.40.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.40.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.40.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:superfaktura:superfaktura_woocommerce:1.40.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:superfaktura:superfaktura_woocommerce:*:*:*:*:*:wordpress:*:*
