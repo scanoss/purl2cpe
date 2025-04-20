@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:dell:openmanage_enterprise_update_manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:openmanage_enterprise_update_manager:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:openmanage_enterprise_update_manager:1.5.0:*:*:*:*:*:*:*

@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:jenkins:templating_engine:2.2.1.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:templating_engine:2.2.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:templating_engine:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:templating_engine:2.5.3:*:*:*:*:jenkins:*:*

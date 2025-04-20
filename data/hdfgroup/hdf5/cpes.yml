@@ -18,8 +18,21 @@ cpes:
   - cpe:2.3:a:hdfgroup:hdf5:1.13.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.13.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.13.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.13.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.1-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:1.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.14.6:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.4.1:*:*:*:*:*:*:*

@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:nipotan:line_integration_for_amon2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nipotan:line_integration_for_amon2:0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nipotan:line_integration_for_amon2:0.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nipotan:line_integration_for_amon2:0.03:*:*:*:*:*:*:*
