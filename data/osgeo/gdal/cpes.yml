@@ -77,6 +77,7 @@ cpes:
   - cpe:2.3:a:osgeo:gdal:3.0.4:-:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:gdal:3.0.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:gdal:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:gdal:3.10.2:-:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:gdal:3.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:gdal:3.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:gdal:3.1.0:rc3:*:*:*:*:*:*

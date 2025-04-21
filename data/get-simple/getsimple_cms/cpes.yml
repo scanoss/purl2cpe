@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.16:-:*:*:*:*:*:*
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.16:beta1:*:*:*:*:*:*
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.16:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:get-simple:getsimple_cms:3.3.19:-:*:*:ce:*:*:*
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.2:b3:*:*:*:*:*:*
   - cpe:2.3:a:get-simple:getsimple_cms:3.3.3:*:*:*:*:*:*:*

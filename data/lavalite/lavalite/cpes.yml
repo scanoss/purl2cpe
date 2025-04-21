@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lavalite:lavalite:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lavalite:lavalite:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lavalite:lavalite:5.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lavalite:lavalite:5.1.1:*:*:*:*:*:*:*

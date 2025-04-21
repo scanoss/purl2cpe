@@ -69,6 +69,8 @@ cpes:
   - cpe:2.3:a:std42:elfinder:2.1.59:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:2.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:2.1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:std42:elfinder:2.1.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:std42:elfinder:2.1.64:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:2.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:2.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:2.1.9:*:*:*:*:*:*:*

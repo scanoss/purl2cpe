@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:apache:traffic_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:*:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.1:*:*:*:*:*:*:*

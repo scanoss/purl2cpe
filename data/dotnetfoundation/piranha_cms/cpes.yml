@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:dotnetfoundation:piranha_cms:10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dotnetfoundation:piranha_cms:10.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetfoundation:piranha_cms:11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha3:*:*:*:*:*:*
