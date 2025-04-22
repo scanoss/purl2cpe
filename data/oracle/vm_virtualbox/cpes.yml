@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:-:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:1.6.2:*:*:*:*:*:*:*
@@ -239,9 +240,14 @@ cpes:
   - cpe:2.3:a:oracle:vm_virtualbox:6.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:7.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:7.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:7.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:vm_virtualbox:7.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:7.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:vm_virtualbox:71.6:*:*:*:*:*:*:*

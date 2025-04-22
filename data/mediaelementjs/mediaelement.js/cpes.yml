@@ -1,75 +1,213 @@
 cpes:
   - cpe:2.3:a:mediaelementjs:mediaelement.js:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.11.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.12.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.13.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.14.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.16.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.16.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.18.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.20.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.21.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.21.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.21.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.22.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.22.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.23.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:2.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:3.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaelementjs:mediaelement.js:4.2.8:*:*:*:*:wordpress:*:*

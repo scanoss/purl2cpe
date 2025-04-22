@@ -80,6 +80,8 @@ cpes:
   - cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:7.6.24:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:7.6.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:7.6.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:7.6.33:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.0.21:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.0.23:*:*:*:*:*:*:*
@@ -89,7 +91,14 @@ cpes:
   - cpe:2.3:a:oracle:mysql_cluster:8.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:8.0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:8.0.41:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:8.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:8.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:8.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:9.2.0:*:*:*:*:*:*:*

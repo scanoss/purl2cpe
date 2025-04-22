@@ -26,3 +26,5 @@ cpes:
   - cpe:2.3:a:apache:hertzbeat:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:hertzbeat:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:hertzbeat:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hertzbeat:1.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hertzbeat:1.6.0:rc4:*:*:*:*:*:*

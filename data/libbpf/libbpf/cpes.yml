@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:libbpf:libbpf:1.5.0:*:*:*:*:*:*:*
