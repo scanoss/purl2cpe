@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:f5:nginx_openid_connect:*:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_openid_connect:*:*:*:*:*:nginx_plus:*:*
+  - cpe:2.3:a:f5:nginx_openid_connect:-:*:*:*:*:nginx_plus:*:*

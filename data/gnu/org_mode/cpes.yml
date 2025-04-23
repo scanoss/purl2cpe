@@ -383,5 +383,10 @@ cpes:
   - cpe:2.3:a:gnu:org_mode:9.5.5:*:*:*:*:gnu_emacs:*:*
   - cpe:2.3:a:gnu:org_mode:9.5:*:*:*:*:gnu_emacs:*:*
   - cpe:2.3:a:gnu:org_mode:9.6.1:*:*:*:*:gnu_emacs:*:*
+  - cpe:2.3:a:gnu:org_mode:9.6.2:*:*:*:*:gnu_emacs:*:*
+  - cpe:2.3:a:gnu:org_mode:9.6.3:*:*:*:*:gnu_emacs:*:*
+  - cpe:2.3:a:gnu:org_mode:9.6.4:*:*:*:*:gnu_emacs:*:*
+  - cpe:2.3:a:gnu:org_mode:9.6.5:*:*:*:*:gnu_emacs:*:*
+  - cpe:2.3:a:gnu:org_mode:9.6.6:*:*:*:*:gnu_emacs:*:*
   - cpe:2.3:a:gnu:org_mode:9.6:*:*:*:*:gnu_emacs:*:*
   - cpe:2.3:a:gnu:org_mode:*:*:*:*:*:gnu_emacs:*:*

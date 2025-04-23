@@ -36,5 +36,7 @@ cpes:
   - cpe:2.3:a:burst-statistics:burst_statistics:1.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:burst-statistics:burst_statistics:1.5.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:burst-statistics:burst_statistics:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:burst-statistics:burst_statistics:1.5.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:burst-statistics:burst_statistics:1.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:burst-statistics:burst_statistics:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:burst-statistics:burst_statistics:-:*:*:*:*:wordpress:*:*

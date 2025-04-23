@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/goadmingroup/go-admin
+  - pkg:golang/github.com/goadmingroup/go-admin

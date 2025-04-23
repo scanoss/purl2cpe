@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:jenkins:asakusasatellite:0.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:asakusasatellite:0.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:asakusasatellite:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:asakusasatellite:-:*:*:*:*:jenkins:*:*

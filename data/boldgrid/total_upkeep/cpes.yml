@@ -54,11 +54,25 @@ cpes:
   - cpe:2.3:a:boldgrid:total_upkeep:1.14.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.14.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.15.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.15.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.15.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.15.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.15.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.15.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:total_upkeep:1.16.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:total_upkeep:1.2.3:*:*:*:*:wordpress:*:*

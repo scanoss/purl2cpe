@@ -4,3 +4,7 @@ cpes:
   - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.07:*:*:*:*:*:*:*
   - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.08:*:*:*:*:*:*:*
   - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2022.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2022.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2023.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2023.12:*:*:*:*:*:*:*

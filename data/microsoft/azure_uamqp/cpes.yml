@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:microsoft:azure_uamqp:1.6.9:*:*:*:*:python:*:*
   - cpe:2.3:a:microsoft:azure_uamqp:2023-12-01:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_uamqp:*:*:*:*:*:c:*:*
+  - cpe:2.3:a:microsoft:azure_uamqp:-:*:*:*:*:c:*:*

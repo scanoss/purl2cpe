@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:fluentbit:fluent_bit:3.7.2:*:*:*:*:*:*:*

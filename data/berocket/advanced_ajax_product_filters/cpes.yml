@@ -151,4 +151,10 @@ cpes:
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:berocket:advanced_ajax_product_filters:1.6:*:*:*:*:wordpress:*:*

@@ -1,3 +1,7 @@
 cpes:
   - cpe:2.3:a:wangl1989:mysiteforme:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wangl1989:mysiteforme:-:*:*:*:*:*:*:*
   - cpe:2.3:a:wangl1989:mysiteforme:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wangl1989:mysiteforme:2022-12-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:wangl1989:mysiteforme:2025-01-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:wangl1989:mysiteforme:2.2.1:*:*:*:*:*:*:*
