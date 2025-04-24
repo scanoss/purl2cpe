@@ -12,11 +12,13 @@ cpes:
   - cpe:2.3:a:linuxfoundation:harbor:0.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:0.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:0.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:harbor:1.10.13:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.17:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:harbor:1.10.2:-:*:*:*:*:*:*

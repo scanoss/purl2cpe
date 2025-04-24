@@ -493,6 +493,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.16.43:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.43:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.44:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.45:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.45:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.6:*:*:*:*:*:*:*

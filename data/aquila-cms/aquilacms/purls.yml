@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/aquilacms/aquilacms
+  - pkg:github/aquilacms/aquilacms
