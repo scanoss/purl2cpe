@@ -10,3 +10,4 @@ cpes:
   - cpe:2.3:a:uusweb:ws_contact_form:1.3.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:uusweb:ws_contact_form:1.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:uusweb:ws_contact_form:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:uusweb:ws_contact_form:-:*:*:*:*:wordpress:*:*

@@ -50,3 +50,22 @@ cpes:
   - cpe:2.3:a:wedevs:wp_user_frontend:3.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_user_frontend:3.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_user_frontend:3.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:3.6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:4.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_user_frontend:-:*:*:*:*:wordpress:*:*

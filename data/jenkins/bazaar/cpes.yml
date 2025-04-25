@@ -1,2 +1,17 @@
 cpes:
+  - cpe:2.3:a:jenkins:bazaar:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.22:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bazaar:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bazaar:-:*:*:*:*:jenkins:*:*

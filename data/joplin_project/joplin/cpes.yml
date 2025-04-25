@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:joplin_project:joplin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:joplin_project:joplin:-:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:joplin_project:joplin:0.10.0:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:0.10.0:*:*:*:*:node.js:*:*
@@ -1114,9 +1115,13 @@ cpes:
   - cpe:2.3:a:joplin_project:joplin:2.1.1:*:*:*:*:android:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.2:-:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.12.10:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.12.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.12.9:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.2:*:*:*:*:android:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.2:beta:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.3:-:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:2.13.3:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.3:*:*:*:*:android:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.3:beta:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.1.4:-:*:*:*:-:*:*
@@ -1244,5 +1249,10 @@ cpes:
   - cpe:2.3:a:joplin_project:joplin:2.9.7:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.9.8:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:2.9.9:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:3.0.15:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:3.0.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:3.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:3.1.24:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplin_project:joplin:3.2.8:*:*:*:*:-:*:*
   - cpe:2.3:a:joplin_project:joplin:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:joplin_project:joplin:-:*:*:*:*:node.js:*:*

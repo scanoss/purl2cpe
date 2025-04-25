@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:deobfuscate:javascript_deobfuscator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:deobfuscate:javascript_deobfuscator:-:*:*:*:*:*:*:*
