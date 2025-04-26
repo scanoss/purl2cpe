@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/osrg/gobgp
+  - pkg:github/osrg/gobgp
+  - pkg:golang/github.com/osrg/gobgp

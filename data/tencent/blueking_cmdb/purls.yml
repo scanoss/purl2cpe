@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/tencent-blueking/bk-cmdb
+  - pkg:github/tencentblueking/bk-cmdb
+  - pkg:golang/github.com/tencentblueking/bk-cmdb

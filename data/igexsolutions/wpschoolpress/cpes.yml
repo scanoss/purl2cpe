@@ -54,9 +54,14 @@ cpes:
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:igexsolutions:wpschoolpress:2.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:igexsolutions:wpschoolpress:-:*:*:*:*:wordpress:*:*

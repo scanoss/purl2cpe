@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quasarframework/quasar-ui-qmarkdown
+  - pkg:npm/%40quasar/quasar-ui-qmarkdown

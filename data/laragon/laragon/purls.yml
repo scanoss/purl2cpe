@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/leokhoa/laragon
+  - pkg:github/leokhoa/laragon

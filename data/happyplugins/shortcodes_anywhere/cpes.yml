@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:happyplugins:shortcodes_anywhere:1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:happyplugins:shortcodes_anywhere:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:happyplugins:shortcodes_anywhere:-:*:*:*:*:wordpress:*:*

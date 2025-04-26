@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/convertigo/convertigo
+  - pkg:github/convertigo/convertigo
+  - pkg:sourceforge/convertigo

@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:miraheze:createwiki:*:*:*:*:*:*:*:*
   - cpe:2.3:a:miraheze:createwiki:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:miraheze:createwiki:2018-11-07:*:*:*:*:*:*:*
   - cpe:2.3:a:miraheze:createwiki:2022-04-02:*:*:*:*:*:*:*
