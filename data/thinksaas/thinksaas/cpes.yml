@@ -11,4 +11,5 @@ cpes:
   - cpe:2.3:a:thinksaas:thinksaas:3.33:*:*:*:*:*:*:*
   - cpe:2.3:a:thinksaas:thinksaas:3.38:*:*:*:*:*:*:*
   - cpe:2.3:a:thinksaas:thinksaas:3.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:thinksaas:thinksaas:3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:thinksaas:thinksaas:3.7.0:*:*:*:*:*:*:*

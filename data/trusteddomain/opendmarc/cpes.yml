@@ -31,3 +31,4 @@ cpes:
   - cpe:2.3:a:trusteddomain:opendmarc:1.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:trusteddomain:opendmarc:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:trusteddomain:opendmarc:1.4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusteddomain:opendmarc:1.4.2:*:*:*:*:*:*:*

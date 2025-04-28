@@ -72,3 +72,4 @@ cpes:
   - cpe:2.3:a:osclass:osclass:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:osclass:osclass:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:osclass:osclass:3.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:osclass:osclass:5.1.2:*:*:*:*:*:*:*

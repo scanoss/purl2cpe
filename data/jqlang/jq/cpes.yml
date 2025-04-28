@@ -1,3 +1,6 @@
 cpes:
   - cpe:2.3:a:jqlang:jq:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jqlang:jq:1.7:-:*:*:*:*:*:*
   - cpe:2.3:a:jqlang:jq:1.7-37-g88f01a7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jqlang:jq:1.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:jqlang:jq:1.7:rc2:*:*:*:*:*:*

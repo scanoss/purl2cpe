@@ -33,4 +33,5 @@ cpes:
   - cpe:2.3:a:neo4j:neo4j:3.4.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:neo4j:neo4j:3.4.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:neo4j:neo4j:3.4.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:*:*:*:*:*:community:*:*
   - cpe:2.3:a:neo4j:neo4j:-:*:*:*:community:*:*:*

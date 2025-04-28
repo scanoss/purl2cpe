@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:aquila-cms:aquilacms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquila-cms:aquilacms:1.409.20:*:*:*:*:*:*:*

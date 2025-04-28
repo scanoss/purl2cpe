@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:roothub:roothub:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roothub:roothub:2.6.0:*:*:*:*:*:*:*

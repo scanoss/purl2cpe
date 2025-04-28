@@ -73,3 +73,4 @@ cpes:
   - cpe:2.3:a:mongo-express_project:mongo-express:0.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongo-express_project:mongo-express:1.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:mongo-express_project:mongo-express:1.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:mongo-express_project:mongo-express:1.0.2:*:*:*:*:*:*:*

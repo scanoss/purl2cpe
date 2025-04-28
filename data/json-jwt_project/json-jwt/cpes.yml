@@ -98,6 +98,7 @@ cpes:
   - cpe:2.3:a:json-jwt_project:json-jwt:1.10.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:json-jwt_project:json-jwt:1.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:json-jwt_project:json-jwt:1.11.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:json-jwt_project:json-jwt:1.16.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:json-jwt_project:json-jwt:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:json-jwt_project:json-jwt:1.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:json-jwt_project:json-jwt:1.2.1:*:*:*:*:*:*:*
