@@ -109,5 +109,6 @@ cpes:
   - cpe:2.3:a:visualcomposer:visual_composer_website_builder:45.7.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:visualcomposer:visual_composer_website_builder:45.8.0:beta1:*:*:*:wordpress:*:*
   - cpe:2.3:a:visualcomposer:visual_composer_website_builder:45.8.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:visualcomposer:visual_composer_website_builder:45.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:visualcomposer:visual_composer_website_builder:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:visualcomposer:visual_composer_website_builder:-:*:*:*:*:wordpress:*:*

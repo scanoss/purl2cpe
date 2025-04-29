@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:kitty_project:kitty:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kitty_project:kitty:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kitty_project:kitty:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kitty_project:kitty:0.10.1:*:*:*:*:*:*:*

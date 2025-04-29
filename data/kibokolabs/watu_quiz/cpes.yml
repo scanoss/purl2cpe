@@ -19,5 +19,10 @@ cpes:
   - cpe:2.3:a:kibokolabs:watu_quiz:3.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:watu_quiz:3.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:watu_quiz:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:watu_quiz:3.4.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:watu_quiz:3.4.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:watu_quiz:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:watu_quiz:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:watu_quiz:3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:watu_quiz:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kibokolabs:watu_quiz:-:*:*:*:*:wordpress:*:*

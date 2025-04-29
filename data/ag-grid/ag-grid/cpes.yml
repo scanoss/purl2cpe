@@ -114,10 +114,48 @@ cpes:
   - cpe:2.3:a:ag-grid:ag-grid:26.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:26.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:26.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:27.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:28.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:28.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:28.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:28.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:28.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:29.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:30.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ag-grid:ag-grid:31.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ag-grid:ag-grid:3.2.2:*:*:*:*:*:*:*
