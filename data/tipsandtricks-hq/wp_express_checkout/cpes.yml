@@ -39,5 +39,6 @@ cpes:
   - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:2.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:2.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:2.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:2.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tipsandtricks-hq:wp_express_checkout:-:*:*:*:*:wordpress:*:*

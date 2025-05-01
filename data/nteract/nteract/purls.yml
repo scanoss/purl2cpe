@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nteract/nteract
+  - pkg:npm/nteract

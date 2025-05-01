@@ -47,6 +47,8 @@ cpes:
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.19.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.20.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.20.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.20.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tychesoftwares:order_delivery_date_for_woocommerce:3.4.1:*:*:*:*:wordpress:*:*

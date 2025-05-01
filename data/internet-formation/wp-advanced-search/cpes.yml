@@ -38,6 +38,7 @@ cpes:
   - cpe:2.3:a:internet-formation:wp-advanced-search:3.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:internet-formation:wp-advanced-search:3.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:internet-formation:wp-advanced-search:3.3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:internet-formation:wp-advanced-search:3.3.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:internet-formation:wp-advanced-search:3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:internet-formation:wp-advanced-search:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:internet-formation:wp-advanced-search:-:*:*:*:*:wordpress:*:*

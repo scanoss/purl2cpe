@@ -1,2 +1,4 @@
 purls:
+  - pkg:docker/dragonflydb/dragonfly
   - pkg:github/dragonflydb/dragonfly
+  - pkg:sourceforge/dragonfly.mirror
