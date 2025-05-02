@@ -144,3 +144,4 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.3:*:*:*:*:wordpress:*:*
