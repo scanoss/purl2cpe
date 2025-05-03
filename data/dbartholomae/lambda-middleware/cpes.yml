@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:dbartholomae:lambda-middleware:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dbartholomae:lambda-middleware:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dbartholomae:lambda-middleware:1.0.4:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:andreafarracani:wowpth:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:andreafarracani:wowpth:*:*:*:*:*:wordpress:*:*

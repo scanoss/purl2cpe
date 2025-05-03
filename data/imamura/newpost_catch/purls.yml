@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/newpost-catch
   - pkg:github/wp-plugins/newpost-catch

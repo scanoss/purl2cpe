@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:comarch:erp_xl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:comarch:erp_xl:2020.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:comarch:erp_xl:2023.2:*:*:*:*:*:*:*

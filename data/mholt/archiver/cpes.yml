@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:mholt:archiver:3.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.3.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.3.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:mholt:archiver:3.5.1:*:*:*:*:go:*:*

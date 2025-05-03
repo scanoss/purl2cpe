@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:cassandra-rs_project:cassandra-rs:*:*:*:*:*:rust:*:*

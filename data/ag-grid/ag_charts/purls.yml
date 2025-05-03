@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ag-grid/ag-charts
+  - pkg:npm/ag-charts

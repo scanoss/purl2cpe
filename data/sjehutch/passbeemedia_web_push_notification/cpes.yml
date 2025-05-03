@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sjehutch:passbeemedia_web_push_notification:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sjehutch:passbeemedia_web_push_notification:1.0:*:*:*:*:wordpress:*:*

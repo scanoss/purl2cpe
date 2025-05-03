@@ -1,2 +1,4 @@
 purls:
   - pkg:github/stephenmcd/mezzanine
+  - pkg:pypi/mezzanine
+  - pkg:sourceforge/mezzanine.mirror

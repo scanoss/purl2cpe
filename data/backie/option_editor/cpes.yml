@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:backie:option_editor:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:backie:option_editor:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:backie:option_editor:1.0:*:*:*:*:*:*:*

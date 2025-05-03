@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amothemo:amo_team_showcase:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amothemo:amo_team_showcase:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amothemo:amo_team_showcase:-:*:*:*:*:wordpress:*:*

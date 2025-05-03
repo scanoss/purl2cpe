@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sktthemes:admire_extra:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sktthemes:admire_extra:-:*:*:*:*:wordpress:*:*

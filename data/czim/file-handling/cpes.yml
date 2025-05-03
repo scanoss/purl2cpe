@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:czim:file-handling:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:czim:file-handling:-:*:*:*:*:*:*:*
   - cpe:2.3:a:czim:file-handling:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:czim:file-handling:0.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:czim:file-handling:0.9.10:*:*:*:*:*:*:*

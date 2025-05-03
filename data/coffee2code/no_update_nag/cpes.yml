@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:coffee2code:no_update_nag:1.4.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:coffee2code:no_update_nag:*:*:*:*:*:wordpress:*:*

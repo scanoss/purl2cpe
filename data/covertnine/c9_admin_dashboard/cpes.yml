@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:covertnine:c9_admin_dashboard:1.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:covertnine:c9_admin_dashboard:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:covertnine:c9_admin_dashboard:-:*:*:*:*:wordpress:*:*

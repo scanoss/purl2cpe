@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:emerson:data_record_ad:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:emerson:data_record_ad:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:emerson:data_record_ad:2.0.1:*:*:*:*:*:*:*
