@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:rivercitygraphix:limit_bio:1.0:*:*:*:*:wordpress*:*:*
   - cpe:2.3:a:rivercitygraphix:limit_bio:1.0:*:*:*:*:wordpress:*:*

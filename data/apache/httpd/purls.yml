@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/httpd
+  - pkg:docker/apache/httpd
+  - pkg:github/apache/httpd

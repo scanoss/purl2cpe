@@ -199,3 +199,4 @@ cpes:
   - cpe:2.3:a:roundcube:webmail:1.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:-:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:*:*:*:*:*:windows:*:*

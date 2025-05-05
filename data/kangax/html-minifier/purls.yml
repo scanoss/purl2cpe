@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kangax/html-minifier
+  - pkg:npm/html-minifier

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/terser/html-minifier-terser
+  - pkg:npm/html-minifier-terser
