@@ -28,3 +28,8 @@ cpes:
   - cpe:2.3:a:wpdarko:team_members:5.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdarko:team_members:5.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdarko:team_members:5.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdarko:team_members:5.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdarko:team_members:5.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdarko:team_members:5.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdarko:team_members:5.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdarko:team_members:5.3.1:*:*:*:*:wordpress:*:*

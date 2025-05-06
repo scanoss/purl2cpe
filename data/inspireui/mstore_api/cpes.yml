@@ -174,5 +174,6 @@ cpes:
   - cpe:2.3:a:inspireui:mstore_api:4.15.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.15.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.15.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.15.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:-:*:*:*:*:wordpress:*:*

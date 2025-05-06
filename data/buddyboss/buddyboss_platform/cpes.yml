@@ -187,4 +187,39 @@ cpes:
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.5.81:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.5.90:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.5.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.71:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.80:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.90:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.80:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.90:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.50:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:-:*:*:*:*:wordpress:*:*

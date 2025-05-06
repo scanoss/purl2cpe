@@ -1,5 +1,58 @@
 cpes:
+  - cpe:2.3:a:bowo:system_dashboard:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:2.8.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:2.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bowo:system_dashboard:2.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bowo:system_dashboard:-:*:*:*:*:wordpress:*:*

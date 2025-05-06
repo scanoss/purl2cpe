@@ -79,7 +79,10 @@ cpes:
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_project_manager:2.6.18:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_project_manager:2.6.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wp_project_manager:2.6.22:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wp_project_manager:2.6.6:*:*:*:*:wordpress:*:*

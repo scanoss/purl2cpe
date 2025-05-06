@@ -83,6 +83,12 @@ cpes:
   - cpe:2.3:a:qemu:qemu:0.9.1-5:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.0.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:rc1:*:*:*:*:*:*
@@ -409,12 +415,53 @@ cpes:
   - cpe:2.3:a:qemu:qemu:8.1.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:8.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:8.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:9.0.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:9.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:9.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:9.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:arm64:*
   - cpe:2.3:a:qemu:qemu:*:r1:*:*:*:*:*:*
