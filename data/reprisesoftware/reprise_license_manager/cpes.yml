@@ -17,4 +17,7 @@ cpes:
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:14.2bl4:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:9.0bl2:*:*:*:*:*:*:*

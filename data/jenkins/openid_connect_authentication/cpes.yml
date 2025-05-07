@@ -13,4 +13,43 @@ cpes:
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_authentication:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.223.v503b_9a_75a_8a_f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.224.v62720cfa_026e:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.225.v03326773b_44b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.227.v36610663f760:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.228.v0c3e8682ff1f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.229.vf736b_fec02f4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.236.v4124503b_a_f88:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.238.v0021f710b_b_f4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.239.v325750a_96f3b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.250.v5a_d993226437:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.257.v5360e8489e8b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.269.va_7526f34f306:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.279.vca_c1e2fdd24b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.284.v0cc21de03d37:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.290.v6f5e8da_e98b_2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.297.vcddb_d8a_e4694:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.299.v5ca_eb_6a_f3e6d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.303.v84089a_708ea_7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.320.v23537cb_a_b_5c6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.324.vfd49d010926b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.329.v994d3f265d68:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.330.v6fdfc07513e3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.331.vd925b_f76f3a_c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.340.ve70636c6590e:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.346.v10401f543622:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.350.v347c3b_8b_9d95:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.354.v321ce67a_1de8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.355.v3a_fb_fca_b_96d4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.371.vc7c0c06e8a_f5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.388.v4f73328eb_d2c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.409.ve864b_f48b_0f3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.411.v990b_9d36e74e:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.418.vccc7061f5b_6d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.421.v5422614eb_e0a:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.444.vd4c54f157201:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openid_connect_authentication:4.452.v2849b_d3945fa:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_authentication:-:*:*:*:*:jenkins:*:*

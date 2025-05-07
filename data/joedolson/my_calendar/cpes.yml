@@ -111,6 +111,8 @@ cpes:
   - cpe:2.3:a:joedolson:my_calendar:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joedolson:my_calendar:3.4.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joedolson:my_calendar:3.4.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joedolson:my_calendar:3.4.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joedolson:my_calendar:3.4.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joedolson:my_calendar:3.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joedolson:my_calendar:3.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joedolson:my_calendar:3.4.4:*:*:*:*:wordpress:*:*
