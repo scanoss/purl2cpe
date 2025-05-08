@@ -126,6 +126,7 @@ cpes:
   - cpe:2.3:a:sygnoos:popup_builder:3.44:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:3.45:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sygnoos:popup_builder:3.64.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:3.68.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:3.68.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:3.68.4:*:*:*:*:wordpress:*:*
@@ -188,4 +189,5 @@ cpes:
   - cpe:2.3:a:sygnoos:popup_builder:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:4.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:4.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sygnoos:popup_builder:4.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sygnoos:popup_builder:-:*:*:*:*:wordpress:*:*

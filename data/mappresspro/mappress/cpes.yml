@@ -454,6 +454,12 @@ cpes:
   - cpe:2.3:a:mappresspro:mappress:2.94.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.94.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.94.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.8:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress:2.94.9:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:2.94:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress:-:*:*:*:free:wordpress:*:*
