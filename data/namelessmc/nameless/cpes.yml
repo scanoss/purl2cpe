@@ -38,3 +38,5 @@ cpes:
   - cpe:2.3:a:namelessmc:nameless:2.0.0:pr8:*:*:*:*:*:*
   - cpe:2.3:a:namelessmc:nameless:2.0.0:pr9:*:*:*:*:*:*
   - cpe:2.3:a:namelessmc:nameless:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:namelessmc:nameless:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:namelessmc:nameless:2.0.3:*:*:*:*:*:*:*

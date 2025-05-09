@@ -165,4 +165,13 @@ cpes:
   - cpe:2.3:a:geminilabs:site_reviews:6.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:-:*:*:*:*:wordpress:*:*
