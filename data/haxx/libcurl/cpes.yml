@@ -203,3 +203,4 @@ cpes:
   - cpe:2.3:a:haxx:libcurl:8.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:8.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:haxx:libcurl:8.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haxx:libcurl:8.9.1:*:*:*:*:*:*:*

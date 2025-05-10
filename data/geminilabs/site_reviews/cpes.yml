@@ -152,7 +152,19 @@ cpes:
   - cpe:2.3:a:geminilabs:site_reviews:5.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:5.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.10.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.11.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.11.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.11.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.11.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.2.0:*:*:*:*:wordpress:*:*
@@ -174,4 +186,31 @@ cpes:
   - cpe:2.3:a:geminilabs:site_reviews:6.7.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:6.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:6.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geminilabs:site_reviews:7.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geminilabs:site_reviews:-:*:*:*:*:wordpress:*:*
