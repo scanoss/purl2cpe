@@ -377,3 +377,4 @@ cpes:
   - cpe:2.3:a:djangoproject:django:5.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:djangoproject:django:5.2:*:*:*:*:*:*:*

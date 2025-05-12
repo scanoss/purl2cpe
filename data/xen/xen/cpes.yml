@@ -390,3 +390,4 @@ cpes:
   - cpe:2.3:o:xen:xen:*:*:*:*:*:*:x86:*
   - cpe:2.3:o:xen:xen:*:*:*:*:*:x86:*:*
   - cpe:2.3:o:xen:xen:-:*:*:*:*:*:x86:*
+  - cpe:2.3:o:xen:xen:*:*:*:*:*:*:x86_with_cet-ss:*
