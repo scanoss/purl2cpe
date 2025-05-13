@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:wedevs:wemail:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wedevs:wemail:1.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wedevs:wemail:1.14.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wedevs:wemail:-:*:*:*:*:wordpress:*:*

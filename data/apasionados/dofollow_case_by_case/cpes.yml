@@ -21,3 +21,5 @@ cpes:
   - cpe:2.3:a:apasionados:dofollow_case_by_case:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:apasionados:dofollow_case_by_case:3.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:apasionados:dofollow_case_by_case:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apasionados:dofollow_case_by_case:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apasionados:dofollow_case_by_case:3.5.1:*:*:*:*:wordpress:*:*

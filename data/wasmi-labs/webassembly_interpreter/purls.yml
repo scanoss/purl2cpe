@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/wasmi
+  - pkg:github/wasmi-labs/wasmi
