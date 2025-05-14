@@ -57,5 +57,8 @@ cpes:
   - cpe:2.3:a:geomywp:geo_my_wordpress:3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geomywp:geo_my_wordpress:4.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geomywp:geo_my_wordpress:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geomywp:geo_my_wordpress:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geomywp:geo_my_wordpress:4.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geomywp:geo_my_wordpress:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:geomywp:geo_my_wordpress:4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:geomywp:geo_my_wordpress:*:*:*:*:*:wordpress:*:*
