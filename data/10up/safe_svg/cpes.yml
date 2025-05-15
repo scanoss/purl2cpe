@@ -37,4 +37,10 @@ cpes:
   - cpe:2.3:a:10up:safe_svg:1.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:safe_svg:2.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:safe_svg:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:10up:safe_svg:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:10up:safe_svg:-:*:*:*:*:wordpress:*:*

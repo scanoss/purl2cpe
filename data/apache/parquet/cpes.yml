@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:apache:parquet:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:parquet:1.15.1:*:*:*:*:*:*:*

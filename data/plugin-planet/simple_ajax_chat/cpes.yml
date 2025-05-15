@@ -45,5 +45,13 @@ cpes:
   - cpe:2.3:a:plugin-planet:simple_ajax_chat:20210714:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:simple_ajax_chat:20220115:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:simple_ajax_chat:20220216:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20220720:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20221003:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20230307:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20230722:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20231101:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20240216:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20240223:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:simple_ajax_chat:20240318:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:simple_ajax_chat:820170324:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:plugin-planet:simple_ajax_chat:820170325:*:*:*:*:wordpress:*:*

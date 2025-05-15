@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cminds:cm_table_of_contents:1.2.3:*:*:*:*:wordpress:*:*

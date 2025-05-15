@@ -38,17 +38,102 @@ cpes:
   - cpe:2.3:a:automattic:jetpack:12.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:12.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.3:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.3:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.3:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.3:alpha7:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.4:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.4:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.4:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.4:alpha7:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.4:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:alpha9:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.5:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.7:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.7:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.7:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.7:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.7:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:12.8-a.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:alpha9:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.8:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:alpha9:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:12.9:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha13:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:alpha9:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:alpha9:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.2:alpha9:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:13.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:jetpack:14.7:a1:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:jetpack:1.6.1:*:*:*:*:wordpress:*:*

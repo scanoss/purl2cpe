@@ -253,3 +253,4 @@ cpes:
   - cpe:2.3:a:fooplugins:foogallery:-:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fooplugins:foogallery:*:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:fooplugins:foogallery:-:*:*:*:-:wordpress:*:*
