@@ -12,5 +12,6 @@ cpes:
   - cpe:2.3:a:microsoft:windows_app:2.0.285.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.294.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.297.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:windows_app:2.0.327.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:*:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:-:*:*:*:*:windows:*:*

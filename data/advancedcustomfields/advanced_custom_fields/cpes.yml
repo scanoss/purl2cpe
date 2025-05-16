@@ -296,4 +296,5 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.6:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.6:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:*:wordpress:*:*

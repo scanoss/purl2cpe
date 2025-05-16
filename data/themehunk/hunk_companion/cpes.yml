@@ -33,5 +33,7 @@ cpes:
   - cpe:2.3:a:themehunk:hunk_companion:1.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:hunk_companion:1.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:hunk_companion:1.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:hunk_companion:1.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:hunk_companion:1.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:hunk_companion:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:hunk_companion:-:*:*:*:*:wordpress:*:*
