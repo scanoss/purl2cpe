@@ -50,4 +50,6 @@ cpes:
   - cpe:2.3:a:connekthq:ajax_load_more:7.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:7.2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:7.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:7.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:-:*:*:*:*:wordpress:*:*

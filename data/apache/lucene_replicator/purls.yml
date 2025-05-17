@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/lucene
+  - pkg:github/apache/lucene
