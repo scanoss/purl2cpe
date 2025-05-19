@@ -181,6 +181,9 @@ cpes:
   - cpe:2.3:a:hashicorp:nomad:1.0.8:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.0.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.1.0:-:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.10.0:beta1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.10.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.10.0:rc1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.1.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.1.0:beta1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.1.0:-:*:*:enterprise:*:*:*

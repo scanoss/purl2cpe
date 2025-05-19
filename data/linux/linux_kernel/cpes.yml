@@ -5804,6 +5804,9 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.1.57:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.58:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.59:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.15:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.15:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.15:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.6:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.60:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.61:*:*:*:*:*:*:*

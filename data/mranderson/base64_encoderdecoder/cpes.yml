@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mranderson:base64_encoderdecoder:*:*:*:*:*:wordpress:*:*

@@ -905,8 +905,16 @@ cpes:
   - cpe:2.3:a:discourse:discourse:3.3.0:beta3:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:3.3.0:beta3:*:*:tests-passed:*:*:*
   - cpe:2.3:a:discourse:discourse:3.3.0:beta4:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.3.0:beta5:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.3.0:beta6:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.4.0:*:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:3.4.0:-:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:3.4.0:beta1:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.4.0:beta2:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.4.0:beta3:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.4.0:beta4:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.5.0:beta1:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.5.0:beta2:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:*:*:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:*:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:-:*:*:*:stable:*:*:*
