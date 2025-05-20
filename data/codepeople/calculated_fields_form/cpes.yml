@@ -176,6 +176,9 @@ cpes:
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.60:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:calculated_fields_form:5.2.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:calculated_fields_form:5.2.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:calculated_fields_form:5.2.64:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:calculated_fields_form:5.2.8:*:*:*:*:wordpress:*:*

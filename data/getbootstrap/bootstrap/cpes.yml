@@ -55,3 +55,12 @@ cpes:
   - cpe:2.3:a:getbootstrap:bootstrap:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getbootstrap:bootstrap:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getbootstrap:bootstrap:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getbootstrap:bootstrap:4.6.2:*:*:*:*:*:*:*

@@ -295,6 +295,23 @@ cpes:
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.5:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.6:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.6:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.2.10:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.2.6.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.2.7:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.2.8:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.2.9:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.0.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.0:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.1.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.1.2:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.2.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.2:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.3:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.4:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.6:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.7:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.3.8:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:advancedcustomfields:advanced_custom_fields:*:*:*:*:*:wordpress:*:*

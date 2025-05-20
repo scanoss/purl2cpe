@@ -1,3 +1,11 @@
 cpes:
   - cpe:2.3:a:themefic:instantio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themefic:instantio:3.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themefic:instantio:*:*:*:*:*:wordpress:*:*

@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:mihula:prodotnetzip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mihula:prodotnetzip:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mihula:prodotnetzip:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mihula:prodotnetzip:1.18.0:*:*:*:*:*:*:*
