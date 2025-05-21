@@ -490,6 +490,7 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.6.0:rc1:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.0:rc2:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.11:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.1:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.2:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.3:*:*:*:community:*:*:*

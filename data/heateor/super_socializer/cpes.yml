@@ -181,6 +181,7 @@ cpes:
   - cpe:2.3:a:heateor:super_socializer:7.13.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:heateor:super_socializer:7.13.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:heateor:super_socializer:7.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:heateor:super_socializer:7.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:heateor:super_socializer:7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:heateor:super_socializer:7.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:heateor:super_socializer:7.2:*:*:*:*:wordpress:*:*
