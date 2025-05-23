@@ -75,4 +75,5 @@ cpes:
   - cpe:2.3:a:getawesomesupport:awesome_support:6.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getawesomesupport:awesome_support:6.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getawesomesupport:awesome_support:6.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:getawesomesupport:awesome_support:6.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getawesomesupport:awesome_support:-:*:*:*:*:wordpress:*:*

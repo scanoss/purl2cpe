@@ -1,4 +1,7 @@
 cpes:
+  - cpe:2.3:a:boidcms:boidcms:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:boidcms:boidcms:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:boidcms:boidcms:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:boidcms:boidcms:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:boidcms:boidcms:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:boidcms:boidcms:2.1.1:*:*:*:*:*:*:*

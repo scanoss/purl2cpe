@@ -15,4 +15,5 @@ cpes:
   - cpe:2.3:a:vcita:crm_and_lead_management_by_vcita:2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vcita:crm_and_lead_management_by_vcita:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vcita:crm_and_lead_management_by_vcita:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vcita:crm_and_lead_management_by_vcita:2.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:vcita:crm_and_lead_management_by_vcita:*:*:*:*:*:wordpress:*:*
