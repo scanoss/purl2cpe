@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/dingdangdog/cashbook
+  - pkg:github/dingdangdog/cashbook

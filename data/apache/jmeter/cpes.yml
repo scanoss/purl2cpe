@@ -98,5 +98,28 @@ cpes:
   - cpe:2.3:a:apache:jmeter:5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:jmeter:5.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:jmeter:5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jmeter:5.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:jmeter:5.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2.1:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.2:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jmeter:5.4:rc2:*:*:*:*:*:*

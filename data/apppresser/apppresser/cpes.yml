@@ -79,4 +79,17 @@ cpes:
   - cpe:2.3:a:apppresser:apppresser:4.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:apppresser:apppresser:4.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:apppresser:apppresser:4.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:apppresser:apppresser:4.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:apppresser:apppresser:-:*:*:*:*:wordpress:*:*
