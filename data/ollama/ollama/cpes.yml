@@ -131,3 +131,4 @@ cpes:
   - cpe:2.3:a:ollama:ollama:0.3.7:rc5:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.3.7:rc6:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.5.11:*:*:*:*:*:*:*

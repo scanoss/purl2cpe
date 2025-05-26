@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:oxyno-zeta:s3-proxy:*:*:*:*:*:docker:*:*
+  - cpe:2.3:a:oxyno-zeta:s3-proxy:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:oxyno-zeta:s3-proxy:*:*:*:*:*:helm:*:*

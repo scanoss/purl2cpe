@@ -147,6 +147,7 @@ cpes:
   - cpe:2.3:a:churchcrm:churchcrm:5.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:5.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchcrm:churchcrm:5.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:churchcrm:churchcrm:5.2.2:*:*:*:*:*:*:*

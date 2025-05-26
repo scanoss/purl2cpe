@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:tramyardg:autoexpress:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tramyardg:autoexpress:1.3.0:alpha:*:*:*:*:*:*

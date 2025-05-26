@@ -43,6 +43,7 @@ cpes:
   - cpe:2.3:a:oracle:openjdk:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:16.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:16.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:1.6.0:update1:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:1.6.0:update10:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:1.6.0:update11:*:*:*:*:*:*
@@ -198,6 +199,7 @@ cpes:
   - cpe:2.3:a:oracle:openjdk:8:update281:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update282:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update291:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:openjdk:8:update292:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update301:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update302:*:*:*:*:*:*
   - cpe:2.3:a:oracle:openjdk:8:update31:*:*:*:*:*:*

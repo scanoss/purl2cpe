@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:o-ran-sc:ric-plt-e2mgr:-:*:*:*:*:*:*:*
   - cpe:2.3:a:o-ran-sc:ric-plt-e2mgr:2.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:o-ran-sc:ric-plt-e2mgr:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:o-ran-sc:ric-plt-e2mgr:4.3.1:*:*:*:*:*:*:*

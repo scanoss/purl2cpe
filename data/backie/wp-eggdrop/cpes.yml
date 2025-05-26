@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:backie:wp-eggdrop:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:backie:wp-eggdrop:0.1:*:*:*:*:wordpress:*:*
