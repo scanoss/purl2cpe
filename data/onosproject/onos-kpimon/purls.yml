@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onosproject/onos-kpimon
+  - pkg:golang/github.com/onosproject/onos-kpimon

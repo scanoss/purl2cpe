@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:icewhale:casaos-userservice:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:icewhale:casaos-userservice:0.4.7:-:*:*:*:*:*:*

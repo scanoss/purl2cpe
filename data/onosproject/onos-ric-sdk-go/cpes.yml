@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:onosproject:onos-ric-sdk-go:0.8.12:*:*:*:*:*:*:*

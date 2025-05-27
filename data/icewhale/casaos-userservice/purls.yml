@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/icewhaletech/casaos-userservice
+  - pkg:golang/github.com/icewhaletech/casaos-userservice

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jfree/jfreechart
+  - pkg:maven/jfree/jfreechart
