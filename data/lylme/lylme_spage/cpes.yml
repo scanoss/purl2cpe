@@ -18,3 +18,4 @@ cpes:
   - cpe:2.3:a:lylme:lylme_spage:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lylme:lylme_spage:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lylme:lylme_spage:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lylme:lylme_spage:2.1.0:*:*:*:*:*:*:*

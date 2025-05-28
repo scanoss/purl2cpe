@@ -17,3 +17,6 @@ cpes:
   - cpe:2.3:a:yeswiki:yeswiki:4.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:yeswiki:yeswiki:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yeswiki:yeswiki:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yeswiki:yeswiki:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:yeswiki:yeswiki:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yeswiki:yeswiki:4.5.2:*:*:*:*:*:*:*

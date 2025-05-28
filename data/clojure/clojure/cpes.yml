@@ -1,4 +1,59 @@
 cpes:
+  - cpe:2.3:a:clojure:clojure:1.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.1:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.10.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.12.0:alpha8:*:*:*:*:*:*
   - cpe:2.3:a:clojure:clojure:1.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:clojure:clojure:1.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:clojure:clojure:1.2.0:rc2:*:*:*:*:*:*
@@ -88,3 +143,30 @@ cpes:
   - cpe:2.3:a:clojure:clojure:1.8.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:clojure:clojure:1.8.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:clojure:clojure:1.8.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha10:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha11:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha13:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha14:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha15:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha16:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha17:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha18:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha19:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha20:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clojure:clojure:1.9.0:rc2:*:*:*:*:*:*

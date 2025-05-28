@@ -1,2 +1,16 @@
 cpes:
+  - cpe:2.3:a:condenast:ziplist_recipe:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:1.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:condenast:ziplist_recipe:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:condenast:ziplist_recipe:*:*:*:*:*:wordpress:*:*

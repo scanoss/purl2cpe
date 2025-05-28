@@ -18,5 +18,17 @@ cpes:
   - cpe:2.3:a:agilelogix:post_timeline:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:agilelogix:post_timeline:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:agilelogix:post_timeline:2.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:agilelogix:post_timeline:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agilelogix:post_timeline:2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:agilelogix:post_timeline:-:*:*:*:*:wordpress:*:*

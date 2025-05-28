@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:linuxfoundation:pytorch:2.6.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:linuxfoundation:pytorch:*:-:*:*:*:python:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:-:*:*:*:*:python:*:*

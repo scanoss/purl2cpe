@@ -35,4 +35,5 @@ cpes:
   - cpe:2.3:a:gfx-rs:naga:0.8.4:*:*:*:*:rust:*:*
   - cpe:2.3:a:gfx-rs:naga:0.8.5:*:*:*:*:rust:*:*
   - cpe:2.3:a:gfx-rs:naga:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-rs:naga:*:*:*:*:*:rust:*:*
   - cpe:2.3:a:gfx-rs:naga:-:*:*:*:*:rust:*:*
