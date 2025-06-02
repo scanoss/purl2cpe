@@ -1633,8 +1633,32 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:17.0.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.0.8:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.0.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.4:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.5:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.10.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:17.11.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.1:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.1.2:*:*:*:*:*:*:*
@@ -1752,6 +1776,8 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:17.8.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.9.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:17.9.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.0.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:enterprise:*:*:*

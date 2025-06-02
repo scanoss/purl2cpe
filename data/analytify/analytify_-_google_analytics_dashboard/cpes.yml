@@ -120,4 +120,6 @@ cpes:
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:-:*:*:*:*:wordpress:*:*

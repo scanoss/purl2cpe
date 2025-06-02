@@ -366,3 +366,6 @@ cpes:
   - cpe:2.3:a:wire:wire-webapp:2022-04-13:staging0:*:*:*:*:*:*
   - cpe:2.3:a:wire:wire-webapp:2022-04-19:staging0:*:*:*:*:*:*
   - cpe:2.3:a:wire:wire-webapp:2022-04-21:production0:*:*:*:*:*:*
+  - cpe:2.3:a:wire:wire-webapp:2025-04-14:production0:*:*:*:*:*:*
+  - cpe:2.3:a:wire:wire-webapp:2025-04-29:production0:*:*:*:*:*:*
+  - cpe:2.3:a:wire:wire-webapp:2025-05-06:alphaging0:*:*:*:*:*:*

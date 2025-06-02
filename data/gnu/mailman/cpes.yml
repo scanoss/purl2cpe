@@ -75,6 +75,8 @@ cpes:
   - cpe:2.3:a:gnu:mailman:2.1.35:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:mailman:2.1.36:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:mailman:2.1.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailman:2.1.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailman:2.1.39:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:mailman:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:mailman:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:mailman:2.1.5.8:*:*:*:*:*:*:*

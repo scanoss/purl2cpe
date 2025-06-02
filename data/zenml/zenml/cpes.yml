@@ -132,6 +132,7 @@ cpes:
   - cpe:2.3:a:zenml:zenml:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zenml:zenml:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zenml:zenml:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zenml:zenml:0.66.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zenml:zenml:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zenml:zenml:0.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zenml:zenml:0.7.2:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xstream_project:xstream:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xstream_project:xstream:-:*:*:*:*:*:*:*
   - cpe:2.3:a:xstream_project:xstream:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xstream_project:xstream:0.3:*:*:*:*:*:*:*

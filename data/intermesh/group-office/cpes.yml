@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:intermesh:group-office:*:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:2.16:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:2.18:*:*:*:*:*:*:*

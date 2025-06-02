@@ -23,6 +23,7 @@ cpes:
   - cpe:2.3:a:alkacon:opencms:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alkacon:opencms:16.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alkacon:opencms:17.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:alkacon:opencms:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alkacon:opencms:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:alkacon:opencms:6.0.3:*:*:*:*:*:*:*
