@@ -1,2 +1,4 @@
 purls:
   - pkg:github/langchain-ai/langchain
+  - pkg:github/langchain-ai/langchainjs
+  - pkg:npm/langchain
