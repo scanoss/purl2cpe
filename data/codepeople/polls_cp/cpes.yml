@@ -57,7 +57,21 @@ cpes:
   - cpe:2.3:a:codepeople:polls_cp:1.0.60:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.61:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.66:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.67:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.68:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.69:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.71:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.73:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.74:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codepeople:polls_cp:1.0.76:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:codepeople:polls_cp:1.0.9:*:*:*:*:wordpress:*:*

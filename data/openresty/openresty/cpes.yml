@@ -111,6 +111,7 @@ cpes:
   - cpe:2.3:a:openresty:openresty:1.21.4.1:rc3:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.21.4.2:-:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.21.4.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.21.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.9:*:*:*:*:*:*:*

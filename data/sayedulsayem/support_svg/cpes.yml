@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:sayedulsayem:support_svg:1.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sayedulsayem:support_svg:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/matomo/matomo
+  - pkg:docker/matomo
+  - pkg:github/matomo-org/matomo

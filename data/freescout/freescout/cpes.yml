@@ -172,11 +172,53 @@ cpes:
   - cpe:2.3:a:freescout:freescout:1.8.136:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.137:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.138:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.139:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.141:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.142:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.143:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.144:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.145:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.146:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.147:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.148:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.149:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.150:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.151:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.152:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.153:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.154:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.155:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.156:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.157:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.158:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.159:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.160:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.161:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.162:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.163:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.164:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.165:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.166:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.167:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.168:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.169:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.170:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.171:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.172:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.173:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.174:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.175:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.176:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.177:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.178:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.179:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.180:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.19:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.20:*:*:*:*:*:*:*

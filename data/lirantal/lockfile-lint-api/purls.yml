@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lirantal/lockfile-lint
+  - pkg:npm/lockfile-lint-api

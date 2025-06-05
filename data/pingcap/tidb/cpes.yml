@@ -146,3 +146,4 @@ cpes:
   - cpe:2.3:a:pingcap:tidb:6.1.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:pingcap:tidb:6.2.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:pingcap:tidb:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingcap:tidb:7.5.1:*:*:*:*:*:*:*
