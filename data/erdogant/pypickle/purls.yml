@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/erdogant/pypickle
+  - pkg:pypi/pypickle

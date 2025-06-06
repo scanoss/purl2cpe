@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:kylephillips:nested_pages:3.2.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylephillips:nested_pages:3.2.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylephillips:nested_pages:3.2.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylephillips:nested_pages:3.2.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylephillips:nested_pages:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylephillips:nested_pages:3.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylephillips:nested_pages:3.2.3:*:*:*:*:wordpress:*:*

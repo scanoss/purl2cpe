@@ -106,3 +106,4 @@ cpes:
   - cpe:2.3:a:bestpractical:request_tracker:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bestpractical:request_tracker:5.0.5:*:*:*:*:*:*:*

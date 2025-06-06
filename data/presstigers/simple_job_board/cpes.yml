@@ -12,6 +12,8 @@ cpes:
   - cpe:2.3:a:presstigers:simple_job_board:2.12.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presstigers:simple_job_board:2.12.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presstigers:simple_job_board:2.12.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:presstigers:simple_job_board:2.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:presstigers:simple_job_board:2.12.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presstigers:simple_job_board:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presstigers:simple_job_board:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:presstigers:simple_job_board:2.2.3:*:*:*:*:wordpress:*:*
