@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/swiftmailer/swiftmailer
+  - pkg:github/swiftmailer/swiftmailer

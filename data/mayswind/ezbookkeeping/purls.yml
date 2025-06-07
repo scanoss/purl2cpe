@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mayswind/ezbookkeeping
+  - pkg:golang/github.com/mayswind/ezbookkeeping

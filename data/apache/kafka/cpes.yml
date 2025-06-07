@@ -34,6 +34,7 @@ cpes:
   - cpe:2.3:a:apache:kafka:0.10.2.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:0.10.2.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:0.10.2.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:0.10.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:0.10.2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:0.10.2.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:0.10.2.2:rc1:*:*:*:*:*:*
@@ -196,3 +197,73 @@ cpes:
   - cpe:2.3:a:apache:kafka:3.0.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.0.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.0.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.1.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.2.3:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.3.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.4.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.5.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.6.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.0:rc3:*:*:*:*:*:*
