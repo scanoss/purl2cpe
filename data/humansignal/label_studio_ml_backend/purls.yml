@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/humansignal/label-studio-ml-backend
+  - pkg:pypi/label-studio-ml

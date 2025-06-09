@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:doris:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:0.11.0:*:*:*:*:*:*:*

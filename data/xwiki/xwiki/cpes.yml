@@ -322,6 +322,8 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki:1.6:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.6:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:17.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki:17.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.8:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki:1.8:rc2:*:*:*:*:*:*

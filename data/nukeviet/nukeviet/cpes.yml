@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nukeviet:nukeviet:*:*:*:*:-:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:3.0.05:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:3.0.06:*:*:*:*:*:*:*
@@ -69,3 +70,4 @@ cpes:
   - cpe:2.3:a:nukeviet:nukeviet:4.5.00:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.5.01:*:*:*:*:*:*:*
   - cpe:2.3:a:nukeviet:nukeviet:4.5.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nukeviet:nukeviet:*:*:*:*:egov:*:*:*

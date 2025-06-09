@@ -73,3 +73,4 @@ cpes:
   - cpe:2.3:a:vtiger:vtiger_crm:7.4.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:vtiger:vtiger_crm:7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vtiger:vtiger_crm:8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vtiger:vtiger_crm:8.3.0:*:*:*:*:*:*:*

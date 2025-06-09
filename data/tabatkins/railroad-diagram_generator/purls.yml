@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/tabatkins/railroad-diagrams
+  - pkg:maven/org.webjars.npm/railroad-diagrams
+  - pkg:npm/railroad-diagrams
+  - pkg:pypi/railroad-diagrams
