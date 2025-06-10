@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/sling-org-apache-sling-engine
+  - pkg:maven/org.apache.sling/org.apache.sling.engine

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/jrohy/trojan
+  - pkg:github/jrohy/trojan
+  - pkg:golang/github.com/jrohy/trojan

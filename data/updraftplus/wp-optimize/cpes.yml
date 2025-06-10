@@ -71,3 +71,5 @@ cpes:
   - cpe:2.3:a:updraftplus:wp-optimize:3.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:wp-optimize:3.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:wp-optimize:3.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:wp-optimize:3.2.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:wp-optimize:3.2.16:*:*:*:*:wordpress:*:*

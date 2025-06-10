@@ -118,4 +118,16 @@ cpes:
   - cpe:2.3:a:adenion:blog2social:7.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:adenion:blog2social:7.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:adenion:blog2social:7.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:7.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:adenion:blog2social:8.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:adenion:blog2social:*:*:*:*:*:wordpress:*:*
