@@ -21,7 +21,13 @@ cpes:
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.27:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metaphorcreations:post_duplicator:2.35:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metaphorcreations:post_duplicator:2.6:*:*:*:*:wordpress:*:*

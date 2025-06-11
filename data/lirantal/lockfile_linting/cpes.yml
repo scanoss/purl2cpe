@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:lirantal:lockfile_linting:*:*:*:*:*:node.js:*:*

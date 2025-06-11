@@ -279,7 +279,9 @@ cpes:
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.6:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.6:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.7:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.7:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.8:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.1.8:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.2.1:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.2.2:*:*:*:-:wordpress:*:*

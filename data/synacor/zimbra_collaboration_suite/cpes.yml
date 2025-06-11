@@ -1,7 +1,24 @@
 cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:10.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:6.0.10:*:*:*:*:*:*:*
@@ -162,6 +179,7 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p44:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p45:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p46:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p47:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p5:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p6:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.15:p7:*:*:*:*:*:*
@@ -254,6 +272,9 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p40:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p41:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p42:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p43:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p44:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p45:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p6:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p7:*:*:*:*:*:*

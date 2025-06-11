@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:mrcms:mrcms:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mrcms:mrcms:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mrcms:mrcms:3.1.3:*:*:*:*:*:*:*

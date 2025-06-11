@@ -51,11 +51,15 @@ cpes:
   - cpe:2.3:a:enhancesoft:osticket:1.17:-:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:enhancesoft:osticket:1.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:enhancesoft:osticket:1.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:enhancesoft:osticket:1.17.5:*:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17.6:*:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17:rc1:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17:rc2:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17:rc3:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.17:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:enhancesoft:osticket:1.18:*:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:enhancesoft:osticket:1.8.0.1:*:*:*:*:*:*:*
