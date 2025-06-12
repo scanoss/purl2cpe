@@ -102,3 +102,4 @@ cpes:
   - cpe:2.3:a:wazuh:wazuh:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:4.7.2:*:*:*:*:*:*:*

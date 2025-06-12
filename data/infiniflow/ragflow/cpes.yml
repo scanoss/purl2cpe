@@ -8,6 +8,10 @@ cpes:
   - cpe:2.3:a:infiniflow:ragflow:0.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.3.1:*:*:*:*:*:*:*

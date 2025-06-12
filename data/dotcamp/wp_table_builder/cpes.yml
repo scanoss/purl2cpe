@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:wp_table_builder:1.4.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:wp_table_builder:1.4.3:*:*:*:*:wordpress:*:*

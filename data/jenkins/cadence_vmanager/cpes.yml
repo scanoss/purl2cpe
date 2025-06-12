@@ -35,3 +35,4 @@ cpes:
   - cpe:2.3:a:jenkins:cadence_vmanager:3.0.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:cadence_vmanager:3.0.4:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:cadence_vmanager:4.0.0-282.v5096a_c2db_275:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cadence_vmanager:4.0.1-286.v9e25a_740b_a_48:*:*:*:*:jenkins:*:*
