@@ -1,5 +1,11 @@
 cpes:
   - cpe:2.3:a:phpwcms:phpwcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.2.5_dev:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.4.7:r412:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.5.3:*:*:*:*:*:*:*
@@ -52,7 +58,24 @@ cpes:
   - cpe:2.3:a:phpwcms:phpwcms:1.9.25:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.26:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.29:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.9.46:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.9.7:-:*:*:*:*:*:*

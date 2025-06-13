@@ -91,7 +91,10 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:23.01.15:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.16:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.01.18:*:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.01.19:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.01.20:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.01.4:*:*:*:lts:*:*:*
@@ -108,8 +111,12 @@ cpes:
   - cpe:2.3:a:dotcms:dotcms:23.08.16:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.09.7:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.10.24:*:*:*:*:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.10.24.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.10.24:10:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.10.24:11:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.10.24:12:*:*:lts:*:*:*
+  - cpe:2.3:a:dotcms:dotcms:23.10.24:13:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.10.24:1:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.10.24:2:*:*:lts:*:*:*
   - cpe:2.3:a:dotcms:dotcms:23.10.24:3:*:*:lts:*:*:*
