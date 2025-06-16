@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:iputils_project:iputils:20240905:*:*:*:*:*:*:*
   - cpe:2.3:a:iputils_project:iputils:s20140419:*:*:*:*:*:*:*
   - cpe:2.3:a:iputils_project:iputils:s20140420:*:*:*:*:*:*:*
   - cpe:2.3:a:iputils_project:iputils:s20140519:*:*:*:*:*:*:*

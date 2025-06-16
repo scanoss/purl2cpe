@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/broadstreetads/broadstreet-api-php
+  - pkg:github/broadstreetads/broadstreet-ruby
+  - pkg:github/broadstreetads/broadstreet-wp

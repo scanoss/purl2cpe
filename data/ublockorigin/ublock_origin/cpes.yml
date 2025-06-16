@@ -265,6 +265,22 @@ cpes:
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta10:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta11:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta12:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta15:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta16:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:ublockorigin:ublock_origin:1.63.3:beta9:*:*:*:*:*:*
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ublockorigin:ublock_origin:1.6.8:*:*:*:*:*:*:*

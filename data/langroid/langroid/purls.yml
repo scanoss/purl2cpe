@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/langroid/langroid
+  - pkg:pypi/langroid

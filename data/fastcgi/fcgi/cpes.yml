@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:fastcgi:fcgi:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastcgi:fcgi:*:*:*:*:*:perl:*:*

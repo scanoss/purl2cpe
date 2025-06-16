@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redaxo:redaxo:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:2.7.4:*:*:*:*:*:*:*
@@ -42,6 +43,8 @@ cpes:
   - cpe:2.3:a:redaxo:redaxo:5.12.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redaxo:redaxo:5.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redaxo:redaxo:5.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.3:*:*:*:*:*:*:*

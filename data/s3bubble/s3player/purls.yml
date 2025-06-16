@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/s3bubble/player
+  - pkg:npm/%40s3bubble/player

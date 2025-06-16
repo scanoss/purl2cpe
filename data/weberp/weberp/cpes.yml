@@ -34,3 +34,4 @@ cpes:
   - cpe:2.3:a:weberp:weberp:4.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weberp:weberp:4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:weberp:weberp:4.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weberp:weberp:4.15.2:*:*:*:*:*:*:*

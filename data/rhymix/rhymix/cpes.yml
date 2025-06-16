@@ -203,3 +203,4 @@ cpes:
   - cpe:2.3:a:rhymix:rhymix:1.9.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rhymix:rhymix:1.9.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:rhymix:rhymix:1.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhymix:rhymix:2.1.22:*:*:*:*:*:*:*

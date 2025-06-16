@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:uriparser_project:uriparser:0.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:uriparser_project:uriparser:0.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:uriparser_project:uriparser:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:uriparser_project:uriparser:0.9.7:*:*:*:*:*:*:*

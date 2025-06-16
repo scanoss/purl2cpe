@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:jhead_project:jhead:3.05:*:*:*:*:*:*:*
   - cpe:2.3:a:jhead_project:jhead:3.06:*:*:*:*:*:*:*
   - cpe:2.3:a:jhead_project:jhead:3.06.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jhead_project:jhead:3.08:*:*:*:*:*:*:*
