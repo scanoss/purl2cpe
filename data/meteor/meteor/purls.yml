@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/meteor/meteor
+  - pkg:npm/meteor

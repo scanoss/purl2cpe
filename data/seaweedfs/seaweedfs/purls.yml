@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seaweedfs/seaweedfs
+  - pkg:golang/github.com/seaweedfs/seaweedfs

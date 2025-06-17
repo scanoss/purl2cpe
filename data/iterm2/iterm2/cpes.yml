@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:iterm2:iterm2:*:*:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:2.1.1:-:*:*:*:*:*:*
@@ -218,6 +219,12 @@ cpes:
   - cpe:2.3:a:iterm2:iterm2:3.4.9:beta1:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.5.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.5.0:beta10:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta12:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta15:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta16:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.5.0:beta17:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.5.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.5.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.5.0:beta4:*:*:*:*:*:*
