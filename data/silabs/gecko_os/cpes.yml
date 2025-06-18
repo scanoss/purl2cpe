@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:o:silabs:gecko_os:-:*:*:*:*:*:*:*
   - cpe:2.3:o:silabs:gecko_os:1.0.46:*:*:*:*:*:*:*

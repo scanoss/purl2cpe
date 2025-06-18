@@ -228,3 +228,5 @@ cpes:
   - cpe:2.3:a:saltstack:salt:3006.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:saltstack:salt:3006.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:saltstack:salt:3006.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt:3006.3:*:*:*:*:*:*:*

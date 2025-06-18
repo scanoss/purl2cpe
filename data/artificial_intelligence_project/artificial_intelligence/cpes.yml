@@ -1,4 +1,7 @@
 cpes:
+  - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.0.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.0.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.0.2:*:*:*:*:drupal:*:*
   - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.1.3:*:*:*:*:wordpress:*:*

@@ -1,5 +1,30 @@
 cpes:
   - cpe:2.3:a:yt-dlp_project:yt-dlp:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.01.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.02.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.02.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.02.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.02.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.02.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.03.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.03.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.04.03:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.04.11:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.04.22:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2021.05.11:*:*:*:*:*:*:*
@@ -53,4 +78,6 @@ cpes:
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2023.09.24:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2023.10.07:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2023.10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2023.11.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2023.11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:*:*:*:*:nightly:*:*:*
