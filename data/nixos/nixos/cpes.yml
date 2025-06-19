@@ -1,3 +1,24 @@
 cpes:
   - cpe:2.3:o:nixos:nixos:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:13.10:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:14.04:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:14.12:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:15.09:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:16.03:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:16.09:*:*:*:*:*:*:*
   - cpe:2.3:o:nixos:nixos:17.03:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:17.09:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:18.03:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:18.09:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:19.03:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:19.09:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:20.03:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:20.09:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:21.05:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:21.11:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:22.05:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:22.11:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:23.05:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:23.11:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:24.05:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:24.11:*:*:*:*:*:*:*

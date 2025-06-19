@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:latchset:jose:1:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:10:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:11:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:latchset:jose:9:*:*:*:*:*:*:*

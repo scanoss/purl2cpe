@@ -25,7 +25,11 @@ cpes:
   - cpe:2.3:a:openeclass:openeclass:3.12.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.6:*:*:*:*:*:*:*

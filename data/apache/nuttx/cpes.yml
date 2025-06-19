@@ -4,8 +4,46 @@ cpes:
   - cpe:2.3:a:apache:nuttx:10.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:10.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:10.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:10.3.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:11.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:11.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:11.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:11.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.2.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.2.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.3.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.4.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.5.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.5.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.6.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.7.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nuttx:12.8.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:nuttx:2.3:*:*:*:*:*:*:*

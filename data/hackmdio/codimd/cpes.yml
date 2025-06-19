@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hackmdio:codimd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hackmdio:codimd:2.2.0:*:*:*:*:*:*:*

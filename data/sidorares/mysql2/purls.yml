@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sidorares/node-mysql2
+  - pkg:npm/mysql2
