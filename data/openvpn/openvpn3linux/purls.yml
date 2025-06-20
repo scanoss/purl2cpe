@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openvpn/openvpn3-linux
+  - pkg:rpm/opensuse/openvpn3-linux

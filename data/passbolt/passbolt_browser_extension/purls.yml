@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/passbolt/passbolt_browser_extension
+  - pkg:npm/passbolt-browser-extension

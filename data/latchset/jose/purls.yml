@@ -1,2 +1,6 @@
 purls:
+  - pkg:deb/debian/jose
+  - pkg:deb/ubuntu/jose
   - pkg:github/latchset/jose
+  - pkg:rpm/fedora/jose
+  - pkg:rpm/opensuse/jose

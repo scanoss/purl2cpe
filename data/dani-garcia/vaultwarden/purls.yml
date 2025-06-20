@@ -1,2 +1,6 @@
 purls:
+  - pkg:cargo/vaultwarden
   - pkg:github/dani-garcia/vaultwarden
+  - pkg:rpm/fedora/vaultwarden
+  - pkg:rpm/opensuse/vaultwarden
+  - pkg:sourceforge/vaultwarden.mirror

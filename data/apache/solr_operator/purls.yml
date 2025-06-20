@@ -1,2 +1,3 @@
 purls:
   - pkg:github/apache/solr-operator
+  - pkg:golang/github.com/apache/solr-operator

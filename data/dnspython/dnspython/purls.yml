@@ -1,2 +1,3 @@
 purls:
   - pkg:github/rthalley/dnspython
+  - pkg:pypi/dnspython

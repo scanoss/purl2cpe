@@ -1,2 +1,3 @@
 purls:
   - pkg:github/chirpstack/chirpstack-gateway-bridge
+  - pkg:golang/github.com/chirpstack/chirpstack-gateway-bridge
