@@ -1,6 +1,4 @@
 purls:
   - pkg:deb/debian/udfclient
   - pkg:deb/ubuntu/udfclient
-  - pkg:generic/13thmonkey/udfclient
   - pkg:gnome/udfclient
-  - pkg:rpm/freebsd/udfclient
