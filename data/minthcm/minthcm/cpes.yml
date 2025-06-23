@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:minthcm:minthcm:3.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:minthcm:minthcm:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:minthcm:minthcm:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:minthcm:minthcm:4.0.3:*:*:*:*:*:*:*

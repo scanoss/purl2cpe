@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stackrox/stackrox
+  - pkg:golang/github.com/stackrox/stackrox

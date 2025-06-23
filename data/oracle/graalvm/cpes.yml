@@ -40,6 +40,7 @@ cpes:
   - cpe:2.3:a:oracle:graalvm:20.3.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:20.3.15:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:oracle:graalvm:20.3.16:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:20.3.17:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:20.3.1:*:*:*:community:*:*:*
   - cpe:2.3:a:oracle:graalvm:20.3.2:*:*:*:community:*:*:*
@@ -62,6 +63,7 @@ cpes:
   - cpe:2.3:a:oracle:graalvm:21.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:oracle:graalvm:21.3.12:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.2:*:*:*:enterprise:*:*:*

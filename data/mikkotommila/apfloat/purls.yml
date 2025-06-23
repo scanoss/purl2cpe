@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mtommila/apfloat
+  - pkg:maven/org.apfloat/apfloat

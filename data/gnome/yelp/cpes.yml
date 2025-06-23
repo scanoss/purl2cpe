@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:gnome:yelp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:yelp:42.2-8:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tiagorlampert/chaos
+  - pkg:golang/github.com/tiagorlampert/chaos

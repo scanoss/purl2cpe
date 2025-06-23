@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:processwire:processwire:3.0.184:*:*:*:*:*:*:*
   - cpe:2.3:a:processwire:processwire:3.0.200:*:*:*:*:*:*:*
   - cpe:2.3:a:processwire:processwire:3.0.210:*:*:*:*:*:*:*
+  - cpe:2.3:a:processwire:processwire:3.0.229:*:*:*:*:*:*:*
   - cpe:2.3:a:processwire:processwire:3.0.34:*:*:*:*:*:*:*
   - cpe:2.3:a:processwire:processwire:3.0.35:*:*:*:*:*:*:*
   - cpe:2.3:a:processwire:processwire:3.0.36:*:*:*:*:*:*:*
