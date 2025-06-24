@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:cert-manager:cert-manager:1.14.4:*:*:*:*:*:*:*

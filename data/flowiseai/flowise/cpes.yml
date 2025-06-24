@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:flowiseai:flowise:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:flowiseai:flowise:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:flowiseai:flowise:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:flowiseai:flowise:2.2.6:-:*:*:*:*:*:*

@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:jatos:jatos:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jatos:jatos:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jatos:jatos:3.9.4:*:*:*:*:*:*:*

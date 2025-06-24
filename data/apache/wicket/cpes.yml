@@ -10,6 +10,8 @@ cpes:
   - cpe:2.3:a:apache:wicket:0.9.19:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.3:*:*:*:*:*:*:*

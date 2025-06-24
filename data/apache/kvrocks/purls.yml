@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/kvrocks
+  - pkg:github/apache/kvrocks
+  - pkg:golang/github.com/apache/kvrocks

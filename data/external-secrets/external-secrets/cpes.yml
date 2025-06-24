@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:external-secrets:external-secrets:0.9.16:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/fastnetmon
+  - pkg:deb/ubuntu/fastnetmon
+  - pkg:github/pavel-odintsov/fastnetmon
+  - pkg:rpm/fedora/fastnetmon

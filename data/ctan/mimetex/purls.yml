@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mimetex
+  - pkg:deb/ubuntu/mimetex
+  - pkg:github/oefenweb/mimetex
+  - pkg:rpm/fedora/mimetex
+  - pkg:rpm/opensuse/mimetex

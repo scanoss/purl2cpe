@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/surveyjs/survey-creator
+  - pkg:npm/survey-creator

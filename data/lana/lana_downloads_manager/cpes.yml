@@ -30,4 +30,7 @@ cpes:
   - cpe:2.3:a:lana:lana_downloads_manager:1.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lana:lana_downloads_manager:1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lana:lana_downloads_manager:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lana:lana_downloads_manager:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lana:lana_downloads_manager:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lana:lana_downloads_manager:1.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lana:lana_downloads_manager:-:*:*:*:*:wordpress:*:*

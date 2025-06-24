@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/external-secrets/external-secrets
+  - pkg:golang/github.com/external-secrets/external-secrets

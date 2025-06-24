@@ -70,6 +70,22 @@ cpes:
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.20:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.21:-:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.21:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.21:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.23:-:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.23:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.23:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.23:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.24:-:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.24:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.26:-:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.26:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:lua-nginx-module:0.10.26:rc2:*:*:*:*:*:*
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.4:-:*:*:*:*:*:*
   - cpe:2.3:a:openresty:lua-nginx-module:0.10.4:rc1:*:*:*:*:*:*

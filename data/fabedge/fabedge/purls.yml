@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/fabedge/fabedge
+  - pkg:github/fabedge/fabedge
+  - pkg:golang/github.com/fabedge/fabedge
