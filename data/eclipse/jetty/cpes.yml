@@ -656,6 +656,8 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:9.4.53:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.53:20231009:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.57:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:9.4.57:20241219:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:20170531:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:9.4.6:20180619:*:*:*:*:*:*
