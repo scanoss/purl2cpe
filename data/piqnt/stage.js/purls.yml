@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/piqnt/stage.js
+  - pkg:npm/stage-js
