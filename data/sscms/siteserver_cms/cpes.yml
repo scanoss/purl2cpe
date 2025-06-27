@@ -363,3 +363,4 @@ cpes:
   - cpe:2.3:a:sscms:siteserver_cms:7.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sscms:siteserver_cms:7.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sscms:siteserver_cms:7.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sscms:siteserver_cms:7.3.1:*:*:*:*:*:*:*
