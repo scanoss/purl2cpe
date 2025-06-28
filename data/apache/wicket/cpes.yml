@@ -10,10 +10,13 @@ cpes:
   - cpe:2.3:a:apache:wicket:0.9.19:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:10.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:10.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:rc2:*:*:*:*:*:*
@@ -208,17 +211,44 @@ cpes:
   - cpe:2.3:a:apache:wicket:8.0.0:milestone8:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.0.0:milestone9:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:8.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:8.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.0.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.0.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.0.0:milestone5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.9.1:*:*:*:*:*:*:*

@@ -54,3 +54,4 @@ cpes:
   - cpe:2.3:a:aapanel:aapanel:6.8.21:*:*:*:*:*:*:*
   - cpe:2.3:a:aapanel:aapanel:6.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:aapanel:aapanel:6.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:aapanel:aapanel:7.0.7:*:*:*:*:*:*:*
