@@ -42,3 +42,4 @@ cpes:
   - cpe:2.3:a:mrdoc:mrdoc:0.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mrdoc:mrdoc:0.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mrdoc:mrdoc:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mrdoc:mrdoc:0.95:*:*:*:*:*:*:*

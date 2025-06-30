@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:phpok:phpok:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:4.8.278:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:4.8.338:*:*:*:*:*:*:*
   - cpe:2.3:a:phpok:phpok:4.9.015:*:*:*:*:*:*:*

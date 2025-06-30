@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:theeventscalendar:event_tickets:*:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:theeventscalendar:event_tickets:*:*:*:*:plus:wordpress:*:*
   - cpe:2.3:a:theeventscalendar:event_tickets:*:*:*:*:*:wordpress:*:*

@@ -2,3 +2,4 @@ cpes:
   - cpe:2.3:a:discord:discord:*:*:*:*:*:*:*:*
   - cpe:2.3:a:discord:discord:-:*:*:*:*:*:*:*
   - cpe:2.3:a:discord:discord:0.0.291:*:*:*:*:*:*:*
+  - cpe:2.3:a:discord:discord:1.0.9188:*:*:*:*:*:*:*

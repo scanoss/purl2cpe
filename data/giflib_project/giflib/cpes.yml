@@ -35,3 +35,4 @@ cpes:
   - cpe:2.3:a:giflib_project:giflib:5.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:giflib_project:giflib:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:giflib_project:giflib:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:giflib_project:giflib:5.2.2:*:*:*:*:*:*:*

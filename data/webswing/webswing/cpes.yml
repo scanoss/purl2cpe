@@ -58,6 +58,7 @@ cpes:
   - cpe:2.3:a:webswing:webswing:22.1.1:*:*:*:-:*:*:*
   - cpe:2.3:a:webswing:webswing:22.1.2:*:*:*:-:*:*:*
   - cpe:2.3:a:webswing:webswing:22.1.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:webswing:webswing:23.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:webswing:webswing:2.6.10:*:*:*:lts:*:*:*
   - cpe:2.3:a:webswing:webswing:2.6.11:*:*:*:lts:*:*:*
   - cpe:2.3:a:webswing:webswing:2.6.12:*:*:*:lts:*:*:*

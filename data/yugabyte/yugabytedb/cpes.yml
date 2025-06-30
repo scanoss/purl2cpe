@@ -86,6 +86,7 @@ cpes:
   - cpe:2.3:a:yugabyte:yugabytedb:2.18.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:2.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:2.2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yugabyte:yugabytedb:2.21.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:2.2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:2.2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yugabyte:yugabytedb:2.2.4:*:*:*:*:*:*:*
