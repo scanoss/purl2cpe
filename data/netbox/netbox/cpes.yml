@@ -213,3 +213,4 @@ cpes:
   - cpe:2.3:a:netbox:netbox:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:netbox:netbox:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:netbox:netbox:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netbox:netbox:4.1.0:-:*:*:*:*:*:*

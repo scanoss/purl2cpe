@@ -190,6 +190,7 @@ cpes:
   - cpe:2.3:a:apache:traffic_server:9.1.4:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:9.2.10:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.10:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.2:-:*:*:*:*:*:*

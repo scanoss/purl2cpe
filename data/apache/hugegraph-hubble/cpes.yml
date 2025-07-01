@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:apache:hugegraph-hubble:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hugegraph-hubble:1.0.0:*:*:*:*:*:*:*

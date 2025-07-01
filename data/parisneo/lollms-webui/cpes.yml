@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:parisneo:lollms-webui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:parisneo:lollms-webui:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.3:*:*:*:*:*:*:*

@@ -104,6 +104,7 @@ cpes:
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:4.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:4.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.0.2:*:*:*:*:wordpress:*:*
@@ -122,4 +123,8 @@ cpes:
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:5.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:-:*:*:*:*:wordpress:*:*

@@ -39,6 +39,7 @@ cpes:
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:3.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:syedbalkhi:wp_lightbox_2:-:*:*:*:*:wordpress:*:*
