@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rom_walton:boinc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:rom_walton:boinc:6.10.58:*:*:*:*:*:*:*
   - cpe:2.3:a:rom_walton:boinc:6.12.34:*:*:*:*:*:*:*
   - cpe:2.3:a:rom_walton:boinc:6.13.0:*:*:*:*:*:*:*

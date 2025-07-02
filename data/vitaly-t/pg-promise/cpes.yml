@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:vitaly-t:pg-promise:*:*:*:*:*:node.js:*:*

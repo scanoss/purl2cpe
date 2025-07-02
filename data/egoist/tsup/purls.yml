@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/egoist/tsup
+  - pkg:npm/tsup

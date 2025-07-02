@@ -283,6 +283,7 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.0.0:*:*:*:*:tslint:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.100.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:matlab:*:*
@@ -473,8 +474,10 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.87.2:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.94.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2.0.0:*:*:*:*:matlab:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2018.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2018.10.0:*:*:*:*:*:*:*

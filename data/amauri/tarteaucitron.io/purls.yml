@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/ameos/ameos_tarteaucitron
+  - pkg:github/ameos/ameos_tarteaucitron

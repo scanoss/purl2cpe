@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/go-pg/pg
+  - pkg:golang/github.com/go-pg/pg
