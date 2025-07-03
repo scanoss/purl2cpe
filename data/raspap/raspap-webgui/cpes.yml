@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:raspap:raspap-webgui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:raspap:raspap-webgui:3.0.9:*:*:*:*:*:*:*

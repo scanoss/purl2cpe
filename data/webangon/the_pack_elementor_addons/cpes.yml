@@ -4,5 +4,6 @@ cpes:
   - cpe:2.3:a:webangon:the_pack_elementor_addons:2.0.8.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webangon:the_pack_elementor_addons:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webangon:the_pack_elementor_addons:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webangon:the_pack_elementor_addons:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webangon:the_pack_elementor_addons:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webangon:the_pack_elementor_addons:-:*:*:*:*:wordpress:*:*

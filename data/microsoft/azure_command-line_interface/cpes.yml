@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:microsoft:azure_command-line_interface:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:0.1.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:0.1.1:beta2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:0.1.1:beta3:*:*:*:*:*:*
@@ -136,13 +137,45 @@ cpes:
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.38.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.49.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.59.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.66.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_command-line_interface:2.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:2.8.10:beta:*:*:*:*:*:*

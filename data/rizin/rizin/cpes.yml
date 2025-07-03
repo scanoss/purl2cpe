@@ -16,4 +16,5 @@ cpes:
   - cpe:2.3:a:rizin:rizin:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.6.3:*:*:*:*:*:*:*

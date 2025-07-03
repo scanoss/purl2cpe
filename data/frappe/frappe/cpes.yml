@@ -538,7 +538,19 @@ cpes:
   - cpe:2.3:a:frappe:frappe:14.56.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.57.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.59.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.62.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.62.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.62.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.66.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.9.0:*:*:*:*:*:*:*
@@ -546,11 +558,23 @@ cpes:
   - cpe:2.3:a:frappe:frappe:15.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:3.2.0:*:*:*:*:*:*:*

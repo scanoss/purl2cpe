@@ -283,8 +283,14 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.0.0:*:*:*:*:tslint:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.100.0:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.100.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.100.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.100.3:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.101.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.101.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.101.2:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:matlab:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:tslint:*:*
@@ -472,12 +478,69 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.79.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.79.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.80.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.80.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.80.2:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.81.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.81.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.82.0:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.82.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.82.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.82.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.83.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.83.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.84.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.84.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.84.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.85.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.85.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.85.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.86.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.86.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.86.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.87.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.87.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.87.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.88.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.88.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.89.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.89.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.90.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.90.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.90.2:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.91.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.91.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.92.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.92.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.92.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.93.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.93.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.94.0:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.94.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.94.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.95.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.95.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.95.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.95.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.96.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.96.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.96.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.96.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.96.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.97.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.97.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.97.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.98.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.98.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.98.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.99.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.99.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.99.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.99.3:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2.0.0:*:*:*:*:matlab:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2018.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2018.10.0:*:*:*:*:*:*:*

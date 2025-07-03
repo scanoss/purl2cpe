@@ -154,6 +154,7 @@ cpes:
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8.4:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8.5.1:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8.5.2:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:fastlinemedia:beaver_builder:2.8.5.3:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8.5:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8:beta1:*:*:lite:wordpress:*:*
   - cpe:2.3:a:fastlinemedia:beaver_builder:2.8:beta2:*:*:lite:wordpress:*:*

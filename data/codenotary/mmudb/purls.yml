@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/codenotary/immudb
+  - pkg:golang/github.com/codenotary/immudb

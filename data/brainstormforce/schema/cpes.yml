@@ -137,3 +137,4 @@ cpes:
   - cpe:2.3:a:brainstormforce:schema:2.7.8:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brainstormforce:schema:2.7.9:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:brainstormforce:schema:-:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:schema:*:*:*:*:*:wordpress:*:*
