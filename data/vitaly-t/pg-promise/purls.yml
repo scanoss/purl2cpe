@@ -1,2 +1,4 @@
 purls:
   - pkg:github/vitaly-t/pg-promise
+  - pkg:maven/org.webjars.npm/pg-promise
+  - pkg:npm/pg-promise

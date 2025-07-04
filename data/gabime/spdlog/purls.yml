@@ -1,2 +1,7 @@
 purls:
+  - pkg:deb/debian/spdlog
+  - pkg:deb/ubnutu/spdlog
   - pkg:github/gabime/spdlog
+  - pkg:rpm/fedora/spdlog
+  - pkg:rpm/opensuse/spdlog
+  - pkg:sourceforge/spdlog.mirror

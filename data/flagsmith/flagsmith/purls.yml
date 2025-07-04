@@ -1,2 +1,5 @@
 purls:
   - pkg:github/flagsmith/flagsmith
+  - pkg:npm/flagsmith
+  - pkg:pypi/flagsmith
+  - pkg:sourceforge/flagsmith.mirror

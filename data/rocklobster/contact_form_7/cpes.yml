@@ -51,6 +51,8 @@ cpes:
   - cpe:2.3:a:rocklobster:contact_form_7:5.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rocklobster:contact_form_7:5.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rocklobster:contact_form_7:5.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rocklobster:contact_form_7:5.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rocklobster:contact_form_7:5.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rocklobster:contact_form_7:5.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rocklobster:contact_form_7:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rocklobster:contact_form_7:-:*:*:*:*:wordpress:*:*

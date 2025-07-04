@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/modsecurity
+  - pkg:deb/ubuntu/modsecurity
+  - pkg:docker/owasp/modsecurity
+  - pkg:github/owasp-modsecurity/modsecurity
+  - pkg:rpm/opensuse/modsecurity
+  - pkg:sourceforge/modsecurity.mirror

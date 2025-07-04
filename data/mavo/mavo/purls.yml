@@ -1,2 +1,3 @@
 purls:
   - pkg:github/mavoweb/mavo
+  - pkg:npm/mavo

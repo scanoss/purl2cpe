@@ -93,4 +93,10 @@ cpes:
   - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dotcamp:ultimate_blocks:3.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dotcamp:ultimate_blocks:-:*:*:*:*:wordpress:*:*

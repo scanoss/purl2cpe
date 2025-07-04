@@ -1,2 +1,8 @@
 purls:
+  - pkg:cpan/yaml-libyaml
+  - pkg:deb/debian/libyaml-libyaml-perl
+  - pkg:deb/ubuntu/libyaml-libyaml-perl
   - pkg:github/ingydotnet/yaml-libyaml-pm
+  - pkg:rpm/fedora/perl-yaml-libyaml
+  - pkg:rpm/opensuse/perl-yaml-libyaml
+  - pkg:rpm/opensuse/perl-yaml-libyaml-0.38-4.1.src.rpm

@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:0.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nhairs:python_json_logger:3.2.1:*:*:*:*:*:*:*

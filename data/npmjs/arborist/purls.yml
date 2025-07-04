@@ -1,5 +1,3 @@
 purls:
-  - pkg:github/npm/arborist
   - pkg:github/npm/cli
-  - pkg:maven/org.webjars.npm/npmcli__arborist
   - pkg:npm/%40npmcli/arborist
