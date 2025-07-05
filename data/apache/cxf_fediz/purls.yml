@@ -2,4 +2,3 @@ purls:
   - pkg:apache/cxf
   - pkg:github/apache/cxf
   - pkg:github/apache/cxf-fediz
-  - pkg:maven/org.apache.cxf.fediz
