@@ -148,6 +148,8 @@ cpes:
   - cpe:2.3:a:seeddms:seeddms:6.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:seeddms:seeddms:6.0.18:*:*:*:*:*:*:*
   - cpe:2.3:a:seeddms:seeddms:6.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:seeddms:seeddms:6.0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:seeddms:seeddms:6.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:seeddms:seeddms:6.0.32:*:*:*:*:*:*:*
   - cpe:2.3:a:seeddms:seeddms:6.0.6:beta:*:*:*:*:*:*
   - cpe:2.3:a:seeddms:seeddms:6.0.7:-:*:*:*:*:*:*

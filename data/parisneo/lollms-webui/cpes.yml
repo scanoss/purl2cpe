@@ -1,5 +1,16 @@
 cpes:
   - cpe:2.3:a:parisneo:lollms-webui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:parisneo:lollms-webui:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:10:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:12:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:13:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:parisneo:lollms-webui:9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:parisneo:lollms-webui:9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:parisneo:lollms-webui:9.9:*:*:*:*:*:*:*

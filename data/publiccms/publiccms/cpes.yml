@@ -23,6 +23,7 @@ cpes:
   - cpe:2.3:a:publiccms:publiccms:4.0.202302.d:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.202302.e:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.202406.e:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:4.0.202406.f:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:5.202302.a:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:5.202302.b:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:5.202302.c:*:*:*:*:*:*:*

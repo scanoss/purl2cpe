@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:lollms:lollms_web_ui:6.5:rc2:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lollms:lollms_web_ui:7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:lollms:lollms_web_ui:9.0:*:*:*:*:*:*:*

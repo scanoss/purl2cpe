@@ -380,4 +380,5 @@ cpes:
   - cpe:2.3:a:clickhouse:clickhouse:23.9:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.9.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.9.5.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:24.3.3.102:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:lts:*:*:*
