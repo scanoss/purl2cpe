@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/upsonic/upsonic
+  - pkg:pypi/upsonic

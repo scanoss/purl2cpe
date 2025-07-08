@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:swiperjs:swiper:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:swiperjs:swiper:0.0.2:*:*:*:*:-:*:*
   - cpe:2.3:a:swiperjs:swiper:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:swiperjs:swiper:1.1.0:*:*:*:*:node.js:*:*

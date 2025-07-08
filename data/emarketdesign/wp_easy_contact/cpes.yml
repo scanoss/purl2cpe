@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:3.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:wp_easy_contact:*:*:*:*:*:wordpress:*:*

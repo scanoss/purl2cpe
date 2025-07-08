@@ -57,5 +57,15 @@ cpes:
   - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.3:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.4:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.5:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.6:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.7:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.8:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.2.9:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.0:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.1:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.2:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.3:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.4:*:*:*:-:wordpress:*:*
+  - cpe:2.3:a:wpeka:wp_cookie_consent:2.3.5:*:*:*:-:wordpress:*:*
   - cpe:2.3:a:wpeka:wp_cookie_consent:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpeka:wp_cookie_consent:-:*:*:*:-:wordpress:*:*

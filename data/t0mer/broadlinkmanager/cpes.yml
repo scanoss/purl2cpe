@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:t0mer:broadlinkmanager:*:*:*:*:*:*:*:*
   - cpe:2.3:a:t0mer:broadlinkmanager:5.9.1:*:*:*:*:*:*:*
