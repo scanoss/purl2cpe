@@ -58,3 +58,5 @@ cpes:
   - cpe:2.3:a:thingsboard:thingsboard:3.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:thingsboard:thingsboard:3.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:thingsboard:thingsboard:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:thingsboard:thingsboard:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:thingsboard:thingsboard:3.8.1:*:*:*:*:*:*:*

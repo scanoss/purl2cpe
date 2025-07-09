@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cksource:ckeditor_4:1.0.0:*:*:*:lts:drupal:*:*
+  - cpe:2.3:a:cksource:ckeditor_4:1.0.1:*:*:*:lts:drupal:*:*

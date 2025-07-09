@@ -37,4 +37,10 @@ cpes:
   - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.5:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.6:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.7:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:1.8.8:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:gsplugins:gs_pinterest_portfolio:*:*:*:*:*:wordpress:*:*

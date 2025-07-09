@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/activemq
+  - pkg:github/apache/activemq-nms-openwire

@@ -61,6 +61,8 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:p9:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch1:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch10:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch11:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch12:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch2:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch3:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch4:*:*:*:*:*:*
@@ -117,6 +119,7 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:p6:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:p7:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:p8:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:patch1:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:patch2:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:patch3:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.10:patch4:*:*:*:*:*:*
@@ -128,6 +131,7 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:p3:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:p4:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:p5:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:patch1:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:patch2:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:patch3:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.11:patch4:*:*:*:*:*:*
@@ -233,6 +237,7 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.9:patch6:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.9:patch7:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.9:patch8:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.9:patch9:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p1:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:9.0.0:p10:*:*:*:*:*:*

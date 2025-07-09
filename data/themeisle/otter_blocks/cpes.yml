@@ -77,6 +77,8 @@ cpes:
   - cpe:2.3:a:themeisle:otter_blocks:2.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:otter_blocks:2.6.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:otter_blocks:2.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:otter_blocks:2.6.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:otter_blocks:2.6.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:otter_blocks:2.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:otter_blocks:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:otter_blocks:2.6.3:*:*:*:*:wordpress:*:*
