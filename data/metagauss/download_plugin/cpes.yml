@@ -13,5 +13,6 @@ cpes:
   - cpe:2.3:a:metagauss:download_plugin:2.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:download_plugin:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:download_plugin:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*

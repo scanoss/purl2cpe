@@ -249,3 +249,4 @@ cpes:
   - cpe:2.3:a:stageshow_project:stageshow:8.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:8.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:*:*:*:*:*:wordpress:*:*

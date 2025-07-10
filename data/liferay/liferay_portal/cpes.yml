@@ -125,6 +125,7 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:6.2:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:6.2:sp8:*:*:enterprise:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:6.2.x_ee:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.0.0:a1:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.0.0:a2:*:*:community:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.0.0:a3:*:*:community:*:*:*

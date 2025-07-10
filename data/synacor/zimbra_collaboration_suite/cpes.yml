@@ -63,6 +63,8 @@ cpes:
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch10:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch11:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch12:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch13:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch14:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch2:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch3:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_suite:8.6.0:patch4:*:*:*:*:*:*

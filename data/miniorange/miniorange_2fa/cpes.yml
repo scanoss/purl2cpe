@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:miniorange:miniorange_2fa:5.1.7:*:*:*:*:drupal:*:*
   - cpe:2.3:a:miniorange:miniorange_2fa:5.1.8:*:*:*:*:drupal:*:*
   - cpe:2.3:a:miniorange:miniorange_2fa:5.1.9:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:miniorange:miniorange_2fa:5.2.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:miniorange:miniorange_2fa:7.x-2.16:*:*:*:*:drupal:*:*
   - cpe:2.3:a:miniorange:miniorange_2fa:7.x-2.17:*:*:*:*:drupal:*:*
   - cpe:2.3:a:miniorange:miniorange_2fa:7.x-2.18:*:*:*:*:drupal:*:*

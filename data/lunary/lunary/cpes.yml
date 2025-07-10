@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:lunary:lunary:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lunary:lunary:*:-:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:-:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:0.1.1:*:*:*:*:*:*:*

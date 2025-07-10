@@ -262,8 +262,21 @@ cpes:
   - cpe:2.3:a:apache:kafka:3.7.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.7.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.7.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.7.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.8.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.8.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.8.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.8.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.0:rc5:*:*:*:*:*:*

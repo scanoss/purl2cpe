@@ -28,3 +28,5 @@ cpes:
   - cpe:2.3:a:ocdi:one_click_demo_import:3.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ocdi:one_click_demo_import:3.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ocdi:one_click_demo_import:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ocdi:one_click_demo_import:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ocdi:one_click_demo_import:3.2.0:*:*:*:*:wordpress:*:*

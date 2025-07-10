@@ -592,6 +592,7 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:91.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:91.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:91.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:91.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:91.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:91.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:91.9:*:*:*:*:*:*:*

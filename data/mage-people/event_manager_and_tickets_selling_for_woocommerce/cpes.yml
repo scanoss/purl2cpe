@@ -51,4 +51,5 @@ cpes:
   - cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mage-people:event_manager_and_tickets_selling_for_woocommerce:-:*:*:*:*:wordpress:*:*

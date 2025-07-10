@@ -223,3 +223,5 @@ cpes:
   - cpe:2.3:a:rejetto:http_file_server:2.3j:*:*:*:*:*:*:*
   - cpe:2.3:a:rejetto:http_file_server:2.3k:*:*:*:*:*:*:*
   - cpe:2.3:a:rejetto:http_file_server:2.3m:*:*:*:*:*:*:*
+  - cpe:2.3:a:rejetto:http_file_server:2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:rejetto:http_file_server:2.4:rc7:*:*:*:*:*:*

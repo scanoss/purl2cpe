@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:universityofcalifornia:boinc_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:universityofcalifornia:boinc_server:1.4.7:*:*:*:*:*:*:*

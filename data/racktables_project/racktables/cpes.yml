@@ -71,3 +71,4 @@ cpes:
   - cpe:2.3:a:racktables_project:racktables:0.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:racktables_project:racktables:0.21.4:*:*:*:*:*:*:*
   - cpe:2.3:a:racktables_project:racktables:0.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:racktables_project:racktables:0.22.0:*:*:*:*:*:*:*

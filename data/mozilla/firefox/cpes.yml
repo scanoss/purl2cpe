@@ -1042,6 +1042,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:97.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:97.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:97.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:97.3.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:firefox:98.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:98.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:98.0.1:*:*:*:*:*:*:*

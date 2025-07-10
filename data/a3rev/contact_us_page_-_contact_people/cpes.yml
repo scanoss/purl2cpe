@@ -83,4 +83,5 @@ cpes:
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:3.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:3.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:3.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:a3rev:contact_us_page_-_contact_people:-:*:*:*:*:wordpress:*:*

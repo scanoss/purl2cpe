@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:lesterchan:wp-postratings:1.50:*:*:*:*:*:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesterchan:wp-postratings:1.65:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:1.73:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:1.74:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:1.75:*:*:*:*:wordpress:*:*
@@ -29,3 +30,4 @@ cpes:
   - cpe:2.3:a:lesterchan:wp-postratings:1.91.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:1.91:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lesterchan:wp-postratings:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-postratings:-:*:*:*:*:wordpress:*:*

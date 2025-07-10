@@ -50,4 +50,6 @@ cpes:
   - cpe:2.3:a:thecontrolgroup:voyager:1.5.1:*:*:*:*:laravel:*:*
   - cpe:2.3:a:thecontrolgroup:voyager:1.5.2:*:*:*:*:laravel:*:*
   - cpe:2.3:a:thecontrolgroup:voyager:1.6.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:thecontrolgroup:voyager:1.7:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:thecontrolgroup:voyager:1.8.0:*:*:*:*:laravel:*:*
   - cpe:2.3:a:thecontrolgroup:voyager:-:*:*:*:*:laravel:*:*
