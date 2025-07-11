@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:stashapp:stash:*:*:*:*:*:*:*:*
   - cpe:2.3:a:stashapp:stash:0.25.1:*:*:*:*:*:*:*

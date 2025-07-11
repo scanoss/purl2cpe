@@ -63,6 +63,10 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.0.4:*:*:*:*:*:*:*
@@ -87,6 +91,7 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.1:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.1:preview2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.1:preview3:*:*:*:*:*:*
@@ -98,10 +103,29 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.16:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:preview10:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.2:preview2:*:*:*:*:*:*
@@ -129,8 +153,41 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.3:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.3:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:preview5:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:preview6:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:preview7:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:preview8:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview5:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:preview6:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:-:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.5:preview5:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.6:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.6:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.6:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.6:preview4:*:*:*:*:*:*

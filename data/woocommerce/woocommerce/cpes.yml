@@ -958,4 +958,16 @@ cpes:
   - cpe:2.3:a:woocommerce:woocommerce:9.0.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:9.0.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:9.0.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.1.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.1.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.1.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.1.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.1.4:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.2.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.2.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.2.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.2.3:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.3.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.3.1:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:9.3.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*

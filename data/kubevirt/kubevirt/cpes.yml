@@ -118,12 +118,51 @@ cpes:
   - cpe:2.3:a:kubevirt:kubevirt:0.4.1:alpha1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.4.1:alpha2:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.4.1:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.49.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.49.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.49.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.50.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.50.0:rc0:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.0:alpha0:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.0:alpha1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.51.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.51.0:rc0:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.1:alpha1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.1:alpha2:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.5.1:alpha3:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.52.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.52.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.53.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.53.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.53.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.53.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.54.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.54.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.55.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.55.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.55.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.55.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.56.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.56.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.56.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.56.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.57.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.57.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.57.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.58.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.58.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.58.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.58.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:alpha0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:alpha1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:alpha2:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.0:rc2:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:0.59.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.6.0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.6.1:alpha0:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.6.1:-:*:*:*:kubernetes:*:*
@@ -152,4 +191,20 @@ cpes:
   - cpe:2.3:a:kubevirt:kubevirt:0.9.4:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.9.5:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:0.9.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.0:alpha0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.0:beta0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.0.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.1.0:alpha0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.1.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.1.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.1.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.1.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.2.0:alpha0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.2.0:beta0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.2.0:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.2.0:rc0:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubevirt:kubevirt:1.2.0:rc1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:kubevirt:kubevirt:-:*:*:*:*:kubernetes:*:*

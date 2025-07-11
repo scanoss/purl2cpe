@@ -15,3 +15,5 @@ cpes:
   - cpe:2.3:a:apache:aurora:0.17.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:aurora:0.18.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:aurora:0.18.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.18.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:aurora:0.18.1:rc1:*:*:*:*:*:*
