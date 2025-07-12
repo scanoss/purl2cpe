@@ -473,3 +473,4 @@ cpes:
   - cpe:2.3:a:apache:druid:0.9.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:druid:0.9.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:druid:0.9.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:druid:30.0.1:*:*:*:*:*:*:*

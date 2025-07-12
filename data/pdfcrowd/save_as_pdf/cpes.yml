@@ -60,5 +60,10 @@ cpes:
   - cpe:2.3:a:pdfcrowd:save_as_pdf:3.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pdfcrowd:save_as_pdf:3.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pdfcrowd:save_as_pdf:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pdfcrowd:save_as_pdf:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pdfcrowd:save_as_pdf:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pdfcrowd:save_as_pdf:4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pdfcrowd:save_as_pdf:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pdfcrowd:save_as_pdf:4.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pdfcrowd:save_as_pdf:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pdfcrowd:save_as_pdf:-:*:*:*:*:wordpress:*:*

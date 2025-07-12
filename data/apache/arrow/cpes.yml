@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:apache:arrow:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.12.0:*:*:*:*:*:*:*
@@ -22,3 +23,28 @@ cpes:
   - cpe:2.3:a:apache:arrow:0.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:12.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:12.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:13.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:14.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:14.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:14.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:15.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:15.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:15.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:16.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:arrow:9.0.0:*:*:*:*:*:*:*

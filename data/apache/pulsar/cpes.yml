@@ -143,6 +143,8 @@ cpes:
   - cpe:2.3:a:apache:pulsar:3.0.0:candidate_3:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.0:candidate_4:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.10:candidate_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.1:candidate_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.1:candidate_2:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.2:-:*:*:*:*:*:*
@@ -150,6 +152,19 @@ cpes:
   - cpe:2.3:a:apache:pulsar:3.0.2:candidate_3:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.2:candidate_4:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.5:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.6:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.7:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.8:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.8:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.9:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.0.9:candidate_2:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.1.0:candidate_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.1.1:-:*:*:*:*:*:*
@@ -165,4 +180,39 @@ cpes:
   - cpe:2.3:a:apache:pulsar:3.2.0:candidate_4:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.2.0:candidate_5:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:3.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.2.3:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.2.4:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.0:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.0:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.0:candidate_3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.0:candidate_4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.1:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.2:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.3:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.3:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.4:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.4:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.5:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:3.3.5:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.0:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.1:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.1:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.2:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.2:candidate_2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.2:candidate_3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.3:candidate_1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar:4.0.3:candidate_2:*:*:*:*:*:*
   - cpe:2.3:a:apache:pulsar:*:*:*:*:*:java:*:*

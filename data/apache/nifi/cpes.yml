@@ -176,3 +176,7 @@ cpes:
   - cpe:2.3:a:apache:nifi:2.0.0:milestone3-rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:2.0.0:milestone4:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:2.0.0:milestone4-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.1.0:rc3:*:*:*:*:*:*

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:microsoft:tslint:0.0.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.0.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.0.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.0.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.0.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.1.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.1.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.2.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.2.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.3.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.4.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:0.4.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:1.0.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:1.1.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:1.2.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:1.2.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:tslint:1.2.2:*:*:*:*:visual_studio_code:*:*
