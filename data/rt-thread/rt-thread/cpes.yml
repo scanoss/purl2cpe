@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:rt-thread:rt-thread:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rt-thread:rt-thread:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:rt-thread:rt-thread:5.1.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/sfturing/hosp:order
+  - pkg:github/sfturing/hosp_order

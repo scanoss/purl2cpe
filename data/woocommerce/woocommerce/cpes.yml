@@ -970,4 +970,5 @@ cpes:
   - cpe:2.3:a:woocommerce:woocommerce:9.3.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:9.3.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:9.3.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*
