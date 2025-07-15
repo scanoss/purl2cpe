@@ -26,8 +26,26 @@ cpes:
   - cpe:2.3:a:apache:ignite:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.11.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.12.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.13.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.14.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.15.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.16.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.4.0:*:*:*:*:*:*:*
@@ -38,3 +56,11 @@ cpes:
   - cpe:2.3:a:apache:ignite:2.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.9.1:rc1:*:*:*:*:*:*

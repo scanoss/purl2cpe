@@ -309,3 +309,4 @@ cpes:
   - cpe:2.3:a:langchain:langchain:0.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.3.0:dev1:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langchain:0.3.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:langchain:langchain:*:*:*:*:community:*:*:*
