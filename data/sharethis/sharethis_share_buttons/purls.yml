@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sharethis-github/sharethis-reactjs
+  - pkg:npm/sharethis-reactjs

@@ -1,4 +1,11 @@
 cpes:
   - cpe:2.3:a:mintplexlabs:anythingllm_desktop:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mintplexlabs:anythingllm_desktop:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mintplexlabs:anythingllm_desktop:1.6.4:*:*:*:*:*:*:*
