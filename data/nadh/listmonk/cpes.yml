@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:nadh:listmonk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:5.0.1:*:*:*:*:*:*:*

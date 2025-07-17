@@ -315,5 +315,11 @@ cpes:
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:3.4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kadencewp:gutenberg_blocks_with_ai:-:*:*:*:*:wordpress:*:*

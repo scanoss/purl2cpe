@@ -7,3 +7,4 @@ cpes:
   - cpe:2.3:a:apache:formatting_objects_processor:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:formatting_objects_processor:2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:formatting_objects_processor:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.9:*:*:*:*:*:*:*

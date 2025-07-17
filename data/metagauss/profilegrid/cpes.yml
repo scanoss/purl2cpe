@@ -339,5 +339,12 @@ cpes:
   - cpe:2.3:a:metagauss:profilegrid:5.9.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:profilegrid:5.9.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:profilegrid:5.9.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:profilegrid:5.9.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:profilegrid:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metagauss:profilegrid:-:*:*:*:*:wordpress:*:*
