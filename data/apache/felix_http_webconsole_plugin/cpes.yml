@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:apache:felix_http_webconsole_plugin:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:felix_http_webconsole_plugin:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:felix_http_webconsole_plugin:1.2.0:*:*:*:*:*:*:*

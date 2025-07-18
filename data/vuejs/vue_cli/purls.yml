@@ -1,2 +1,3 @@
 purls:
   - pkg:github/vuejs/vue-cli
+  - pkg:npm/%40vue/cli

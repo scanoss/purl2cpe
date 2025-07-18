@@ -1,2 +1,4 @@
 purls:
+  - pkg:deb/debian/berkeley-abc
+  - pkg:deb/ubnutu/berkeley-abc
   - pkg:github/berkeley-abc/abc

@@ -1,2 +1,3 @@
 purls:
+  - pkg:apache/xmlgraphics
   - pkg:github/apache/xmlgraphics-fop

@@ -1,3 +1,4 @@
 purls:
+  - pkg:apache/felix
   - pkg:github/apache/felix-dev
   - pkg:maven/org.apache.felix/org.apache.felix.webconsole

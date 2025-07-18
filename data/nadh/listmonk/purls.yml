@@ -1,2 +1,5 @@
 purls:
+  - pkg:docker/listmonk/listmonk
   - pkg:github/knadh/listmonk
+  - pkg:golang/github.com/knadh/listmonk
+  - pkg:sourceforge/listmonk.mirror
