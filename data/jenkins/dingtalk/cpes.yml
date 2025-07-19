@@ -1,2 +1,32 @@
 cpes:
+  - cpe:2.3:a:jenkins:dingtalk:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.4.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.6.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.7.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingtalk:2.7.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:dingtalk:*:*:*:*:*:jenkins:*:*

@@ -14,6 +14,13 @@ cpes:
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.16:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.17:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.22:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.23:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.24:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.25:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.6:*:*:*:*:jenkins:*:*
@@ -21,4 +28,15 @@ cpes:
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aqua_security_scanner:3.2.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:aqua_security_scanner:-:*:*:*:*:jenkins:*:*

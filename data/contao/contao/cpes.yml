@@ -532,6 +532,7 @@ cpes:
   - cpe:2.3:a:contao:contao:5.3.14:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.29:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.5:*:*:*:*:*:*:*
@@ -543,3 +544,4 @@ cpes:
   - cpe:2.3:a:contao:contao:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.5:*:*:*:*:*:*:*

@@ -1,3 +1,2 @@
 purls:
   - pkg:github/apache/hop
-  - pkg:maven/org.apache.hop/hop-core

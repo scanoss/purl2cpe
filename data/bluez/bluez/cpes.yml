@@ -166,6 +166,7 @@ cpes:
   - cpe:2.3:a:bluez:bluez:5.63:*:*:*:*:*:*:*
   - cpe:2.3:a:bluez:bluez:5.66:*:*:*:*:*:*:*
   - cpe:2.3:a:bluez:bluez:5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluez:bluez:5.70:*:*:*:*:*:*:*
   - cpe:2.3:a:bluez:bluez:5.77:*:*:*:*:*:*:*
   - cpe:2.3:a:bluez:bluez:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:bluez:bluez:5.9:*:*:*:*:*:*:*

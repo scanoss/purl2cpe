@@ -145,6 +145,11 @@ cpes:
   - cpe:2.3:a:aimstack:aim:3.24.0:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aimstack:aim:3.25.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:3.25.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:3.26.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:3.27.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:3.28.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:3.29.1:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.3.0:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.3.1:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.3.2:*:*:*:*:python:*:*
@@ -175,4 +180,7 @@ cpes:
   - cpe:2.3:a:aimstack:aim:3.9.2:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.9.3:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:3.9.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:4.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:4.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:aimstack:aim:4.0.3:*:*:*:*:python:*:*
   - cpe:2.3:a:aimstack:aim:-:*:*:*:*:python:*:*
