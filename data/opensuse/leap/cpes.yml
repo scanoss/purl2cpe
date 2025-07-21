@@ -5,6 +5,7 @@ cpes:
   - cpe:2.3:o:opensuse:leap:15.3:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:leap:15.4:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:leap:15.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:leap:15.6:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:leap:42.0:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:leap:42.1:*:*:*:*:*:*:*
   - cpe:2.3:o:opensuse:leap:42.2:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:onos-lib-go:0.10.25:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onosproject/onos-ric-sdk-go
+  - pkg:golang/github.com/onosproject/onos-ric-sdk-go

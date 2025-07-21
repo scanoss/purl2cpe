@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:emlog:emlog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:emlog:emlog:*:*:*:*:-:*:*:*
   - cpe:2.3:a:emlog:emlog:-:*:*:*:*:*:*:*
   - cpe:2.3:a:emlog:emlog:1.0.0:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:1.0.1:*:*:*:pro:*:*:*
