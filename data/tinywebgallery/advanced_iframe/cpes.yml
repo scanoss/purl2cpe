@@ -42,6 +42,14 @@ cpes:
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2021:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2022:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2024.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2025.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2025.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tinywebgallery:advanced_iframe:2025.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tinywebgallery:advanced_iframe:2.1:*:*:*:*:wordpress:*:*

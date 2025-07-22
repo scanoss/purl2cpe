@@ -1,2 +1,11 @@
 cpes:
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.01:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.02:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.03:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.04:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.05:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.06:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.07:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.08:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nouvola_divecloud:1.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:nouvola_divecloud:*:*:*:*:*:jenkins:*:*

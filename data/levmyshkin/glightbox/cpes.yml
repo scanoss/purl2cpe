@@ -1,2 +1,20 @@
 cpes:
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.0:alpha1:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.0:beta1:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.0:-:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.10:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.11:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.12:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.13:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.14:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.15:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.6:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.7:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.8:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:levmyshkin:glightbox:1.0.9:*:*:*:*:drupal:*:*
   - cpe:2.3:a:levmyshkin:glightbox:*:*:*:*:*:drupal:*:*

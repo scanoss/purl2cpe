@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:vaethink:vaethink:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaethink:vaethink:1.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:vaethink:vaethink:1.0.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:vaethink:vaethink:1.0.2:*:*:*:*:*:*:*

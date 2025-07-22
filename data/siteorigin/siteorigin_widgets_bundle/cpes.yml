@@ -163,6 +163,12 @@ cpes:
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.67.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.67.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.67.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.68.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:siteorigin:siteorigin_widgets_bundle:1.7.2:*:*:*:*:wordpress:*:*

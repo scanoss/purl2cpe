@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:llamaindex:llamaindex:*:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.10.10:*:*:*:*:*:*:*
@@ -91,13 +92,30 @@ cpes:
   - cpe:2.3:a:llamaindex:llamaindex:0.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.19:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.25:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.5:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.6:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.7:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:llamaindex:llamaindex:0.12.9:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:llamaindex:llamaindex:0.3.1:*:*:*:*:*:*:*

@@ -16,9 +16,13 @@ cpes:
   - cpe:2.3:a:pojo:activity_log:2.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.11.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.11.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.1.14:*:*:*:*:wordpress:*:*
@@ -72,4 +76,6 @@ cpes:
   - cpe:2.3:a:pojo:activity_log:2.8.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:2.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pojo:activity_log:2.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pojo:activity_log:-:*:*:*:*:wordpress:*:*
