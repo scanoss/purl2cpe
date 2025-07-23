@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:bozdoz:recaptcha_jetpack:0.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bozdoz:recaptcha_jetpack:*:*:*:*:*:wordpress:*:*

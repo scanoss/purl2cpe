@@ -554,6 +554,7 @@ cpes:
   - cpe:2.3:a:frappe:frappe:14.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.94.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.2:*:*:*:*:*:*:*
@@ -569,6 +570,7 @@ cpes:
   - cpe:2.3:a:frappe:frappe:15.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:15.57.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.7.0:*:*:*:*:*:*:*
