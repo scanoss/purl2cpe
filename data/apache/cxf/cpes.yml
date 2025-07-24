@@ -191,6 +191,7 @@ cpes:
   - cpe:2.3:a:apache:cxf:3.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cxf:3.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.5.4:*:*:*:*:*:*:*
@@ -204,9 +205,11 @@ cpes:
   - cpe:2.3:a:apache:cxf:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:3.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cxf:3.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cxf:4.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cxf:4.0.6:*:*:*:*:*:*:*

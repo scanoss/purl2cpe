@@ -55,3 +55,4 @@ cpes:
   - cpe:2.3:a:football_pool_project:football_pool:2.6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:football_pool_project:football_pool:2.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:football_pool_project:football_pool:2.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:football_pool_project:football_pool:*:*:*:*:*:wordpress:*:*

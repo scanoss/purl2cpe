@@ -36,7 +36,14 @@ cpes:
   - cpe:2.3:a:apache:jena:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jena:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jena:5.4.0:*:*:*:*:*:*:*

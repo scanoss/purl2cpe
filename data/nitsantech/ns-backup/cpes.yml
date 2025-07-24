@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:nitsantech:ns-backup:1.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:1.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:1.0.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:1.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:12.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:12.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:12.0.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:12.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:13.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:2.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:2.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:2.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:nitsantech:ns-backup:2.2.0:*:*:*:*:typo3:*:*

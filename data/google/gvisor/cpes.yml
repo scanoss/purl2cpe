@@ -167,3 +167,39 @@ cpes:
   - cpe:2.3:a:google:gvisor:20231106.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gvisor:20231113.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gvisor:20231120.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20231204.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20231211.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20231218.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240109.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240115.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240122.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240129.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240206.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240212.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240305.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240311.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240325.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240401.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240408.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240415.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240422.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240501.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240506.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240513.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240520.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240527.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240603.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240610.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240617.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240624.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240715.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240722.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240729.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240807.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240820.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240826.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240916.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240923.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20240930.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241007.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241021.0:*:*:*:*:*:*:*
