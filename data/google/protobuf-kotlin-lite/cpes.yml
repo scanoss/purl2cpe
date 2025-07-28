@@ -7,3 +7,6 @@ cpes:
   - cpe:2.3:a:google:protobuf-kotlin-lite:3.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-kotlin-lite:3.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-kotlin-lite:3.21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin-lite:3.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin-lite:4.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin-lite:4.28.2:*:*:*:*:*:*:*

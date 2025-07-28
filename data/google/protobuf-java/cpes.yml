@@ -102,6 +102,7 @@ cpes:
   - cpe:2.3:a:google:protobuf-java:3.21.7:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:3.21.8:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:3.21.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:3.25.5:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:3.4.0:*:*:*:*:*:*:*
@@ -120,3 +121,5 @@ cpes:
   - cpe:2.3:a:google:protobuf-java:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.28.2:*:*:*:*:*:*:*

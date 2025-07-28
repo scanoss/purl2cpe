@@ -7,5 +7,6 @@ cpes:
   - cpe:2.3:a:google:bazel:0.4.0:*:*:*:*:visual_studio:*:*
   - cpe:2.3:a:google:bazel:0.4.1:*:*:*:*:visual_studio:*:*
   - cpe:2.3:a:google:bazel:5.0.0:*:*:*:*:visual_studio:*:*
+  - cpe:2.3:a:google:bazel:*:*:*:*:*:android_studio:*:*
   - cpe:2.3:a:google:bazel:*:*:*:*:*:visual_studio:*:*
   - cpe:2.3:a:google:bazel:-:*:*:*:*:visual_studio:*:*

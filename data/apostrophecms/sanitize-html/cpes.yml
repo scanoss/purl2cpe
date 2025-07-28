@@ -71,7 +71,9 @@ cpes:
   - cpe:2.3:a:apostrophecms:sanitize-html:1.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:1.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.11.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.1.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.2.0:*:*:*:*:node.js:*:*
@@ -89,3 +91,7 @@ cpes:
   - cpe:2.3:a:apostrophecms:sanitize-html:2.7.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.7.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apostrophecms:sanitize-html:2.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apostrophecms:sanitize-html:2.9.0:*:*:*:*:node.js:*:*

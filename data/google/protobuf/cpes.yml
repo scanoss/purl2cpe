@@ -58,6 +58,11 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:ruby:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:rc1:*:*:*:*:*:*
@@ -121,3 +126,16 @@ cpes:
   - cpe:2.3:a:google:protobuf:4.24.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:4.24.3:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:4.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protobuf:5.29.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:google:protobuf:6.31.1:*:*:*:*:python:*:*
