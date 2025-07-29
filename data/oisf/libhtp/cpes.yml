@@ -62,6 +62,7 @@ cpes:
   - cpe:2.3:a:oisf:libhtp:0.5.46:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:libhtp:0.5.47:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:libhtp:0.5.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:oisf:libhtp:0.5.49:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:libhtp:0.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:libhtp:0.5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:libhtp:0.5.7:*:*:*:*:*:*:*
