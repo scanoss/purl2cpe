@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jetbrains/bazel
+  - pkg:github/JetBrains/bazel

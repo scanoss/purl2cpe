@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/parquet
+  - pkg:maven/org.apache.parquet/parquet

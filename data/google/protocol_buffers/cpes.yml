@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:google:protocol_buffers:28.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:google:protocol_buffers:3.25.5:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protocol_buffers:3.25.5:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:3.25.5:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protocol_buffers:3.25.5:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:3.25.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.27.5:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.27.5:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.27.5:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.27.5:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.27.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.28.2:*:*:*:*:java:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.28.2:*:*:*:*:java_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.28.2:*:*:*:*:kotllin:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.28.2:*:*:*:*:kotllin_lite:*:*
+  - cpe:2.3:a:google:protocol_buffers:4.28.2:*:*:*:*:ruby:*:*

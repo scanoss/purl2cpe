@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jetbrains:bazel:*:*:*:*:*:android_studio:*:*
+  - cpe:2.3:a:jetbrains:bazel:*:*:*:*:*:clion:*:*
+  - cpe:2.3:a:jetbrains:bazel:*:*:*:*:*:intellij:*:*

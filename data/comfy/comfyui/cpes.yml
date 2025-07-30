@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:comfy:comfyui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:comfy:comfyui:0.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:comfy:comfyui:0.2.4:*:*:*:*:*:*:*

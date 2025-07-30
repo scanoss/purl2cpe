@@ -1,2 +1,10 @@
 cpes:
+  - cpe:2.3:a:megaoptim:rapid_cache:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:1.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:megaoptim:rapid_cache:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:megaoptim:rapid_cache:-:*:*:*:*:wordpress:*:*

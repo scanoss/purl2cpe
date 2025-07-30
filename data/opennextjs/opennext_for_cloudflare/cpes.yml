@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:opennextjs:opennext_for_cloudflare:*:*:*:*:*:node.js:*:*
