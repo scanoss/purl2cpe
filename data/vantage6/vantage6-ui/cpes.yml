@@ -19,3 +19,4 @@ cpes:
   - cpe:2.3:a:vantage6:vantage6-ui:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vantage6:vantage6-ui:4.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vantage6:vantage6-ui:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vantage6:vantage6-ui:4.2.0:*:*:*:*:*:*:*

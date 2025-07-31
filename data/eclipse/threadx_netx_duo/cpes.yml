@@ -21,3 +21,5 @@ cpes:
   - cpe:2.3:a:eclipse:threadx_netx_duo:6.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx_netx_duo:6.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx_netx_duo:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx_netx_duo:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx_netx_duo:6.4.1:*:*:*:*:*:*:*

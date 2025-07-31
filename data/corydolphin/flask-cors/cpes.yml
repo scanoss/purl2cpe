@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:corydolphin:flask-cors:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:corydolphin:flask-cors:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:corydolphin:flask-cors:4.0.1:*:*:*:*:*:*:*

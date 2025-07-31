@@ -1,2 +1,3 @@
 purls:
   - pkg:github/google/intellij-protocol-buffer-editor
+  - pkg:github/protocolbuffers/protobuf

@@ -791,6 +791,7 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:2021.9.2:*:*:*:*:python:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:2021.9.3:*:*:*:*:python:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:-:*:*:*:*:java:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:matlab:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:python:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:-:*:*:*:*:remote-ssh:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:tslint:*:*
