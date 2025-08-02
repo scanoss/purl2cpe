@@ -69,6 +69,7 @@ cpes:
   - cpe:2.3:a:apache:jspwiki:2.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jspwiki:2.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jspwiki:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jspwiki:2.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jspwiki:2.2.13:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jspwiki:2.2.14:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jspwiki:2.2.16:beta:*:*:*:*:*:*

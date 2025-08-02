@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kubeflow/pipelines
+  - pkg:golang/github.com/kubeflow/pipelines

@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/serde-json-wasm
+  - pkg:github/cosmwasm/serde-json-wasm

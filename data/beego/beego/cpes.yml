@@ -55,3 +55,6 @@ cpes:
   - cpe:2.3:a:beego:beego:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.0:*:*:*:*:*:*:*

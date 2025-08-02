@@ -79,6 +79,7 @@ cpes:
   - cpe:2.3:a:cs-cart:cs-cart:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:cs-cart:cs-cart:4.1.4:*:*:ja:*:*:*:*
   - cpe:2.3:a:cs-cart:cs-cart:4.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cs-cart:cs-cart:4.18.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cs-cart:cs-cart:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cs-cart:cs-cart:4.2.1:*:*:ja:*:*:*:*
   - cpe:2.3:a:cs-cart:cs-cart:4.2.2:*:*:*:*:*:*:*

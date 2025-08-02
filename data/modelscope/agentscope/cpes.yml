@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:modelscope:agentscope:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:modelscope:agentscope:-:*:*:*:*:*:*:*
   - cpe:2.3:a:modelscope:agentscope:0.0.4:*:*:*:*:*:*:*

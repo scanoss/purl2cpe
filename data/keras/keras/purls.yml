@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/keras
+  - pkg:deb/ubuntu/keras
+  - pkg:github/keras-team/keras
+  - pkg:pypi/keras
+  - pkg:rpm/opensuse/python-keras
+  - pkg:sourceforge/keras.mirror

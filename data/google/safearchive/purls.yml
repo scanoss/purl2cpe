@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/safearchive
+  - pkg:golang/github.com/google/safearchive
