@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:nvidia:nvidia_container_toolkit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:nvidia_container_toolkit:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:nvidia_container_toolkit:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:nvidia_container_toolkit:1.16.2:*:*:*:*:*:*:*

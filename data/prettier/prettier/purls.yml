@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/prettier/prettier
+  - pkg:maven/org.webjars.npm/prettier
+  - pkg:npm/prettier

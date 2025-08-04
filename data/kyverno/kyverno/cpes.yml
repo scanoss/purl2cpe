@@ -102,6 +102,7 @@ cpes:
   - cpe:2.3:a:kyverno:kyverno:1.14.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.14.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.14.2:-:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:-:*:*:*:*:*:*

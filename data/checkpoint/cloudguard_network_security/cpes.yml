@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:checkpoint:cloudguard_network_security:r80.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkpoint:cloudguard_network_security:r81:*:*:*:*:*:*:*
   - cpe:2.3:a:checkpoint:cloudguard_network_security:r81.0:*:*:*:*:*:*:*
   - cpe:2.3:a:checkpoint:cloudguard_network_security:r81.10:*:*:*:*:*:*:*
   - cpe:2.3:a:checkpoint:cloudguard_network_security:r81.20:*:*:*:*:*:*:*

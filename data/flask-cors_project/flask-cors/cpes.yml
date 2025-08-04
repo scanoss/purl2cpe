@@ -96,3 +96,4 @@ cpes:
   - cpe:2.3:a:flask-cors_project:flask-cors:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:flask-cors_project:flask-cors:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:flask-cors_project:flask-cors:3.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-cors_project:flask-cors:4.0.1:*:*:*:*:*:*:*

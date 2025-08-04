@@ -89,3 +89,4 @@ cpes:
   - cpe:2.3:a:sandboxie:sandboxie:5.30:*:*:*:*:*:*:*
   - cpe:2.3:a:sandboxie:sandboxie:5.55.13:*:*:*:*:*:*:*
   - cpe:2.3:a:sandboxie:sandboxie:5.55.13:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie:sandboxie:5.69.6:*:*:*:*:*:*:*

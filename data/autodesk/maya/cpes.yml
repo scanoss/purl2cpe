@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:autodesk:maya:2023:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:maya:2025:*:*:*:*:*:*:*

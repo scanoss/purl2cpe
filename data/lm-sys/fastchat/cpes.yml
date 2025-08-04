@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:lm-sys:fastchat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lm-sys:fastchat:0.2.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:lm-sys:fastchat:2024-09-23:*:*:*:*:*:*:*
+  - cpe:2.3:a:lm-sys:fastchat:2024-10-05:*:*:*:*:*:*:*

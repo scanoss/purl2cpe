@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:2fauth:2fauth:5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:2fauth:2fauth:5.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:2fauth:2fauth:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:5.4.3:*:*:*:*:*:*:*

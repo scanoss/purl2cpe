@@ -258,6 +258,8 @@ cpes:
   - cpe:2.3:a:sqlite:sqlite:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sqlite:sqlite:3.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sqlite:sqlite:3.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlite:sqlite:3.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlite:sqlite:3.50.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sqlite:sqlite:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sqlite:sqlite:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sqlite:sqlite:3.5.3:*:*:*:*:*:*:*
