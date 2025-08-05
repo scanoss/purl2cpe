@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rosenpass/rosenpass
+  - pkg:rpm/opensuse/rosenpass

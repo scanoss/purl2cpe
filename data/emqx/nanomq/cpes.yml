@@ -3,8 +3,10 @@ cpes:
   - cpe:2.3:a:emqx:nanomq:0.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:nanomq:0.17.9:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.21.10:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:nanomq:0.21.8:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.21.9:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.22.10:*:*:*:*:*:*:*

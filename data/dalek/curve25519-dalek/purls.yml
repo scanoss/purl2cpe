@@ -1,0 +1,5 @@
+purls:
+  - pkg:cargo/curve25519-dalek
+  - pkg:deb/debian/curve25519-dalek
+  - pkg:deb/ubuntu/rust-curve25519-dalek
+  - pkg:github/dalek-cryptography/curve25519-dalek

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/finos/git-proxy
+  - pkg:npm/%40finos/git-proxy

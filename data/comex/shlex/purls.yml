@@ -1,0 +1,7 @@
+purls:
+  - pkg:cargo/shlex
+  - pkg:deb/debian/rust-shlex
+  - pkg:deb/ubuntu/rust-shlex
+  - pkg:github/comex/rust-shlex
+  - pkg:rpm/fedora/rust-shlex
+  - pkg:rpm/opensuse/rust-shlex

@@ -28,3 +28,36 @@ cpes:
   - cpe:2.3:a:bacula:bacula-web:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bacula:bacula-web:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:bacula:bacula-web:8.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:8.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bacula:bacula-web:9.7.0:*:*:*:*:*:*:*

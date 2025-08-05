@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.0:rc2:*:*:*:*:*:*

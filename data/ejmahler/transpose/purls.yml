@@ -1,0 +1,4 @@
+purls:
+  - pkg:cargo/transpose
+  - pkg:deb/ubuntu/rust-transpose
+  - pkg:github/ejmahler/transpose

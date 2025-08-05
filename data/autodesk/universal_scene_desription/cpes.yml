@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:autodesk:universal_scene_desription:0.10:*:*:*:*:3ds_max:*:*
+  - cpe:2.3:a:autodesk:universal_scene_desription:0.31.0:*:*:*:*:maya:*:*

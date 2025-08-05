@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/felippe-regazio/ssrfcheck
+  - pkg:npm/ssrfcheck
