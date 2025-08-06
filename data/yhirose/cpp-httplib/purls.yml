@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cpp-httplib
+  - pkg:deb/ubuntu/cpp-httplib
+  - pkg:github/yhirose/cpp-httplib
+  - pkg:rpm/fedora/cpp-httplib
+  - pkg:rpm/opebsuse/cpp-httplib
+  - pkg:sourceforge/cpp-httplib.mirror
