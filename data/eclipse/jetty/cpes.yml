@@ -80,6 +80,7 @@ cpes:
   - cpe:2.3:a:eclipse:jetty:12.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:12.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:12.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jetty:12.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:12.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:12.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:jetty:12.0.4:*:*:*:*:*:*:*

@@ -2,10 +2,37 @@ cpes:
   - cpe:2.3:a:hawt:hawtio:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:-:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m10:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m11:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m12:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m13:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m14:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m15:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m16:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m17:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m18:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m19:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m2:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m20:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m21:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m22:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m23:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m24:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m25:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m26:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m27:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m3:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m4:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m5:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m6:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m7:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m8:*:*:*:*:*:*
+  - cpe:2.3:a:hawt:hawtio:1.2:m9:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hawt:hawtio:1.4.0:*:*:*:*:*:*:*

@@ -10,3 +10,11 @@ cpes:
   - cpe:2.3:a:jirafeau:jirafeau:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jirafeau:jirafeau:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jirafeau:jirafeau:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.6.0:*:*:*:*:*:*:*
