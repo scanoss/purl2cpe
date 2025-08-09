@@ -38,7 +38,36 @@ cpes:
   - cpe:2.3:a:servicestack:servicestack:5:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:5.14:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:servicestack:servicestack:5.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:servicestack:servicestack:8.5.2:*:*:*:*:*:*:*

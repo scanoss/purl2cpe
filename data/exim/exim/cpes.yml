@@ -153,10 +153,13 @@ cpes:
   - cpe:2.3:a:exim:exim:4.95:rc1:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.95:rc2:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.96:-:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.96.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.96.2:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.96:rc0:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.96:rc1:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.96:rc2:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.97:-:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.97.1:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.97:rc0:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.97:rc1:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.97:rc2:*:*:*:*:*:*

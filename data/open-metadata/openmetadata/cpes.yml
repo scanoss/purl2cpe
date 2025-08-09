@@ -75,3 +75,6 @@ cpes:
   - cpe:2.3:a:open-metadata:openmetadata:1.4.0rc3:*:*:*:*:*:*:*
   - cpe:2.3:a:open-metadata:openmetadata:1.4.0rc4:*:*:*:*:*:*:*
   - cpe:2.3:a:open-metadata:openmetadata:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-metadata:openmetadata:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-metadata:openmetadata:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-metadata:openmetadata:1.4.4:*:*:*:*:*:*:*
