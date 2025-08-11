@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:debian:devscripts:2.19.4:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:devscripts:2.19.5:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:devscripts:2.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:devscripts:2.25.15:*:*:*:*:*:*:*

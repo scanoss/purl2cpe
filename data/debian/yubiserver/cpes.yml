@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:debian:yubiserver:0.2-2:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:yubiserver:0.5-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:yubiserver:0.5-3:*:*:*:*:*:*:*

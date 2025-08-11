@@ -75,3 +75,4 @@ cpes:
   - cpe:2.3:a:linuxserver:heimdall_application_dashboard:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxserver:heimdall_application_dashboard:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxserver:heimdall_application_dashboard:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxserver:heimdall_application_dashboard:2.6.3-ls307:*:*:*:*:*:*:*

@@ -16,3 +16,4 @@ cpes:
   - cpe:2.3:a:apache:seata:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:seata:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:seata:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:seata:2.4.0:*:*:*:*:*:*:*

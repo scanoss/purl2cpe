@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:posthog:posthog:*:*:*:*:*:*:*:*
   - cpe:2.3:a:posthog:posthog:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:posthog:posthog:0.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:posthog:posthog:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:posthog:posthog:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:posthog:posthog:1.0.10:*:*:*:*:*:*:*

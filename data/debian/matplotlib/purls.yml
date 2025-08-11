@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/matplotlib
+  - pkg:deb/debian/python3-matplotlib
+  - pkg:deb/ubuntu/matplotlib
+  - pkg:deb/ubuntu/python3-matplotlib
+  - pkg:github/matplotlib/matplotlib
+  - pkg:pypi/matplotlib
+  - pkg:rpm/fedora/python-matplotlib
+  - pkg:rpm/opensuse/python-matplotlib
+  - pkg:sourceforge/matplotlib.mirror

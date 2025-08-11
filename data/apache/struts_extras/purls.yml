@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/struts-extras
+  - pkg:maven/org.apache.struts/struts-extras

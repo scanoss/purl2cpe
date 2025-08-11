@@ -217,3 +217,4 @@ cpes:
   - cpe:2.3:a:prestashop:prestashop:8.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:8.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:prestashop:prestashop:8.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:prestashop:8.2.0:*:*:*:*:*:*:*

@@ -1,2 +1,7 @@
 cpes:
+  - cpe:2.3:a:comex:shlex:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:comex:shlex:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:comex:shlex:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:comex:shlex:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:comex:shlex:1.2.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:comex:shlex:*:*:*:*:*:rust:*:*

@@ -81,6 +81,7 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.0.7:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.0.8:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.0.9:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.0:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.10.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.10.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.10.2:*:*:*:plus:*:*:*
@@ -138,18 +139,22 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.15.7:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.15.8:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.15.9:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.15:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.16.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.16.1:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.1:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.2:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.3:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.4:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.25:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.5:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.6:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.7:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.8:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.9:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.2:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.3.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.3.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.3.2:*:*:*:plus:*:*:*
@@ -159,10 +164,13 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.4.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.4.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.4.2:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.502:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.5.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.5.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.5.2:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.5.3:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.5:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.1a:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.1b:*:*:*:plus:*:*:*
@@ -174,15 +182,20 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.5:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.6:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.6.7:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.6:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.7.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.7.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.7.2:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.7:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.2a:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.2:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.83:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.3:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.8.4:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.85:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.8:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.1:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.2:*:*:*:plus:*:*:*
@@ -192,4 +205,242 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.6:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.7:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.9.8:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.11:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.22:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.25:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.42:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.60:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.62:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.64:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.80:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.82:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.84:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.85:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:2.86:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.00:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.01:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.20:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.21:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.22:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.24:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.26:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.28:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.30:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.32:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.34:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.36:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.38:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.40:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.42:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.442:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.44:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.46:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.48:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.50:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.52:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.54:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.56:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.58:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.60:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.62:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.64:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.66:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.68:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.70:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.72:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.74:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:3.76:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.02:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.04:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.06:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.08:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.10:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.12:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.14:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.16:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.18:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:4.20:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.04:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.06:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.08:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.10:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.12:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.14:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.16:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.18:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.20:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.22:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.24:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:5.26:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.28:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.30:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.40.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.40.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.40:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.41.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.41.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.41.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.42.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.42:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.43.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.43.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.43.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.43:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.44.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.44.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.45.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.45.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.45.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.46.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.47.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.47.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.48.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.48.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.49.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.49.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.49.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.49.8:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.8:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.9:-:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.9:hotfix1:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.50.9:hotfix2:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.51.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.52.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.52.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.52.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.52.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.52.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.53.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.53.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.53.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.53.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.10:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.11:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.12:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.14:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.15:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.16:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.17:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.18:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.19:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.20:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.21:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.22:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.8:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.55.9:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.56.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.56.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.56.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.56.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.57.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.58.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.59.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.59.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.59.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.60.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.60.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.60.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.60.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.61.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.62.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.62.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.62.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.63.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.63.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.63.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.63.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.63.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.64.8:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.65.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.66.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.66.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.66.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.66.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.66.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.8:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.67.9:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.5:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.6:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.68.7:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.0:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.1:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.2:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.3:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.4:*:*:*:classic:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:5.69.5:*:*:*:classic:*:*:*

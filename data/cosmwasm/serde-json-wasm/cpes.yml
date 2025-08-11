@@ -13,5 +13,6 @@ cpes:
   - cpe:2.3:a:cosmwasm:serde-json-wasm:0.4.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:cosmwasm:serde-json-wasm:0.5.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cosmwasm:serde-json-wasm:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cosmwasm:serde-json-wasm:0.5.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:cosmwasm:serde-json-wasm:1.0.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cosmwasm:serde-json-wasm:*:*:*:*:*:rust:*:*

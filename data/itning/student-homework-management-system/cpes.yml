@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:itning:student-homework-management-system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:itning:student-homework-management-system:1.2.7:*:*:*:*:*:*:*

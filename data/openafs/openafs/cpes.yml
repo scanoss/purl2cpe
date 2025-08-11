@@ -226,3 +226,4 @@ cpes:
   - cpe:2.3:a:openafs:openafs:1.8.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openafs:openafs:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openafs:openafs:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openafs:openafs:1.9.0:*:*:*:*:*:*:*

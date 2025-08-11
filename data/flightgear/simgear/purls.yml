@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/simgear
+  - pkg:deb/ubuntu/simgear
+  - pkg:github/flightgear/simgear
+  - pkg:rpm/fedora/simgear
+  - pkg:rpm/opensuse/simgear
+  - pkg:sourceforge/simgear

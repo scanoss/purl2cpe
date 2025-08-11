@@ -1,2 +1,16 @@
 cpes:
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc2:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc3:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc4:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc5:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:rc7:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.1:-:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.2:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.2:rc2:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.2:rc3:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.2:rc4:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.1.2:-:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.2.0:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:rosenpass:rosenpass:0.2.0:-:*:*:*:rust:*:*
   - cpe:2.3:a:rosenpass:rosenpass:*:*:*:*:*:rust:*:*

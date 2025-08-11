@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:_rpm-software-management:dnf5:*:*:*:*:*:*:*:*

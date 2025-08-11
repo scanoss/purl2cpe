@@ -201,6 +201,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.16.20:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.21:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.22:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.16.23:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.3:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.16.4:*:*:*:enterprise:*:*:*
