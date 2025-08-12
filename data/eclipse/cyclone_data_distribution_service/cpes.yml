@@ -3,6 +3,8 @@ cpes:
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.10.2:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.10.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:cyclone_data_distribution_service:0.5.1:*:*:*:*:*:*:*

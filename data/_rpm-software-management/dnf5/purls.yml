@@ -1,2 +1,4 @@
 purls:
   - pkg:github/rpm-software-management/dnf5
+  - pkg:rpm/fedora/dnf5
+  - pkg:rpm/opensuse/dnf5

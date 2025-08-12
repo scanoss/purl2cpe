@@ -5,3 +5,20 @@ cpes:
   - cpe:2.3:o:google:fuchsia:4.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f1:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f10:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f1.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f11:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f1.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f12:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f1.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f13:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f14:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f15:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f4:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f6:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f7:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f8:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f8.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f9:*:*:*:*:*:*:*
