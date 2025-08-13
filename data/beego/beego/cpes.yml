@@ -13,6 +13,8 @@ cpes:
   - cpe:2.3:a:beego:beego:1.12.10:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.12.11:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:1.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:1.12.14:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.12.4:*:*:*:*:*:*:*
@@ -39,6 +41,7 @@ cpes:
   - cpe:2.3:a:beego:beego:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.0.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.0.2:beta1:*:*:*:*:*:*
@@ -58,3 +61,8 @@ cpes:
   - cpe:2.3:a:beego:beego:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:beego:beego:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:beego:beego:2.3.5:*:*:*:*:*:*:*

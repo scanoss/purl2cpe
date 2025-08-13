@@ -249,4 +249,5 @@ cpes:
   - cpe:2.3:a:salesagility:suitecrm:8.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:8.7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:8.7.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:salesagility:suitecrm:8.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:salesagility:suitecrm:8.8.0:beta:*:*:*:*:*:*
