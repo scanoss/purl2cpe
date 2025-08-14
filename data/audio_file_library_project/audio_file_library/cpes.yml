@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:audio_file_library_project:audio_file_library:*:*:*:*:*:*:*:*
   - cpe:2.3:a:audio_file_library_project:audio_file_library:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:audio_file_library_project:audio_file_library:0.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:audio_file_library_project:audio_file_library:0.2.3:*:*:*:*:*:*:*

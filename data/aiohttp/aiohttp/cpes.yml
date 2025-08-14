@@ -237,3 +237,5 @@ cpes:
   - cpe:2.3:a:aiohttp:aiohttp:3.9.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:aiohttp:aiohttp:3.9.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:aiohttp:aiohttp:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp:aiohttp:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp:aiohttp:3.9.3:*:*:*:*:*:*:*

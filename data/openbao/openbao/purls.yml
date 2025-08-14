@@ -1,0 +1,2 @@
+purls:
+  - pkg:golang/github.com/openbao/openbao-plugin-secrets-kv

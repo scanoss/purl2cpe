@@ -531,8 +531,22 @@ cpes:
   - cpe:2.3:a:gnome:glib:2.81.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.82.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.82.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.82.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.82.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.83.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.84.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.84.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.9.0:*:*:*:*:*:*:*
