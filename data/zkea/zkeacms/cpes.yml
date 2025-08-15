@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:zkea:zkeacms:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zkea:zkeacms:3.5.2:*:*:*:*:*:*:*

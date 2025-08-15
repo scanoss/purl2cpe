@@ -44,6 +44,7 @@ cpes:
   - cpe:2.3:a:gnuplot:gnuplot:5.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnuplot:gnuplot:5.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.4.0:rc1:*:*:*:*:*:*
@@ -58,4 +59,5 @@ cpes:
   - cpe:2.3:a:gnuplot:gnuplot:5.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnuplot:gnuplot:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:6.1:*:*:*:*:*:*:*

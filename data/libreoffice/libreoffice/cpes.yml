@@ -25,6 +25,8 @@ cpes:
   - cpe:2.3:a:libreoffice:libreoffice:24.8.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:24.8.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:24.8.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libreoffice:libreoffice:24.8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libreoffice:libreoffice:24.8.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:25.2.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:25.2.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:3.2.99.2:*:*:*:*:*:*:*

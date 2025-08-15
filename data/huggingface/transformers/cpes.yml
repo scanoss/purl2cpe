@@ -125,11 +125,63 @@ cpes:
   - cpe:2.3:a:huggingface:transformers:4.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.39.3:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.40.2:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.41.2:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.42.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.42.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.42.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.43.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.43.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.46.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.46.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.46.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.48.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.48.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.49.0:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.50.3:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.51.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.51.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.7.0:*:*:*:*:*:*:*

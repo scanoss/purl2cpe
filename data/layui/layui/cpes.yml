@@ -60,6 +60,7 @@ cpes:
   - cpe:2.3:a:layui:layui:2.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.8.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.8.0:beta3:*:*:*:*:*:*
@@ -79,3 +80,14 @@ cpes:
   - cpe:2.3:a:layui:layui:2.8.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.8.0:rc8:*:*:*:*:*:*
   - cpe:2.3:a:layui:layui:2.8.0:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:layui:layui:2.8.9:*:*:*:*:*:*:*

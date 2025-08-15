@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:rvc-boss:gpt-sovits-webui:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rvc-boss:gpt-sovits-webui:20240821v2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rvc-boss:gpt-sovits-webui:20250228v3:*:*:*:*:*:*:*
