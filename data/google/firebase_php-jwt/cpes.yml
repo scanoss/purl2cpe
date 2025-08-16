@@ -16,3 +16,21 @@ cpes:
   - cpe:2.3:a:google:firebase_php-jwt:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:firebase_php-jwt:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:firebase_php-jwt:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:firebase_php-jwt:6.9.0:*:*:*:*:*:*:*
