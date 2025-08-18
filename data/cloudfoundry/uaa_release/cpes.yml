@@ -153,5 +153,6 @@ cpes:
   - cpe:2.3:a:cloudfoundry:uaa_release:71.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa_release:72.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa_release:74.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:uaa_release:77.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa_release:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa_release:9.0:*:*:*:*:*:*:*

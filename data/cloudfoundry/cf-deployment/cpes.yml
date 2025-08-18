@@ -223,6 +223,7 @@ cpes:
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:45.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.2.0:*:*:*:*:*:*:*

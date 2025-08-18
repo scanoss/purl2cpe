@@ -15,6 +15,9 @@ cpes:
   - cpe:2.3:o:google:fuchsia:f13:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:f14:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:f15:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f17:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f18:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:fuchsia:f19:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:f4:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:f6:*:*:*:*:*:*:*
   - cpe:2.3:o:google:fuchsia:f7:*:*:*:*:*:*:*

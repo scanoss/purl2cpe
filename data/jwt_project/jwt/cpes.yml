@@ -28,3 +28,4 @@ cpes:
   - cpe:2.3:a:jwt_project:jwt:4.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jwt_project:jwt:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:jwt_project:jwt:4.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jwt_project:jwt:5.4.3:*:*:*:*:*:*:*

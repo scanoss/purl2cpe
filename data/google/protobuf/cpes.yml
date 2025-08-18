@@ -139,3 +139,5 @@ cpes:
   - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:google:protobuf:5.29.5:*:*:*:*:python:*:*
   - cpe:2.3:a:google:protobuf:6.31.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:google:protobuf:*:*:*:*:*:python:*:*
+  - cpe:2.3:a:google:protobuf:*:*:*:*:*:ruby:*:*

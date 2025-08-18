@@ -1,2 +1,6 @@
 cpes:
+  - cpe:2.3:a:wp-master:azan:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-master:azan:0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-master:azan:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-master:azan:0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-master:azan:*:*:*:*:*:wordpress:*:*

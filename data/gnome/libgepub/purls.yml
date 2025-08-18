@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libgepub
+  - pkg:deb/ubuntu/libgepub
+  - pkg:github/gnome/libgepub
+  - pkg:gnome/libgepub
+  - pkg:rpm/fedora/libgepub
+  - pkg:rpm/opensuse/libgepub

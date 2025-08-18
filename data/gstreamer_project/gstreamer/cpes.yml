@@ -153,6 +153,10 @@ cpes:
   - cpe:2.3:a:gstreamer_project:gstreamer:1.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gstreamer_project:gstreamer:1.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gstreamer_project:gstreamer:1.26.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer_project:gstreamer:1.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer_project:gstreamer:1.26.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer_project:gstreamer:1.26.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer_project:gstreamer:1.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gstreamer_project:gstreamer:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gstreamer_project:gstreamer:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gstreamer_project:gstreamer:1.3.3:*:*:*:*:*:*:*

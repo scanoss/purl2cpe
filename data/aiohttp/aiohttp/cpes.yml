@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:aiohttp:aiohttp:*:*:*:*:*:*:*:*
   - cpe:2.3:a:aiohttp:aiohttp:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:aiohttp:aiohttp:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aiohttp:aiohttp:0.10.1:*:*:*:*:*:*:*

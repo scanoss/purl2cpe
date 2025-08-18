@@ -12,4 +12,5 @@ cpes:
   - cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.1:*:*:*:*:rails:*:*
   - cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.2:*:*:*:*:rails:*:*
   - cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.3:*:*:*:*:rails:*:*
+  - cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.6.0:*:*:*:*:rails:*:*
   - cpe:2.3:a:rubyonrails:rails_html_sanitizers:-:*:*:*:*:rails:*:*

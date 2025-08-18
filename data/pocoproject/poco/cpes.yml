@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:pocoproject:poco:1.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pocoproject:poco:1.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pocoproject:poco:1.12.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:pocoproject:poco:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pocoproject:poco:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pocoproject:poco:1.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pocoproject:poco:1.4.7:*:*:*:*:*:*:*

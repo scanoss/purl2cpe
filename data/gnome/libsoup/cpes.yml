@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:libsoup:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:libsoup:0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:libsoup:0.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:libsoup:0.5:*:*:*:*:*:*:*
@@ -303,3 +304,4 @@ cpes:
   - cpe:2.3:a:gnome:libsoup:2.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:libsoup:2.68.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:libsoup:2.68.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsoup:3.0.0:*:*:*:*:*:*:*

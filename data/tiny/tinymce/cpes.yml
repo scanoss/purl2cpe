@@ -151,6 +151,7 @@ cpes:
   - cpe:2.3:a:tiny:tinymce:4.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:4.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:4.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiny:tinymce:4.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:4.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tiny:tinymce:4.5.4:*:*:*:*:*:*:*

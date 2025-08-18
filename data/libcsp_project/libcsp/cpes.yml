@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:libcsp_project:libcsp:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libcsp_project:libcsp:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libcsp_project:libcsp:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcsp_project:libcsp:2.0:*:*:*:*:*:*:*
