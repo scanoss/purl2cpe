@@ -1,6 +1,7 @@
 purls:
   - pkg:deb/debian/gnulib
   - pkg:deb/ubuntu/gnulib
+  - pkg:github/coreutils/gnulib
   - pkg:gnu/gnulib
   - pkg:rpm/fedora/gnulib
   - pkg:rpm/opensuse/gnulib

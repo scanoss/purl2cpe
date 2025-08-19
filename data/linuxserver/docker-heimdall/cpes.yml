@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:linuxserver:docker-heimdall:2.6.3-ls307:*:*:*:*:*:*:*

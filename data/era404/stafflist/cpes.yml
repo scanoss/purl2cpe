@@ -68,3 +68,4 @@ cpes:
   - cpe:2.3:a:era404:stafflist:3.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:era404:stafflist:3.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:era404:stafflist:3.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:era404:stafflist:-:*:*:*:*:wordpress:*:*
