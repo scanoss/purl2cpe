@@ -241,6 +241,7 @@ cpes:
   - cpe:2.3:a:debian:dpkg:1.20.10:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.20.11:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.20.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.20.13:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.20.4:*:*:*:*:*:*:*
@@ -269,6 +270,7 @@ cpes:
   - cpe:2.3:a:debian:dpkg:1.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.21.20:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.21.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.21.22:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.14:*:*:*:*:*:*:*
@@ -279,6 +281,27 @@ cpes:
   - cpe:2.3:a:debian:dpkg:1.21.8:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.21.9:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.9:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.2.5:*:*:*:*:*:*:*

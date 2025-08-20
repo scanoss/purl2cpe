@@ -58,6 +58,7 @@ cpes:
   - cpe:2.3:a:leenk:leenk.me:2.14.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leenk:leenk.me:2.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leenk:leenk.me:2.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:leenk:leenk.me:2.16.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leenk:leenk.me:2.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leenk:leenk.me:2.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:leenk:leenk.me:2.2.1:*:*:*:*:wordpress:*:*

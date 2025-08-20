@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:kjd:internationalized_domain_names_in_applications:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kjd:internationalized_domain_names_in_applications:3.6:*:*:*:*:*:*:*
