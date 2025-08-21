@@ -12,5 +12,8 @@ cpes:
   - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:1.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cyberchimps:responsive_addons_for_elementor:-:*:*:*:*:wordpress:*:*

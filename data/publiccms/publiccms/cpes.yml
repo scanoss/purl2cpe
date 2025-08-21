@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:publiccms:publiccms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.180707:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.180825:*:*:*:*:*:*:*
