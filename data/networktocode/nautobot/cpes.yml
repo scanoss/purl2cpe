@@ -89,6 +89,7 @@ cpes:
   - cpe:2.3:a:networktocode:nautobot:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:networktocode:nautobot:1.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:1.6.4:*:*:*:*:*:*:*
@@ -116,3 +117,4 @@ cpes:
   - cpe:2.3:a:networktocode:nautobot:2.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:2.1.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:networktocode:nautobot:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:networktocode:nautobot:2.1.2:*:*:*:*:*:*:*

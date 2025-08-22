@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xgenecloud:nocodb:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xgenecloud:nocodb:-:*:*:*:*:*:*:*
   - cpe:2.3:a:xgenecloud:nocodb:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xgenecloud:nocodb:0.10.1:*:*:*:*:*:*:*

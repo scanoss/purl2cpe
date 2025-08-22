@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:lizardbyte:sunshine:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lizardbyte:sunshine:2024-05-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:2025.628.4510:*:*:*:*:*:*:*

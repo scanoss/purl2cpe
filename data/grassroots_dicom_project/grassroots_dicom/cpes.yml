@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:*:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:2.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:2.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:2.0.12:*:*:*:*:*:*:*
