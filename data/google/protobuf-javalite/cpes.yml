@@ -8,5 +8,7 @@ cpes:
   - cpe:2.3:a:google:protobuf-javalite:3.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-javalite:3.21.7:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-javalite:3.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-javalite:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-javalite:4.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-javalite:4.28.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-javalite:4.28.2:*:*:*:*:*:*:*

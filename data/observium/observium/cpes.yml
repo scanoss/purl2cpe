@@ -2,3 +2,4 @@ cpes:
   - cpe:2.3:a:observium:observium:20.8.10631:*:*:*:community:*:*:*
   - cpe:2.3:a:observium:observium:20.8.10631:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:observium:observium:20.8.10631:*:*:*:professional:*:*:*
+  - cpe:2.3:a:observium:observium:24.4.13528:*:*:*:community:*:*:*

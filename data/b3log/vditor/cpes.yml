@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:b3log:vditor:2.1.15:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:vditor:2.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:vditor:3.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:vditor:3.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:vditor:3.1.23:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:vditor:3.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:b3log:vditor:3.3.10:*:*:*:*:*:*:*

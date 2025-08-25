@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:redhat:keycloak:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:keycloak:-:*:*:*:-:*:*:*
   - cpe:2.3:a:redhat:keycloak:1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:keycloak:10.0.0:*:*:*:*:*:*:*

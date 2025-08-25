@@ -1,2 +1,18 @@
 cpes:
   - cpe:2.3:a:gnome:gnome-maps:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:43.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-maps:44.3:*:*:*:*:*:*:*

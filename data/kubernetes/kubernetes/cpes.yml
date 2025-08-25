@@ -726,8 +726,11 @@ cpes:
   - cpe:2.3:a:kubernetes:kubernetes:1.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.2.6:-:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha.0:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha.1:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha.2:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:kubernetes:1.26.0:beta0:*:*:*:*:*:*

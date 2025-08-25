@@ -295,6 +295,7 @@ cpes:
   - cpe:2.3:a:debian:dpkg:1.22.19:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.22.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:dpkg:1.22.21:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.22.3:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.22.4:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:dpkg:1.22.5:*:*:*:*:*:*:*

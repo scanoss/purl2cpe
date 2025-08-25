@@ -53,6 +53,7 @@ cpes:
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.23:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:3.0.5:*:*:*:*:*:*:*

@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:rt-labs:p-net:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rt-labs:p-net:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rt-labs:p-net:1.0.0:*:*:*:*:*:*:*

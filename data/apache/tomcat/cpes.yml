@@ -95,6 +95,7 @@ cpes:
   - cpe:2.3:a:apache:tomcat:10.1.41:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.42:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat:10.1.44:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomcat:10.1.7:*:*:*:*:*:*:*

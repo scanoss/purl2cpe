@@ -1668,3 +1668,4 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:9.9.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:*:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:*:*:*:*:ts:*:*:*
+  - cpe:2.3:a:nodejs:node.js:*:*:*:*:-:windows:*:*
