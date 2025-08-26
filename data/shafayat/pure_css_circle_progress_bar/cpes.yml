@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:shafayat:pure_css_circle_progress_bar:1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:shafayat:pure_css_circle_progress_bar:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:shafayat:pure_css_circle_progress_bar:-:*:*:*:*:wordpress:*:*

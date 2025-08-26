@@ -71,6 +71,7 @@ cpes:
   - cpe:2.3:a:navidrome:navidrome:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.50.2:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.2:*:*:*:*:*:*:*

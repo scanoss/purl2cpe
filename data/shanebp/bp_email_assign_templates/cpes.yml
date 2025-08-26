@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:shanebp:bp_email_assign_templates:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:shanebp:bp_email_assign_templates:1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:shanebp:bp_email_assign_templates:*:*:*:*:*:wordpress:*:*

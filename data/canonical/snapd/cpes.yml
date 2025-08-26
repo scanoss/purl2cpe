@@ -272,3 +272,5 @@ cpes:
   - cpe:2.3:a:canonical:snapd:2.61.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:snapd:2.61.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:snapd:2.61.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapd:2.63:*:*:*:*:*:*:*

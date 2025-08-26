@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jeesite:jeesite:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jeesite:jeesite:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jeesite:jeesite:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jeesite:jeesite:1.0.2:*:*:*:*:*:*:*
@@ -7,4 +8,35 @@ cpes:
   - cpe:2.3:a:jeesite:jeesite:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:jeesite:jeesite:1.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:jeesite:jeesite:1.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.0.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.1.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.10.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.10.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.11.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.11.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.12.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.2.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.2.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.3.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.5.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.5.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.5.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.6.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.6.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.7.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.7.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.8.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.8.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.9.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.9.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.9.2:*:*:*:-:*:*:*
