@@ -532,3 +532,9 @@ cpes:
   - cpe:2.3:a:matrix:synapse:1.94.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.95.0:-:*:*:*:*:*:*
   - cpe:2.3:a:matrix:synapse:1.95.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.95.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.96.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.96.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.96.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.97.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix:synapse:1.97.0:rc1:*:*:*:*:*:*

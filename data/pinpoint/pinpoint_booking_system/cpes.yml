@@ -152,5 +152,7 @@ cpes:
   - cpe:2.3:a:pinpoint:pinpoint_booking_system:2.9.9.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pinpoint:pinpoint_booking_system:2.9.9.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pinpoint:pinpoint_booking_system:2.9.9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pinpoint:pinpoint_booking_system:2.9.9.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pinpoint:pinpoint_booking_system:2.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pinpoint:pinpoint_booking_system:*:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:pinpoint:pinpoint_booking_system:-:*:*:*:*:wordpress:*:*

@@ -374,6 +374,7 @@ cpes:
   - cpe:2.3:a:zulip:zulip:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zulip:zulip:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:zulip:zulip:5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zulip:zulip:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zulip:zulip:6.6.53:*:*:*:*:android:*:*
   - cpe:2.3:a:zulip:zulip:6.6.53:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:zulip:zulip:7.0.54:*:*:*:*:android:*:*

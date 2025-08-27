@@ -26,3 +26,4 @@ cpes:
   - cpe:2.3:a:part-db_project:part-db:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:part-db_project:part-db:1.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:part-db_project:part-db:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:part-db_project:part-db:1.0.2:*:*:*:*:*:*:*

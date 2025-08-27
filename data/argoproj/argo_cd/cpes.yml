@@ -188,6 +188,7 @@ cpes:
   - cpe:2.3:a:argoproj:argo_cd:2.11.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.11.13:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.13:*:*:*:*:*:*:*
@@ -207,6 +208,7 @@ cpes:
   - cpe:2.3:a:argoproj:argo_cd:2.12.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.12.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.12.10:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.12.4:*:*:*:*:*:*:*
@@ -226,7 +228,13 @@ cpes:
   - cpe:2.3:a:argoproj:argo_cd:2.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.14.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.14.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:2.14.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:2.1.7:*:*:*:*:*:*:*

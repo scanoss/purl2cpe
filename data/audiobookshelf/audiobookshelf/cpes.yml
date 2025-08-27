@@ -102,6 +102,7 @@ cpes:
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiobookshelf:audiobookshelf:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.13:*:*:*:*:*:*:*

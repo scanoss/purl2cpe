@@ -658,6 +658,8 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.63.5:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.63.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.63.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.63.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.63.9:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.64.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.64.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.64.0:rc2:*:*:*:*:*:*
@@ -665,21 +667,43 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.64.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.64.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.64.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.64.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.64.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.65.10:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.65.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.65.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.65.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.65.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.65.9:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.18:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.66.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.66.9:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.67.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.67.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.67.0:rc2:*:*:*:*:*:*
@@ -733,6 +757,9 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.70.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.70.10:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.70.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.70.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.70.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.70.14:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.70.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.70.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.70.4:*:*:*:*:*:*:*
@@ -746,6 +773,10 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.71.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.71.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.71.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.71.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.71.14:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.4:*:*:*:*:*:*:*
@@ -765,3 +796,19 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:4.0.2:*:*:*:*:*:*:*

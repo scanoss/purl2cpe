@@ -216,6 +216,7 @@ cpes:
   - cpe:2.3:a:apache:cassandra:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cassandra:4.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.4:*:*:*:*:*:*:*

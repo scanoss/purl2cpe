@@ -739,6 +739,9 @@ cpes:
   - cpe:2.3:a:laravel:framework:6.20.40:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:6.20.41:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:6.20.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:6.20.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:6.20.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:6.20.45:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:6.20.5:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:6.20.6:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:6.20.7:*:*:*:*:*:*:*
@@ -822,6 +825,7 @@ cpes:
   - cpe:2.3:a:laravel:framework:7.30.4:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:7.30.5:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:7.30.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:7.30.7:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:7.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:7.5.1:*:*:*:*:*:*:*
@@ -980,6 +984,8 @@ cpes:
   - cpe:2.3:a:laravel:framework:8.83.25:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:8.83.26:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:8.83.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:8.83.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:8.83.29:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:8.83.3:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:8.83.4:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:8.83.5:*:*:*:*:*:*:*
@@ -1073,12 +1079,25 @@ cpes:
   - cpe:2.3:a:laravel:framework:9.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.19:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.20:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.3:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.4:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.5:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.6:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.52.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel:framework:9.52.9:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:laravel:framework:9.8.0:*:*:*:*:*:*:*

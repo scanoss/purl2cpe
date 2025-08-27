@@ -253,3 +253,4 @@ cpes:
   - cpe:2.3:a:canonical:juju:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:*:*:*:*:*:go:*:*
