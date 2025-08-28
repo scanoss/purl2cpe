@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:yooooomi:your_spotify:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:yooooomi:your_spotify:-:*:*:*:*:*:*:*
   - cpe:2.3:a:yooooomi:your_spotify:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yooooomi:your_spotify:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yooooomi:your_spotify:1.2.0:*:*:*:*:*:*:*

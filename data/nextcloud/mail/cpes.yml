@@ -299,6 +299,8 @@ cpes:
   - cpe:2.3:a:nextcloud:mail:2.2.6:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:2.2.8:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:2.2.9:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:2.3.0:alpha4:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:3.0.0:alaph1:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:3.0.0:alpha1:*:*:*:nextcloud:*:*
@@ -333,3 +335,15 @@ cpes:
   - cpe:2.3:a:nextcloud:mail:3.2.5:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:3.2.6:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:mail:3.2.7:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:beta1:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:beta2:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:beta3:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:-:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:rc1:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:rc2:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.0:rc3:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.6.1:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.7.0:beta1:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.7.0:beta2:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.7.0:-:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:mail:3.7.1:*:*:*:*:nextcloud:*:*
