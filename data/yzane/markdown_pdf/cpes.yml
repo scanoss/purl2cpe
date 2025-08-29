@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:yzane:markdown_pdf:1.5.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:yzane:markdown_pdf:1.5.0:*:*:*:*:vscode:*:*

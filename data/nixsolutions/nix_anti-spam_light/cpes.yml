@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:nixsolutions:nix_anti-spam_light:0.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nixsolutions:nix_anti-spam_light:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nixsolutions:nix_anti-spam_light:-:*:*:*:*:wordpress:*:*

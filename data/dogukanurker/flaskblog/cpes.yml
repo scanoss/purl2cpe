@@ -36,3 +36,6 @@ cpes:
   - cpe:2.3:a:dogukanurker:flaskblog:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dogukanurker:flaskblog:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dogukanurker:flaskblog:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dogukanurker:flaskblog:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dogukanurker:flaskblog:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dogukanurker:flaskblog:2.8.1:*:*:*:*:*:*:*

@@ -1,4 +1,6 @@
 cpes:
   - cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyterlab:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyterlab:3.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyterlab:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyterlab:4.2.5:*:*:*:*:*:*:*

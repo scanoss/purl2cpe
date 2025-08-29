@@ -80,5 +80,6 @@ cpes:
   - cpe:2.3:a:openexr:openexr:3.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.3.2:*:*:*:*:*:*:*

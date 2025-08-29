@@ -479,6 +479,9 @@ cpes:
   - cpe:2.3:a:silverstripe:framework:5.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.14:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.4:*:*:*:*:*:*:*

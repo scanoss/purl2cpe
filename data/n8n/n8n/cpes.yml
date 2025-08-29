@@ -662,7 +662,16 @@ cpes:
   - cpe:2.3:a:n8n:n8n:1.89.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.89.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.89.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.90.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.90.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.90.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.91.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.91.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.9.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.9.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.9.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.98.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.98.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.99.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.99.1:*:*:*:*:node.js:*:*
