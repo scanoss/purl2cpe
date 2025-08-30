@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:gnu:savane:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:savane:3.13:*:*:*:*:*:*:*

@@ -110,6 +110,7 @@ cpes:
   - cpe:2.3:a:nghttp2:nghttp2:1.55.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.55.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.57.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.7.1:*:*:*:*:*:*:*

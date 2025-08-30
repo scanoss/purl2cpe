@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:x.org:xorg-server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:xorg-server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:xorg-server:1.01:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:xorg-server:1.02:*:*:*:*:*:*:*

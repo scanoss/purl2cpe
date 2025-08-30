@@ -116,3 +116,4 @@ cpes:
   - cpe:2.3:a:openmage:magento:20.0.8:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:20.0.9:*:*:*:lts:*:*:*
   - cpe:2.3:a:openmage:magento:*:*:*:*:lts:*:*:*
+  - cpe:2.3:a:openmage:magento:-:*:*:*:lts:*:*:*
