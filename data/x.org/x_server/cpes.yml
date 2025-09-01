@@ -273,6 +273,8 @@ cpes:
   - cpe:2.3:a:x.org:x_server:21.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:21.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:21.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_server:21.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_server:21.1.17:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:21.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:21.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:x.org:x_server:21.1.4:*:*:*:*:*:*:*

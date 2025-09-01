@@ -206,3 +206,4 @@ cpes:
   - cpe:2.3:a:tgstation13:tgstation-server:5.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tgstation13:tgstation-server:5.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tgstation13:tgstation-server:6.11.0:*:*:*:*:*:*:*

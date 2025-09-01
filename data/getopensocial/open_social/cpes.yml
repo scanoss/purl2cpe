@@ -261,3 +261,13 @@ cpes:
   - cpe:2.3:a:getopensocial:open_social:12.4.8:*:*:*:*:drupal:*:*
   - cpe:2.3:a:getopensocial:open_social:12.4.9:*:*:*:*:drupal:*:*
   - cpe:2.3:a:getopensocial:open_social:12:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha10:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha1:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha2:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha3:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha4:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha5:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha6:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha7:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha8:*:*:*:drupal:*:*
+  - cpe:2.3:a:getopensocial:open_social:13.0.0:alpha9:*:*:*:drupal:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pulseaudio:pulseaudio:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pulseaudio:pulseaudio:0.9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:pulseaudio:pulseaudio:0.9.14:*:*:*:*:*:*:*
   - cpe:2.3:a:pulseaudio:pulseaudio:0.9.19:*:*:*:*:*:*:*

@@ -60,6 +60,7 @@ cpes:
   - cpe:2.3:a:apache:ofbiz:18.12.17:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:18.12.19:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:24.09.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ofbiz:24.09.02:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:9.04:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:9.04.01:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:9.04.02:*:*:*:*:*:*:*

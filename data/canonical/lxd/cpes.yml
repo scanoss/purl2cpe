@@ -156,6 +156,7 @@ cpes:
   - cpe:2.3:a:canonical:lxd:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:5.0:candidate:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.11:*:*:*:*:*:*:*
@@ -170,6 +171,9 @@ cpes:
   - cpe:2.3:a:canonical:lxd:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.20:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:5.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:5.21:candidate:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:5.21:edge:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.5:*:*:*:*:*:*:*

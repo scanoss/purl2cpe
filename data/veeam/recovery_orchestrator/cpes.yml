@@ -4,3 +4,4 @@ cpes:
   - cpe:2.3:a:veeam:recovery_orchestrator:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:veeam:recovery_orchestrator:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:veeam:recovery_orchestrator:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:veeam:recovery_orchestrator:7.1:*:*:*:*:*:*:*

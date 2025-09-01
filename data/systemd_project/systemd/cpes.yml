@@ -275,6 +275,9 @@ cpes:
   - cpe:2.3:a:systemd_project:systemd:252.34:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252.35:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:252.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:252.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:252.39:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252.4:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252.5:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:252.6:*:*:*:*:*:*:*
@@ -319,6 +322,84 @@ cpes:
   - cpe:2.3:a:systemd_project:systemd:253:rc1:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:253:rc2:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:253:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254:-:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:254:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255:-:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:255:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256:-:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:256:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257:-:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:257:rc3:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:26:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:27:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:28:*:*:*:*:*:*:*

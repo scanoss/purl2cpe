@@ -314,5 +314,6 @@ cpes:
   - cpe:2.3:a:hazelcast:hazelcast:5.3.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.3.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.3.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:hazelcast:hazelcast:5.3.2:-:*:*:-:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:5.3.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:enterprise:*:*:*

@@ -59,3 +59,5 @@ cpes:
   - cpe:2.3:a:gardener:gardener:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.117.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.118.0:*:*:*:*:*:*:*

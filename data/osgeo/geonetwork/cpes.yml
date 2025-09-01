@@ -91,3 +91,4 @@ cpes:
   - cpe:2.3:a:osgeo:geonetwork:4.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geonetwork:4.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:geonetwork:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:geonetwork:4.4.0:*:*:*:*:*:*:*
