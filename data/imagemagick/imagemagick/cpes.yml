@@ -1052,6 +1052,9 @@ cpes:
   - cpe:2.3:a:imagemagick:imagemagick:6.9.12-89:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.9.12-9:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.9.1-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:6.9.13-26:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:6.9.13-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:6.9.13-28:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.9.1-4:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.9.1-5:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.9.1-6:*:*:*:*:*:*:*
@@ -1569,6 +1572,7 @@ cpes:
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-19:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-2:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:7.1.1-36:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-4:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-5:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.1-6:*:*:*:*:*:*:*
