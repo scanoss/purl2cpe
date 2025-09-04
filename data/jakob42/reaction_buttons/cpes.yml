@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:jakob42:reaction_buttons:2.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jakob42:reaction_buttons:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jakob42:reaction_buttons:-:*:*:*:*:wordpress:*:*

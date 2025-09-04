@@ -126,6 +126,10 @@ cpes:
   - cpe:2.3:a:metersphere:metersphere:2.10.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.10:-:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.10:rc:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.11:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.12:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.13:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.14:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.3:*:*:*:lts:*:*:*
