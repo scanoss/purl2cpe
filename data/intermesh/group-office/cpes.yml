@@ -16,7 +16,12 @@ cpes:
   - cpe:2.3:a:intermesh:group-office:25.0.18:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.19:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.25:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.5:*:*:*:*:*:*:*
@@ -617,6 +622,7 @@ cpes:
   - cpe:2.3:a:intermesh:group-office:6.8.120:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:6.8.121:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:6.8.122:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:6.8.123:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:6.8.13:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:6.8.14:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:6.8.15:*:*:*:*:*:*:*

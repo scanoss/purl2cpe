@@ -472,6 +472,8 @@ cpes:
   - cpe:2.3:a:silverstripe:framework:5.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.11:*:*:*:*:*:*:*
@@ -482,7 +484,11 @@ cpes:
   - cpe:2.3:a:silverstripe:framework:5.2.16:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.5:*:*:*:*:*:*:*
@@ -490,3 +496,29 @@ cpes:
   - cpe:2.3:a:silverstripe:framework:5.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:silverstripe:framework:5.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:silverstripe:framework:5.3.9:*:*:*:*:*:*:*

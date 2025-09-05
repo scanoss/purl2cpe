@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mahara:mahara:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mahara:mahara:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mahara:mahara:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mahara:mahara:0.9.1:*:*:*:*:*:*:*

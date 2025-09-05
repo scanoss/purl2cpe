@@ -165,8 +165,10 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:16.9-1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9-2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9-3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.9-5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9.99.1750843170:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9.99.1751892857:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.9.99.1752585665:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.11:*:*:*:*:*:*:*

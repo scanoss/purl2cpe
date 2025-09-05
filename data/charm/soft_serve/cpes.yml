@@ -27,5 +27,14 @@ cpes:
   - cpe:2.3:a:charm:soft_serve:0.5.5:*:*:*:*:go:*:*
   - cpe:2.3:a:charm:soft_serve:0.6.0:*:*:*:*:go:*:*
   - cpe:2.3:a:charm:soft_serve:0.6.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.6.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.7.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.8.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:charm:soft_serve:0.8.1:*:*:*:*:go:*:*
   - cpe:2.3:a:charm:soft_serve:*:*:*:*:*:go:*:*
   - cpe:2.3:a:charm:soft_serve:-:*:*:*:*:go:*:*

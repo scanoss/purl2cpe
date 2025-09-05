@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cyberpanel:cyberpanel:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cyberpanel:cyberpanel:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cyberpanel:cyberpanel:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cyberpanel:cyberpanel:1.7.2:*:*:*:*:*:*:*
@@ -30,3 +31,4 @@ cpes:
   - cpe:2.3:a:cyberpanel:cyberpanel:2.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:cyberpanel:cyberpanel:2.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cyberpanel:cyberpanel:2.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cyberpanel:cyberpanel:2.3.8:*:*:*:*:*:*:*

@@ -130,7 +130,17 @@ cpes:
   - cpe:2.3:a:metersphere:metersphere:2.10.12:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.13:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.14:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.15:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.16:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.18:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.19:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.20:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.21:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.22:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.23:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:2.10.24:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.10.4:*:*:*:lts:*:*:*
@@ -161,5 +171,10 @@ cpes:
   - cpe:2.3:a:metersphere:metersphere:2.9.0:-:*:*:*:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.9.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:metersphere:metersphere:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:3.6.0:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:3.6.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:3.6.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:3.6.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:metersphere:metersphere:3.6.4:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:*:*:*:*:lts:*:*:*
   - cpe:2.3:a:metersphere:metersphere:-:*:*:*:lts:*:*:*

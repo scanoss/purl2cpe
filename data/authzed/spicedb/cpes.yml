@@ -78,7 +78,19 @@ cpes:
   - cpe:2.3:a:authzed:spicedb:1.36.2:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.36.3:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:authzed:spicedb:1.44.0:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:authzed:spicedb:1.7.0:*:*:*:*:*:*:*

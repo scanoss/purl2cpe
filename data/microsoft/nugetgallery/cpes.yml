@@ -37,4 +37,10 @@ cpes:
   - cpe:2.3:a:microsoft:nugetgallery:2019.01.14:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2019.06.24:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2020.06.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2021.04.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2022.10.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2023.02.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2023.04.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2024.05.28:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2024.06.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2024.09.25:*:*:*:*:*:*:*
