@@ -1,5 +1,61 @@
 cpes:
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.7.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.7.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.7.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.7.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.7.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.100.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.101.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.102.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.103.0:*:*:*:*:*:*:*
@@ -11,6 +67,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.108.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.108.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.109.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.110.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.110.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.111.0:*:*:*:*:*:*:*
@@ -22,6 +79,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.117.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.118.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.119.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.120.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.121.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.122.0:*:*:*:*:*:*:*
@@ -32,7 +90,9 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.127.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.128.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.129.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.130.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.131.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.132.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.133.0:*:*:*:*:*:*:*
@@ -44,6 +104,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.138.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.138.2:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.139.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.140.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.141.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.142.0:*:*:*:*:*:*:*
@@ -54,6 +115,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.147.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.148.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.149.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.150.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.151.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.152.0:*:*:*:*:*:*:*
@@ -66,9 +128,13 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.157.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.158.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.159.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.160.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.161.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.162.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.163.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.163.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.163.2:*:*:*:*:*:*:*
@@ -78,8 +144,10 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.167.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.168.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.169.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.170.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.170.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.171.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.172.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.173.0:*:*:*:*:*:*:*
@@ -89,6 +157,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.177.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.178.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.179.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.180.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.181.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.181.1:*:*:*:*:*:*:*
@@ -102,6 +171,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.187.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.188.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.189.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.190.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.191.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.192.0:*:*:*:*:*:*:*
@@ -113,12 +183,67 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.198.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.198.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.199.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.200.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.201.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.202.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.203.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.204.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.49.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.56.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.57.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.58.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.61.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.61.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.62.0:*:*:*:*:*:*:*
@@ -130,6 +255,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.67.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.69.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.70.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.71.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.72.0:*:*:*:*:*:*:*
@@ -140,6 +266,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.77.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.78.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.79.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.80.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.81.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.82.0:*:*:*:*:*:*:*
@@ -151,6 +278,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.87.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.88.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.89.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.90.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.90.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:1.91.0:*:*:*:*:*:*:*
@@ -317,4 +445,12 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.79.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.79.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.80.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.83.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.86.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.9.0:*:*:*:*:*:*:*

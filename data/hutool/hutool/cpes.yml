@@ -168,6 +168,7 @@ cpes:
   - cpe:2.3:a:hutool:hutool:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.20:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:hutool:hutool:5.8.22:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.23:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hutool:hutool:5.8.4:*:*:*:*:*:*:*

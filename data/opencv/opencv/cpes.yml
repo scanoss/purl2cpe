@@ -97,3 +97,6 @@ cpes:
   - cpe:2.3:a:opencv:opencv:4.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opencv:opencv:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opencv:opencv:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencv:opencv:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencv:opencv:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opencv:opencv:4.9.0:*:*:*:*:*:*:*

@@ -99,6 +99,34 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.0:rc6:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.11.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.2.1:-:*:*:*:*:*:*
