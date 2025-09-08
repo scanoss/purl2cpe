@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:ablyperu:svg_uploads_support:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ablyperu:svg_uploads_support:*:*:*:*:*:wordpress:*:*

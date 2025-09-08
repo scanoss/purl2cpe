@@ -108,6 +108,52 @@ cpes:
   - cpe:2.3:o:openbsd:openbsd:7.4:errata_020:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:7.4:errata_021:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:7.4:errata_022:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:-:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_001:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_002:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_003:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_004:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_005:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_006:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_007:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_008:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_009:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_010:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_011:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_012:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_013:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_014:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_015:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_016:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_017:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_018:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_019:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_020:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_021:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_022:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_023:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_024:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.5:errata_025:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:-:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_001:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_002:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_003:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_004:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_005:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_006:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_007:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_008:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_009:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_010:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_011:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_012:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_013:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_016:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_017:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_018:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_019:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_020:*:*:*:*:*:*
+  - cpe:2.3:o:openbsd:openbsd:7.6:errata_021:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:8.0:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:current:*:*:*:*:*:*:*
   - cpe:2.3:o:openbsd:openbsd:errata_001:*:*:*:*:*:*:*

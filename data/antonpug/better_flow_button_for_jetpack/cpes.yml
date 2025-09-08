@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:antonpug:better_flow_button_for_jetpack:8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:antonpug:better_flow_button_for_jetpack:*:*:*:*:*:wordpress:*:*

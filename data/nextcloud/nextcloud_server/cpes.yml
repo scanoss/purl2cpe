@@ -667,12 +667,20 @@ cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.0:rc2:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:-:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:rc1:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:rc1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:rc2:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.10:rc2:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:-:*:*:-:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc1:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc2:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc2:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc3:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.11:rc3:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.2:*:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:27.1.2:rc1:*:*:-:*:*:*

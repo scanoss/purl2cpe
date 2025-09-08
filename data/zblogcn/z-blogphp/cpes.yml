@@ -25,4 +25,5 @@ cpes:
   - cpe:2.3:a:zblogcn:z-blogphp:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zblogcn:z-blogphp:1.6.1.2100:*:*:*:*:*:*:*
   - cpe:2.3:a:zblogcn:z-blogphp:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zblogcn:z-blogphp:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zblogcn:z-blogphp:2.0.0:*:*:*:*:*:*:*

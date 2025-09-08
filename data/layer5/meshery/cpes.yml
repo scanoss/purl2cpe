@@ -381,3 +381,4 @@ cpes:
   - cpe:2.3:a:layer5:meshery:0.6.97:*:*:*:*:*:*:*
   - cpe:2.3:a:layer5:meshery:0.6.98:*:*:*:*:*:*:*
   - cpe:2.3:a:layer5:meshery:0.6.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:layer5:meshery:0.7.51:*:*:*:*:*:*:*
