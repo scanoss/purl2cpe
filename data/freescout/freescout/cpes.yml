@@ -221,6 +221,9 @@ cpes:
   - cpe:2.3:a:freescout:freescout:1.8.180:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.181:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.182:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.183:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.184:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.185:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.19:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.20:*:*:*:*:*:*:*

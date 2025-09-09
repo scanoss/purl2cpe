@@ -31,3 +31,4 @@ cpes:
   - cpe:2.3:a:jenkins:credentials_binding:1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:523.vd859a_4b_122e6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:687.689.v1a_f775332fc:*:*:*:*:jenkins:*:*

@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.1.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.2.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:374.v194b_d4f0c8c8:*:*:*:*:jenkins:*:*
