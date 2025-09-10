@@ -72,6 +72,22 @@ cpes:
   - cpe:2.3:a:navidrome:navidrome:0.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.50.1:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.52.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.53.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.53.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.54.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.54.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.54.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.54.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.54.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.55.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:navidrome:navidrome:0.55.2:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:navidrome:navidrome:0.6.2:*:*:*:*:*:*:*

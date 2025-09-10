@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:adacore:ada_web_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:adacore:ada_web_server:25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:adacore:ada_web_server:25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:adacore:ada_web_server:25.2:*:*:*:*:*:*:*

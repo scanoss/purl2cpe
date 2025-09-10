@@ -386,3 +386,4 @@ cpes:
   - cpe:2.3:a:vitejs:vite:5.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:5.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:5.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:*:*:*:*:*:node.js:*:*

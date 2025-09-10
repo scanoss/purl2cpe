@@ -193,6 +193,11 @@ cpes:
   - cpe:2.3:a:netty:netty:4.1.118:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.119:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.120:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.121:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.122:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.123:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.124:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.15:*:*:*:*:*:*:*
@@ -288,6 +293,7 @@ cpes:
   - cpe:2.3:a:netty:netty:4.1.97:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.98:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.2.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.2.0:alpha3:*:*:*:*:*:*
@@ -299,6 +305,10 @@ cpes:
   - cpe:2.3:a:netty:netty:4.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.2.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.2.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:5.0.0.alpha1:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:5.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:5.0.0.alpha2:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:dootask:dootask:0.30.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.0.51:*:*:*:*:*:*:*

@@ -297,13 +297,43 @@ cpes:
   - cpe:2.3:a:contao:contao:4.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.20:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.27:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.29:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.39:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.48:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.49:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.53:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.55:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.8:*:*:*:*:*:*:*
@@ -536,6 +566,13 @@ cpes:
   - cpe:2.3:a:contao:contao:5.3.29:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.37:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.6:*:*:*:*:*:*:*
@@ -543,8 +580,46 @@ cpes:
   - cpe:2.3:a:contao:contao:5.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.0:rc3:*:*:*:*:*:*

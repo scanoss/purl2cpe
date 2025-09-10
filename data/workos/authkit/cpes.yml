@@ -1,2 +1,36 @@
 cpes:
+  - cpe:2.3:a:workos:authkit:0.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.1.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.1.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.1.0:rc1:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.1.0:rc2:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.1.0:rc3:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.11.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.11.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.12.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.12.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.12.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.13.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.3.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.3.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:workos:authkit:0.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:workos:authkit:*:*:*:*:*:node.js:*:*
