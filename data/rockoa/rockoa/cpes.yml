@@ -42,4 +42,9 @@ cpes:
   - cpe:2.3:a:rockoa:rockoa:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:1.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rockoa:rockoa:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rockoa:rockoa:2.6.9:*:*:*:*:*:*:*

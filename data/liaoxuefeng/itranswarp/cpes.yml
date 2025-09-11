@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:liaoxuefeng:itranswarp:*:*:*:*:*:*:*:*
   - cpe:2.3:a:liaoxuefeng:itranswarp:2.19:*:*:*:*:*:*:*

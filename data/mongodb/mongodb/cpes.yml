@@ -1,10 +1,12 @@
 cpes:
   - cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:*:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:0.0.1:internal_preview0:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.0.1:internal_preview1:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.1.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.1.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:mongodb:mongodb:0.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:0.2.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.2.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.3.0:*:*:*:*:visual_studio_code:*:*
@@ -550,4 +552,6 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:7.3.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:8.0.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:8.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:*:*:*:*:enterprise:*:*:*
