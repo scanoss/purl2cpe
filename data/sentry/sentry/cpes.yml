@@ -122,8 +122,15 @@ cpes:
   - cpe:2.3:a:sentry:sentry:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.4.3:*:*:*:*:*:*:*
@@ -139,9 +146,14 @@ cpes:
   - cpe:2.3:a:sentry:sentry:24.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:24.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:24.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:25.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:25.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:25.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:25.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.6.2:*:*:*:*:*:*:*
