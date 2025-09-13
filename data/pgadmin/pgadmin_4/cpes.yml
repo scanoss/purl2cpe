@@ -109,5 +109,12 @@ cpes:
   - cpe:2.3:a:pgadmin:pgadmin_4:8.8:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin_4:8.9:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin_4:9.0:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.1:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.2:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.3:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.4:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.5:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.6:*:*:*:*:postgresql:*:*
+  - cpe:2.3:a:pgadmin:pgadmin_4:9.7:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin_4:*:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgadmin:pgadmin_4:-:*:*:*:*:postgresql:*:*

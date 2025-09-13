@@ -86,6 +86,7 @@ cpes:
   - cpe:2.3:a:phpseclib:phpseclib:3.0.23:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpseclib:phpseclib:3.0.34:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:phpseclib:phpseclib:3.0.6:*:*:*:*:*:*:*

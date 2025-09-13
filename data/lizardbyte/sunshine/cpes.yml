@@ -1,4 +1,43 @@
 cpes:
   - cpe:2.3:a:lizardbyte:sunshine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lizardbyte:sunshine:2024-05-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:2025.118.151840:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizardbyte:sunshine:2025.122.141614:*:*:*:*:*:*:*
   - cpe:2.3:a:lizardbyte:sunshine:2025.628.4510:*:*:*:*:*:*:*

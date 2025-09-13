@@ -78,3 +78,4 @@ cpes:
   - cpe:2.3:a:jasper_project:jasper:4.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:jasper_project:jasper:4.1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:jasper_project:jasper:4.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:jasper_project:jasper:4.1.2:*:*:*:*:*:*:*

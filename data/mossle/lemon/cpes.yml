@@ -6,6 +6,9 @@ cpes:
   - cpe:2.3:a:mossle:lemon:1.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mossle:lemon:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mossle:lemon:1.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mossle:lemon:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mossle:lemon:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mossle:lemon:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mossle:lemon:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mossle:lemon:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mossle:lemon:1.3.1:*:*:*:*:*:*:*
