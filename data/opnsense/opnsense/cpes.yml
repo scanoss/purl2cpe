@@ -223,4 +223,5 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:23.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:8.1.13:*:*:*:*:*:*:*

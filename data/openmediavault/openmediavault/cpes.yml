@@ -4,3 +4,4 @@ cpes:
   - cpe:2.3:a:openmediavault:openmediavault:4.1.36:*:*:*:*:*:*:*
   - cpe:2.3:a:openmediavault:openmediavault:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openmediavault:openmediavault:5.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmediavault:openmediavault:7.4.17:*:*:*:*:*:*:*

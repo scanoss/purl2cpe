@@ -106,4 +106,17 @@ cpes:
   - cpe:2.3:a:uatech:badaso:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uatech:badaso:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:uatech:badaso:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:uatech:badaso:2.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:uatech:badaso:2.9.7:*:*:*:*:*:*:*

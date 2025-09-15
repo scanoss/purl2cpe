@@ -70,3 +70,4 @@ cpes:
   - cpe:2.3:a:binary-husky:gpt_academic:3.90:*:*:*:*:*:*:*
   - cpe:2.3:a:binary-husky:gpt_academic:3.90:-:*:*:*:*:*:*
   - cpe:2.3:a:binary-husky:gpt_academic:3.90:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:binary-husky:gpt_academic:3.91:*:*:*:*:*:*:*

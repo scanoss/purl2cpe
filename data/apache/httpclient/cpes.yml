@@ -59,3 +59,15 @@ cpes:
   - cpe:2.3:a:apache:httpclient:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:httpclient:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:httpclient:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:alpha1-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:alpha2-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:beta1-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.4:rc1:*:*:*:*:*:*

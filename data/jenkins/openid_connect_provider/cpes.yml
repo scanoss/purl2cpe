@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jenkins:openid_connect_provider:96.vee8ed882ec4d:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:openid_connect_provider:*:*:*:*:*:jenkins:*:*

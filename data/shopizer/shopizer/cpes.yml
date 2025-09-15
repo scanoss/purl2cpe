@@ -24,3 +24,4 @@ cpes:
   - cpe:2.3:a:shopizer:shopizer:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopizer:shopizer:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopizer:shopizer:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:3.2.7:*:*:*:*:*:*:*

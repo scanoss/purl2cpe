@@ -175,3 +175,5 @@ cpes:
   - cpe:2.3:a:gleamtech:filevista:8.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gleamtech:filevista:8.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gleamtech:filevista:8.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleamtech:filevista:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleamtech:filevista:9.2.0.0:*:*:*:*:*:*:*

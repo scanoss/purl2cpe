@@ -473,3 +473,4 @@ cpes:
   - cpe:2.3:a:nasm:netwide_assembler:2.16:rc7:*:*:*:*:*:*
   - cpe:2.3:a:nasm:netwide_assembler:2.16:rc8:*:*:*:*:*:*
   - cpe:2.3:a:nasm:netwide_assembler:2.16:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:nasm:netwide_assembler:2.17:rc0:*:*:*:*:*:*

@@ -95,3 +95,4 @@ cpes:
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update165:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update166:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update167:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:-:*:*:*:*:*:*

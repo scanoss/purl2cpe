@@ -87,3 +87,4 @@ cpes:
   - cpe:2.3:a:axios:axios:1.7.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:axios:axios:1.7.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:axios:axios:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:axios:axios:-:*:*:*:*:node.js:*:*

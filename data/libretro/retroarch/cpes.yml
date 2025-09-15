@@ -43,7 +43,10 @@ cpes:
   - cpe:2.3:a:libretro:retroarch:0.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:0.9:rc3:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:1.0.0.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:libretro:retroarch:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libretro:retroarch:1.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libretro:retroarch:1.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libretro:retroarch:1.3:*:*:*:*:*:*:*

@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:zoneland:o2oa:10.0-410:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneland:o2oa:2024-05-05:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneland:o2oa:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneland:o2oa:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneland:o2oa:5.0.2:*:*:*:*:*:*:*
