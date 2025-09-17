@@ -52,3 +52,7 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:755:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:773:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:774:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:776:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:778:*:*:*:*:*:*:*

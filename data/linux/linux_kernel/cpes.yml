@@ -3562,6 +3562,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:4.20:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.20:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.20:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:4.20:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:4.20:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.2.3:*:*:*:*:*:*:*

@@ -762,3 +762,4 @@ cpes:
   - cpe:2.3:a:signal:signal:5.44:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:signal:signal:5.46:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:signal:signal:5.47:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:signal:signal:7.41.4:*:*:*:*:android:*:*

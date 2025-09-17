@@ -1,4 +1,12 @@
 cpes:
   - cpe:2.3:a:openam:openam:14.0.0:*:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:-:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m1:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m2:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m3:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m4:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m5:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.0:m6:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:14.0.1:*:*:*:consortium:*:*:*
   - cpe:2.3:a:openam:openam:4.1.0:*:*:*:consortium:*:*:*
   - cpe:2.3:a:openam:openam:*:*:*:*:consortium:*:*:*

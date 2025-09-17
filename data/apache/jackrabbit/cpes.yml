@@ -81,6 +81,7 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.20.14:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.15:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.20.17:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.4:*:*:*:*:*:*:*
@@ -102,8 +103,18 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.21.15:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.21.16:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.21.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.19:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.21.27:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.21.4:*:*:*:*:*:*:*
@@ -114,6 +125,7 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.21.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.4:*:*:*:*:*:*:*
