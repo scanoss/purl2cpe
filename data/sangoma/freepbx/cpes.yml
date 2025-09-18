@@ -1013,6 +1013,7 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:15.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.12:*:*:*:*:*:*:*
@@ -1024,6 +1025,7 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:15.0.3.18:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.32:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.20:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.21:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.22:*:*:*:*:*:*:*
@@ -1033,11 +1035,26 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:15.0.3.26:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.27:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.33:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.34:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.35:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.36:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.37.9:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:15.0.38:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.5:*:*:*:*:*:*:*
@@ -1122,6 +1139,7 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:15.0.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:15.0.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.10.10:*:*:*:*:*:*:*
@@ -1246,6 +1264,27 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:16.0.39:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.40.9:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.41:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.42:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.43:*:*:*:*:*:*:*
@@ -1350,6 +1389,130 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:16.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.14.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.15.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.19.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:1805:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:1904:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:1910:*:*:*:*:*:*:*

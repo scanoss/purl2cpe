@@ -13,4 +13,30 @@ cpes:
   - cpe:2.3:a:mongodb:rust_driver:2.0.0:alpha1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:rust_driver:2.0.0:alpha:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:rust_driver:2.0.0:beta1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.0.0:beta2:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.0.0:beta3:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:rust_driver:2.0.0:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.0.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.0.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.0.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.1.0:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.1.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.2.0:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.2.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.2.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.2.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.2.3:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.3.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.3.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.4.0:beta2:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.4.0:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.4.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.5.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.6.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.6.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.7.0:beta1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.7.0:beta:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.7.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.7.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.8.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:2.8.1:*:*:*:*:mongodb:*:*
