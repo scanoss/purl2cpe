@@ -5,6 +5,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:dragonfly:0.4.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:0.5.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.10:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.1:alpha0:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.1:alpha10:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.1:alpha1:*:*:*:go:*:*
@@ -152,4 +153,24 @@ cpes:
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.8:rc1:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.8:rc2:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.8:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha10:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha5:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha6:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha7:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha8:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:alpha9:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:beta2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:beta3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:beta4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc2:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:-:*:*:*:*:go:*:*

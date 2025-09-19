@@ -484,6 +484,7 @@ cpes:
   - cpe:2.3:a:samba:samba:4.19.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.19.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.0:rc1:*:*:*:*:*:*
@@ -492,10 +493,20 @@ cpes:
   - cpe:2.3:a:samba:samba:4.2.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:samba:4.21.5:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:samba:4.2.4:*:*:*:*:*:*:*

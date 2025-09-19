@@ -3098,6 +3098,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:4.15:rc5:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.15:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.15:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:4.15:rc8:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:4.15:rc9:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.1.6:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.16:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:4.16:-:*:*:*:*:*:*
