@@ -1,6 +1,47 @@
 cpes:
   - cpe:2.3:a:nvidia:triton_inference_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:19.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:20.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:22.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:23.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:24.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:25.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:25.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:25.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:25.04:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:25.05:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:25.06:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:25.07:*:*:*:*:*:*:*

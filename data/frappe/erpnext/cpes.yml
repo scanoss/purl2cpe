@@ -363,6 +363,7 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:14.0.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.74.3:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.57.5:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.2:*:*:*:*:*:*:*

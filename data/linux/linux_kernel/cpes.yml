@@ -1976,6 +1976,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.15:rc2:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.15:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.15:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.15:rc5:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.15:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.15:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.15:rc8:*:*:*:*:*:*

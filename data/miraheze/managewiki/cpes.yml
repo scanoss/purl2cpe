@@ -1,4 +1,9 @@
 cpes:
   - cpe:2.3:a:miraheze:managewiki:-:*:*:*:*:*:*:*
   - cpe:2.3:a:miraheze:managewiki:2021-04-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:miraheze:managewiki:2021-04-28:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:miraheze:managewiki:2024-02-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:miraheze:managewiki:2024-02-09:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:miraheze:managewiki:2025-04-20:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:miraheze:managewiki:2025-04-21:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:miraheze:managewiki:-:*:*:*:*:mediawiki:*:*
