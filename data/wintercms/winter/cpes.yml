@@ -156,9 +156,11 @@ cpes:
   - cpe:2.3:a:wintercms:winter:1.0.473:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.0.474:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.0.475:*:*:*:*:*:*:*
+  - cpe:2.3:a:wintercms:winter:1.0.476:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:wintercms:winter:1.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wintercms:winter:1.1.4:*:*:*:*:*:*:*

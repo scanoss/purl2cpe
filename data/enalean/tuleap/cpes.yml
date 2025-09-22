@@ -120,6 +120,7 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:15.9.99.97:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:15.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.0-7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1-4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1.99.50:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1:*:*:*:enterprise:*:*:*
