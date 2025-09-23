@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.47:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.4:*:*:*:*:*:*:*

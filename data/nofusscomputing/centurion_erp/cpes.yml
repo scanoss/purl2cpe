@@ -30,3 +30,4 @@ cpes:
   - cpe:2.3:a:nofusscomputing:centurion_erp:1.0.0:beta9:*:*:*:*:*:*
   - cpe:2.3:a:nofusscomputing:centurion_erp:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nofusscomputing:centurion_erp:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nofusscomputing:centurion_erp:1.2.1:*:*:*:*:*:*:*

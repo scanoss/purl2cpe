@@ -418,3 +418,4 @@ cpes:
   - cpe:2.3:a:lobehub:lobe_chat:0.98.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lobehub:lobe_chat:0.99.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lobehub:lobe_chat:0.99.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lobehub:lobe_chat:1.19.3:*:*:*:*:*:*:*

@@ -19,3 +19,4 @@ cpes:
   - cpe:2.3:a:irontec:sngrep:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:irontec:sngrep:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:irontec:sngrep:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:irontec:sngrep:1.8.1:*:*:*:*:*:*:*

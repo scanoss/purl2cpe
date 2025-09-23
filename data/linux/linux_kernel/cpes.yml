@@ -1858,6 +1858,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.12.9:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.1.3:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.13:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13.10:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13.11:*:*:*:*:*:*:*
@@ -1870,6 +1871,9 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.13.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13.9:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.13:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.13:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.13:rc8:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.1.4:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.14:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.14.1:*:*:*:*:*:*:*
@@ -2519,6 +2523,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.7.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.7.9:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8.10:*:*:*:*:*:*:*
@@ -2533,6 +2538,12 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:3.8.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:3.8:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.9:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.9:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:3.9.0:*:*:*:*:*:*:*
@@ -5016,6 +5027,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:5.1.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17:-:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:5.17.0:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17.10:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:5.17.11:*:*:*:*:*:*:*

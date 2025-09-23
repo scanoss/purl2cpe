@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:oracle:opengrok:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:opengrok:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:opengrok:1.13.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:opengrok:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:opengrok:1.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:oracle:opengrok:1.1:rc10:*:*:*:*:*:*
   - cpe:2.3:a:oracle:opengrok:1.1:rc11:*:*:*:*:*:*
