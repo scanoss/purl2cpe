@@ -54,3 +54,6 @@ cpes:
   - cpe:2.3:a:hallowelt:bluespice:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hallowelt:bluespice:4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hallowelt:bluespice:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hallowelt:bluespice:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hallowelt:bluespice:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hallowelt:bluespice:5.1.1:*:*:*:*:*:*:*

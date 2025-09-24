@@ -119,6 +119,8 @@ cpes:
   - cpe:2.3:a:gofiber:fiber:2.52.4:*:*:*:*:go:*:*
   - cpe:2.3:a:gofiber:fiber:2.52.5:*:*:*:*:go:*:*
   - cpe:2.3:a:gofiber:fiber:2.52.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:gofiber:fiber:2.52.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:gofiber:fiber:2.52.8:*:*:*:*:go:*:*
   - cpe:2.3:a:gofiber:fiber:2.6.0:*:*:*:*:go:*:*
   - cpe:2.3:a:gofiber:fiber:2.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:gofiber:fiber:2.7.1:*:*:*:*:go:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:group-office:group_office:*:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.85:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.87:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.88:*:*:*:*:*:*:*
@@ -503,9 +504,11 @@ cpes:
   - cpe:2.3:a:group-office:group_office:6.8.29:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.31:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.99:*:*:*:*:*:*:*

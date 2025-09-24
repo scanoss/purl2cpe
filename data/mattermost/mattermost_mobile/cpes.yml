@@ -118,7 +118,16 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_mobile:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:2.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_mobile:2.5.0:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:mattermost:confluence:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:confluence:*:*:*:*:*:mattermost:*:*

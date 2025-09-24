@@ -25,4 +25,5 @@ cpes:
   - cpe:2.3:a:csphere:clansphere:2009.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:csphere:clansphere:2009.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:csphere:clansphere:2010.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:csphere:clansphere:2011.3:*:*:*:*:*:*:*
   - cpe:2.3:a:csphere:clansphere:2011.4:*:*:*:*:*:*:*
