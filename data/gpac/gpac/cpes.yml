@@ -52,10 +52,13 @@ cpes:
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev40-g3602a5ded:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev566-g50c2ab06f-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev573-g201320819-master:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:2.3-dev-rev588-g7edc40fee-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev602-ged8424300-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev605-gfc9e29089-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev617-g671976fcc-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.3-dev-rev636-gfbd7e13aa-master:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:2.3-dev-rev921-g422b78ecf-master:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.4-rev0-g5d70253ac-head:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.5-dev-rev288-g11067ea92-master:*:*:*:*:*:*:*

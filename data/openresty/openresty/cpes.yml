@@ -99,7 +99,9 @@ cpes:
   - cpe:2.3:a:openresty:openresty:1.19.3.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.19.3.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.19.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.19.9.1:-:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.19.9.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.19.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.13:*:*:*:*:*:*:*
@@ -112,6 +114,7 @@ cpes:
   - cpe:2.3:a:openresty:openresty:1.21.4.2:-:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.21.4.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.21.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.21.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.1.9:*:*:*:*:*:*:*
@@ -125,9 +128,11 @@ cpes:
   - cpe:2.3:a:openresty:openresty:1.2.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.24.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:openresty:openresty:1.25.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:1.2.6.5:*:*:*:*:*:*:*
