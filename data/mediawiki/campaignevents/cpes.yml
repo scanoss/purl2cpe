@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:mediawiki:campaignevents:*:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:campaignevents:-:*:*:*:*:mediawiki:*:*

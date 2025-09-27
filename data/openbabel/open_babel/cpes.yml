@@ -1,2 +1,19 @@
 cpes:
+  - cpe:2.3:a:openbabel:open_babel:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:3.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:3.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:openbabel:open_babel:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openbabel:open_babel:3.1.1:*:*:*:*:*:*:*

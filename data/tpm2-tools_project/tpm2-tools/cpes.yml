@@ -66,12 +66,14 @@ cpes:
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.1:-:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1:rc0:*:*:*:*:*:*

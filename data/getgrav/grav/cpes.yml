@@ -276,6 +276,8 @@ cpes:
   - cpe:2.3:a:getgrav:grav:1.7.43:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.44:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.47:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.48:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.6:*:*:*:*:*:*:*

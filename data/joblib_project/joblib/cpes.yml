@@ -52,4 +52,5 @@ cpes:
   - cpe:2.3:a:joblib_project:joblib:1.0.1:*:*:*:*:python:*:*
   - cpe:2.3:a:joblib_project:joblib:1.1.0:*:*:*:*:python:*:*
   - cpe:2.3:a:joblib_project:joblib:1.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:joblib_project:joblib:1.4.2:*:*:*:*:python:*:*
   - cpe:2.3:a:joblib_project:joblib:*:*:*:*:*:python:*:*
