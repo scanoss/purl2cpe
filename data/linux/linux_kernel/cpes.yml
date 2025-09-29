@@ -5874,6 +5874,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.12.12:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.13:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.12.15:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.16:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.17:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.18:*:*:*:*:*:*:*
@@ -5910,6 +5911,9 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.12.43:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.44:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.45:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.12.46:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.12.47:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.12.48:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.25:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.12.5:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.26:*:*:*:*:*:*:*
@@ -6033,8 +6037,11 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.1.65:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.16.5:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.66:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.16.6:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.67:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.16.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.68:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.16.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.69:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.16:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.16:rc2:*:*:*:*:*:*
@@ -6059,6 +6066,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.17:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.17:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.17:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.17:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.17:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.8:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.80:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.81:*:*:*:*:*:*:*
