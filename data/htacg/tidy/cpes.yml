@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:htacg:tidy:5.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:htacg:tidy:5.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:htacg:tidy:5.7.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.8.0:*:*:*:*:*:*:*

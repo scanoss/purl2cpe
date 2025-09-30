@@ -191,6 +191,12 @@ cpes:
   - cpe:2.3:a:monkeytype:monkeytype:24.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.31.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.31.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:24.32.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.5.0:*:*:*:*:*:*:*

@@ -44,5 +44,11 @@ cpes:
   - cpe:2.3:a:mruby:mruby:3.1.0:rc:*:*:*:ruby:*:*
   - cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:mruby:mruby:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mruby:mruby:3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:mruby:mruby:3.3.0:rc2:*:*:*:ruby:*:*
+  - cpe:2.3:a:mruby:mruby:3.3.0:rc:*:*:*:ruby:*:*
+  - cpe:2.3:a:mruby:mruby:3.3.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:mruby:mruby:3.4.0:rc2:*:*:*:ruby:*:*
+  - cpe:2.3:a:mruby:mruby:3.4.0:rc:*:*:*:ruby:*:*
   - cpe:2.3:a:mruby:mruby:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:mruby:mruby:-:*:*:*:*:ruby:*:*

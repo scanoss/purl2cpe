@@ -58,7 +58,38 @@ cpes:
   - cpe:2.3:a:pi-hole:pi-hole:4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.2.2:*:*:*:*:*:*:*
@@ -70,3 +101,8 @@ cpes:
   - cpe:2.3:a:pi-hole:pi-hole:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:5.9.1:*:*:*:*:*:*:*
