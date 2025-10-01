@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:group-office:group_office:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.85:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.87:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.88:*:*:*:*:*:*:*

@@ -122,3 +122,4 @@ cpes:
   - cpe:2.3:a:webmin:usermin:1.853:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:usermin:2.000:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:usermin:2.001:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:usermin:2.100:*:*:*:*:*:*:*
