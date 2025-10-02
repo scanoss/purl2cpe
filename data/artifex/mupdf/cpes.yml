@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.8:*:*:*:*:*:*:*
@@ -104,6 +105,9 @@ cpes:
   - cpe:2.3:a:artifex:mupdf:1.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.26.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:mupdf:1.26.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:mupdf:1.26.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:mupdf:1.26.6:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:-:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:1.3:rc1:*:*:*:*:*:*

@@ -3,6 +3,31 @@ cpes:
   - cpe:2.3:a:openmicroscopy:omero-web:5.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openmicroscopy:omero-web:5.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openmicroscopy:omero-web:5.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero-web:5.29.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openmicroscopy:omero-web:5.5:dev1:*:*:*:*:*:*
   - cpe:2.3:a:openmicroscopy:omero-web:5.5:dev2:*:*:*:*:*:*
   - cpe:2.3:a:openmicroscopy:omero-web:5.6.0:*:*:*:*:*:*:*

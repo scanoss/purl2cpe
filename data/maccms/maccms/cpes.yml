@@ -101,6 +101,7 @@ cpes:
   - cpe:2.3:a:maccms:maccms:10.0:2024.1000.3000:*:*:*:*:*:*
   - cpe:2.3:a:maccms:maccms:10.0:2024.1000.4040:*:*:*:*:*:*
   - cpe:2.3:a:maccms:maccms:10.0:2025.1000.4047:*:*:*:*:*:*
+  - cpe:2.3:a:maccms:maccms:10.0:2025.1000.4050:*:*:*:*:*:*
   - cpe:2.3:a:maccms:maccms:7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:maccms:maccms:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:maccms:maccms:8.0:-:*:*:*:*:*:*

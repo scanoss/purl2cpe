@@ -70,7 +70,10 @@ cpes:
   - cpe:2.3:a:algolia:algoliasearch-helper:2.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:2.9.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.11.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.1.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.2.0:*:*:*:*:node.js:*:*
@@ -95,4 +98,14 @@ cpes:
   - cpe:2.3:a:algolia:algoliasearch-helper:3.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.6.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:3.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.8.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:algolia:algoliasearch-helper:3.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:algolia:algoliasearch-helper:-:*:*:*:*:node.js:*:*
