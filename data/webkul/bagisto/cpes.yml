@@ -35,3 +35,11 @@ cpes:
   - cpe:2.3:a:webkul:bagisto:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:webkul:bagisto:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webkul:bagisto:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkul:bagisto:2.2.2:*:*:*:*:*:*:*

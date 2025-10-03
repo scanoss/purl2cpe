@@ -150,6 +150,7 @@ cpes:
   - cpe:2.3:a:acquia:mautic:4.4.10:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:4.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:4.4.4:*:*:*:*:*:*:*
@@ -170,3 +171,8 @@ cpes:
   - cpe:2.3:a:acquia:mautic:5.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:5.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:acquia:mautic:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:acquia:mautic:6.0.0:alpha:*:*:*:*:*:*

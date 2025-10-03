@@ -101,6 +101,7 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:2.0.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.0.10:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:2024-09-18:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.0.2:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.0.4:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:2.0.5:*:*:*:*:python:*:*

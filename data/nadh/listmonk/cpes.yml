@@ -1,5 +1,31 @@
 cpes:
   - cpe:2.3:a:nadh:listmonk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.1.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.1.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.2.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.2.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.3.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.3.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.3.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.3.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.4.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.5.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.5.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.5.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.6.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.6.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.6.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.7.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.8.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:0.9.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadh:listmonk:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nadh:listmonk:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nadh:listmonk:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nadh:listmonk:4.1.0:*:*:*:*:*:*:*
