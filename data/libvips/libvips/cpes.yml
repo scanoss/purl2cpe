@@ -4,7 +4,25 @@ cpes:
   - cpe:2.3:a:libvips:libvips:7.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.6:beta:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.10.6:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.12.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.12.1:*:*:*:*:*:*:*
@@ -20,6 +38,7 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.3.0:*:*:*:*:*:*:*
@@ -62,3 +81,16 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.8.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.8.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.9.2:*:*:*:*:*:*:*

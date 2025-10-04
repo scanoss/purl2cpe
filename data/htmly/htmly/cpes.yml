@@ -48,3 +48,4 @@ cpes:
   - cpe:2.3:a:htmly:htmly:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:htmly:htmly:2.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:htmly:htmly:2.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmly:htmly:3.0.8:*:*:*:*:*:*:*

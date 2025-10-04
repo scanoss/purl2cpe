@@ -237,3 +237,11 @@ cpes:
   - cpe:2.3:a:freedesktop:poppler:24.03.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:poppler:24.04.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:poppler:24.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:24.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:24.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:poppler:25.06.0:*:*:*:*:*:*:*

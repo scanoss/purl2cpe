@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:seacms:seacms:13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:seacms:seacms:13.3.20250820:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:2021-05-30:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:210530:*:*:*:*:*:*:*
   - cpe:2.3:a:seacms:seacms:3.1:*:*:*:*:*:*:*
