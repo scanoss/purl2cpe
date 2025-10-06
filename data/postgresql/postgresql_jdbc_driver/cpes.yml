@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.13:-:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.13:rc1:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.14:-:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.2.14:rc1:*:*:*:*:*:*
