@@ -93,6 +93,7 @@ cpes:
   - cpe:2.3:a:emlog:emlog:2.5.14:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.15:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.16:*:*:*:pro:*:*:*
+  - cpe:2.3:a:emlog:emlog:2.5.19:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.1:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.3:*:*:*:pro:*:*:*
   - cpe:2.3:a:emlog:emlog:2.5.4:*:*:*:pro:*:*:*

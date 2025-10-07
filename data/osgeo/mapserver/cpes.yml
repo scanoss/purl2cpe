@@ -160,3 +160,4 @@ cpes:
   - cpe:2.3:a:osgeo:mapserver:7.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:mapserver:7.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:osgeo:mapserver:7.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:mapserver:8.4.0:-:*:*:*:*:*:*

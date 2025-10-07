@@ -173,4 +173,30 @@ cpes:
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc0:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc1:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.0.9:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha5:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha6:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha7:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha8:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:alpha9:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:beta2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:beta3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:beta4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.0:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.9:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:-:*:*:*:*:go:*:*

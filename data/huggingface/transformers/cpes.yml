@@ -182,6 +182,10 @@ cpes:
   - cpe:2.3:a:huggingface:transformers:4.51.2:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.51.3:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.52.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.52.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:4.52.4:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:4.7.0:*:*:*:*:*:*:*

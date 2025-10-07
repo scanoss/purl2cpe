@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:xfig_project:xfig:3.2.6:rc:*:*:*:*:*:*
   - cpe:2.3:a:xfig_project:xfig:3.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:xfig_project:xfig:3.2.7:b:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:xfig:3.2.8:*:*:*:*:*:*:*
