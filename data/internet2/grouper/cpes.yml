@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:internet2:grouper:*:*:*:*:*:*:*:*
   - cpe:2.3:a:internet2:grouper:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:internet2:grouper:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:internet2:grouper:1.6.2:*:*:*:*:*:*:*
