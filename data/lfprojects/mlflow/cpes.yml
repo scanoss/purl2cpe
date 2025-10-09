@@ -98,6 +98,7 @@ cpes:
   - cpe:2.3:a:lfprojects:mlflow:2.19.0:-:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.19.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:2.20.0:-:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.20.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:2.2.2:*:*:*:*:*:*:*

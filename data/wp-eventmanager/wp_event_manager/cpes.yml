@@ -54,7 +54,10 @@ cpes:
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.45:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.46:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.49:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.50:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.7:*:*:*:*:wordpress:*:*

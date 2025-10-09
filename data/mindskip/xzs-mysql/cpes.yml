@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:mindskip:xzs-mysql:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mindskip:xzs-mysql:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindskip:xzs-mysql:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindskip:xzs-mysql:t3.4.0:*:*:*:*:*:*:*

@@ -15,6 +15,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:onnx:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.3:*:*:*:*:*:*:*
