@@ -64,6 +64,10 @@ cpes:
   - cpe:2.3:a:motioneye_project:motioneye:0.41:*:*:*:*:*:*:*
   - cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*
   - cpe:2.3:a:motioneye_project:motioneye:0.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motioneye_project:motioneye:0.43.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:motioneye_project:motioneye:0.43.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:motioneye_project:motioneye:0.43.1:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:motioneye_project:motioneye:0.43.1:beta4:*:*:*:*:*:*
   - cpe:2.3:a:motioneye_project:motioneye:0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:motioneye_project:motioneye:0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:motioneye_project:motioneye:0.7:*:*:*:*:*:*:*

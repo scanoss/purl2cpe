@@ -266,5 +266,16 @@ cpes:
   - cpe:2.3:a:primekey:ejbca:7.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:primekey:ejbca:7.9.0.2:*:*:*:community:*:*:*
   - cpe:2.3:a:primekey:ejbca:7.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.2.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.2.0.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.2.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.2.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.3.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.3.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:8.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:primekey:ejbca:9.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:primekey:ejbca:-:*:*:*:community:*:*:*
   - cpe:2.3:a:primekey:ejbca:*:*:*:*:enterprise:*:*:*

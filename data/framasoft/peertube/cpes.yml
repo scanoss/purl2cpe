@@ -37,3 +37,45 @@ cpes:
   - cpe:2.3:a:framasoft:peertube:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:framasoft:peertube:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:framasoft:peertube:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:6.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.1.0:rc1:*:*:*:*:*:*

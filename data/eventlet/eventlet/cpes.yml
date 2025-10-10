@@ -65,3 +65,5 @@ cpes:
   - cpe:2.3:a:eventlet:eventlet:0.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eventlet:eventlet:0.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eventlet:eventlet:0.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eventlet:eventlet:0.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eventlet:eventlet:0.40.2:*:*:*:*:*:*:*
