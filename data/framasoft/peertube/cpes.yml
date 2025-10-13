@@ -79,3 +79,11 @@ cpes:
   - cpe:2.3:a:framasoft:peertube:7.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:framasoft:peertube:7.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:framasoft:peertube:7.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:framasoft:peertube:7.3.0:rc1:*:*:*:*:*:*

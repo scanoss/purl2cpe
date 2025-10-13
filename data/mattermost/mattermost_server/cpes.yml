@@ -74,6 +74,7 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:10.4.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.4.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.4.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.5.0:rc1:*:*:*:*:*:*
