@@ -128,6 +128,7 @@ cpes:
   - cpe:2.3:a:element:element:0.8.6:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:element:element:0.9.0:*:*:*:*:android:*:*
   - cpe:2.3:a:element:element:0.9.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:element:element:0.91.0:*:*:*:*:android:*:*
   - cpe:2.3:a:element:element:0.91.3:beta:*:*:*:android:*:*
   - cpe:2.3:a:element:element:0.91.4:beta:*:*:*:android:*:*
   - cpe:2.3:a:element:element:0.91.5:*:*:*:*:android:*:*
@@ -325,6 +326,7 @@ cpes:
   - cpe:2.3:a:element:element:1.6.2:*:*:*:*:android:*:*
   - cpe:2.3:a:element:element:1.6.2:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:element:element:1.6.30:*:*:*:*:android:*:*
+  - cpe:2.3:a:element:element:1.6.32:*:*:*:*:android:*:*
   - cpe:2.3:a:element:element:1.6.3:*:*:*:*:android:*:*
   - cpe:2.3:a:element:element:1.6.4:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:element:element:1.6.5:*:*:*:*:android:*:*

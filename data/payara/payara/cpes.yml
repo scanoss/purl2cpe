@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:payara:payara:4.1.2.181:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:4.1.2.191.46:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:4.1.2.1919.1:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:4.1.2.191:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:5.181:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:5.182:*:*:*:community:*:*:*

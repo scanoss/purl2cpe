@@ -964,6 +964,7 @@ cpes:
   - cpe:2.3:a:discourse:discourse:3.5.0:-:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:3.5.0:*:*:*:tests-passed:*:*:*
   - cpe:2.3:a:discourse:discourse:3.5.0:-:*:*:tests-passed:*:*:*
+  - cpe:2.3:a:discourse:discourse:3.6.0:beta1:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:*:*:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:-:*:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:beta1:*:*:*:beta:*:*:*

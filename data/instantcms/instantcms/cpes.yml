@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:instantcms:instantcms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:instantcms:instantcms:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.11.0:*:*:*:*:*:*:*
@@ -21,6 +22,8 @@ cpes:
   - cpe:2.3:a:instantcms:instantcms:2.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:instantcms:instantcms:2.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:instantcms:instantcms:2.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.5.0:*:*:*:*:*:*:*
