@@ -5,6 +5,11 @@ cpes:
   - cpe:2.3:a:podofo_project:podofo:0.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:podofo_project:podofo:0.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:podofo_project:podofo:0.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:podofo_project:podofo:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:podofo_project:podofo:0.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:podofo_project:podofo:0.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:podofo_project:podofo:0.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:podofo_project:podofo:0.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:podofo_project:podofo:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:podofo_project:podofo:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:podofo_project:podofo:0.4.0:*:*:*:*:*:*:*

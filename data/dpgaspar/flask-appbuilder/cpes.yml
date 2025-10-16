@@ -95,3 +95,9 @@ cpes:
   - cpe:2.3:a:dpgaspar:flask-appbuilder:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dpgaspar:flask-appbuilder:4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dpgaspar:flask-appbuilder:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dpgaspar:flask-appbuilder:4.8.0:*:*:*:*:*:*:*
