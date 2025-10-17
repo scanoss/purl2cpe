@@ -377,6 +377,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:a.00.09.07l:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:*:*:openvms:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:*:*:*:*:*:ruby:*:*

@@ -221,4 +221,17 @@ cpes:
   - cpe:2.3:a:gnupg:gnupg:2.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.3.8:*:*:*:-:*:*:*
   - cpe:2.3:a:gnupg:gnupg:2.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.4.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.5.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.5.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.5.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.5.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:gnupg:gnupg:2.5.4:*:*:*:-:*:*:*
   - cpe:2.3:a:gnupg:gnupg:*:*:*:*:lts:*:*:*

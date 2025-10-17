@@ -3,6 +3,22 @@ cpes:
   - cpe:2.3:a:jruby:jruby-openssl:-:*:*:*:*:*:*:*
   - cpe:2.3:a:jruby:jruby-openssl:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jruby:jruby-openssl:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.1:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.1:cr2:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jruby:jruby-openssl:0.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jruby:jruby-openssl:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jruby:jruby-openssl:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jruby:jruby-openssl:0.4:*:*:*:*:*:*:*
