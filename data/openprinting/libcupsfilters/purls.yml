@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/libcupsfilters
+  - pkg:github/openprinting/libcupsfilters
+  - pkg:rpm/fedora/libcupsfilters
+  - pkg:rpm/opensuse/libcupsfilters

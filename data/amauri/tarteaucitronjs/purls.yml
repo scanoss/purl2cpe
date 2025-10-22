@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/amauric/tarteaucitron.js
+  - pkg:npm/tarteaucitronjs

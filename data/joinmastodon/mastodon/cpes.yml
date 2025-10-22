@@ -271,6 +271,9 @@ cpes:
   - cpe:2.3:a:joinmastodon:mastodon:4.2.21:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.2.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.2.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.2.26:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.2.5:*:*:*:*:*:*:*
@@ -284,6 +287,9 @@ cpes:
   - cpe:2.3:a:joinmastodon:mastodon:4.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.3.13:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.4:*:*:*:*:*:*:*
@@ -292,8 +298,12 @@ cpes:
   - cpe:2.3:a:joinmastodon:mastodon:4.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.5:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vstakhov/libucl
+  - pkg:rpm/fedora/libucl
+  - pkg:rpm/opensuse/libucl

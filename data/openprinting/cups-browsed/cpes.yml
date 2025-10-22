@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openprinting:cups-browsed:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cups-browsed:2.0.1:*:*:*:*:*:*:*

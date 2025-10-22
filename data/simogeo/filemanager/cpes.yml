@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:simogeo:filemanager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simogeo:filemanager:2.5.0:*:*:*:*:*:*:*

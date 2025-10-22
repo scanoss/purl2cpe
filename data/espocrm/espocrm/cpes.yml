@@ -290,3 +290,4 @@ cpes:
   - cpe:2.3:a:espocrm:espocrm:9.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:espocrm:espocrm:9.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:espocrm:espocrm:9.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:espocrm:espocrm:9.1.7:*:*:*:*:*:*:*

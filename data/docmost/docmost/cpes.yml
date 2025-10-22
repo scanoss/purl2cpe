@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:docmost:docmost:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:docmost:docmost:0.21.0:*:*:*:*:*:*:*

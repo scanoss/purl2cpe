@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spmjs/spmrc
+  - pkg:npm/spmrc

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xorbitsai/inference
+  - pkg:pypi/xinference

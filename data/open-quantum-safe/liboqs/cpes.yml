@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:open-quantum-safe:liboqs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-quantum-safe:liboqs:0.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:open-quantum-safe:liboqs:10.0:*:*:*:*:*:*:*

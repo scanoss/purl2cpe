@@ -28,4 +28,10 @@ cpes:
   - cpe:2.3:a:parall:jspdf:2.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parall:jspdf:2.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parall:jspdf:2.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:2.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:2.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parall:jspdf:3.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parall:jspdf:-:*:*:*:*:node.js:*:*

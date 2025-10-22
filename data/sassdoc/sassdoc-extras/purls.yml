@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sassdoc/sassdoc-extras
+  - pkg:npm/sassdoc-extras

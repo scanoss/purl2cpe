@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ansman/validate.js
+  - pkg:maven/org.webjars.bowergithub.ansman/validate.js
+  - pkg:npm/validate.js

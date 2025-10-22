@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/silverstripe/reports
+  - pkg:github/silverstripe/silverstripe-reports

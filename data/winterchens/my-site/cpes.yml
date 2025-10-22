@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:winterchens:my-site:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:winterchens:my-site:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:winterchens:my-site:2024-08-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:winterchens:my-site:2024-11-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:winterchens:my-site:2025-06-11:*:*:*:*:*:*:*

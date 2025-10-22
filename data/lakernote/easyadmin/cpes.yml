@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:lakernote:easyadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakernote:easyadmin:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakernote:easyadmin:2024-03-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakernote:easyadmin:20240315:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakernote:easyadmin:2024-03-24:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakernote:easyadmin:20240324:*:*:*:*:*:*:*

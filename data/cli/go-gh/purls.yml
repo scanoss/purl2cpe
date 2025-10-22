@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cli/go-gh
+  - pkg:golang/github.com/cli/go-gh

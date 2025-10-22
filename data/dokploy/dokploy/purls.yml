@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dokploy/dokploy
+  - pkg:sourceforge/dokploy.mirror

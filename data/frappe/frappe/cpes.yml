@@ -561,6 +561,7 @@ cpes:
   - cpe:2.3:a:frappe:frappe:14.93.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.94.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:14.94.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:frappe:14.96.10:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:frappe:15.0.2:*:*:*:*:*:*:*

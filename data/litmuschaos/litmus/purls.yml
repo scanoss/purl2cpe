@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/litmuschaos/litmus
+  - pkg:golang/github.com/litmuschaos/litmus

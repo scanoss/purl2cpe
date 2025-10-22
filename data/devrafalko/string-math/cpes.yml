@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:devrafalko:string-math:1.2.2:*:*:*:*:node.js:*:*

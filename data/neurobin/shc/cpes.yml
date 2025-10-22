@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:neurobin:shc:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.3:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.3:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.3:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:3.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neurobin:shc:4.0.3:*:*:*:*:*:*:*

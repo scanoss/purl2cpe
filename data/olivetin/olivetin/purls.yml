@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/olivetin/olivetin
+  - pkg:golang/github.com/olivetin/olivetin

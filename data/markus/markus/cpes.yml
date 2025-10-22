@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:markus:markus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:markus:markus:*:*:*:*:*:ruby:*:*

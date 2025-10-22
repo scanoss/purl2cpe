@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/shc
+  - pkg:github/neurobin/shc
+  - pkg:rpm/fedora/shc

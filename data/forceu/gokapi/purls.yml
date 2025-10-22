@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/forceu/gokapi
+  - pkg:golang/github.com/forceu/gokapi

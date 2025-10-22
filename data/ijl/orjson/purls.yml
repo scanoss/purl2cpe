@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ijl/orjson
+  - pkg:golang/github.com/ijl/orjson
+  - pkg:pypi/orjson

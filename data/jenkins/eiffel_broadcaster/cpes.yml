@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:eiffel_broadcaster:2.10.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eiffel_broadcaster:2.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eiffel_broadcaster:*:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/doist/todoist-api-python
+  - pkg:github/doist/todoist-api-typescript
+  - pkg:npm/%40doist/todoist-api-typescript

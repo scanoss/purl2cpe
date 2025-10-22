@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gatling/gatling
+  - pkg:maven/io.gatling/gatling-core

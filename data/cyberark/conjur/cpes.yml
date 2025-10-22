@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:cyberark:conjur:1.19.5:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:cyberark:conjur:1.20.1:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:cyberark:conjur:1.21.2:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:cyberark:conjur:13.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:cyberark:conjur:13.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:cyberark:conjur:13.6:*:*:*:enterprise:*:*:*

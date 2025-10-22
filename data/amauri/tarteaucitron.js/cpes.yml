@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:amauri:tarteaucitron.js:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amauri:tarteaucitron.js:1.20.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:amauri:tarteaucitron.js:1.9.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:amauri:tarteaucitron.js:*:*:*:*:*:drupal:*:*

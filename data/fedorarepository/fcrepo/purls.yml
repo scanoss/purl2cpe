@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fcrepo/fcrepo
+  - pkg:maven/org.fcrepo/fcrepo

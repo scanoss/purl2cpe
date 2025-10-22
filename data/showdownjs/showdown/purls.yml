@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/showdownjs/showdown
+  - pkg:npm/showdown

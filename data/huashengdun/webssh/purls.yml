@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/huashengdun/webssh
+  - pkg:pypi/webssh
+  - pkg:sourceforge/webssh

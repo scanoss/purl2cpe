@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bpftrace
+  - pkg:deb/ubuntu/bpftrace
+  - pkg:github/bpftrace/bpftrace
+  - pkg:rpm/fedora/bpftrace
+  - pkg:rpm/opensuse/bpftrace

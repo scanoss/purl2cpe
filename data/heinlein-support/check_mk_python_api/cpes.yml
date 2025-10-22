@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:2.2:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:3.1:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:3.4:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:4.0.2:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.0.0:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.1.1:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.2.0:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.3.0:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.4.1:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.5.1:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:5.8.0:*:*:*:*:checkmk:*:*
+  - cpe:2.3:a:heinlein-support:check_mk_python_api:-:*:*:*:*:checkmk:*:*

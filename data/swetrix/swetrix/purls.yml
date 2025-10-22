@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/Swetrix/swetrix
+  - pkg:github/swetrix/swetrix-js
+  - pkg:npm/swetrix

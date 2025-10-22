@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/buttercup/buttercup
+  - pkg:npm/buttercup

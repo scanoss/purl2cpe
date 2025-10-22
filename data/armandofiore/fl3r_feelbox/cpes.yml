@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:armandofiore:fl3r_feelbox:8.1:*:*:*:*:wordpress:*:*

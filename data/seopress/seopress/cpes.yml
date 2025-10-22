@@ -87,5 +87,7 @@ cpes:
   - cpe:2.3:a:seopress:seopress:7.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:7.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:7.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:8.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seopress:seopress:8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:seopress:seopress:-:*:*:*:*:wordpress:*:*

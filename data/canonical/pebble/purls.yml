@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/canonical/pebble
+  - pkg:golang/github.com/canonical/pebble

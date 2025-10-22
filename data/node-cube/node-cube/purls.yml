@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-cube/cube
+  - pkg:npm/node-cube

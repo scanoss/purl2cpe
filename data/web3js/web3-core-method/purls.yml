@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/deno-npm/web3-core-method
+  - pkg:npm/web3-core-method

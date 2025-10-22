@@ -40,7 +40,10 @@ cpes:
   - cpe:2.3:a:es:iperf3:3.16:-:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.16:beta1:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:es:iperf3:3.17:*:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:es:iperf3:3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:es:iperf3:3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.1:beta2:*:*:*:*:*:*
   - cpe:2.3:a:es:iperf3:3.1:beta3:*:*:*:*:*:*

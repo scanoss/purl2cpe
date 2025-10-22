@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-formidable/formidable
+  - pkg:npm/formidable

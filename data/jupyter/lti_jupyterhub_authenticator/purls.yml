@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jupyterhub/ltiauthenticator
+  - pkg:pypi/jupyterhub-ltiauthenticator

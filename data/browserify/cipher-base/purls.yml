@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/browserify/cipher-base
+  - pkg:maven/org.webjars.npm/cipher-base
+  - pkg:npm/cipher-base

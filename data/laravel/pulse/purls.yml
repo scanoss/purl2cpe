@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/laravel/pulse
+  - pkg:github/laravel/pulse

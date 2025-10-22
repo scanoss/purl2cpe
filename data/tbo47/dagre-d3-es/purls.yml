@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tbo47/dagre-es
+  - pkg:npm/dagre-d3-es

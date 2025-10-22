@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/llama.cpp
+  - pkg:github/ggml-org/llama.cpp

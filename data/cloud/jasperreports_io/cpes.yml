@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloud:jasperreports_io:*:*:*:*:at-scale:*:*:*
+  - cpe:2.3:a:cloud:jasperreports_io:*:*:*:*:professional:*:*:*

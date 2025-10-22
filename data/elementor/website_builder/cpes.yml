@@ -794,6 +794,7 @@ cpes:
   - cpe:2.3:a:elementor:website_builder:3.28.3:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.28.4:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.29.0:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:elementor:website_builder:3.29.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.29.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.30.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:elementor:website_builder:3.30.1:*:*:*:free:wordpress:*:*

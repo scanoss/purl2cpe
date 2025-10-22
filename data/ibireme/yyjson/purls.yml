@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/yyjson
+  - pkg:github/ibireme/yyjson
+  - pkg:rpm/fedora/yyjson
+  - pkg:rpm/opensuse/yyjson
+  - pkg:sourceforge/yyjson.mirror

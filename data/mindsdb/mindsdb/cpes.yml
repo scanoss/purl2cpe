@@ -202,6 +202,7 @@ cpes:
   - cpe:2.3:a:mindsdb:mindsdb:2.45.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.45.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.7.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.51.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.51.2:*:*:*:*:*:*:*

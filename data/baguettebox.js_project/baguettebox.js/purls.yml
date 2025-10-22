@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/feimosi/baguettebox.js
+  - pkg:maven/org.webjars.npm/baguettebox.js
+  - pkg:npm/baguettebox.js

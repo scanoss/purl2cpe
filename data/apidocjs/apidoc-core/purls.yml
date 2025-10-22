@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apidoc/apidoc-core
+  - pkg:npm/apidoc-core

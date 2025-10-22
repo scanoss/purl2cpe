@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:xooa:0.0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xooa:0.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xooa:*:*:*:*:*:jenkins:*:*

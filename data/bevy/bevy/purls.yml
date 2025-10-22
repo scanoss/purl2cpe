@@ -1,0 +1,4 @@
+purls:
+  - pkg:cargo/bevy
+  - pkg:github/bevyengine/bevy
+  - pkg:sourceforge/bevy.mirror

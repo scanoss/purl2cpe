@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/open-quantum-safe/liboqs
+  - pkg:rpm/fedora/liboqs
+  - pkg:rpm/opensuse/liboqs

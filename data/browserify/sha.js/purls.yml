@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/browserify/sha.js
+  - pkg:maven/org.webjars.npm/sha.js
+  - pkg:npm/sha.js

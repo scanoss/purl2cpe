@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openprinting:libcupsfilters:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.1:beta1:*:*:*:*:*:*

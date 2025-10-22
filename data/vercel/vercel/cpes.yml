@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:vercel:vercel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:41.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:42.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:42.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vercel:vercel:42.1.1:*:*:*:*:*:*:*

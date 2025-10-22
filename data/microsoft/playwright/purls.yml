@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/microsoft/playwright
+  - pkg:npm/playwright

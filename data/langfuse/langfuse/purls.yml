@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/langfuse/langfuse
+  - pkg:github/langfuse/langfuse-js
+  - pkg:npm/langfuse

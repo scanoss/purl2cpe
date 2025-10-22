@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jhpyle/docassemble
+  - pkg:pypi/docassemble

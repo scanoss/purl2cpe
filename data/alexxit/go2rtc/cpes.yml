@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:alexxit:go2rtc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alexxit:go2rtc:1.8.5:*:*:*:*:*:*:*

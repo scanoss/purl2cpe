@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nvidia/aistore
+  - pkg:golang/github.com/nvidia/aistore

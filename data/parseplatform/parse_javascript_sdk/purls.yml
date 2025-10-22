@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/parse-community/parse-sdk-js
+  - pkg:npm/parse

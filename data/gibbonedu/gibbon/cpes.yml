@@ -28,6 +28,10 @@ cpes:
   - cpe:2.3:a:gibbonedu:gibbon:25.0.00:*:*:*:*:*:*:*
   - cpe:2.3:a:gibbonedu:gibbon:25.0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:gibbonedu:gibbon:26.0.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:gibbonedu:gibbon:27.0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:gibbonedu:gibbon:28.0.00:-:*:*:*:*:*:*
+  - cpe:2.3:a:gibbonedu:gibbon:28.0.00:prerelease:*:*:*:*:*:*
+  - cpe:2.3:a:gibbonedu:gibbon:28.0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:gibbonedu:gibbon:7.0.00:*:*:*:*:*:*:*
   - cpe:2.3:a:gibbonedu:gibbon:7.0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:gibbonedu:gibbon:7.1.00:*:*:*:*:*:*:*

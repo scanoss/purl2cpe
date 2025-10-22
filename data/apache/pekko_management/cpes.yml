@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:apache:pekko_management:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.0:milestone0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.0:milestone1_release_candidate1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pekko_management:1.1.1:rc1:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pradeep-mishra/csvjson
+  - pkg:npm/csvjson

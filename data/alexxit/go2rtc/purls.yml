@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alexxit/go2rtc
+  - pkg:golang/github.com/alexxit/go2rtc

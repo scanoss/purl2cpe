@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:sassdoc:sassdoc-extras:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:rc1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:rc2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:rc3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:rc4:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.0.0:rc:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:2.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sassdoc:sassdoc-extras:*:*:*:*:*:node.js:*:*

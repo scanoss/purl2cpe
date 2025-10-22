@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:iperf_project:iperf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:iperf_project:iperf:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:iperf_project:iperf:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:iperf_project:iperf:2.0.10:*:*:*:*:*:*:*

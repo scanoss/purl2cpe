@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:ibireme:yyjson:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibireme:yyjson:0.8.0:*:*:*:*:*:*:*

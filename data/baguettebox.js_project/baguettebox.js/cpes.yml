@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:baguettebox.js_project:baguettebox.js:3.0.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:baguettebox.js_project:baguettebox.js:*:*:*:*:*:drupal:*:*

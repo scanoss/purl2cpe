@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:zealousweb:accept_stripe_payments_using_contact_form_7:*:*:*:*:*:wordpress:*:*

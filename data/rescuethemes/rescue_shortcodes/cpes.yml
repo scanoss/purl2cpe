@@ -21,4 +21,6 @@ cpes:
   - cpe:2.3:a:rescuethemes:rescue_shortcodes:2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rescuethemes:rescue_shortcodes:2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rescuethemes:rescue_shortcodes:2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rescuethemes:rescue_shortcodes:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rescuethemes:rescue_shortcodes:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rescuethemes:rescue_shortcodes:-:*:*:*:*:wordpress:*:*

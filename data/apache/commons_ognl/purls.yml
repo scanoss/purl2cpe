@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/commons-ognl
+  - pkg:github/apache/commons-ognl

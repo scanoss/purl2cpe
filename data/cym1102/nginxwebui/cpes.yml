@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cym1102:nginxwebui:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cym1102:nginxwebui:3.9.9:*:*:*:*:*:*:*

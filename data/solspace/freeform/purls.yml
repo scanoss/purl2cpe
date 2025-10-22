@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/solspace/craft-freeform
+  - pkg:github/solspace/craft-freeform

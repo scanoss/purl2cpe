@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/katex/katex
+  - pkg:maven/org.webjars.npm/katex
+  - pkg:npm/katex

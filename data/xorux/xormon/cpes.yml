@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:xorux:xormon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:0.9.12:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xorux:xormon:1.8.0:*:*:*:*:*:*:*

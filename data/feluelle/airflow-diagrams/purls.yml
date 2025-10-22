@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/feluelle/airflow-diagrams
+  - pkg:pypi/airflow-diagrams

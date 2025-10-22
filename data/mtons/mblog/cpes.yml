@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:mtons:mblog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:0.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:3.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtons:mblog:3.5.0:*:*:*:*:*:*:*

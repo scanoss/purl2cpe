@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/devrafalko/string-math
+  - pkg:npm/string-math

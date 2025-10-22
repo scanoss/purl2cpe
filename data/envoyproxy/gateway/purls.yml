@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/envoyproxy/gateway
+  - pkg:golang/github.com/envoyproxy/gateway

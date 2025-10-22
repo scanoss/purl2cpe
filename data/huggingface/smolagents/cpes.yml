@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:huggingface:smolagents:1.14.0:*:*:*:*:*:*:*

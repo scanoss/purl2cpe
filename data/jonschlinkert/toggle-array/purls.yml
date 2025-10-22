@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jonschlinkert/toggle-array
+  - pkg:npm/toggle-array

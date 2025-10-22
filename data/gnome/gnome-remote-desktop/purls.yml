@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gnome/gnome-remote-desktop
+  - pkg:gitlab/gnome/gnome-remote-desktop
+  - pkg:rpm/fedora/gnome-remote-desktop
+  - pkg:rpm/opensuse/gnome-remote-desktop
