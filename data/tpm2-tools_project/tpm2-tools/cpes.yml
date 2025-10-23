@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tpm2-tools_project:tpm2-tools:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2-tools_project:tpm2-tools:2.0.0:-:*:*:*:*:*:*
