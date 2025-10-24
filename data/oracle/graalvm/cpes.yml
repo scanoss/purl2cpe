@@ -66,6 +66,7 @@ cpes:
   - cpe:2.3:a:oracle:graalvm:21.3.12:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:oracle:graalvm:21.3.15:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:oracle:graalvm:21.3.3:*:*:*:enterprise:*:*:*

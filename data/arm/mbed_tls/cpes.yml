@@ -177,3 +177,4 @@ cpes:
   - cpe:2.3:a:arm:mbed_tls:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:mbed_tls:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:mbed_tls:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:mbed_tls:3.6.4:*:*:*:*:*:*:*

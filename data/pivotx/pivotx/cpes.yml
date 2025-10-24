@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:pivotx:pivotx:2.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotx:pivotx:2.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotx:pivotx:2.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotx:pivotx:3.0.0:rc3:*:*:*:*:*:*

@@ -160,3 +160,6 @@ cpes:
   - cpe:2.3:a:librenms:librenms:25.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:25.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:librenms:librenms:25.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:librenms:librenms:25.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:librenms:librenms:25.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:librenms:librenms:25.9.1:*:*:*:*:*:*:*
