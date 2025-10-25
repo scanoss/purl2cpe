@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mozilla:firefox:*:*:*:*:*-:*:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:0.1:*:*:*:*:*:*:*
