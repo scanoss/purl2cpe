@@ -83,6 +83,7 @@ cpes:
   - cpe:2.3:a:runatlantis:atlantis:0.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:runatlantis:atlantis:0.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:runatlantis:atlantis:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:runatlantis:atlantis:0.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:runatlantis:atlantis:0.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:runatlantis:atlantis:0.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:runatlantis:atlantis:0.3.9:*:*:*:*:*:*:*

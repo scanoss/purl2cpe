@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:rustls_project:rustls:0.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.13:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.5.1:*:*:*:*:*:*:*
