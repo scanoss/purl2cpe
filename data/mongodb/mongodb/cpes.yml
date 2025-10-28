@@ -350,6 +350,8 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:5.0.28:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.0.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:5.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:5.0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.0.3:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.0.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:5.0.3:rc2:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:microsoft:azure_rtos_usbx:*:*:*:*:*:*:*:*
   - cpe:2.3:o:microsoft:azure_rtos_usbx:6.0:*:*:*:*:*:*:*
   - cpe:2.3:o:microsoft:azure_rtos_usbx:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:microsoft:azure_rtos_usbx:6.0.2:*:*:*:*:*:*:*
