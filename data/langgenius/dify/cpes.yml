@@ -119,5 +119,21 @@ cpes:
   - cpe:2.3:a:langgenius:dify:1.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.1.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.9.1:*:*:*:*:node.js:*:*

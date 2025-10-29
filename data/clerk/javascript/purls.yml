@@ -1,3 +1,2 @@
 purls:
   - pkg:github/clerk/javascript
-  - pkg:npm/@clerk/clerk-sdk-node

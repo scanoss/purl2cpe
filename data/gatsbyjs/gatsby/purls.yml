@@ -1,4 +1,3 @@
 purls:
   - pkg:github/gatsbyjs/gatsby
   - pkg:npm/gatsby
-  - 'pkg:sourceforge/gatsby.mirror '

@@ -1,3 +1,2 @@
 purls:
   - pkg:github/tanstack/query
-  - pkg:npm/@tanstack/query-core

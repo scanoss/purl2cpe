@@ -6,4 +6,3 @@ purls:
   - pkg:maven/net.sourceforge.nekohtml/nekohtml
   - pkg:rpm/fedora/nekohtml
   - pkg:rpm/opensuse/nekohtml
-  - 'pkg:sourceforge/nekohtml '

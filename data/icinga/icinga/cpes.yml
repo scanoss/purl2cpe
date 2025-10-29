@@ -123,6 +123,7 @@ cpes:
   - cpe:2.3:a:icinga:icinga:2.12.6:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icinga:icinga:2.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.2:*:*:*:*:*:*:*

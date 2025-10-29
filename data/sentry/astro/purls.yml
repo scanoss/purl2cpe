@@ -1,3 +1,2 @@
 purls:
   - pkg:github/getsentry/sentry-javascript
-  - pkg:npm/@sentry/astro

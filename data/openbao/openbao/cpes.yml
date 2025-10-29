@@ -1,2 +1,25 @@
 cpes:
   - cpe:2.3:a:openbao:openbao:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.0:alpha20240329:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.0:beta20240618:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.0:beta20241114:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.0:beta20241114.1:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.0:beta20241114.2:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.0:beta20241114.3:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.2.0:beta20250213:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.3.0:beta20250528:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.4.1:*:*:*:*:*:*:*

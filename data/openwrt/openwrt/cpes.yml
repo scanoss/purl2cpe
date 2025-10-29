@@ -87,8 +87,45 @@ cpes:
   - cpe:2.3:o:openwrt:openwrt:21.02.0:rc4:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:21.02.1:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:21.02.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:21.02.7:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.0:rc5:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:22.03.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.2:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:22.03.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.4:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:22.03.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:22.03.7:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:23.05:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:23.05.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:23.05.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.3:*:*:*:*:*:*:*

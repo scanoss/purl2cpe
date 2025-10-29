@@ -1,3 +1,2 @@
 purls:
   - pkg:github/npm/cli
-  - pkg:npm/%40npmcli/arborist

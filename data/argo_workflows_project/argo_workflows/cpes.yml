@@ -162,4 +162,14 @@ cpes:
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.3:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.4:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.3.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.10:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.11:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.12:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.5.9:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:-:*:*:*:kubernetes:*:*
   - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:rc1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:rc2:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:rc3:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:argo_workflows_project:argo_workflows:3.6.0:rc4:*:*:*:kubernetes:*:*

@@ -1,4 +1,3 @@
 purls:
   - pkg:github/common-repository/blrt-wp-embed
   - pkg:github/wp-plugins/blrt-wp-embed
-  - 'pkg:github/wpplugins/blrt-wp-embed '
