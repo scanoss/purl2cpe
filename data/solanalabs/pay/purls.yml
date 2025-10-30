@@ -1,2 +1,3 @@
 purls:
   - pkg:github/solana-labs/solana-pay
+  - pkg:npm/%40solana/pay

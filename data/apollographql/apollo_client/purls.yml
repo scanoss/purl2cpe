@@ -1,2 +1,3 @@
 purls:
   - pkg:github/apollographql/apollo-client-nextjs
+  - pkg:npm/%40apollo/client

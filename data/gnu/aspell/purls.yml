@@ -2,6 +2,7 @@ purls:
   - pkg:deb/debian/aspell
   - pkg:deb/ubuntu/aspell
   - pkg:github/gnuaspell/aspell
+  - pkg:gitlab/redhat/aspell
   - pkg:gnu/aspell
   - pkg:nuget/aspell
   - pkg:rpm/centos/aspell

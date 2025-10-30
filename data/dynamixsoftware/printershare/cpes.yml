@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dynamixsoftware:printershare:12.15.01:*:*:*:*:android:*:*
+  - cpe:2.3:a:dynamixsoftware:printershare:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:dynamixsoftware:printershare:-:*:*:*:*:android:*:*

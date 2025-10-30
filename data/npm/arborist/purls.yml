@@ -1,3 +1,4 @@
 purls:
   - pkg:github/npm/arborist
   - pkg:golang/github.com/npm/arborist
+  - pkg:npm/%40npmcli/arborist

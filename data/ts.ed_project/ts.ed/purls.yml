@@ -1,2 +1,3 @@
 purls:
   - pkg:github/tsedio/tsed
+  - pkg:npm/%40tsed/common

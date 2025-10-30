@@ -6,3 +6,14 @@ cpes:
   - cpe:2.3:a:amazon:freertos-plus-tcp:4.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:amazon:freertos-plus-tcp:4.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:amazon:freertos-plus-tcp:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:freertos-plus-tcp:4.3.3:*:*:*:*:*:*:*

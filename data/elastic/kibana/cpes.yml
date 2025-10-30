@@ -445,15 +445,28 @@ cpes:
   - cpe:2.3:a:elastic:kibana:8.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.17.10:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.5:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.6:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.17.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.17.9:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.18.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:8.19.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:8.2.2:*:*:*:*:*:*:*
@@ -490,6 +503,10 @@ cpes:
   - cpe:2.3:a:elastic:kibana:9.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:9.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:9.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:9.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:9.1.4:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 purls:
   - pkg:github/madrobby/scriptaculous
+  - pkg:npm/%40openxtrem/scriptaculous

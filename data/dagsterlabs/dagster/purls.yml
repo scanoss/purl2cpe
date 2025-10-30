@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dagster-io/dagster
+  - pkg:pypi/dagster
+  - pkg:sourceforge/dagster.mirror

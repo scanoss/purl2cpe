@@ -1,6 +1,29 @@
 cpes:
   - cpe:2.3:a:rust-lang:futures-task:0.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.2.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha10:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha11:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha12:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha13:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha14:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha15:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha16:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha17:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha18:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha19:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha4:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha5:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha6:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha7:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha8:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:alpha9:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:futures-task:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:-:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:futures-task:0.3.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:futures-task:0.3.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:futures-task:0.3.3:*:*:*:*:rust:*:*

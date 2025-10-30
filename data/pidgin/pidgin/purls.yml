@@ -4,3 +4,4 @@ purls:
   - pkg:github/pidgin/pidgin
   - pkg:imfreedom/pidgin/pidgin
   - pkg:rpm/opensuse/pidgin
+  - pkg:sourceforge/pidgin

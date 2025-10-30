@@ -1,2 +1,3 @@
 purls:
   - pkg:github/netlify/netlify-ipx
+  - pkg:npm/%40netlify/ipx

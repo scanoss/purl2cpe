@@ -1,2 +1,3 @@
 purls:
   - pkg:github/chase-moskal/snapstate
+  - pkg:npm/%40chasemoskal/snapstate

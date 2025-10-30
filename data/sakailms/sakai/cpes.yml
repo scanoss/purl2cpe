@@ -23,8 +23,37 @@ cpes:
   - cpe:2.3:a:sakailms:sakai:12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:12.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:12.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:19.0:-:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:19.0:rc01:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:19.0:rc02:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:20.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:23.4:*:*:*:*:*:*:*
