@@ -444,3 +444,4 @@ cpes:
   - cpe:2.3:a:graylog:graylog:6.3.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:graylog:graylog:6.3.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:graylog:graylog:6.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:graylog:graylog:6.3.0:rc2:*:*:*:*:*:*

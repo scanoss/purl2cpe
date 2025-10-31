@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.0.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.0:*:*:*:*:*:*:*

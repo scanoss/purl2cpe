@@ -104,8 +104,17 @@ cpes:
   - cpe:2.3:a:sinatrarb:sinatra:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sinatrarb:sinatra:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:sinatra:4.1.1:*:*:*:*:*:*:*

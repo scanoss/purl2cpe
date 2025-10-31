@@ -72,6 +72,10 @@ cpes:
   - cpe:2.3:a:ipfire:ipfire:2.23:core_update133:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.23:core_update134:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.23:core_update135:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.23:core_update136:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.23:core_update137:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.23:core_update138:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.23:core_update139:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update141:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update142:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update143:*:*:*:*:*:*
@@ -86,6 +90,8 @@ cpes:
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update152:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update155:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.25:core_update156:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.25:core_update157:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.25:core_update158:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update159:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update160:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update161:*:*:*:*:*:*
@@ -95,4 +101,33 @@ cpes:
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update165:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update166:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.27:core_update167:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update170:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update171:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update172:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update173:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update174:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update175:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update176:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update177:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update178:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update179:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update180:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update181:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.27:core_update182:*:*:*:*:*:*
   - cpe:2.3:a:ipfire:ipfire:2.29:-:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update183:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update184:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update185:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update186:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update187:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update188:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update189:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update190:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update191:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update192:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update193:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update194:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update195:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update196:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update197:*:*:*:*:*:*
+  - cpe:2.3:a:ipfire:ipfire:2.29:core_update198:*:*:*:*:*:*
