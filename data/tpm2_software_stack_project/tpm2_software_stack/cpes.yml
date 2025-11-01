@@ -42,3 +42,6 @@ cpes:
   - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:3.2.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:4.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:4.0.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:4.0.2:rc1:*:*:*:*:*:*

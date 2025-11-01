@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:apache:activemq_nms_amqp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.0:rc2:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.1:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.1:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:1.8.2:rc3:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.0.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.0.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.1.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.1.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.2.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.2.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.3.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:apache:activemq_nms_amqp:2.3.0:rc1:*:*:*:.net:*:*

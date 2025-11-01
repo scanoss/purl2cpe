@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_server:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:5.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:5.7.26:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:5.7.27:*:*:*:*:*:*:*
@@ -38,6 +39,7 @@ cpes:
   - cpe:2.3:a:oracle:mysql_server:8.0.40:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.0.41:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_server:8.0.43:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.3.0:*:*:*:*:*:*:*
@@ -47,7 +49,9 @@ cpes:
   - cpe:2.3:a:oracle:mysql_server:8.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:8.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_server:8.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_server:9.4.0:*:*:*:*:*:*:*
