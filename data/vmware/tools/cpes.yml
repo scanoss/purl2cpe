@@ -45,12 +45,20 @@ cpes:
   - cpe:2.3:a:vmware:tools:12.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:12.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:12.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:13.0.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:13.0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:tools:13.0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:tools:3.1.2.10559:*:*:*:*:*:*:*

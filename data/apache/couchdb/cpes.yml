@@ -70,7 +70,20 @@ cpes:
   - cpe:2.3:a:apache:couchdb:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.2:post1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.2:post2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.2:post3:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.3:post2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.2.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.1:post1:*:*:*:*:*:*
   - cpe:2.3:a:apache:couchdb:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.2:post1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.2:post2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:couchdb:3.3.2:rc1:*:*:*:*:*:*

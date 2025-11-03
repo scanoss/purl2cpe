@@ -287,6 +287,7 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:4.4.10:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:4.4.11:rc0:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:4.4.29:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:4.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:4.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:4.4.5:rc0:*:*:*:*:*:*
@@ -435,6 +436,7 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:6.0.17:rc0:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:6.0.18:-:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:6.0.18:rc0:*:*:-:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:6.0.19:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:6.0.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:mongodb:mongodb:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:6.0.2:*:*:*:-:*:*:*
@@ -619,6 +621,7 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:8.0.1:-:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.0.10:-:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.0.10:rc0:*:*:-:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:8.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.0.1:rc0:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.0.2:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.0.3:*:*:*:-:*:*:*
@@ -641,4 +644,5 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:8.1.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.1.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.1.0:rc3:*:*:-:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:8.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:*:*:*:*:enterprise:*:*:*
