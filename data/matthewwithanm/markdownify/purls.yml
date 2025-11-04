@@ -1,2 +1,3 @@
 purls:
   - pkg:github/matthewwithanm/python-markdownify
+  - pkg:pypi/markdownify

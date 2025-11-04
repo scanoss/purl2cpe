@@ -51,3 +51,4 @@ cpes:
   - cpe:2.3:a:elfutils_project:elfutils:0.177:*:*:*:*:*:*:*
   - cpe:2.3:a:elfutils_project:elfutils:0.183:*:*:*:*:*:*:*
   - cpe:2.3:a:elfutils_project:elfutils:0.189:*:*:*:*:*:*:*
+  - cpe:2.3:a:elfutils_project:elfutils:0.192:*:*:*:*:*:*:*

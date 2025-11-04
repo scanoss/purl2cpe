@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:srmorete:adb_mcp_server:*:*:*:*:*:node.js:*:*

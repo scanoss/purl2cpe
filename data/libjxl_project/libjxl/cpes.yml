@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:libjxl_project:libjxl:0.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libjxl_project:libjxl:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libjxl_project:libjxl:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libjxl_project:libjxl:0.8.4:*:*:*:*:*:*:*

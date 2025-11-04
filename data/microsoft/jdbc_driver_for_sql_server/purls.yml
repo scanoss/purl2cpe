@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/microsoft/mssql-jdbc
+  - pkg:maven/com.microsoft.sqlserver/mssql-jdbc

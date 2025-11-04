@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sunnyadn/js-toml
+  - pkg:npm/s-toml

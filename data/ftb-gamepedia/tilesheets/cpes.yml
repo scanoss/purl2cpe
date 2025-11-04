@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ftb-gamepedia:tilesheets:5.0.1:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:ftb-gamepedia:tilesheets:5.0.2:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:ftb-gamepedia:tilesheets:*:*:*:*:*:mediawiki:*:*

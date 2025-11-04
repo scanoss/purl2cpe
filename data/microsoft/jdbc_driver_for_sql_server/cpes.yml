@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:10.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:10.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:10.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:11.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:11.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:11.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:11.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:12.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:13.2.0:*:*:*:*:*:*:*
