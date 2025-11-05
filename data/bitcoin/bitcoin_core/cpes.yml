@@ -386,3 +386,9 @@ cpes:
   - cpe:2.3:a:bitcoin:bitcoin_core:29.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:29.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:bitcoin:bitcoin_core:29.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bitcoin:bitcoin_core:29.2:rc2:*:*:*:*:*:*

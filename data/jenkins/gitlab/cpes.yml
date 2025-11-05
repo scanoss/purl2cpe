@@ -91,3 +91,31 @@ cpes:
   - cpe:2.3:a:jenkins:gitlab:1.5.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gitlab:1.5.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:gitlab:1.5.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.7.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.8.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.8.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:gitlab:1.9.6:*:*:*:*:jenkins:*:*

@@ -1,6 +1,67 @@
 cpes:
   - cpe:2.3:a:thm:pilos:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:1.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:thm:pilos:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.0.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:thm:pilos:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thm:pilos:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thm:pilos:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thm:pilos:4.7.1:*:*:*:*:*:*:*

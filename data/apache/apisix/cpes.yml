@@ -49,6 +49,8 @@ cpes:
   - cpe:2.3:a:apache:apisix:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:3.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:3.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:3.2.2:*:*:*:*:*:*:*

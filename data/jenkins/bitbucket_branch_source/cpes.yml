@@ -57,5 +57,7 @@ cpes:
   - cpe:2.3:a:jenkins:bitbucket_branch_source:2.9.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_branch_source:2.9.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_branch_source:737.vdf9dc06105be:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_branch_source:848.850.v6a_a_2a_234a_c81:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_branch_source:856.v04c46c86f911:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_branch_source:866.vdea_7dcd3008e:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_branch_source:886.v44cf5e4ecec5:*:*:*:*:jenkins:*:*

@@ -36,3 +36,4 @@ cpes:
   - cpe:2.3:a:phpipam:phpipam:1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:phpipam:phpipam:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpipam:phpipam:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpipam:phpipam:1.7.3:*:*:*:*:*:*:*
