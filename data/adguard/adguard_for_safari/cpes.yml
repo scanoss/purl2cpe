@@ -1,2 +1,25 @@
 cpes:
+  - cpe:2.3:a:adguard:adguard_for_safari:1.10.4:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.10:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.11:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.12:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.13:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.14:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.15:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.16:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.17:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.18:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.19:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.20:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.3:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.4:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.5:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.6:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.7:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.8:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.11.9:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.9.13:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.9.17:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.9.18:*:*:*:*:macos:*:*
+  - cpe:2.3:a:adguard:adguard_for_safari:1.9.19:*:*:*:*:macos:*:*
   - cpe:2.3:a:adguard:adguard_for_safari:*:*:*:*:*:macos:*:*

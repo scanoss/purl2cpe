@@ -23,6 +23,37 @@ cpes:
   - cpe:2.3:a:dradisframework:dradis:3.11.1:*:*:*:community:*:*:*
   - cpe:2.3:a:dradisframework:dradis:3.11:*:*:*:community:*:*:*
   - cpe:2.3:a:dradisframework:dradis:3.1.1:*:*:*:professional:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.12.0:*:*:*:community:*:*:*
   - cpe:2.3:a:dradisframework:dradis:3.1.2:*:*:*:professional:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.13.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.14.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.15.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.16.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.17.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.17.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.18.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.19.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.20.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.21.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:3.22.0:*:*:*:community:*:*:*
   - cpe:2.3:a:dradisframework:dradis:3.4.1:*:*:*:professional:*:*:*
   - cpe:2.3:a:dradisframework:dradis:3.6.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.0.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.10.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.1.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.11.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.12.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.1.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.13.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.14.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.15.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.16.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.2.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.2.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.3.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.4.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.5.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.6.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.7.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.8.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:dradisframework:dradis:4.9.0:*:*:*:community:*:*:*

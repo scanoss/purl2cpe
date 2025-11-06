@@ -347,10 +347,34 @@ cpes:
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.3a:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.44.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.44.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.44.4:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.4a:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.45.92:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.5a:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.46.6:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.47.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.47.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.47.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:webkitgtk:webkitgtk:2.47.90:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:webkitgtk:webkitgtk:2.5.1a:*:*:*:*:*:*:*

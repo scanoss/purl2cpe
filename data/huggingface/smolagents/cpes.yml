@@ -1,3 +1,8 @@
 cpes:
   - cpe:2.3:a:huggingface:smolagents:*:*:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:smolagents:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:smolagents:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:smolagents:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:smolagents:1.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:smolagents:1.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:smolagents:1.21.3:*:*:*:*:*:*:*

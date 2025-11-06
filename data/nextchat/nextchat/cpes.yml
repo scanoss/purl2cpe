@@ -28,6 +28,26 @@ cpes:
   - cpe:2.3:a:nextchat:nextchat:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.15.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.4:*:*:*:*:*:*:*
