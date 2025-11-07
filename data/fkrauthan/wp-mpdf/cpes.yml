@@ -1,2 +1,24 @@
 cpes:
+  - cpe:2.3:a:fkrauthan:wp-mpdf:2.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:2.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:2.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fkrauthan:wp-mpdf:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fkrauthan:wp-mpdf:-:*:*:*:*:wordpress:*:*

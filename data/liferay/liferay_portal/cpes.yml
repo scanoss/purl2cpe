@@ -272,6 +272,14 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.110:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.111:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.112:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.113:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.114:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.115:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.116:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.117:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.118:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.119:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.13:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.14:*:*:*:*:*:*:*
