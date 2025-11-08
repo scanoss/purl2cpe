@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:openkm:openkm:6.3.10:*:*:*:community:*:*:*
   - cpe:2.3:a:openkm:openkm:6.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:openkm:openkm:6.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.12:*:*:*:community:*:*:*
   - cpe:2.3:a:openkm:openkm:6.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openkm:openkm:6.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openkm:openkm:6.3.4:*:*:*:*:*:*:*

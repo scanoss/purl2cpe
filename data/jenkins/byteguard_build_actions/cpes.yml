@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:byteguard_build_actions:1.0:*:*:*:*:jenkins:*:*
