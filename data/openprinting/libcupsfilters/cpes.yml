@@ -1,3 +1,13 @@
 cpes:
   - cpe:2.3:a:openprinting:libcupsfilters:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:libcupsfilters:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openprinting:libcupsfilters:2.1:beta1:*:*:*:*:*:*

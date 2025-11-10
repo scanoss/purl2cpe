@@ -5,10 +5,13 @@ cpes:
   - cpe:2.3:a:apache:apisix:0.3-1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:0.6:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.6rc0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.9-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:0.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix:0.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:0.9rc1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apisix:1.1:*:*:*:*:*:*:*
