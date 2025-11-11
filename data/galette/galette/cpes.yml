@@ -91,3 +91,4 @@ cpes:
   - cpe:2.3:a:galette:galette:1.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:galette:galette:1.1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:galette:galette:1.1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:galette:galette:1.2.0:alpha:*:*:*:*:*:*
