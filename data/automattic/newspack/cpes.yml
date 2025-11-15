@@ -1,24 +1,102 @@
 cpes:
   - cpe:2.3:a:automattic:newspack:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha10:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha12:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha13:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha14:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha15:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha16:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha17:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha18:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha19:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha20:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha21:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha8:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:alpha9:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.0.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.100.1:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.100.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.101.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.101.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.101.0:alpha3:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.101.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.102.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.102.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.103.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.103.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.104.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.104.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.104.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.105.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.105.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.105.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.105.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.105.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.106.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.106.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.106.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.106.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.107.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.107.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.108.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.108.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.109.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.109.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.109.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.110.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.110.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.11.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.111.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.111.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.112.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.112.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.113.0:alpha1:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.113.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.113.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.114.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.114.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.114.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.114.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.114.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.114.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.114.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.114.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.114.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.114.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:alpha8:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.115.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.115.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.116.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.116.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.116.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.116.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.116.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.117.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.12.0:*:*:*:*:wordpress:*:*
@@ -31,74 +109,450 @@ cpes:
   - cpe:2.3:a:automattic:newspack:1.16.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.16.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.17.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.17.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.18.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.18.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.18.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.20.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.20.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.21.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.21.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.21.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.21.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.21.1:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.22.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.22.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.22.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.23.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.23.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.24.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.24.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.25.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.25.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.26.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.26.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.27.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.27.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.27.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.28.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.28.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.28.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.28.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.29.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.29.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.30.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.30.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.30.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.30.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.30.1:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.31.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.31.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.31.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.31.1:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.32.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.32.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.32.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.2:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.33.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.34.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.34.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.34.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.34.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.35.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.35.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.35.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.36.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.36.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.37.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.37.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.38.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.38.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.38.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.38.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.39.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.39.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.40.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.40.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.41.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.41.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.42.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.42.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.42.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.43.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.43.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.43.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.43.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.44.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.44.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.45.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.45.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.46.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.46.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.46.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.46.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.47.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.47.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.47.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.48.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.48.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.48.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.48.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.48.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.49.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.49.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.49.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.50.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.50.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.50.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.51.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.51.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.51.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.51.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.51.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.52.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.52.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.53.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.53.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.53.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.54.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.54.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.54.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.55.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.55.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.56.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.56.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.56.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.56.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.57.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.57.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.57.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.58.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.58.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.58.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.59.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.59.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.60.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.60.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.60.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.61.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.61.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.62.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.62.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.62.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.62.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.62.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.63.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.63.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.63.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.64.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.64.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.65.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.65.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.66.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.66.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.67.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.68.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.68.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.68.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.68.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.69.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.69.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.70.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.70.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.71.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.72.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.72.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.72.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.72.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.73.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.73.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.73.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.73.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.73.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.74.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.74.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.74.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.75.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.75.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.75.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.75.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.76.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.76.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.76.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.76.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.76.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.77.2:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.77.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.78.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.78.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.78.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.78.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.78.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.79.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.79.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.79.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.79.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.80.1:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.81.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.81.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.81.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.81.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.82.2:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.83.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.3:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.83.3:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.84.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.84.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.85.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.85.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.85.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.85.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.85.1:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.85.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.86.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.86.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.86.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.86.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.87.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.87.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.88.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.88.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.88.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.89.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.89.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.89.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.89.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.89.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.90.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.90.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.90.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.90.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.91.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.91.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.91.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.91.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.91.2:hotfix2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.91.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.92.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.92.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.92.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.92.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.92.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.92.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.93.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.93.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.93.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.93.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.94.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.94.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.94.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.94.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.94.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.3:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.95.3:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.95.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.96.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.96.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.96.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.96.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.96.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.1:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.1:hotfix2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.3:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.97.3:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.98.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.98.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.98.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.98.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.98.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.99.0:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.99.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:1.99.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:1.99.2:hotfix1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.0.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.0.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.0.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.10.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.10.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.10.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.10.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.10.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.10.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.1.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.1.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.1.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:alpha8:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.1:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.2:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.2:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.11.2:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.11.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.11.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.11.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.11.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.12.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.12.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.12.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.12.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.12.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.12.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.12.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.13.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.13.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.13.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.13.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.14.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.14.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.15.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.15.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.15.0:alpha3:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.16.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.16.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.2.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.2.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.2.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.2.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.2.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.3.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.4.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.4.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.6.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.6.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.6.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.7.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.7.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.7.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.7.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.7.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.7.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.8.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.9.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:2.9.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.0.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.0.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.0.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.1.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.2.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.2.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.2.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.3.1:*:*:*:*:wordpress:*:*
@@ -106,11 +560,17 @@ cpes:
   - cpe:2.3:a:automattic:newspack:3.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.4.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.4.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.4.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.4.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.6.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.6.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.6.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.6.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.6.12:*:*:*:*:wordpress:*:*
@@ -124,6 +584,14 @@ cpes:
   - cpe:2.3:a:automattic:newspack:3.6.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.6.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha6:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:alpha7:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:newspack:3.7.0:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:newspack:3.8.1:*:*:*:*:wordpress:*:*

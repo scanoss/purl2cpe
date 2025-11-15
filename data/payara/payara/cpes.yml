@@ -118,6 +118,7 @@ cpes:
   - cpe:2.3:a:payara:payara:6.2024.7:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2024.8:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2024.9:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:6.2025.2:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.4.0:*:*:*:enterprise:*:*:*
