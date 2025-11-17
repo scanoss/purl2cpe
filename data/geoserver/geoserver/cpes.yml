@@ -121,6 +121,7 @@ cpes:
   - cpe:2.3:a:geoserver:geoserver:2.22.3:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22.4:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.22.6:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.22:milestone0:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.23.1:*:*:*:*:*:*:*
