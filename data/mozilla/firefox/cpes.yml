@@ -755,9 +755,12 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:50:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:50.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:50.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:50.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:50.0.2:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:50.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:50.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:51.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:51.0.3:*:*:*:*:*:*:*
@@ -935,6 +938,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:71.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:72.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:72.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:72.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:72.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:73.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:73.0.1:*:*:*:*:*:*:*

@@ -23,6 +23,7 @@ cpes:
   - cpe:2.3:a:radare:radare2:0.9.8:rc4:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:0.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:1.1.0:*:*:*:*:*:*:*
@@ -57,11 +58,18 @@ cpes:
   - cpe:2.3:a:radare:radare2:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:4.5.1:*:*:*:*:*:*:*
@@ -89,9 +97,14 @@ cpes:
   - cpe:2.3:a:radare:radare2:5.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:5.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:5.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:5.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:5.9.9:*:*:*:*:*:*:*

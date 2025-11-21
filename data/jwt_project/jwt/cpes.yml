@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jwt_project:jwt:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jwt_project:jwt:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jwt_project:jwt:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jwt_project:jwt:0.1.1:*:*:*:*:*:*:*

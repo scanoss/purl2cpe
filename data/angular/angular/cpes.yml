@@ -202,3 +202,4 @@ cpes:
   - cpe:2.3:a:angular:angular:1.8.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:1.8.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:1.8.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:*:*:*:*:*:node.js:*:*

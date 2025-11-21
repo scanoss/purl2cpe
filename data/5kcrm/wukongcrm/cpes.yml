@@ -1,4 +1,6 @@
 cpes:
   - cpe:2.3:a:5kcrm:wukongcrm:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:5kcrm:wukongcrm:11.0:*:*:*:java:*:*:*
   - cpe:2.3:a:5kcrm:wukongcrm:9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:5kcrm:wukongcrm:9.0.1_20191202:*:*:*:*:*:*:*
+  - cpe:2.3:a:5kcrm:wukongcrm:9.0:*:*:*:java:*:*:*
