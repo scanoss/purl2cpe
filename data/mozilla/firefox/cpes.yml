@@ -944,6 +944,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:73.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:74.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:74.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:74.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:75.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:76.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:76.0.1:*:*:*:*:*:*:*

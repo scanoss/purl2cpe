@@ -50,3 +50,4 @@ cpes:
   - cpe:2.3:a:lynxtechnology:twonky_server:8.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lynxtechnology:twonky_server:8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:lynxtechnology:twonky_server:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lynxtechnology:twonky_server:8.5.2:*:*:*:*:*:*:*

@@ -103,6 +103,7 @@ cpes:
   - cpe:2.3:a:puppet:puppet_enterprise:2023.1:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2023.3:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.8.1:*:*:*:*:*:*:*

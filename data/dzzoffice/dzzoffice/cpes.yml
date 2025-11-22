@@ -5,3 +5,9 @@ cpes:
   - cpe:2.3:a:dzzoffice:dzzoffice:2.02.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dzzoffice:dzzoffice:2.02.1_sc_utf8:*:*:*:*:*:*:*
   - cpe:2.3:a:dzzoffice:dzzoffice:2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dzzoffice:dzzoffice:2.3.7:*:*:*:*:*:*:*

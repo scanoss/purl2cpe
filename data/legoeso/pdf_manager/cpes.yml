@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:legoeso:pdf_manager:1.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:legoeso:pdf_manager:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:legoeso:pdf_manager:-:*:*:*:*:wordpress:*:*

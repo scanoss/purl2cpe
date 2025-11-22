@@ -1,3 +1,5 @@
 cpes:
+  - cpe:2.3:a:kallidan:kd_coming_soon:1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kallidan:kd_coming_soon:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kallidan:kd_coming_soon:*:*:*:*:wordpress:*:*:*
+  - cpe:2.3:a:kallidan:kd_coming_soon:-:*:*:*:*:wordpress:*:*

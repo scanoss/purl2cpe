@@ -1,5 +1,7 @@
 cpes:
   - cpe:2.3:a:qnap:download_station:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.10.0.291:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.10.0.304:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.1.226:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.2.247:*:*:*:*:*:*:*

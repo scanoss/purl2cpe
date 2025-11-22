@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:kykms:kykms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kykms:kykms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:kykms:kykms:1.0.1:*:*:*:*:*:*:*

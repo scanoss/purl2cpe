@@ -35,7 +35,14 @@ cpes:
   - cpe:2.3:a:magicbug:cloudlog:2.6.13:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.14:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.19:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.6.22:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.5:*:*:*:*:*:*:*
@@ -43,3 +50,9 @@ cpes:
   - cpe:2.3:a:magicbug:cloudlog:2.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:magicbug:cloudlog:2.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:magicbug:cloudlog:2.7.5:*:*:*:*:*:*:*

@@ -129,5 +129,6 @@ cpes:
   - cpe:2.3:a:combodo:itop:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:3.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:itop:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:combodo:itop:*:*:*:*:essential:*:*:*
   - cpe:2.3:a:combodo:itop:*:*:*:*:professional:*:*:*
