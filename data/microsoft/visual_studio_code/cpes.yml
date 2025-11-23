@@ -301,6 +301,8 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.104.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.104.2:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.104.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.105.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.105.1:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:matlab:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:tslint:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.1.1:*:*:*:*:*:*:*
