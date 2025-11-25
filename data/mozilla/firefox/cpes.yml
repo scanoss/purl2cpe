@@ -237,6 +237,9 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:115.24.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:115.25.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:115.26.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:115.28.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:115.29.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:115.30.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:115.3.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:115.3.1:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:115.4.0:*:*:*:esr:*:*:*
@@ -254,6 +257,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:116.0.2:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:116.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:116.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:116.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:117.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:117.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:117.0.1:*:*:*:*:*:*:*
@@ -341,10 +345,18 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:131.0.3:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:mozilla:firefox:140.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:14.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:140.1.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:140.3.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:140.3:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:140.4.0:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:140.5.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:141.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:143.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:144.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.5:-:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:15.0:*:*:*:*:*:*:*
