@@ -488,6 +488,8 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:-:*:*
   - cpe:2.3:a:mozilla:firefox:24.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:24.0.1:*:*:*:esr:*:*:*
+  - cpe:2.3:a:mozilla:firefox:24.0.2:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:24.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:*:*:*

@@ -62,6 +62,7 @@ cpes:
   - cpe:2.3:a:fedoraproject:sssd:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:1.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:1.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:1.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:1.1.91:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:1.1.92:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:1.2.0:*:*:*:*:*:*:*
@@ -116,4 +117,32 @@ cpes:
   - cpe:2.3:a:fedoraproject:sssd:1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fedoraproject:sssd:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:sssd:2.9.4:*:*:*:*:*:*:*

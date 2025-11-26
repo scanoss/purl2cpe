@@ -85,6 +85,7 @@ cpes:
   - cpe:2.3:a:piwigo:piwigo:15.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:15.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:15.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:15.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.0:rc1:*:*:*:*:*:*
