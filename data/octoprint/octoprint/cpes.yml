@@ -30,6 +30,7 @@ cpes:
   - cpe:2.3:a:octoprint:octoprint:1.11.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:octoprint:octoprint:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:octoprint:octoprint:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:octoprint:octoprint:1.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:octoprint:octoprint:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:octoprint:octoprint:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:octoprint:octoprint:1.2.0:dev:*:*:*:*:*:*

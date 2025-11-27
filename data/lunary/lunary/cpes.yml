@@ -125,6 +125,8 @@ cpes:
   - cpe:2.3:a:lunary:lunary:1.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lunary:lunary:1.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lunary:lunary:1.7.11:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.4:*:*:*:*:*:*:*
@@ -132,3 +134,4 @@ cpes:
   - cpe:2.3:a:lunary:lunary:1.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:lunary:lunary:1.8.0:*:*:*:*:*:*:*

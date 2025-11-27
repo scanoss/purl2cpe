@@ -50,3 +50,6 @@ cpes:
   - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyimages2.0_project:easyimages2.0:2.8.6:*:*:*:*:*:*:*
