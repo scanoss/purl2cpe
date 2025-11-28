@@ -182,6 +182,7 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:14.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:141.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:143.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:144.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.5:-:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:15.0:*:*:*:*:*:*:*

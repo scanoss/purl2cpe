@@ -334,6 +334,7 @@ cpes:
   - cpe:2.3:a:contao:contao:4.13.53:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.54:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:4.13.56:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:4.13.8:*:*:*:*:*:*:*
@@ -573,7 +574,11 @@ cpes:
   - cpe:2.3:a:contao:contao:5.3.35:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.36:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.39:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.3.41:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.3.7:*:*:*:*:*:*:*
@@ -623,3 +628,7 @@ cpes:
   - cpe:2.3:a:contao:contao:5.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.6.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:contao:contao:5.6.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contao:contao:5.6.4:*:*:*:*:*:*:*

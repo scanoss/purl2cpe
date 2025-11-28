@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:wolfssh:wolfssh:1.4.10:-:*:*:*:*:*:*
   - cpe:2.3:a:wolfssh:wolfssh:1.4.11:-:*:*:*:*:*:*
   - cpe:2.3:a:wolfssh:wolfssh:1.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssh:wolfssh:1.4.20:*:*:*:*:*:*:*
   - cpe:2.3:a:wolfssh:wolfssh:1.4.3:-:*:*:*:*:*:*
   - cpe:2.3:a:wolfssh:wolfssh:1.4.4:-:*:*:*:*:*:*
   - cpe:2.3:a:wolfssh:wolfssh:1.4.5:-:*:*:*:*:*:*

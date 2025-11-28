@@ -123,3 +123,9 @@ cpes:
   - cpe:2.3:a:wolfssl:wolfssl:5.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wolfssl:wolfssl:5.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wolfssl:wolfssl:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfssl:wolfssl:5.8.4:*:*:*:*:*:*:*

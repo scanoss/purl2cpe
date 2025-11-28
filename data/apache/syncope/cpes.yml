@@ -78,6 +78,7 @@ cpes:
   - cpe:2.3:a:apache:syncope:3.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:3.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:3.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:syncope:3.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:3.0.4:*:*:*:*:*:*:*
@@ -90,3 +91,4 @@ cpes:
   - cpe:2.3:a:apache:syncope:4.0.0:milestone0:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:4.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:syncope:4.0.2:*:*:*:*:*:*:*
