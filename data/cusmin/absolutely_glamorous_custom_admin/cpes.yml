@@ -94,5 +94,6 @@ cpes:
   - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:6.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:6.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:6.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:6.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cusmin:absolutely_glamorous_custom_admin:-:*:*:*:*:wordpress:*:*
