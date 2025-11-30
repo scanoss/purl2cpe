@@ -345,5 +345,10 @@ cpes:
   - cpe:2.3:a:fifu:featured_image_from_url:4.5.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fifu:featured_image_from_url:4.5.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fifu:featured_image_from_url:4.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fifu:featured_image_from_url:4.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fifu:featured_image_from_url:4.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fifu:featured_image_from_url:4.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fifu:featured_image_from_url:4.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fifu:featured_image_from_url:4.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fifu:featured_image_from_url:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fifu:featured_image_from_url:-:*:*:*:*:wordpress:*:*

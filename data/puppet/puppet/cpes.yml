@@ -314,8 +314,10 @@ cpes:
   - cpe:2.3:a:puppet:puppet:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.10.10:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.11:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.10.13:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.10.4:*:*:*:*:*:*:*
@@ -333,6 +335,24 @@ cpes:
   - cpe:2.3:a:puppet:puppet:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:4.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:4.99.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:5.0.1:*:*:*:*:*:*:*
