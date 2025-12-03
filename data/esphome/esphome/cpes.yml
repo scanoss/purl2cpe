@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:esphome:esphome:*:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:-:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:1.10.0:-:*:*:*:*:*:*

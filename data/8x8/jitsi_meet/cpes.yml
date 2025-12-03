@@ -2,6 +2,7 @@ cpes:
   - cpe:2.3:a:8x8:jitsi_meet:*:*:*:*:*:*:*:*
   - cpe:2.3:a:8x8:jitsi_meet:-:*:*:*:*:*:*:*
   - cpe:2.3:a:8x8:jitsi_meet:2.0.5963:*:*:*:*:*:*:*
+  - cpe:2.3:a:8x8:jitsi_meet:2.0.9779:*:*:*:*:*:*:*
   - cpe:2.3:a:8x8:jitsi_meet:5023:*:*:*:*:*:*:*
   - cpe:2.3:a:8x8:jitsi_meet:5024:*:*:*:*:*:*:*
   - cpe:2.3:a:8x8:jitsi_meet:5025:*:*:*:*:*:*:*

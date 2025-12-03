@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:jishenghua:jsherp:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jishenghua:jsherp:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jishenghua:jsherp:3.5:*:*:*:*:*:*:*

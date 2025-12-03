@@ -61,6 +61,7 @@ cpes:
   - cpe:2.3:a:redaxo:redaxo:5.18.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redaxo:redaxo:5.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redaxo:redaxo:5.4:*:*:*:*:*:*:*

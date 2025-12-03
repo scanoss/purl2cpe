@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:apache:brpc:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:brpc:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:brpc:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brpc:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:brpc:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:brpc:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:brpc:1.4.0:*:*:*:*:*:*:*
