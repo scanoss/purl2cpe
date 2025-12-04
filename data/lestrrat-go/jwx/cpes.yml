@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:lestrrat-go:jwx:2.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:lestrrat-go:jwx:2.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:lestrrat-go:jwx:2.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:lestrrat-go:jwx:2.0.19:*:*:*:*:*:*:*
   - cpe:2.3:a:lestrrat-go:jwx:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:lestrrat-go:jwx:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lestrrat-go:jwx:2.0.4:*:*:*:*:*:*:*

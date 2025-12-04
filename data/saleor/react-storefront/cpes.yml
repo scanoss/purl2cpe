@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:saleor:react-storefront:*:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:react-storefront:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:react-storefront:2023-06-16:*:*:*:*:*:*:*

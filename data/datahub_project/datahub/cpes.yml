@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:datahub_project:datahub:*:*:*:*:*:*:*:*
   - cpe:2.3:a:datahub_project:datahub:-:*:*:*:*:*:*:*
   - cpe:2.3:a:datahub_project:datahub:0.1.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:datahub_project:datahub:0.1.1:alpha:*:*:*:*:*:*

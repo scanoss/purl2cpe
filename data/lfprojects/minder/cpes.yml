@@ -24,6 +24,7 @@ cpes:
   - cpe:2.3:a:lfprojects:minder:0.0.30:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:minder:0.0.31:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:minder:0.0.31:*:*:*:*:go:*:*
+  - cpe:2.3:a:lfprojects:minder:0.0.32:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:minder:0.0.3:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:minder:0.0.4:*:*:*:*:go:*:*
   - cpe:2.3:a:lfprojects:minder:0.0.5:*:*:*:*:go:*:*
