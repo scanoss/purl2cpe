@@ -172,3 +172,4 @@ cpes:
   - cpe:2.3:a:apache:flink:1.9.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:flink:1.9.3:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:flink:1.9.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink:3.4.0:*:*:*:*:*:*:*

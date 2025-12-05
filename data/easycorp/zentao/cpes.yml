@@ -112,6 +112,7 @@ cpes:
   - cpe:2.3:a:easycorp:zentao:20.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:easycorp:zentao:21.5_2025-03-07:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:easycorp:zentao:2.3:*:*:*:*:*:*:*

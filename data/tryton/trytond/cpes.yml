@@ -492,6 +492,10 @@ cpes:
   - cpe:2.3:a:tryton:trytond:6.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:tryton:trytond:6.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:tryton:trytond:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:trytond:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:trytond:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:trytond:6.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:trytond:6.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tryton:trytond:6.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tryton:trytond:6.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:tryton:trytond:7.0.0:*:*:*:*:*:*:*

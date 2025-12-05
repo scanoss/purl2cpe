@@ -121,6 +121,11 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.12.12:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.12.13:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.12.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.12.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.12.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.12.19:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.12.4:*:*:*:*:*:*:*
@@ -157,8 +162,16 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.13.9:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:pre2:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot2:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot3:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot4:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot5:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.14.0:snapshot6:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.10:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.14.11:*:*:*:*:*:*:*
@@ -194,6 +207,10 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.15.13:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.15.14:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.15.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.15.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.15.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.15.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.15.19:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.15.4:*:*:*:*:*:*:*
@@ -205,7 +222,21 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:pre0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.16:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.4:*:*:*:*:*:*:*
@@ -213,13 +244,35 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.7:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.16.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.16.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.0:-:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.0:pre0:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.0:pre1:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.0:pre2:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.0:pre3:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:pre0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.18.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.2.0:rc2:*:*:*:*:*:*
