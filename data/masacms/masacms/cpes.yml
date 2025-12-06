@@ -440,8 +440,10 @@ cpes:
   - cpe:2.3:a:masacms:masacms:7.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:masacms:masacms:7.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:masacms:masacms:7.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.4:*:*:*:*:*:*:*
@@ -450,7 +452,9 @@ cpes:
   - cpe:2.3:a:masacms:masacms:7.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:masacms:masacms:7.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.4.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.4.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:masacms:masacms:7.4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:masacms:masacms:7.4.0:beta3:*:*:*:*:*:*

@@ -989,6 +989,7 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:15.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.83.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.0:*:*:*:*:*:*:*

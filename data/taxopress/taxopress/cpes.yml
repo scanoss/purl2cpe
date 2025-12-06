@@ -129,8 +129,13 @@ cpes:
   - cpe:2.3:a:taxopress:taxopress:3.27.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.28.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.28.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:taxopress:taxopress:3.30.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:taxopress:taxopress:3.31.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:taxopress:taxopress:3.32.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:taxopress:taxopress:3.33.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:taxopress:taxopress:3.34.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:taxopress:taxopress:3.4.2:*:*:*:*:wordpress:*:*
