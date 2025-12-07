@@ -1,2 +1,8 @@
 cpes:
   - cpe:2.3:a:xibosignage:xibo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.1.0:rc3:*:*:*:*:*:*

@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:a:astrbot:astrbot:3.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:astrbot:astrbot:3.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:astrbot:astrbot:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:astrbot:astrbot:3.5.22:*:*:*:*:*:*:*
   - cpe:2.3:a:astrbot:astrbot:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:astrbot:astrbot:3.5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:astrbot:astrbot:3.5.3.2:*:*:*:*:*:*:*
