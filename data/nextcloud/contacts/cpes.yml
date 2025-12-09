@@ -32,3 +32,20 @@ cpes:
   - cpe:2.3:a:nextcloud:contacts:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:contacts:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:contacts:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:contacts:5.0.2:*:*:*:*:*:*:*

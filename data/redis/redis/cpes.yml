@@ -171,6 +171,7 @@ cpes:
   - cpe:2.3:a:redis:redis:6.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:6.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:6.2.20:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:6.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:6.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:6.2.5:*:*:*:*:*:*:*
@@ -204,6 +205,7 @@ cpes:
   - cpe:2.3:a:redis:redis:7.2.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:7.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.2.4:*:*:*:*:*:*:*
@@ -221,9 +223,11 @@ cpes:
   - cpe:2.3:a:redis:redis:7.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:7.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:7.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.2.1:*:*:*:*:*:*:*
