@@ -490,7 +490,10 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:5.0.0:beta7:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:5.0.0:beta8:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:5.0.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:5.25.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:5.31.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:5.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:5.6.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:*:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:-:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:*:*:*:*:*:windows:*:*

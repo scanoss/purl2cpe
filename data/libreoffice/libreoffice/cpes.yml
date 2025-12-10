@@ -491,6 +491,7 @@ cpes:
   - cpe:2.3:a:libreoffice:libreoffice:7.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:7.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:7.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libreoffice:libreoffice:7.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:7.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libreoffice:libreoffice:7.5.2:*:*:*:*:*:*:*

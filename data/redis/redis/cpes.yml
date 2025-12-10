@@ -231,3 +231,4 @@ cpes:
   - cpe:2.3:a:redis:redis:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:8.2.2:*:*:*:*:*:*:*

@@ -95,4 +95,10 @@ cpes:
   - cpe:2.3:a:espressif:esp-idf:5.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.2:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.2:dev:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.3:-:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.3.0:*:*:*:*:*:*:*

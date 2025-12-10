@@ -293,6 +293,7 @@ cpes:
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.129:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.13:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.130:*:*:*:*:*:*:*
+  - cpe:2.3:a:liferay:liferay_portal:7.4.3.132:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.14:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:liferay:liferay_portal:7.4.3.16:*:*:*:*:*:*:*
