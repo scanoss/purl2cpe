@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/friendsofsymfony1/symfony1
+  - pkg:github/friendsofsymfony1/symfony1

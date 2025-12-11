@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jsonata-js/jsonata
+  - pkg:npm/jsonata

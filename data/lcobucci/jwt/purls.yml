@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/lcobucci/jwt
+  - pkg:github/lcobucci/jwt

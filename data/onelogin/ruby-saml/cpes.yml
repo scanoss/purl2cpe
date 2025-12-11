@@ -44,6 +44,7 @@ cpes:
   - cpe:2.3:a:onelogin:ruby-saml:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:onelogin:ruby-saml:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:onelogin:ruby-saml:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:onelogin:ruby-saml:1.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:onelogin:ruby-saml:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:onelogin:ruby-saml:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:onelogin:ruby-saml:1.15.0:*:*:*:*:*:*:*

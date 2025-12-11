@@ -35,12 +35,14 @@ cpes:
   - cpe:2.3:a:hashicorp:terraform:1.0.10:*:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.0.11:*:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.0.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:hashicorp:terraform:1.0.8:*:*:*:*:enterprise:*:*
   - cpe:2.3:a:hashicorp:terraform:1.0.9:*:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.0:-:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.10.0:*:*:*:*:aws:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.0:*:*:*:*:aws:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.0:beta1:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.0:beta2:*:*:*:-:*:*
+  - cpe:2.3:a:hashicorp:terraform:1.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.0-rc1:*:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.1.1:*:*:*:*:-:*:*
   - cpe:2.3:a:hashicorp:terraform:1.11.0:*:*:*:*:aws:*:*
@@ -181,3 +183,4 @@ cpes:
   - cpe:2.3:a:hashicorp:terraform:2.8.0:*:*:*:*:aws:*:*
   - cpe:2.3:a:hashicorp:terraform:2.9.0:*:*:*:*:aws:*:*
   - cpe:2.3:a:hashicorp:terraform:*:*:*:*:*:enterprise:*:*
+  - cpe:2.3:a:hashicorp:terraform:*:*:*:*:enterprise:*:*:*

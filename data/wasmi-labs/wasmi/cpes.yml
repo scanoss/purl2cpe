@@ -32,13 +32,19 @@ cpes:
   - cpe:2.3:a:wasmi-labs:wasmi:0.31.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.41.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.41.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.4:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.5:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.4.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.47.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.51.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.51.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:0.51.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.5.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.6.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.6.1:*:*:*:*:rust:*:*
@@ -46,4 +52,5 @@ cpes:
   - cpe:2.3:a:wasmi-labs:wasmi:0.8.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.9.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:0.9.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:wasmi-labs:wasmi:1.0.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:wasmi-labs:wasmi:*:*:*:*:*:rust:*:*

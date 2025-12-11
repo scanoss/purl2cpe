@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nodeca/js-yaml
+  - pkg:npm/js-yaml

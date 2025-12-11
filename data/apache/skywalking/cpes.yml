@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:skywalking:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:skywalking:0.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:skywalking:0.3.0:*:*:*:*:node.js:*:*
@@ -36,3 +37,4 @@ cpes:
   - cpe:2.3:a:apache:skywalking:8.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:*:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/johnbillion/wp-crontrol
+  - pkg:github/johnbillion/wp-crontrol

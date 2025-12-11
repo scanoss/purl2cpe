@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:netinvent:cryptidy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.0.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:netinvent:cryptidy:1.2.4:*:*:*:*:python:*:*

@@ -5,11 +5,19 @@ cpes:
   - cpe:2.3:a:evershop:evershop:1.0.0:beta4:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:beta5:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:beta:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.0.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc1:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc2:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc3:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc5:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc6:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:1.0.0:rc7:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.0.0:rc8:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.0.0:rc9:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:evershop:evershop:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:evershop:evershop:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:evershop:evershop:2.0.1:*:*:*:*:node.js:*:*

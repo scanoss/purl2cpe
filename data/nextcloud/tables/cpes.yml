@@ -50,3 +50,5 @@ cpes:
   - cpe:2.3:a:nextcloud:tables:1.0.0:beta1:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:tables:1.0.0:beta2:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:tables:1.0.0:beta3:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:tables:1.0.0:beta4:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:tables:1.0.0:-:*:*:*:nextcloud:*:*

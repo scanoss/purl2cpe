@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/webpack/webpack-dev-middleware
+  - pkg:npm/webpack-dev-middleware

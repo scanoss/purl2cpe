@@ -72,3 +72,4 @@ cpes:
   - cpe:2.3:a:ckeditor:ckeditor5:42.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:43.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:43.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:46.1.0:*:*:*:*:*:*:*

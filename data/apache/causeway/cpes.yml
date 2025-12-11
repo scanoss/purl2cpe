@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:apache:causeway:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:causeway:4.0.0:m1:*:*:*:*:*:*

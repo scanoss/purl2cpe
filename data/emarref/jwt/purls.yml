@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/emarref/jwt
+  - pkg:github/emarref/jwt

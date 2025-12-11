@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libjwt0
+  - pkg:deb/ubuntu/libjwt0
+  - pkg:github/benmcollins/libjwt
+  - pkg:rpm/fedora/libjwt
+  - pkg:rpm/opensuse/libjwt

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:acryl_data:datahub-helm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:acryl_data:datahub-helm:*:*:*:*:*:helm:*:*

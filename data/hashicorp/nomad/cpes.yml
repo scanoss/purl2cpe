@@ -245,9 +245,13 @@ cpes:
   - cpe:2.3:a:hashicorp:nomad:1.5.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.5.13:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.5.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.5.14:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.5.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.6.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.6.12:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.6.6:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.6.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.6.7:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.6.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.11:*:*:*:enterprise:*:*:*
@@ -261,12 +265,14 @@ cpes:
   - cpe:2.3:a:hashicorp:nomad:1.7.19:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.3.:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.3.:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.7.4:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.7.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.0:beta1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.0:rc1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:1.8.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.11:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.8.12:*:*:*:enterprise:*:*:*

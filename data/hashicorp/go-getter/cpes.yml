@@ -25,6 +25,7 @@ cpes:
   - cpe:2.3:a:hashicorp:go-getter:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.2:*:*:*:*:*:*:*

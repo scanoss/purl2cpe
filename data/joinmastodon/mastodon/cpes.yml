@@ -307,3 +307,6 @@ cpes:
   - cpe:2.3:a:joinmastodon:mastodon:4.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:joinmastodon:mastodon:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:joinmastodon:mastodon:4.5.0:beta1:*:*:*:*:*:*

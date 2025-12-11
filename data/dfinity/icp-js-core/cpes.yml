@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:dfinity:icp-js-core:0.20.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.20.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.20.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.20.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.21.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.21.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.21.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:0.21.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dfinity:icp-js-core:1.0.1:*:*:*:*:node.js:*:*

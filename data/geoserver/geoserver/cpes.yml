@@ -140,5 +140,10 @@ cpes:
   - cpe:2.3:a:geoserver:geoserver:2.25.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:2.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:geoserver:geoserver:2.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:3.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:geoserver:geoserver:*:beta4:*:*:*:*:*:*

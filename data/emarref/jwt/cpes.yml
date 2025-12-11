@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:emarref:jwt:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emarref:jwt:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emarref:jwt:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emarref:jwt:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emarref:jwt:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emarref:jwt:1.0.2:*:*:*:*:*:*:*

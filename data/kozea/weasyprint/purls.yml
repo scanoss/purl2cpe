@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kozea/weasyprint
+  - pkg:pypi/weasyprint

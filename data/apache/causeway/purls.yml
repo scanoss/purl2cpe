@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/causeway
+  - pkg:maven/org.apache.causeway.core/causeway-core

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/alexusmai/laravel-file-manager
+  - pkg:github/alexusmai/laravel-file-manager

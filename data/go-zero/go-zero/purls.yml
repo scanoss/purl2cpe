@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zeromicro/go-zero
+  - pkg:golang/github.com/zeromicro/go-zero

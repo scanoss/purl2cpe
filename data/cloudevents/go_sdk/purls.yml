@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudevents/sdk-go
+  - pkg:golang/github.com/cloudevents/sdk-go

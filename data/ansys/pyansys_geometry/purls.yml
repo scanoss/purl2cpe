@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ansys/pyansys-geometry
+  - pkg:pypi/ansys-geometry-core

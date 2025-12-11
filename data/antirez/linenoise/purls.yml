@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/antirez/linenoise
+  - pkg:rpm/fedora/linenoise
