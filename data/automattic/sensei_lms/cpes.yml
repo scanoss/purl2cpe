@@ -49,6 +49,7 @@ cpes:
   - cpe:2.3:a:automattic:sensei_lms:4.19.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.19.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.19.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automattic:sensei_lms:4.20.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.20.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.20.2:alpha1:*:*:*:wordpress:*:*
   - cpe:2.3:a:automattic:sensei_lms:4.20.2:-:*:*:*:wordpress:*:*
