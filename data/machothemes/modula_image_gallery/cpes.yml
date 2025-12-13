@@ -59,3 +59,4 @@ cpes:
   - cpe:2.3:a:machothemes:modula_image_gallery:2.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:modula_image_gallery:2.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:modula_image_gallery:2.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:machothemes:modula_image_gallery:*:*:*:*:*:wordpress:*:*

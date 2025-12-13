@@ -164,6 +164,8 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.10.33:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.10.34:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.10.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.10.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.10.37:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.10.6:*:*:*:*:*:*:*
@@ -231,6 +233,8 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.11.32:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.11.33:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.11.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.11.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.11.36:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.15:*:*:*:*:*:*:*
@@ -266,6 +270,8 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.12.22:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.12.23:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.12.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.12.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.12.26:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.23:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.24:*:*:*:*:*:*:*
@@ -290,6 +296,9 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.13.13:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.13.14:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.13.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.13.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.13.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.13.18:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.32:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.33:*:*:*:*:*:*:*
@@ -315,17 +324,23 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.1.45:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.14.56:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.14.61:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.47:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.48:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.15.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.15.37:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.16.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.16.34:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.17.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.17.32:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.18.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.18.28:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.19.15:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.19.5:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.2.1:*:*:*:*:*:*:*

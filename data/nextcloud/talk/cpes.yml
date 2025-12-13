@@ -183,7 +183,9 @@ cpes:
   - cpe:2.3:a:nextcloud:talk:13.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:13.0.4:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:13.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:13.0.5:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:13.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:13.0.6:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:13.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:13.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.0:beta1:*:*:*:*:*:*
@@ -197,7 +199,9 @@ cpes:
   - cpe:2.3:a:nextcloud:talk:14.0.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.0:rc4:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:14.0.1:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:14.0.2:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:14.0.5:*:*:*:*:*:*:*
