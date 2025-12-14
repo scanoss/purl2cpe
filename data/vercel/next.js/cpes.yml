@@ -1644,6 +1644,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:14.2.29:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:14.2.30:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:14.2.31:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:14.2.32:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:14.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:14.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:14.2.5:*:*:*:*:node.js:*:*
@@ -1954,6 +1955,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.0.4:canary8:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.0.4:canary9:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.0.4:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.1.1:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.1.1:canary10:*:*:*:node.js:*:*
@@ -1991,6 +1993,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.1.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.1.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.1.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.2.0:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.2.0:canary10:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.2.0:canary11:*:*:*:node.js:*:*
@@ -2090,6 +2093,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.2.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.3.0:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.3.0:canary10:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.3.0:canary11:*:*:*:node.js:*:*
@@ -2159,6 +2163,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.3.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.3.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.3.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.4.0:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.4.0:canary100:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.4.0:canary101:*:*:*:node.js:*:*
@@ -2355,6 +2360,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.4.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.4.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.4.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.1:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.1:canary10:*:*:*:node.js:*:*
@@ -2396,6 +2402,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.5.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.5.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary10:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary11:*:*:*:node.js:*:*
@@ -2449,6 +2456,8 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.6.0:canary55:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary56:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary57:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.6.0:canary58:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.6.0:canary59:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary5:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary6:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.6.0:canary7:*:*:*:node.js:*:*
@@ -2525,6 +2534,27 @@ cpes:
   - cpe:2.3:a:vercel:next.js:16.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:16.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:16.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary0:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary10:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary11:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary12:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary13:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary14:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary15:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary16:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary17:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary18:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary1:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary2:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary3:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary4:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary5:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary6:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary7:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary8:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:canary9:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:16.1.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:2.0.0:beta0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:2.0.0:beta10:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:2.0.0:beta11:*:*:*:node.js:*:*

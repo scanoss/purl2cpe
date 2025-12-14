@@ -554,6 +554,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.7.6:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.76.2:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.77.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.77.3:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.77.7:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.7.8:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.8.1:*:*:*:*:-:*:*

@@ -36,3 +36,5 @@ cpes:
   - cpe:2.3:a:apache:streampark:2.1.4:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:streampark:2.1.5:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:streampark:2.1.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:streampark:2.1.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:streampark:2.1.6:rc1:*:*:*:*:*:*

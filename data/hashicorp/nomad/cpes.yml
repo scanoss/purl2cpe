@@ -298,4 +298,5 @@ cpes:
   - cpe:2.3:a:hashicorp:nomad:1.9.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.9.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:nomad:1.9.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:nomad:*:*:*:*:community:*:*:*
   - cpe:2.3:a:hashicorp:nomad:*:*:*:*:enterprise:*:*:*
