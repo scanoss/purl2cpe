@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/plack-middleware-session
+  - pkg:github/plack/plack-middleware-session

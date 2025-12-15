@@ -38,6 +38,8 @@ cpes:
   - cpe:2.3:a:golang:crypto:0.42.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.43.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.44.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:golang:crypto:0.45.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:golang:crypto:0.46.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.5.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.6.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.7.0:*:*:*:*:go:*:*
