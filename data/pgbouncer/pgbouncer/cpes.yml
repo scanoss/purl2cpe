@@ -19,9 +19,23 @@ cpes:
   - cpe:2.3:a:pgbouncer:pgbouncer:1.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgbouncer:pgbouncer:1.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.3.1:-:*:*:*:*:*:*
   - cpe:2.3:a:pgbouncer:pgbouncer:1.3.1:rc1:*:*:*:*:*:*
