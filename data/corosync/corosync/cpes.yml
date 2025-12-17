@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:corosync:corosync:*:*:*:*:*:*:*:*
   - cpe:2.3:a:corosync:corosync:0.00:*:*:*:*:*:*:*
   - cpe:2.3:a:corosync:corosync:0.90:*:*:*:*:*:*:*
   - cpe:2.3:a:corosync:corosync:0.91:*:*:*:*:*:*:*

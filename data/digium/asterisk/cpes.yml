@@ -1197,3 +1197,4 @@ cpes:
   - cpe:2.3:a:digium:asterisk:c.3.6.4:-:business:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:c.3.7.5:-:business:*:*:*:*:*
   - cpe:2.3:a:digium:asterisk:c:-:business:*:*:*:*:*
+  - cpe:2.3:a:digium:asterisk:*:*:*:*:lts:*:*:*

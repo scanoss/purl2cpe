@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jsoup:jsoup:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jsoup:jsoup:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jsoup:jsoup:0.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jsoup:jsoup:0.2.1:*:*:*:*:*:*:*

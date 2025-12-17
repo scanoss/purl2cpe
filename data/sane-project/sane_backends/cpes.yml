@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:sane-project:sane_backends:*:*:*:*:*:*:*:*
   - cpe:2.3:o:sane-project:sane_backends:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:sane-project:sane_backends:1.0.10:*:*:*:*:*:*:*
   - cpe:2.3:o:sane-project:sane_backends:1.0.11:*:*:*:*:*:*:*

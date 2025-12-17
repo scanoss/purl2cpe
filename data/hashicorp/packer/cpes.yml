@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hashicorp:packer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:packer:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:packer:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:packer:0.10.1:*:*:*:*:*:*:*

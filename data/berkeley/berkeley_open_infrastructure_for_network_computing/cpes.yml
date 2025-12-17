@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:*:*:*:*:*:*:*:*
   - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.2:*:*:*:*:*:*:*

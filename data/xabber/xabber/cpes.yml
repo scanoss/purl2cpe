@@ -76,3 +76,4 @@ cpes:
   - cpe:2.3:a:xabber:xabber:2.6.6.645:*:*:*:vip:android:*:*
   - cpe:2.3:a:xabber:xabber:2.6.6:*:*:*:-:android:*:*
   - cpe:2.3:a:xabber:xabber:2.6:*:*:*:-:android:*:*
+  - cpe:2.3:a:xabber:xabber:*:*:*:*:*:android:*:*

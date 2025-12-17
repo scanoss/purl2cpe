@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:json-patch_project:json-patch:*:*:*:*:*:*:*:*
   - cpe:2.3:a:json-patch_project:json-patch:-:*:*:*:*:*:*:*
   - cpe:2.3:a:json-patch_project:json-patch:0.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:json-patch_project:json-patch:0.3.3:*:*:*:*:*:*:*

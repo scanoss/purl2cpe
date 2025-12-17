@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:jenkins:anchore_container_image_scanner:1.0.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:anchore_container_image_scanner:1.0.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:anchore_container_image_scanner:1.0.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:anchore_container_image_scanner:*:*:*:*:*:jenkins:*:*

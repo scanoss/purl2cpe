@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:actix:actix-utils:*:*:*:*:*:*:*:*
   - cpe:2.3:a:actix:actix-utils:0.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:actix:actix-utils:0.2.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:actix:actix-utils:0.2.1:*:*:*:*:rust:*:*

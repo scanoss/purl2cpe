@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:cdevroe:unmark:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cdevroe:unmark:1.9.2:*:*:*:*:*:*:*

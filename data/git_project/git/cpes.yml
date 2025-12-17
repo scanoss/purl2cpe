@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:git_project:git:*:*:*:*:*:*:*:*
   - cpe:2.3:a:git_project:git:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:git_project:git:0.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:git_project:git:0.1.2:*:*:*:*:node.js:*:*

@@ -387,3 +387,4 @@ cpes:
   - cpe:2.3:a:yoast:yoast_seo:9.7:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:9.8:rc1:*:*:*:wordpress:*:*
   - cpe:2.3:a:yoast:yoast_seo:-:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:yoast:yoast_seo:*:*:*:*:*:wordpress:*:*

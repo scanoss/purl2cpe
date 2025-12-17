@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opigno:tincan_question_type:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opigno:tincan_question_type:7.x-1.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:opigno:tincan_question_type:7.x-1.1:*:*:*:*:drupal:*:*
   - cpe:2.3:a:opigno:tincan_question_type:7.x-1.2:*:*:*:*:drupal:*:*

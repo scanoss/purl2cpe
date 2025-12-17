@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linux-pam:linux-pam:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:-:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:0.72:*:*:*:*:*:*:*
   - cpe:2.3:a:linux-pam:linux-pam:0.73:*:*:*:*:*:*:*

@@ -95,3 +95,4 @@ cpes:
   - cpe:2.3:a:jqueryui:jquery_ui:1.9.0:rc1:*:*:*:jquery:*:*
   - cpe:2.3:a:jqueryui:jquery_ui:1.9.1:*:*:*:*:jquery:*:*
   - cpe:2.3:a:jqueryui:jquery_ui:1.9.2:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:jqueryui:jquery_ui:*:*:*:*:*:jquery:*:*

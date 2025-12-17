@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:nautilus:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:nautilus:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:nautilus:0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:nautilus:0.8:*:*:*:*:*:*:*

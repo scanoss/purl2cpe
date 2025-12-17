@@ -6243,6 +6243,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.5:rc5:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.5:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.5:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.6:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.6:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.6.1:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.6.10:*:*:*:*:*:*:*
@@ -6445,10 +6446,18 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:numa_systems:*
   - cpe:2.3:o:linux:linux_kernel:*:*:power_64-bit:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:*:power_64bit:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc2:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:rc2_git7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc4:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:-rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc5:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:rc6:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:rc7-git6:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:*:rc8:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:x64:*
   - cpe:2.3:o:linux:linux_kernel:-:-:*:*:*:*:x64:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:x86:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gentoo:webmin:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:webmin:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:webmin:1.140:*:*:*:*:*:*:*
   - cpe:2.3:a:gentoo:webmin:1.150:*:*:*:*:*:*:*

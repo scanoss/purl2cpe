@@ -146,4 +146,5 @@ cpes:
   - cpe:2.3:a:asgaros:asgaros_forum:2.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:2.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:2.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:asgaros:asgaros_forum:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:asgaros:asgaros_forum:-:*:*:*:*:wordpress:*:*

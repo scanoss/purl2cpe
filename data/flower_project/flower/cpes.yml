@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:flower_project:flower:*:*:*:*:*:*:*:*
   - cpe:2.3:a:flower_project:flower:-:*:*:*:*:*:*:*
   - cpe:2.3:a:flower_project:flower:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:flower_project:flower:0.3:*:*:*:*:*:*:*

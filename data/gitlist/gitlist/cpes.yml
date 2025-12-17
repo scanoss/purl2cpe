@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gitlist:gitlist:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlist:gitlist:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlist:gitlist:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gitlist:gitlist:0.2:*:*:*:*:*:*:*

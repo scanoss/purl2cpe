@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mangoswebv4_project:mangoswebv4:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mangoswebv4_project:mangoswebv4:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mangoswebv4_project:mangoswebv4:4.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mangoswebv4_project:mangoswebv4:4.0.4:*:*:*:*:*:*:*

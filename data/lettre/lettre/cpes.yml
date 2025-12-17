@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lettre:lettre:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lettre:lettre:0.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:lettre:lettre:0.0.11:*:*:*:*:rust:*:*
   - cpe:2.3:a:lettre:lettre:0.0.13:*:*:*:*:*:*:*

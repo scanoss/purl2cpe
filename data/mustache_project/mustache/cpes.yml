@@ -46,3 +46,4 @@ cpes:
   - cpe:2.3:a:mustache_project:mustache:2.7.0:*:*:*:*:php:*:*
   - cpe:2.3:a:mustache_project:mustache:2.8.0:*:*:*:*:php:*:*
   - cpe:2.3:a:mustache_project:mustache:2.9.0:*:*:*:*:php:*:*
+  - cpe:2.3:a:mustache_project:mustache:*:*:*:*:*:php:*:*

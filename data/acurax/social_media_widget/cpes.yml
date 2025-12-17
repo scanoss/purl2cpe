@@ -22,3 +22,4 @@ cpes:
   - cpe:2.3:a:acurax:social_media_widget:3.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:acurax:social_media_widget:3.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:acurax:social_media_widget:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acurax:social_media_widget:*:*:*:*:*:wordpress:*:*

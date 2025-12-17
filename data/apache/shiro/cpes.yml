@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:shiro:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:shiro:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:shiro:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:shiro:1.1.0:*:*:*:*:*:*:*

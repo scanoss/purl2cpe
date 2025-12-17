@@ -67,3 +67,4 @@ cpes:
   - cpe:2.3:a:igniterealtime:smack:4.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:igniterealtime:smack:4.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:igniterealtime:smack:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:igniterealtime:smack:*:snapshot-2014-04-15:*:*:*:*:*:*

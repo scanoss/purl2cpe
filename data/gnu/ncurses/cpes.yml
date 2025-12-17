@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:ncurses:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:ncurses:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:ncurses:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:ncurses:4.1:*:*:*:*:*:*:*

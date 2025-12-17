@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:log4net:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:1.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:1.2.11:*:*:*:*:*:*:*

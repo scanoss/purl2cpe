@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:scrapy:scrapy:*:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:-:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:0.10:-:*:*:*:*:*:*

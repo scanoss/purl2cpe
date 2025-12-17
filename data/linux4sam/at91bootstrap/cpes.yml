@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linux4sam:at91bootstrap:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linux4sam:at91bootstrap:3.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:linux4sam:at91bootstrap:3.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:linux4sam:at91bootstrap:3.10.0:rc3:*:*:*:*:*:*

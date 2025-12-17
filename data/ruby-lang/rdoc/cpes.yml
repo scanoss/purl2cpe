@@ -1,8 +1,10 @@
 cpes:
+  - cpe:2.3:a:ruby-lang:rdoc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.0.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rdoc:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.4.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:2.4.1:*:*:*:*:ruby:*:*
@@ -27,6 +29,7 @@ cpes:
   - cpe:2.3:a:ruby-lang:rdoc:3.10:pre3:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.10:-:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.11:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rdoc:3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.12.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.12.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.12:*:*:*:*:ruby:*:*
@@ -48,6 +51,7 @@ cpes:
   - cpe:2.3:a:ruby-lang:rdoc:3.9.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.9.5:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:3.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:rdoc:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:rdoc:4.0.0:preview2.1:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:4.0.0:preview2:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:rdoc:4.0.0:rc2.1:*:*:*:ruby:*:*

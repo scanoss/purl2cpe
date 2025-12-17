@@ -233,4 +233,5 @@ cpes:
   - cpe:2.3:a:mailster:mailster:4.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mailster:mailster:4.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mailster:mailster:4.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailster:mailster:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mailster:mailster:-:*:*:*:*:wordpress:*:*

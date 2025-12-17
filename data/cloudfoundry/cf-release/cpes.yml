@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cloudfoundry:cf-release:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-release:100:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-release:101:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-release:102:*:*:*:*:*:*:*

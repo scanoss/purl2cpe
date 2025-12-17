@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:invoiceplane:invoiceplane:*:*:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:0.9:beta:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:1.0.1:*:*:*:*:*:*:*

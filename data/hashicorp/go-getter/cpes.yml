@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:-:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.0.1:*:*:*:*:*:*:*
@@ -26,8 +27,14 @@ cpes:
   - cpe:2.3:a:hashicorp:go-getter:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-getter:1.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-getter:2.0.2:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mhammond:pywin32:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mhammond:pywin32:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mhammond:pywin32:126:*:*:*:*:*:*:*
   - cpe:2.3:a:mhammond:pywin32:127:*:*:*:*:*:*:*

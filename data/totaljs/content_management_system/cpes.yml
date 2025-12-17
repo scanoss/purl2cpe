@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:totaljs:content_management_system:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:totaljs:content_management_system:-:*:*:*:*:node.js:*:*

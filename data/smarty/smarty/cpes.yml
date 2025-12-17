@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:smarty:smarty:*:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:1.0a:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:1.0b:*:*:*:*:*:*:*

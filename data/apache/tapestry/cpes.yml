@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:tapestry:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tapestry:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tapestry:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tapestry:0.1.1:*:*:*:*:*:*:*

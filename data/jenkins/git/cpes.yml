@@ -196,3 +196,4 @@ cpes:
   - cpe:2.3:a:jenkins:git:4.9.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git:4.9.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git:4.9.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:git:*:*:*:*:*:jenkins:*:*

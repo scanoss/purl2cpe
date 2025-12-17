@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:barracudadrive:barracudadrive:*:*:*:*:*:*:*:*
   - cpe:2.3:a:barracudadrive:barracudadrive:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:barracudadrive:barracudadrive:3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:barracudadrive:barracudadrive:3.6:*:*:*:*:*:*:*

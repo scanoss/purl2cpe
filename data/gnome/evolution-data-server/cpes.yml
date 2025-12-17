@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:evolution-data-server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:evolution-data-server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:evolution-data-server:2.25.92:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:evolution-data-server:3.22.0:*:*:*:*:*:*:*

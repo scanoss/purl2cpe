@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:1.0.1:*:*:*:*:*:*:*
@@ -150,6 +151,7 @@ cpes:
   - cpe:2.3:a:mozilla:seamonkey:2.20:beta3:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.21:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.21:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.22:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.22:beta2:*:*:*:*:*:*
@@ -215,3 +217,8 @@ cpes:
   - cpe:2.3:a:mozilla:seamonkey:2.9:beta3:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.9:beta4:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:seamonkey:2.:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:*:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:*:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:*:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:*:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:seamonkey:*:rc1:*:*:*:*:*:*

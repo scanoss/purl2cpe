@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rejetto:http_file_server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:rejetto:http_file_server:-:*:*:*:*:*:*:*
   - cpe:2.3:a:rejetto:http_file_server:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rejetto:http_file_server:0.11.0:*:*:*:*:*:*:*

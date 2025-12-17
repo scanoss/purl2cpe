@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gunet:open_eclass_platform:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gunet:open_eclass_platform:2.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gunet:open_eclass_platform:2.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gunet:open_eclass_platform:3.0:*:*:*:*:*:*:*

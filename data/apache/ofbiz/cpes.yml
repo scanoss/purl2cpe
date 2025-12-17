@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:ofbiz:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:09.04:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ofbiz:09.04.01:*:*:*:*:*:*:*

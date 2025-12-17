@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:hashicorp:vault:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:*:-:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.10.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.10.0:-:*:*:*:*:*:*

@@ -65,4 +65,5 @@ cpes:
   - cpe:2.3:a:wpkube:subscribe_to_comments_reloaded:220725:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpkube:subscribe_to_comments_reloaded:2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpkube:subscribe_to_comments_reloaded:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpkube:subscribe_to_comments_reloaded:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpkube:subscribe_to_comments_reloaded:-:*:*:*:*:wordpress:*:*

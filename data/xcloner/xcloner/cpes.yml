@@ -53,3 +53,4 @@ cpes:
   - cpe:2.3:a:xcloner:xcloner:4.2.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xcloner:xcloner:4.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:xcloner:xcloner:4.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xcloner:xcloner:*:*:*:*:*:wordpress:*:*

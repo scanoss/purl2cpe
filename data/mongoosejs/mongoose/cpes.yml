@@ -904,4 +904,5 @@ cpes:
   - cpe:2.3:a:mongoosejs:mongoose:8.9.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:8.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:8.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mongoosejs:mongoose:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:-:*:*:*:*:node.js:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apple:webkit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:webkit:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:webkit:103:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:webkit:106.2:*:*:*:*:*:*:*

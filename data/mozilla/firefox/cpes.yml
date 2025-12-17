@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:*-:*:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:*:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:0.10:*:*:*:*:*:*:*
@@ -1105,6 +1106,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:99.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:android:*:*:*
+  - cpe:2.3:a:mozilla:firefox:*:beta2:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:-:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:*:*:*:*:esr:*:x86:*

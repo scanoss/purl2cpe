@@ -12,3 +12,4 @@ cpes:
   - cpe:2.3:a:uri-js_project:uri-js:4.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:uri-js_project:uri-js:4.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:uri-js_project:uri-js:4.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:uri-js_project:uri-js:*:*:*:*:*:node.js:*:*

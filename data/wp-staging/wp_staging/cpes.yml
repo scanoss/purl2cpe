@@ -155,4 +155,5 @@ cpes:
   - cpe:2.3:a:wp-staging:wp_staging:3.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:3.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:3.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-staging:wp_staging:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-staging:wp_staging:-:*:*:*:*:wordpress:*:*

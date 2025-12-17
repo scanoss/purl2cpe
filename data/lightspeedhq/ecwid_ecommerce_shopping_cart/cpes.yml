@@ -225,3 +225,4 @@ cpes:
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lightspeedhq:ecwid_ecommerce_shopping_cart:*:*:*:*:*:wordpress:*:*

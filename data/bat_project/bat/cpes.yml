@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bat_project:bat:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bat_project:bat:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:bat_project:bat:0.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:bat_project:bat:0.11.0:*:*:*:*:rust:*:*

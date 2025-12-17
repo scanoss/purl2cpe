@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jenkins:backlog:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:backlog:1.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:backlog:1.10:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:backlog:1.11:*:*:*:*:jenkins:*:*

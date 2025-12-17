@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:mesos:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mesos:0.10.0:beta1:*:*:*:jenkins:*:*
   - cpe:2.3:a:apache:mesos:0.10.0:beta2:*:*:*:jenkins:*:*
   - cpe:2.3:a:apache:mesos:0.10.0:beta3:*:*:*:jenkins:*:*

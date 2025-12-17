@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:codiad:codiad:*:*:*:*:*:*:*:*
   - cpe:2.3:a:codiad:codiad:-:*:*:*:*:*:*:*
   - cpe:2.3:a:codiad:codiad:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:codiad:codiad:1.0.1:*:*:*:*:*:*:*

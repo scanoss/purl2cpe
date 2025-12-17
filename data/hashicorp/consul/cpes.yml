@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hashicorp:consul:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:*:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:-:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:0.1.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:kyverno:kyverno:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:-:*:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:0.10.0:*:*:*:*:*:*:*

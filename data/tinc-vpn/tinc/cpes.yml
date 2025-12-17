@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tinc-vpn:tinc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tinc-vpn:tinc:0.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:tinc-vpn:tinc:0.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tinc-vpn:tinc:1.0:*:*:*:*:*:*:*

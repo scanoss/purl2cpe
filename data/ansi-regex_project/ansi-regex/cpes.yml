@@ -18,4 +18,5 @@ cpes:
   - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ansi-regex_project:ansi-regex:-:*:*:*:*:node.js:*:*

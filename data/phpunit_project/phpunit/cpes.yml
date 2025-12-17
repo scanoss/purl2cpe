@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:phpunit_project:phpunit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:phpunit_project:phpunit:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:phpunit_project:phpunit:1.0.0:-:*:*:*:-:*:*
   - cpe:2.3:a:phpunit_project:phpunit:1.0.0:rc1:*:*:*:*:*:*

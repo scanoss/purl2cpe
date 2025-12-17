@@ -410,4 +410,5 @@ cpes:
   - cpe:2.3:a:tribulant:newsletters:4.9:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:-:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:tribulant:newsletters:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:-:*:*:*:*:wordpress:*:*

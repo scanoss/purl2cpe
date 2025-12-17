@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:awin:awin_data_feed:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awin:awin_data_feed:*:*:*:*:*:wordpress:*:*

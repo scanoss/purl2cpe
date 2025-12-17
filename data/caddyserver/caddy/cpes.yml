@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:caddyserver:caddy:*:*:*:*:*:*:*:*
   - cpe:2.3:a:caddyserver:caddy:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:caddyserver:caddy:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:caddyserver:caddy:0.10.10:*:*:*:*:*:*:*

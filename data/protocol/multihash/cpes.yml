@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:protocol:multihash:*:*:*:*:*:*:*:*
   - cpe:2.3:a:protocol:multihash:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:protocol:multihash:0.10.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:protocol:multihash:0.11.0:*:*:*:*:rust:*:*

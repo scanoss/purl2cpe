@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pagehelper_project:pagehelper:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pagehelper_project:pagehelper:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pagehelper_project:pagehelper:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pagehelper_project:pagehelper:2.0:*:*:*:*:*:*:*

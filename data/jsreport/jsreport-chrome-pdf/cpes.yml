@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jsreport:jsreport-chrome-pdf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jsreport:jsreport-chrome-pdf:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:jsreport:jsreport-chrome-pdf:0.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:jsreport:jsreport-chrome-pdf:0.2.1:*:*:*:*:node.js:*:*

@@ -1166,6 +1166,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:9.3:rc1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:9.3:rc2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:*:pre-release:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:*:rc1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:*:release_p1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:*:release_p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:*:release_p4:*:*:*:*:*:*

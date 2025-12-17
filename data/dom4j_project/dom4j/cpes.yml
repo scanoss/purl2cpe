@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dom4j_project:dom4j:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dom4j_project:dom4j:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dom4j_project:dom4j:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dom4j_project:dom4j:1.3:*:*:*:*:*:*:*

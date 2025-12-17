@@ -38,6 +38,7 @@ cpes:
   - cpe:2.3:a:pfsense:pfsense:2.3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pfsense:pfsense:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pfsense:pfsense:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pfsense:pfsense:2.4.4:p2:*:*:community:*:*:*
   - cpe:2.3:a:pfsense:pfsense:2.4.4:p2:*:*:community:*:-:*
   - cpe:2.3:a:pfsense:pfsense:2.4.4:p2:*:*:community:*:arm64:*
   - cpe:2.3:a:pfsense:pfsense:2.4.4:p3:*:*:community:*:*:*

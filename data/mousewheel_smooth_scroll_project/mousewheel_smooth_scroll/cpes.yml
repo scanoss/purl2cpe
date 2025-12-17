@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.3:*:*:*:*:wordpress:*:*

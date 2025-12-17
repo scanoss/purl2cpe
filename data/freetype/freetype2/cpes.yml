@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:freetype:freetype2:*:*:*:*:*:*:*:*
   - cpe:2.3:a:freetype:freetype2:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freetype:freetype2:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freetype:freetype2:2.6.2:*:*:*:*:*:*:*

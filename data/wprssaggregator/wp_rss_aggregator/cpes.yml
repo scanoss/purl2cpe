@@ -134,4 +134,5 @@ cpes:
   - cpe:2.3:a:wprssaggregator:wp_rss_aggregator:4.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wprssaggregator:wp_rss_aggregator:4.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wprssaggregator:wp_rss_aggregator:4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wprssaggregator:wp_rss_aggregator:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wprssaggregator:wp_rss_aggregator:-:*:*:*:*:wordpress:*:*

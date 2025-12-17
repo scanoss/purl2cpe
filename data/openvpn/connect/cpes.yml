@@ -65,4 +65,5 @@ cpes:
   - cpe:2.3:a:openvpn:connect:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:connect:3.5.0:*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:*:*:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:*:*:*:*:*:windows:*:*

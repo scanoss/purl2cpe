@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:brassica:soy_cms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:brassica:soy_cms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:brassica:soy_cms:1.8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:brassica:soy_cms:3.0.0:*:*:*:*:*:*:*

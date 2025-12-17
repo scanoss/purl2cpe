@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:intel:microcode:*:*:*:*:*:*:*:*
   - cpe:2.3:a:intel:microcode:-:*:*:*:*:*:*:*
   - cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*
   - cpe:2.3:o:intel:microcode:20190312:*:*:*:*:*:*:*

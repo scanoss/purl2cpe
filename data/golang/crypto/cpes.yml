@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:golang:crypto:*:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:crypto:-:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:crypto:0.10.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:crypto:0.1.0:*:*:*:*:go:*:*

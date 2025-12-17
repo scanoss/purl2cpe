@@ -95,6 +95,7 @@ cpes:
   - cpe:2.3:a:snapcreek:duplicator:1.2.28:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.30:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.32:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:snapcreek:duplicator:1.2.32:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.34:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.36:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:1.2.38:*:*:*:lite:wordpress:*:*
@@ -268,3 +269,4 @@ cpes:
   - cpe:2.3:a:snapcreek:duplicator:3.8.4:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:3.8.7.1:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:snapcreek:duplicator:*:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:snapcreek:duplicator:*:*:*:*:*:wordpress:*:*

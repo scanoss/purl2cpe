@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vmd_project:vmd:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vmd_project:vmd:1.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vmd_project:vmd:1.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vmd_project:vmd:1.0.3:*:*:*:*:node.js:*:*

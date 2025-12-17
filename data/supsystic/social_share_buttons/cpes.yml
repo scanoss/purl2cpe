@@ -89,3 +89,4 @@ cpes:
   - cpe:2.3:a:supsystic:social_share_buttons:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:social_share_buttons:2.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:supsystic:social_share_buttons:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:social_share_buttons:*:*:*:*:*:wordpress:*:*

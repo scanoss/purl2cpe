@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:shopizer:shopizer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:shopizer:shopizer:1.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:shopizer:shopizer:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shopizer:shopizer:2.0.1:*:*:*:*:*:*:*

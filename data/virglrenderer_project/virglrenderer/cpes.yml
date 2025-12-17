@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:virglrenderer_project:virglrenderer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:virglrenderer_project:virglrenderer:-:*:*:*:*:*:*:*
   - cpe:2.3:a:virglrenderer_project:virglrenderer:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virglrenderer_project:virglrenderer:0.10.1:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:slims:senayan_library_management_system_bulian:*:*:*:*:*:*:*:*
   - cpe:2.3:a:slims:senayan_library_management_system_bulian:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:slims:senayan_library_management_system_bulian:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:slims:senayan_library_management_system_bulian:9.1.1:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:portable_runtime:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:portable_runtime:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:portable_runtime:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:portable_runtime:0.9.1:*:*:*:*:*:*:*

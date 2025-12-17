@@ -1385,6 +1385,7 @@ cpes:
   - cpe:2.3:a:libpng:libpng:1.6.4:rc01:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpng:libpng:1.6.51:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:1.6.7:-:*:*:*:*:*:*
@@ -1506,3 +1507,4 @@ cpes:
   - cpe:2.3:a:libpng:libpng:beta1:*:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:*:beta2:*:*:*:*:*:*
   - cpe:2.3:a:libpng:libpng:*:beta33:*:*:*:*:*:*
+  - cpe:2.3:a:libpng:libpng:*:beta4:*:*:*:*:*:*

@@ -80,3 +80,4 @@ cpes:
   - cpe:2.3:a:yargs:yargs-parser:9.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:yargs:yargs-parser:9.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:yargs:yargs-parser:9.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:yargs:yargs-parser:*:*:*:*:*:node.js:*:*

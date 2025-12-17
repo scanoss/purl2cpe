@@ -223,4 +223,5 @@ cpes:
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.41:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.8.50:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:-:*:*:*:*:wordpress:*:*

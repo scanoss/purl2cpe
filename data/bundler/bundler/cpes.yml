@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bundler:bundler:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bundler:bundler:0.3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:bundler:bundler:0.4.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:bundler:bundler:0.4.1:*:*:*:*:ruby:*:*

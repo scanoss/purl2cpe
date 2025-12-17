@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnuplot:gnuplot:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:1.10:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:gnuplot:gnuplot:2.0:*:*:*:*:*:*:*

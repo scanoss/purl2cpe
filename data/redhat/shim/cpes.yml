@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:shim:-:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:shim:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:shim:0.4:*:*:*:*:*:*:*

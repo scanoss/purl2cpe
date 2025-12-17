@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ovirt-engine:-:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ovirt-engine:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ovirt-engine:3.0.0_0001:*:*:*:*:*:*:*

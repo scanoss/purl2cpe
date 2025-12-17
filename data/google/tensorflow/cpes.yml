@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:google:tensorflow:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tensorflow:*:*:*:*:-:*:*:*
   - cpe:2.3:a:google:tensorflow:-:*:*:*:*:*:*:*
   - cpe:2.3:a:google:tensorflow:-:*:*:*:-:*:*:*
   - cpe:2.3:a:google:tensorflow:0.10.0:-:*:*:*:*:*:*

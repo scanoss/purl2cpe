@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xml-libxml_project:xml-libxml:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xml-libxml_project:xml-libxml:0.91:*:*:*:*:perl:*:*
   - cpe:2.3:a:xml-libxml_project:xml-libxml:0.92:*:*:*:*:perl:*:*
   - cpe:2.3:a:xml-libxml_project:xml-libxml:0.96:*:*:*:*:perl:*:*

@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:apache:answer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:*:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:answer:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:answer:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:answer:0.3.0:*:*:*:*:*:*:*

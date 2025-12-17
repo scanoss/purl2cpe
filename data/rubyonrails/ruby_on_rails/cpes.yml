@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rubyonrails:ruby_on_rails:*:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyonrails:ruby_on_rails:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyonrails:ruby_on_rails:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyonrails:ruby_on_rails:0.11.0:*:*:*:*:*:*:*

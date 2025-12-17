@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:gdk-pixbuf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gdk-pixbuf:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gdk-pixbuf:2.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gdk-pixbuf:2.16.3:*:*:*:*:*:*:*

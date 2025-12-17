@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:invisible-island:xterm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:invisible-island:xterm:215:*:*:*:*:*:*:*
   - cpe:2.3:a:invisible-island:xterm:216:*:*:*:*:*:*:*
   - cpe:2.3:a:invisible-island:xterm:217:*:*:*:*:*:*:*

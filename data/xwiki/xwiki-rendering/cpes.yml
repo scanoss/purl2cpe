@@ -164,10 +164,26 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki-rendering:14.1:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.19:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.21:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:14.10.9:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.2:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.2.1:*:*:*:*:*:*:*
@@ -195,6 +211,103 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki-rendering:14.9:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:16.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:17.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:3.0:milestone3:*:*:*:*:*:*

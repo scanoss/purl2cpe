@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:commons_beanutils:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_beanutils:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_beanutils:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_beanutils:1.2:*:*:*:*:*:*:*

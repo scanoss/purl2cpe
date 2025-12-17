@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:polarssl:polarssl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:polarssl:polarssl:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:polarssl:polarssl:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:polarssl:polarssl:0.11.0:*:*:*:*:*:*:*

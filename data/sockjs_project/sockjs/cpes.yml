@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sockjs_project:sockjs:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sockjs_project:sockjs:-:*:*:*:*:*:*:*
   - cpe:2.3:a:sockjs_project:sockjs:0.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sockjs_project:sockjs:0.0.0:*:*:*:*:node.js:*:*

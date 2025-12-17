@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:unity8:unity8:*:*:*:*:*:*:*:*
   - cpe:2.3:a:unity8:unity8:-:*:*:*:*:*:*:*

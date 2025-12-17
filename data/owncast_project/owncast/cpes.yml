@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:owncast_project:owncast:*:*:*:*:*:*:*:*
   - cpe:2.3:a:owncast_project:owncast:0.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:owncast_project:owncast:0.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:owncast_project:owncast:0.0.11:*:*:*:*:*:*:*

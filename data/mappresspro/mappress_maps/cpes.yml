@@ -206,4 +206,5 @@ cpes:
   - cpe:2.3:a:mappresspro:mappress_maps:2.74.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps:2.74:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps:2.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mappresspro:mappress_maps:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mappresspro:mappress_maps:-:*:*:*:*:wordpress:*:*

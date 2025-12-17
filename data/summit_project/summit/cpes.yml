@@ -31,3 +31,4 @@ cpes:
   - cpe:2.3:a:summit_project:summit:0.1.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:summit_project:summit:0.1.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:summit_project:summit:0.1.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:summit_project:summit:*:*:*:*:*:node.js:*:*

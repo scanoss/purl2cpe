@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fasterxml:jackson:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson:-:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson:0.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson:1.0.0:*:*:*:*:*:*:*

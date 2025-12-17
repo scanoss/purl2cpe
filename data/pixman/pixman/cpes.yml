@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pixman:pixman:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pixman:pixman:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pixman:pixman:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pixman:pixman:0.12.0:*:*:*:*:*:*:*

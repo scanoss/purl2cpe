@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bitlbee:bitlbee:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bitlbee:bitlbee:0.71:*:*:*:*:*:*:*
   - cpe:2.3:a:bitlbee:bitlbee:0.72:*:*:*:*:*:*:*
   - cpe:2.3:a:bitlbee:bitlbee:0.73:*:*:*:*:*:*:*

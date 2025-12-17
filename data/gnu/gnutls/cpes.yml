@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:1.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:1.0.17:*:*:*:*:*:*:*

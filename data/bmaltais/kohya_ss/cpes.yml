@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bmaltais:kohya_ss:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bmaltais:kohya_ss:10:*:*:*:*:*:*:*
   - cpe:2.3:a:bmaltais:kohya_ss:11:*:*:*:*:*:*:*
   - cpe:2.3:a:bmaltais:kohya_ss:12:*:*:*:*:*:*:*

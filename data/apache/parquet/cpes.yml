@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:parquet:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:parquet:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:parquet:1.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:parquet:1.13.0:*:*:*:*:*:*:*

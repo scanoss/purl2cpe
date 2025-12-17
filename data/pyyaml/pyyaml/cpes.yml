@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pyyaml:pyyaml:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pyyaml:pyyaml:3.01:*:*:*:*:*:*:*
   - cpe:2.3:a:pyyaml:pyyaml:3.02:*:*:*:*:*:*:*
   - cpe:2.3:a:pyyaml:pyyaml:3.03:*:*:*:*:*:*:*

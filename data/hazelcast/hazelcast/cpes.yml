@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:hazelcast:hazelcast:*:-:*:*:-:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:1.9.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hazelcast:hazelcast:1.9.3.3:*:*:*:*:*:*:*

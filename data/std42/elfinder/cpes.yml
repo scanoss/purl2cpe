@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:std42:elfinder:*:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:std42:elfinder:1.2:*:*:*:*:*:*:*

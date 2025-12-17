@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:alpinelinux:alpine_linux:*:*:*:*:*:*:*:*
   - cpe:2.3:o:alpinelinux:alpine_linux:-:*:*:*:*:*:*:*
   - cpe:2.3:o:alpinelinux:alpine_linux:2.0:-:*:*:*:*:*:*
   - cpe:2.3:o:alpinelinux:alpine_linux:2.0.1:*:*:*:*:*:*:*

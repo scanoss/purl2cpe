@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sickrage:sickrage:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sickrage:sickrage:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:sickrage:sickrage:10.0.0:dev10:*:*:*:*:*:*
   - cpe:2.3:a:sickrage:sickrage:10.0.0:dev11:*:*:*:*:*:*

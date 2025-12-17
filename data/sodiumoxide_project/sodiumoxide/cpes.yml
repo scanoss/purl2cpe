@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sodiumoxide_project:sodiumoxide:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sodiumoxide_project:sodiumoxide:0.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sodiumoxide_project:sodiumoxide:0.0.10:*:*:*:*:rust:*:*
   - cpe:2.3:a:sodiumoxide_project:sodiumoxide:0.0.11:*:*:*:*:*:*:*

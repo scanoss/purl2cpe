@@ -414,4 +414,5 @@ cpes:
   - cpe:2.3:a:themeum:tutor_lms:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:-:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:themeum:tutor_lms:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeum:tutor_lms:-:*:*:*:*:wordpress:*:*

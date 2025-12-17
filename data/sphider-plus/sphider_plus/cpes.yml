@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:sphider-plus:sphider_plus:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sphider-plus:sphider_plus:-:*:*:*:*:*:*:*

@@ -13,4 +13,5 @@ cpes:
   - cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:-:*:*:*:*:ruby:*:*

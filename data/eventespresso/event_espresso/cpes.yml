@@ -108,3 +108,4 @@ cpes:
   - cpe:2.3:a:eventespresso:event_espresso:4.9.81:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:eventespresso:event_espresso:4.9.82:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:eventespresso:event_espresso:*:*:*:*:decaf:wordpress:*:*
+  - cpe:2.3:a:eventespresso:event_espresso:*:*:*:*:*:wordpress:*:*

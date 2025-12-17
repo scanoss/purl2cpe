@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gparted:gparted:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gparted:gparted:0.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gparted:gparted:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gparted:gparted:0.11.0:*:*:*:*:*:*:*

@@ -42,3 +42,4 @@ cpes:
   - cpe:2.3:a:normalize-url_project:normalize-url:5.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:normalize-url_project:normalize-url:6.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:normalize-url_project:normalize-url:6.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:normalize-url_project:normalize-url:*:*:*:*:*:node.js:*:*

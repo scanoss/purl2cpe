@@ -308,4 +308,5 @@ cpes:
   - cpe:2.3:a:ultimatemember:ultimate_member:2.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:2.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatemember:ultimate_member:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ultimatemember:ultimate_member:-:*:*:*:*:wordpress:*:*

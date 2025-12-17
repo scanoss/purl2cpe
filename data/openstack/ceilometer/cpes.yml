@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openstack:ceilometer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ceilometer:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ceilometer:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ceilometer:10.0.1:*:*:*:*:*:*:*

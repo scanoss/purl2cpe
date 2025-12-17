@@ -96,3 +96,4 @@ cpes:
   - cpe:2.3:a:libevent_project:libevent:2.1.7:rc:*:*:*:*:*:*
   - cpe:2.3:a:libevent_project:libevent:2.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:libevent_project:libevent:2.1.9:beta:*:*:*:*:*:*
+  - cpe:2.3:a:libevent_project:libevent:*:beta:*:*:*:*:*:*

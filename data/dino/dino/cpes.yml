@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dino:dino:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dino:dino:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dino:dino:0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dino:dino:0.1.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:0.0.90:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:0.0.91:*:*:*:*:*:*:*

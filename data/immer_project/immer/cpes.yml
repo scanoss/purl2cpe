@@ -119,4 +119,5 @@ cpes:
   - cpe:2.3:a:immer_project:immer:9.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:immer_project:immer:9.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:immer_project:immer:9.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:immer_project:immer:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:immer_project:immer:-:*:*:*:*:node.js:*:*

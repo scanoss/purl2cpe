@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:lucene:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:lucene:0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:lucene:0.04:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:lucene:1.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:i18n_project:i18n:*:*:*:*:*:*:*:*
   - cpe:2.3:a:i18n_project:i18n:*:*:*:*:*:-:*:*
   - cpe:2.3:a:i18n_project:i18n:0.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:i18n_project:i18n:0.1.0:*:*:*:*:macaron:*:*

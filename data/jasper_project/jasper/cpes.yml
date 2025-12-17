@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jasper_project:jasper:-:*:*:*:*:*:*:*
   - cpe:2.3:a:jasper_project:jasper:1.900.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jasper_project:jasper:1.900.10:*:*:*:*:*:*:*

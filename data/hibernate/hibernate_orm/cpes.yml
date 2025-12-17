@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hibernate:hibernate_orm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hibernate:hibernate_orm:3.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:hibernate:hibernate_orm:3.6.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:hibernate:hibernate_orm:3.6.0:beta2:*:*:*:*:*:*

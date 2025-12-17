@@ -1,2 +1,32 @@
 cpes:
   - cpe:2.3:a:nvidia:aistore:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:aistore:0.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.91:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.92:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.93:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.94:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.95:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.96:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.97:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.98:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:0.9:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.0.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.1.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.1.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.2.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.3.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.4.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.4.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.5.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.6.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.6.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:1.7.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.0.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.0.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.1.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.1.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.1.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:nvidia:aistore:2.2.0:*:*:*:*:kubernetes:*:*

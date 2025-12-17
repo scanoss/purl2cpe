@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:aviatorscript_project:aviatorscript:*:*:*:*:*:*:*:*
   - cpe:2.3:a:aviatorscript_project:aviatorscript:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aviatorscript_project:aviatorscript:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:aviatorscript_project:aviatorscript:2.3.3:*:*:*:*:*:*:*

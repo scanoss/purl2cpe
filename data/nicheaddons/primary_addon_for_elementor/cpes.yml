@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:nicheaddons:primary_addon_for_elementor:1.6.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nicheaddons:primary_addon_for_elementor:1.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nicheaddons:primary_addon_for_elementor:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nicheaddons:primary_addon_for_elementor:*:*:*:*:*:wordpress:*:*

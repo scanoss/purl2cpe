@@ -55,3 +55,4 @@ cpes:
   - cpe:2.3:a:cobalt-cli_project:cobalt-cli:2.2.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cobalt-cli_project:cobalt-cli:2.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cobalt-cli_project:cobalt-cli:2.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cobalt-cli_project:cobalt-cli:*:*:*:*:*:node.js:*:*

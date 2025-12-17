@@ -58,4 +58,5 @@ cpes:
   - cpe:2.3:a:frourio_project:frourio:0.7.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:frourio_project:frourio:0.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:frourio_project:frourio:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio_project:frourio:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:frourio_project:frourio:-:*:*:*:*:node.js:*:*

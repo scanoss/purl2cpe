@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jquery:jquery_ui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jquery:jquery_ui:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jquery:jquery_ui:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jquery:jquery_ui:1.10.0:-:*:*:*:*:*:*

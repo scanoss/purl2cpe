@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:archiver_project:archiver:*:*:*:*:*:*:*:*
   - cpe:2.3:a:archiver_project:archiver:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:archiver_project:archiver:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:archiver_project:archiver:1.1:*:*:*:*:*:*:*

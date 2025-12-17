@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openstack:keystone:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:-:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:10.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:10.0.0:beta1:*:*:*:*:*:*

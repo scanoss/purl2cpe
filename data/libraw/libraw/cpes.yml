@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.3:*:*:*:*:*:*:*

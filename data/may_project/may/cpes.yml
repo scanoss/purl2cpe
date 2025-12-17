@@ -20,4 +20,5 @@ cpes:
   - cpe:2.3:a:may_project:may:0.3.7:*:*:*:*:rust:*:*
   - cpe:2.3:a:may_project:may:0.3.8:*:*:*:*:rust:*:*
   - cpe:2.3:a:may_project:may:0.3.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_project:may:*:*:*:*:*:rust:*:*
   - cpe:2.3:a:may_project:may:-:*:*:*:*:rust:*:*

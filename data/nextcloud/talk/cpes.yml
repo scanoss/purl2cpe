@@ -227,44 +227,74 @@ cpes:
   - cpe:2.3:a:nextcloud:talk:15.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:15.0.4:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:15.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:15.0.5:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:15.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:15.0.6:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:15.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:15.0.7:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:-:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:beta1:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:beta2:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:rc1:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:rc2:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.0:rc3:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.1:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.2:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.3:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.4:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:16.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:16.0.5:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:-:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:-:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:beta1:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:beta2:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:beta3:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:rc1:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc1:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:rc2:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc2:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:rc3:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc3:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.0:rc4:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.0:rc4:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.1:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.1:-:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.1:rc1:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.2:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.2:-:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.2:rc1:*:*:*:android:*:*
   - cpe:2.3:a:nextcloud:talk:17.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.0.3:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.1.0:-:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.1.0:rc1:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.1.0:rc2:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.1.0:rc3:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:17.1.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:talk:17.1.0:rc4:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:talk:2.0.0:*:*:*:*:-:*:*
   - cpe:2.3:a:nextcloud:talk:20.0.0:-:*:*:*:-:*:*

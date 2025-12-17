@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mozilla:nss:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:nss:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:nss:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:nss:3.1:*:*:*:*:*:*:*

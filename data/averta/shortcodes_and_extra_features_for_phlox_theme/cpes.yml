@@ -170,3 +170,4 @@ cpes:
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.9.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:2.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:shortcodes_and_extra_features_for_phlox_theme:*:*:*:*:*:wordpress:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openresty:openresty:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:0.8.54.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:0.8.54.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openresty:openresty:0.8.54.5:*:*:*:*:*:*:*

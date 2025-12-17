@@ -34,4 +34,5 @@ cpes:
   - cpe:2.3:a:pagebar_project:pagebar:2.66:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagebar_project:pagebar:2.67:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagebar_project:pagebar:2.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagebar_project:pagebar:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagebar_project:pagebar:-:*:*:*:*:wordpress:*:*

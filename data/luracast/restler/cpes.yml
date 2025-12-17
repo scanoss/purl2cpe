@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:luracast:restler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*
   - cpe:2.3:a:luracast:restler:0.10.0:beta:*:*:*:typo3:*:*
   - cpe:2.3:a:luracast:restler:0.10.0:*:*:*:*:typo3:*:*
   - cpe:2.3:a:luracast:restler:0.3.1:beta:*:*:*:typo3:*:*

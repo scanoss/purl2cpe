@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ruby-lang:ruby:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ruby-lang:ruby:1.6.8:*:*:*:*:*:*:*

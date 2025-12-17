@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bytecodealliance:wasmtime:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:0.11.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:0.12.0:*:*:*:*:rust:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:arm:mbed_crypto:*:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:mbed_crypto:-:*:*:*:*:*:*:*
   - cpe:2.3:a:arm:mbed_crypto:0.1.0:a:*:*:*:*:*:*
   - cpe:2.3:a:arm:mbed_crypto:0.1.0:b:*:*:*:*:*:*

@@ -131,3 +131,4 @@ cpes:
   - cpe:2.3:a:facade:ignition:2.8.4:*:*:*:*:laravel:*:*
   - cpe:2.3:a:facade:ignition:2.9.0:*:*:*:*:laravel:*:*
   - cpe:2.3:a:facade:ignition:2.9.1:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:facade:ignition:*:*:*:*:*:laravel:*:*

@@ -96,3 +96,4 @@ cpes:
   - cpe:2.3:a:rednao:smart_forms:2.6.91:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rednao:smart_forms:2.6.92:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:rednao:smart_forms:2.6.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:rednao:smart_forms:*:*:*:*:*:wordpress:*:*

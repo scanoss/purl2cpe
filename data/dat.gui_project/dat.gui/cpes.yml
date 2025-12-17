@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dat.gui_project:dat.gui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dat.gui_project:dat.gui:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dat.gui_project:dat.gui:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dat.gui_project:dat.gui:0.3:*:*:*:*:*:*:*

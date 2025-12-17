@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:os4ed:opensis:*:-:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:4.7:*:*:*:*:*:*:*
@@ -24,3 +25,4 @@ cpes:
   - cpe:2.3:a:os4ed:opensis:9.0:*:*:*:community:*:*:*
   - cpe:2.3:a:os4ed:opensis:9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:os4ed:opensis:9.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:os4ed:opensis:*:*:*:*:community:*:*:*

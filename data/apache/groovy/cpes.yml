@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:groovy:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:groovy:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:groovy:1.7.0:beta_1:*:*:*:*:*:*
   - cpe:2.3:a:apache:groovy:1.7.0:beta_2:*:*:*:*:*:*

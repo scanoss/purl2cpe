@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:lru_cache_project:lru_cache:0.6.5:*:*:*:*:rust:*:*
   - cpe:2.3:a:lru_cache_project:lru_cache:0.6.6:*:*:*:*:rust:*:*
   - cpe:2.3:a:lru_cache_project:lru_cache:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru_cache_project:lru_cache:*:*:*:*:*:rust:*:*

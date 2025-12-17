@@ -89,4 +89,5 @@ cpes:
   - cpe:2.3:a:iflychat:iflychat:4.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iflychat:iflychat:4.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iflychat:iflychat:4.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iflychat:iflychat:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iflychat:iflychat:-:*:*:*:*:wordpress:*:*

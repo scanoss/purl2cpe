@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:zookeeper:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:zookeeper:3.0.0:*:*:*:*:*:*:*

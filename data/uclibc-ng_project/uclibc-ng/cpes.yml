@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:uclibc-ng_project:uclibc-ng:*:*:*:*:*:*:*:*
   - cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.10:*:*:*:*:*:*:*

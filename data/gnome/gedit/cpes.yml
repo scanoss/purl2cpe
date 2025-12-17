@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:gnome:gedit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gedit:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:gedit:3.22.1:*:*:*:*:*:*:*

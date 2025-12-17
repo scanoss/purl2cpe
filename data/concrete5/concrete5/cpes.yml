@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:concrete5:concrete5:*:*:*:*:*:*:*:*
   - cpe:2.3:a:concrete5:concrete5:*:*:*:-:*:*:*:*
   - cpe:2.3:a:concrete5:concrete5:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:concrete5:concrete5:5.4.2.1:*:*:*:*:*:*:*

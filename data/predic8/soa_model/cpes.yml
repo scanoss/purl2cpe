@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:predic8:soa_model:*:*:*:*:*:*:*:*
   - cpe:2.3:a:predic8:soa_model:-:*:*:*:*:*:*:*
   - cpe:2.3:a:predic8:soa_model:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:predic8:soa_model:1.4.0:*:*:*:*:*:*:*

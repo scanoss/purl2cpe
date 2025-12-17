@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:percona:xtradb_cluster:*:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtradb_cluster:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtradb_cluster:5.5.23-23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:xtradb_cluster:5.5.24-23.6:*:*:*:*:*:*:*

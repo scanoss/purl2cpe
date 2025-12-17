@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:limesurvey:limesurvey:*:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.01:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.45:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.49:*:*:*:*:*:*:*

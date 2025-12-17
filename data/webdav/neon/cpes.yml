@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:webdav:neon:*:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.1.1:*:*:*:*:*:*:*
@@ -51,6 +52,7 @@ cpes:
   - cpe:2.3:a:webdav:neon:0.24.5:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.24.6:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.24.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:neon:0.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.25.0:-:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.25.0:prerelease1:*:*:*:*:*:*
   - cpe:2.3:a:webdav:neon:0.25.0:prerelease2:*:*:*:*:*:*

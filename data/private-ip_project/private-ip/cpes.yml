@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:private-ip_project:private-ip:*:*:*:*:*:*:*:*
   - cpe:2.3:a:private-ip_project:private-ip:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:private-ip_project:private-ip:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:private-ip_project:private-ip:1.0.1:*:*:*:*:node.js:*:*

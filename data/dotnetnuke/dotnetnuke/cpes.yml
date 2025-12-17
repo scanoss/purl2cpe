@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dotnetnuke:dotnetnuke:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dotnetnuke:dotnetnuke:07.03.04:*:*:*:*:*:*:*
   - cpe:2.3:a:dotnetnuke:dotnetnuke:07.04.00:*:*:*:*:*:*:*
   - cpe:2.3:a:dotnetnuke:dotnetnuke:08.00.04:*:*:*:*:*:*:*

@@ -753,6 +753,7 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:14.88.4:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.89.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.89.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.89.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.1.0:*:*:*:*:*:*:*
@@ -985,6 +986,7 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:15.74.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.75.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.75.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.76.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.8.2:*:*:*:*:*:*:*

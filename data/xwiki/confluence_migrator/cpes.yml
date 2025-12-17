@@ -116,3 +116,4 @@ cpes:
   - cpe:2.3:a:xwiki:confluence_migrator:1.9.3:*:*:*:pro:xwiki:*:*
   - cpe:2.3:a:xwiki:confluence_migrator:1.9.4:*:*:*:pro:xwiki:*:*
   - cpe:2.3:a:xwiki:confluence_migrator:1.9:*:*:*:pro:xwiki:*:*
+  - cpe:2.3:a:xwiki:confluence_migrator:*:*:*:*:pro:xwiki:*:*

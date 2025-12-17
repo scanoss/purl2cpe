@@ -60,3 +60,4 @@ cpes:
   - cpe:2.3:a:nix_project:nix:0.8.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:nix_project:nix:0.8.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:nix_project:nix:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nix_project:nix:*:*:*:*:*:rust:*:*

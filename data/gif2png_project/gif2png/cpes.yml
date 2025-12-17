@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gif2png_project:gif2png:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gif2png_project:gif2png:0.99:*:*:*:*:*:*:*
   - cpe:2.3:a:gif2png_project:gif2png:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gif2png_project:gif2png:1.1.0:*:*:*:*:*:*:*

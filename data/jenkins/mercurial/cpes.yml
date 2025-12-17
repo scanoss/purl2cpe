@@ -73,3 +73,4 @@ cpes:
   - cpe:2.3:a:jenkins:mercurial:2.4:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:mercurial:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mercurial:*:*:*:*:*:jenkins:*:*

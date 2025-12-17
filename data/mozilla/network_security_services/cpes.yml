@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mozilla:network_security_services:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:-:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:network_security_services:3.10:*:*:*:*:*:*:*

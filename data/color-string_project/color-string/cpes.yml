@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:color-string_project:color-string:1.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:color-string_project:color-string:1.5.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:color-string_project:color-string:1.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:color-string_project:color-string:*:*:*:*:*:node.js:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:encode:starlette:*:*:*:*:*:*:*:*
   - cpe:2.3:a:encode:starlette:0.10.0:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.10.1:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:0.10.2:*:*:*:*:python:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fatfreecrm:fatfreecrm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fatfreecrm:fatfreecrm:0.10.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:fatfreecrm:fatfreecrm:0.11.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:fatfreecrm:fatfreecrm:0.11.2:*:*:*:*:ruby:*:*

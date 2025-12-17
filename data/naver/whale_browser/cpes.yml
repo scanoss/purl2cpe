@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:naver:whale_browser:*:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:whale_browser:3.0.1.2:*:*:*:*:android:*:*
   - cpe:2.3:a:naver:whale_browser:*:*:*:*:*:android:*:*

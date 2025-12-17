@@ -9,4 +9,5 @@ cpes:
   - cpe:2.3:a:kuroit:advanced_admin_search:1.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kuroit:advanced_admin_search:1.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kuroit:advanced_admin_search:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kuroit:advanced_admin_search:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kuroit:advanced_admin_search:-:*:*:*:*:wordpress:*:*

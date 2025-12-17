@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:peel:peel_shopping:*:*:*:*:*:*:*:*
   - cpe:2.3:a:peel:peel_shopping:2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:peel:peel_shopping:2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:peel:peel_shopping:5.5:*:*:*:*:*:*:*

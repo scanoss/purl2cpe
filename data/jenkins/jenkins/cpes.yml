@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:*:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:-:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:1.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:1.0.10:*:*:*:-:*:*:*

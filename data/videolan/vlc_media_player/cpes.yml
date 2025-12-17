@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:*:*:*
   - cpe:2.3:a:videolan:vlc_media_player:-:*:*:*:*:*:*:*
   - cpe:2.3:a:videolan:vlc_media_player:0.1.99a:*:*:*:*:*:*:*
   - cpe:2.3:a:videolan:vlc_media_player:0.1.99b:*:*:*:*:*:*:*

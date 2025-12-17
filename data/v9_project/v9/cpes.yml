@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:v9_project:v9:0.1.41:*:*:*:*:rust:*:*
   - cpe:2.3:a:v9_project:v9:0.1.42:*:*:*:*:rust:*:*
   - cpe:2.3:a:v9_project:v9:0.1.43:*:*:*:*:rust:*:*
+  - cpe:2.3:a:v9_project:v9:*:*:*:*:*:rust:*:*

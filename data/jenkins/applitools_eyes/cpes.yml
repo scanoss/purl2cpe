@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:jenkins:applitools_eyes:1.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:applitools_eyes:1.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:applitools_eyes:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:applitools_eyes:*:*:*:*:*:jenkins:*:*

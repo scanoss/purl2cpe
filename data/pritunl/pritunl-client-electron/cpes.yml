@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pritunl:pritunl-client-electron:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pritunl:pritunl-client-electron:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pritunl:pritunl-client-electron:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pritunl:pritunl-client-electron:0.10.10:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:*:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.2:*:*:*:*:*:*:*

@@ -1,2 +1,12 @@
 cpes:
   - cpe:2.3:a:plack:plack-middleware-session:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.09_01:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.09_02:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.09_03:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:plack:plack-middleware-session:0.16:*:*:*:*:*:*:*

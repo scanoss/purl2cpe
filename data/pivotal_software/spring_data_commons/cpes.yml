@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pivotal_software:spring_data_commons:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_commons:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_commons:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_commons:1.10.0:*:*:*:*:*:*:*

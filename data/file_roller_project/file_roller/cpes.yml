@@ -5,17 +5,27 @@ cpes:
   - cpe:2.3:a:file_roller_project:file_roller:3.20.2:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.20:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.5.4:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.0:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.6.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.1.1:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.1:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.2:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.3:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.6.4:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.8.0:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.8.1:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.8.2:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.8.3:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.9.0:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.9.1:*:*:*:*:gnome:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.9.2:*:*:*:*:gnome:*:*
+  - cpe:2.3:a:file_roller_project:file_roller:3.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:file_roller_project:file_roller:3.9.3:*:*:*:*:gnome:*:*

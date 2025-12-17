@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mechanicalsoup_project:mechanicalsoup:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mechanicalsoup_project:mechanicalsoup:0.0.2:*:*:*:*:python:*:*
   - cpe:2.3:a:mechanicalsoup_project:mechanicalsoup:0.0.3:*:*:*:*:python:*:*
   - cpe:2.3:a:mechanicalsoup_project:mechanicalsoup:0.1.0:*:*:*:*:python:*:*

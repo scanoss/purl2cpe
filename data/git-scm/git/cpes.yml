@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:-:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:0.01:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:0.02:*:*:*:*:*:*:*

@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:tiki:tiki:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tiki:tiki:*:-:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tiki:tiki:1.1:*:*:*:*:*:*:*

@@ -85,3 +85,4 @@ cpes:
   - cpe:2.3:a:machothemes:image_photo_gallery_final_tiles_grid:3.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:image_photo_gallery_final_tiles_grid:3.5.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:machothemes:image_photo_gallery_final_tiles_grid:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:machothemes:image_photo_gallery_final_tiles_grid:*:*:*:*:*:wordpress:*:*

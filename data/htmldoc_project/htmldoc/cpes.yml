@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:htmldoc_project:htmldoc:*:*:*:*:*:*:*:*
   - cpe:2.3:a:htmldoc_project:htmldoc:-:*:*:*:*:*:*:*
   - cpe:2.3:a:htmldoc_project:htmldoc:1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:htmldoc_project:htmldoc:1.8.1:*:*:*:*:*:*:*

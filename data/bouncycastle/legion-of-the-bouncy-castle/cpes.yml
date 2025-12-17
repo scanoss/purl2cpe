@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle:1.00:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle:1.01:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle:1.02:*:*:*:*:*:*:*

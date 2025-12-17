@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:libmicrohttpd:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.16:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.17:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libmicrohttpd:0.9.18:*:*:*:*:*:*:*

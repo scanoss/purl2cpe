@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:*:*:*:*:*:*:*:*
   - cpe:2.3:a:osm-static-maps_project:osm-static-maps:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:osm-static-maps_project:osm-static-maps:2.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.0.0:*:*:*:*:node.js:*:*

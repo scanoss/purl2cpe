@@ -12,4 +12,5 @@ cpes:
   - cpe:2.3:a:stackvector_project:stackvector:1.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:stackvector_project:stackvector:1.1.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:stackvector_project:stackvector:2021-02-19:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:*:*:*:*:*:rust:*:*
   - cpe:2.3:a:stackvector_project:stackvector:-:*:*:*:*:rust:*:*

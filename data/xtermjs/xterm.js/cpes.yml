@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xtermjs:xterm.js:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xtermjs:xterm.js:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xtermjs:xterm.js:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:xtermjs:xterm.js:0.11:*:*:*:*:*:*:*

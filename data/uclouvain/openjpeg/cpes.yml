@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*
   - cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*
   - cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*
