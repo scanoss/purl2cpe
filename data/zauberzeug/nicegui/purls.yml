@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zauberzeug/nicegui
+  - pkg:pypi/nicegui

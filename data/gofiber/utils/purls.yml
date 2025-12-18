@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gofiber/utils
+  - pkg:golang/github.com/gofiber/utils

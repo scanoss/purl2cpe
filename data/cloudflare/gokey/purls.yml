@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudflare/gokey
+  - pkg:golang/github.com/cloudflare/gokey

@@ -247,6 +247,8 @@ cpes:
   - cpe:2.3:a:python:python:3.1.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.15.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.15.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:alpha1:*:*:*:*:*:*

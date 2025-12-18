@@ -144,6 +144,7 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_desktop:5.1.0:rc6:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_desktop:5.1.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_desktop:5.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:5.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_desktop:5.1.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_desktop:5.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_desktop:5.2.0:rc1:*:*:*:*:*:*

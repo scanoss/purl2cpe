@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:skywalking_nodejs_agent:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:skywalking_nodejs_agent:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:skywalking_nodejs_agent:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:skywalking_nodejs_agent:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:skywalking_nodejs_agent:0.5.0:*:*:*:*:node.js:*:*

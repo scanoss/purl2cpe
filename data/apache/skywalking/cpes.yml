@@ -6,6 +6,14 @@ cpes:
   - cpe:2.3:a:apache:skywalking:0.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:skywalking:0.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:skywalking:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:skywalking:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:1.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:3.1.1:*:*:*:*:*:*:*
@@ -16,7 +24,15 @@ cpes:
   - cpe:2.3:a:apache:skywalking:3.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:3.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:3.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:5.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:6.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:6.0.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:6.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:6.3.0:*:*:*:*:*:*:*
@@ -29,6 +45,7 @@ cpes:
   - cpe:2.3:a:apache:skywalking:8.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:8.3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.6.0:*:*:*:*:*:*:*
@@ -37,4 +54,12 @@ cpes:
   - cpe:2.3:a:apache:skywalking:8.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:8.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:skywalking:9.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:skywalking:*:*:*:*:*:node.js:*:*

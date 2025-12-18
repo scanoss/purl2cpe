@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:amazon:redshift_odbc_driver:2.1.5.0:*:*:*:*:*:*:*
