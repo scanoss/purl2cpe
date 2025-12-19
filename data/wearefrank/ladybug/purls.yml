@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wearefrank/ladybug
+  - pkg:maven/org.wearefrank/ladybug
+  - pkg:npm/@wearefrank/ladybug

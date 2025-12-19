@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:janeczku:calibre-web:0.6.21:*:*:*:*:*:*:*
   - cpe:2.3:a:janeczku:calibre-web:0.6.22:*:*:*:*:*:*:*
   - cpe:2.3:a:janeczku:calibre-web:0.6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:janeczku:calibre-web:0.6.25:*:*:*:*:*:*:*
   - cpe:2.3:a:janeczku:calibre-web:0.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:janeczku:calibre-web:0.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:janeczku:calibre-web:0.6.5:*:*:*:*:*:*:*

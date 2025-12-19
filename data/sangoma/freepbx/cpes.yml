@@ -1711,6 +1711,7 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:17.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:17.0.20:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:17.0.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:17.0.21:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:17.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:17.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:17.0.5:*:*:*:*:*:*:*

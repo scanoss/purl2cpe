@@ -31,5 +31,7 @@ cpes:
   - cpe:2.3:a:tianocore:edk2:202305:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:202308:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:202311:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202402*:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:202402:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202405:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:svn_16280:*:*:*:*:*:*:*

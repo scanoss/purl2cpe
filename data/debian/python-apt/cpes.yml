@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:debian:python-apt:*:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:python-apt:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:python-apt:2.2.1.1:*:*:*:*:*:*:*

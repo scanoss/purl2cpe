@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/clickhouse/ch-go
+  - pkg:golang/github.com/clickhouse/ch-go

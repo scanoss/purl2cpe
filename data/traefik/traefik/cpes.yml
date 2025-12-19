@@ -468,4 +468,14 @@ cpes:
   - cpe:2.3:a:traefik:traefik:3.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:*:*:*:*:*:go:*:*

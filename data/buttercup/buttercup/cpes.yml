@@ -1,2 +1,16 @@
 cpes:
   - cpe:2.3:a:buttercup:buttercup:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:buttercup:buttercup:0.9.0:*:*:*:*:*:*:*

@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:kidaze:courseselectionsystem:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kidaze:courseselectionsystem:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:kidaze:courseselectionsystem:2017-06-18:*:*:*:*:*:*:*

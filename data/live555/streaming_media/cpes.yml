@@ -535,6 +535,7 @@ cpes:
   - cpe:2.3:a:live555:streaming_media:2018-08-27:*:*:*:*:*:*:*
   - cpe:2.3:a:live555:streaming_media:2018-08-28:*:*:*:*:*:*:*
   - cpe:2.3:a:live555:streaming_media:2018-08-28a:*:*:*:*:*:*:*
+  - cpe:2.3:a:live555:streaming_media:2018-09-02:*:*:*:*:*:*:*
   - cpe:2.3:a:live555:streaming_media:2018-09-05:*:*:*:*:*:*:*
   - cpe:2.3:a:live555:streaming_media:2018-09-06:*:*:*:*:*:*:*
   - cpe:2.3:a:live555:streaming_media:2018-09-10:*:*:*:*:*:*:*
