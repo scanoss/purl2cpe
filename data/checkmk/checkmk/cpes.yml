@@ -296,6 +296,7 @@ cpes:
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p39:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p40:*:*:*:*:*:*
+  - cpe:2.3:a:checkmk:checkmk:2.3.0:p41:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p5:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p6:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.3.0:p7:*:*:*:*:*:*
@@ -317,6 +318,8 @@ cpes:
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p14:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p15:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p16:*:*:*:*:*:*
+  - cpe:2.3:a:checkmk:checkmk:2.4.0:p17:*:*:*:*:*:*
+  - cpe:2.3:a:checkmk:checkmk:2.4.0:p18:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p2:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p3:*:*:*:*:*:*
   - cpe:2.3:a:checkmk:checkmk:2.4.0:p4:*:*:*:*:*:*

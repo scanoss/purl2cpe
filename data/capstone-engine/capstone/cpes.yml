@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:capstone-engine:capstone:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha5:*:*:*:*:*:*

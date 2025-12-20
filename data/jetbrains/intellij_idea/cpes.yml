@@ -212,5 +212,7 @@ cpes:
   - cpe:2.3:a:jetbrains:intellij_idea:2025.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2025.1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2025.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:intellij_idea:2025.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:intellij_idea:2025.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.4:*:*:*:*:*:*:*

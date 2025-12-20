@@ -32,3 +32,4 @@ cpes:
   - cpe:2.3:a:malaterre:grassroots_dicom:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:malaterre:grassroots_dicom:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:malaterre:grassroots_dicom:3.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:malaterre:grassroots_dicom:3.0.24:*:*:*:*:*:*:*

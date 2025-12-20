@@ -142,6 +142,7 @@ cpes:
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.15:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.16.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.16.1:*:*:*:plus:*:*:*
+  - cpe:2.3:a:sandboxie-plus:sandboxie:1.16.2:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.1:*:*:*:classic:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.0:*:*:*:plus:*:*:*
   - cpe:2.3:a:sandboxie-plus:sandboxie:1.2.1:*:*:*:plus:*:*:*
