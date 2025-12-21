@@ -108,6 +108,7 @@ cpes:
   - cpe:2.3:a:s9y:serendipity:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:s9y:serendipity:2.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:s9y:serendipity:2.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:s9y:serendipity:2.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:s9y:serendipity:2.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:s9y:serendipity:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:s9y:serendipity:3.30:*:*:*:*:*:*:*

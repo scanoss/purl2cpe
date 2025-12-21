@@ -185,3 +185,9 @@ cpes:
   - cpe:2.3:a:webassembly:binaryen:91:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:92:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:93:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:94:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:95:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:96:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:97:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:98:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:99:*:*:*:*:*:*:*

@@ -42,3 +42,6 @@ cpes:
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.80.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.90.0:*:*:*:*:*:*:*
