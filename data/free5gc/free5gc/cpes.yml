@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:free5gc:free5gc:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:free5gc:free5gc:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:free5gc:free5gc:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:free5gc:free5gc:4.1.0:*:*:*:*:*:*:*

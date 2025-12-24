@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:robocode_project:robocode:*:*:*:*:*:*:*:*
   - cpe:2.3:a:robocode_project:robocode:-:*:*:*:*:*:*:*
   - cpe:2.3:a:robocode_project:robocode:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:robocode_project:robocode:1.3.2:*:*:*:*:*:*:*

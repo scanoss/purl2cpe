@@ -2,10 +2,34 @@ cpes:
   - cpe:2.3:a:webassembly:binaryen:*:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:1:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:10:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:100:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:101:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:102:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:103:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:104:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:105:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:106:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:107:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:108:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:109:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:11:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:110:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:111:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:112:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:113:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:114:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:115:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:116:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:117:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:118:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:119:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:12:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:120:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:121:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:122:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:123:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:124:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:binaryen:125:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:13:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:1.36.10:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:binaryen:1.36.11:*:*:*:*:*:*:*

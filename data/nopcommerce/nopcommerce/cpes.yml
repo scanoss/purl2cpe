@@ -40,8 +40,28 @@ cpes:
   - cpe:2.3:a:nopcommerce:nopcommerce:4.40.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.40.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.50.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.50.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.50.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.50.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.60.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.70.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.70.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.80.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nopcommerce:nopcommerce:4.90.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.90.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nopcommerce:nopcommerce:4.90.0:beta:*:*:*:*:*:*
