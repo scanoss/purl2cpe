@@ -83,6 +83,7 @@ cpes:
   - cpe:2.3:a:changedetection:changedetection:0.45.10:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.45.11:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.45.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:changedetection:changedetection:0.45.13:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.45.2:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.45.3:*:*:*:*:*:*:*
   - cpe:2.3:a:changedetection:changedetection:0.45.4:*:*:*:*:*:*:*

@@ -3,5 +3,7 @@ cpes:
   - cpe:2.3:a:dvsekhvalnov:jose2go:1.2:*:*:*:*:go:*:*
   - cpe:2.3:a:dvsekhvalnov:jose2go:1.3:*:*:*:*:go:*:*
   - cpe:2.3:a:dvsekhvalnov:jose2go:1.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:dvsekhvalnov:jose2go:1.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:dvsekhvalnov:jose2go:1.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:dvsekhvalnov:jose2go:*:*:*:*:*:go:*:*
   - cpe:2.3:a:dvsekhvalnov:jose2go:-:*:*:*:*:go:*:*

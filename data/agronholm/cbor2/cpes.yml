@@ -1,5 +1,40 @@
 cpes:
   - cpe:2.3:a:agronholm:cbor2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:agronholm:cbor2:1.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:1.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:2.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:3.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:3.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:3.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:3.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:3.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:4.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.4.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.5.0:*:*:*:*:python:*:*
   - cpe:2.3:a:agronholm:cbor2:5.5.1:*:*:*:*:python:*:*
   - cpe:2.3:a:agronholm:cbor2:5.6.0:*:*:*:*:python:*:*
   - cpe:2.3:a:agronholm:cbor2:5.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.6.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.6.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.6.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:agronholm:cbor2:5.6.5:*:*:*:*:python:*:*

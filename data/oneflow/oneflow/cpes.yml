@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:oneflow:oneflow:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oneflow:oneflow:0.9.1:*:*:*:*:*:*:*
