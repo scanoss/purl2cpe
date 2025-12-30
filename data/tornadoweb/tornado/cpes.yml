@@ -78,3 +78,5 @@ cpes:
   - cpe:2.3:a:tornadoweb:tornado:6.5.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:tornadoweb:tornado:6.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tornadoweb:tornado:6.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tornadoweb:tornado:6.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tornadoweb:tornado:6.5.4:*:*:*:*:*:*:*
