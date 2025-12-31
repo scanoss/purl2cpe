@@ -135,3 +135,4 @@ cpes:
   - cpe:2.3:a:lunary:lunary:1.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:lunary:lunary:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lunary:lunary:1.9.34:*:*:*:*:*:*:*

@@ -89,6 +89,25 @@ cpes:
   - cpe:2.3:a:gitea:gitea:1.17.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:1.17.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:1.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitea:gitea:1.17.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.17.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.17.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.0:-:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.0:dev:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.0:rc0:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.0:rc1:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.18.5:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.0:-:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.0:dev:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.0:rc0:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.0:rc1:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.19.3:*:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:1.2.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:gitea:gitea:1.2.0:rc1:*:*:*:*:*:*

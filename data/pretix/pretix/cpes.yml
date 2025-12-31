@@ -12,5 +12,10 @@ cpes:
   - cpe:2.3:a:pretix:pretix:2024.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2024.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2024.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2024.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:4.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:4.17.0:*:*:*:*:*:*:*

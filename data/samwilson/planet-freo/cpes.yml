@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:samwilson:planet-freo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:samwilson:planet-freo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:samwilson:planet-freo:20150116:*:*:*:*:*:*:*
