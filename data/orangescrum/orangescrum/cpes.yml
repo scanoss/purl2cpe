@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:orangescrum:orangescrum:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:orangescrum:orangescrum:2.0.11:*:*:*:*:*:*:*

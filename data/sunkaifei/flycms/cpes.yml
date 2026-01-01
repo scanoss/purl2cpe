@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:sunkaifei:flycms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sunkaifei:flycms:1.0:*:*:*:*:*:*:*
