@@ -53,6 +53,7 @@ cpes:
   - cpe:2.3:a:libxmljs_project:libxmljs:0.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:libxmljs_project:libxmljs:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:libxmljs_project:libxmljs:1.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:libxmljs_project:libxmljs:1.0.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:libxmljs_project:libxmljs:1.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:libxmljs_project:libxmljs:1.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:libxmljs_project:libxmljs:1.0.3:*:*:*:*:node.js:*:*

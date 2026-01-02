@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:jsish:jsish:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jsish:jsish:2.4.65:*:*:*:*:*:*:*
   - cpe:2.3:a:jsish:jsish:2.4.67:*:*:*:*:*:*:*
   - cpe:2.3:a:jsish:jsish:2.4.70_2.047:*:*:*:*:*:*:*
