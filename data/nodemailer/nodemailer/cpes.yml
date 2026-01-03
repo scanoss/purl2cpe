@@ -211,6 +211,8 @@ cpes:
   - cpe:2.3:a:nodemailer:nodemailer:5.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:5.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.10.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.2.0:*:*:*:*:node.js:*:*
@@ -238,3 +240,44 @@ cpes:
   - cpe:2.3:a:nodemailer:nodemailer:6.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodemailer:nodemailer:6.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.6.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.7.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:6.9.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodemailer:nodemailer:7.0.9:*:*:*:*:node.js:*:*

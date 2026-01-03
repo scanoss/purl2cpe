@@ -716,11 +716,34 @@ cpes:
   - cpe:2.3:a:b3log:siyuan:3.1.27:dev2:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.27:dev3:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.27:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.28:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.28:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.28:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.28:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.29:dev7:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.2:dev1:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.2:dev2:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.2:dev3:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.2:dev4:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.30:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.30:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.31:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.31:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.31:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.1.32:dev5:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.3:dev1:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.3:dev2:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.4:-:*:*:*:*:*:*
@@ -759,3 +782,65 @@ cpes:
   - cpe:2.3:a:b3log:siyuan:3.1.9:dev7:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.9:dev8:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.1.9:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.0:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.2.1:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.0:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.1:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.2:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.2:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.3:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.4:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.4:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.5:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.6:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.3.6:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.1:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.1:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.4.2:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.1:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.5.1:dev2:*:*:*:*:*:*
