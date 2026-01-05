@@ -284,6 +284,8 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:13.0.119.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.119.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.119.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.120:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.120.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.120.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.120.11:*:*:*:*:*:*:*
@@ -847,8 +849,13 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:13.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.60:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.61.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.61.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.61.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.61.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.62:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:13.0.64:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.65:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.66:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:13.0.67:*:*:*:*:*:*:*
