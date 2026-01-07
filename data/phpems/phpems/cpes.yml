@@ -4,3 +4,5 @@ cpes:
   - cpe:2.3:a:phpems:phpems:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpems:phpems:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:phpems:phpems:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpems:phpems:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpems:phpems:9.0:*:*:*:*:*:*:*

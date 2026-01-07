@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fugue-project/fugue
+  - pkg:pypi/fugue

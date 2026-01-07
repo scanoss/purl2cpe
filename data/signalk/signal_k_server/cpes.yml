@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:signalk:signal_k_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta4:*:*:*:*:*:*

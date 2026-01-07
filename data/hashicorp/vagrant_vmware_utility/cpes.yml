@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:hashicorp:vagrant_vmware_utility:*:*:*:*:*:windows:*:*
+  - cpe:2.3:a:hashicorp:vagrant_vmware_utility:-:*:*:*:*:windows:*:*

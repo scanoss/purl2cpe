@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:apache:streampipes:0.93.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:streampipes:0.95.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:streampipes:0.95.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:streampipes:0.97.0:*:*:*:*:*:*:*

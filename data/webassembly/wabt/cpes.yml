@@ -30,6 +30,7 @@ cpes:
   - cpe:2.3:a:webassembly:wabt:1.0.34:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:wabt:1.0.35:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:wabt:1.0.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:wabt:1.0.37:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:wabt:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:wabt:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:webassembly:wabt:1.0.6:*:*:*:*:*:*:*

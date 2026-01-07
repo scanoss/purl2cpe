@@ -352,3 +352,4 @@ cpes:
   - cpe:2.3:a:golang:go:2018-07-13:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:2018-09-17:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:2018-09-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:go:*:*:*:*:*:visual_studio:*:*
