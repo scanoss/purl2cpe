@@ -2,3 +2,4 @@ cpes:
   - cpe:2.3:a:diaowen:dwsurvey:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:diaowen:dwsurvey:2019-07-22:*:*:*:*:*:*:*
   - cpe:2.3:a:diaowen:dwsurvey:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diaowen:dwsurvey:6.14.0:*:*:*:*:*:*:*

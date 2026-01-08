@@ -69,3 +69,4 @@ cpes:
   - cpe:2.3:a:keyfactor:signserver:7.1.1:*:*:*:community:*:*:*
   - cpe:2.3:a:keyfactor:signserver:7.1:*:*:*:community:*:*:*
   - cpe:2.3:a:keyfactor:signserver:7.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:keyfactor:signserver:7.2:*:*:*:enterprise:*:*:*

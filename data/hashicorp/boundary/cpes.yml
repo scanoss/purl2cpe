@@ -20,7 +20,9 @@ cpes:
   - cpe:2.3:a:hashicorp:boundary:0.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:boundary:0.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:boundary:0.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:boundary:0.2.2:*:*:*:*:*:*:*

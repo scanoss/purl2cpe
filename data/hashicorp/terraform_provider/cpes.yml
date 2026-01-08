@@ -40,5 +40,6 @@ cpes:
   - cpe:2.3:a:hashicorp:terraform_provider:2.7.1:*:*:*:*:vault:*:*
   - cpe:2.3:a:hashicorp:terraform_provider:2.8.0:*:*:*:*:vault:*:*
   - cpe:2.3:a:hashicorp:terraform_provider:2.9.0:*:*:*:*:vault:*:*
+  - cpe:2.3:a:hashicorp:terraform_provider:4.2.0:*:*:*:*:vault:*:*
   - cpe:2.3:a:hashicorp:terraform_provider:*:*:*:*:*:vault:*:*
   - cpe:2.3:a:hashicorp:terraform_provider:-:*:*:*:*:vault:*:*

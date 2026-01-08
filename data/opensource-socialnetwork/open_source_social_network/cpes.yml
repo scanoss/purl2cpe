@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:opensource-socialnetwork:open_source_social_network:5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensource-socialnetwork:open_source_social_network:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opensource-socialnetwork:open_source_social_network:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensource-socialnetwork:open_source_social_network:8.6:*:*:*:*:*:*:*
