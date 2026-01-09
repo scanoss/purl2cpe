@@ -107,9 +107,11 @@ cpes:
   - cpe:2.3:a:qemu:qemu:10.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:10.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:10.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:10.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:10.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:10.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qemu:qemu:10.2.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:qemu:qemu:1.0:rc2:*:*:*:*:*:*
