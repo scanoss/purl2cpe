@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/arthurfiorette/axios-cache-interceptor
+  - pkg:npm/axios-cache-interceptor

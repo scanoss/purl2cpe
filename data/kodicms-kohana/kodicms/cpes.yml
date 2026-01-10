@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:kodicms-kohana:kodicms:10.00.00:beta:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:10.25.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:11.16.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:11.22.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:12.20.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:12.33.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:13.55.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:13.82.135:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:5.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:6.5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:7.10.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:8.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:9.15.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:9.15.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:9.15.49:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:9.15.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:kodicms-kohana:kodicms:9.16.52:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/golang/go
+  - pkg:golang/github.com/golang/go

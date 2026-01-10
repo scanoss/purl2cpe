@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:*:wordpress:*
   - cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:wordpress:*:*

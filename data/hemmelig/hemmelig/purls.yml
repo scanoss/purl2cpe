@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hemmeligorg/hemmelig.app
+  - pkg:npm/hemmelig
