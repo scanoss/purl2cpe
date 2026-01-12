@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sirupsen/logrus
+  - pkg:golang/github.com/sirupsen/logrus

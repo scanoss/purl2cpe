@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/ghi/dbsyncer
+  - pkg:github/86dbs/dbsyncer

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/easy-rsa
+  - pkg:deb/ubuntu/easy-rsa
+  - pkg:github/openvpn/easy-rsa
+  - pkg:rpm/fedora/easy-rsa
+  - pkg:rpm/opensuse/easy-rsa

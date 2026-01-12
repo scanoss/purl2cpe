@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openvpn:tap-windows6:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:tap-windows6:9.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:tap-windows6:9.26.0:*:*:*:*:*:*:*
