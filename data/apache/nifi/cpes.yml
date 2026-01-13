@@ -182,3 +182,15 @@ cpes:
   - cpe:2.3:a:apache:nifi:2.1.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:2.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:nifi:2.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:nifi:2.7.0:rc2:*:*:*:*:*:*

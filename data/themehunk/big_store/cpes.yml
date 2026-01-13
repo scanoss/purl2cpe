@@ -45,3 +45,15 @@ cpes:
   - cpe:2.3:a:themehunk:big_store:1.8.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:big_store:1.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themehunk:big_store:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:1.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:1.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:1.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themehunk:big_store:2.0.8:*:*:*:*:wordpress:*:*

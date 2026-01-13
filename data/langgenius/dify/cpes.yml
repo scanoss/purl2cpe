@@ -137,3 +137,4 @@ cpes:
   - cpe:2.3:a:langgenius:dify:1.8.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.9.2:*:*:*:*:node.js:*:*

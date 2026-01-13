@@ -89,9 +89,16 @@ cpes:
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.42.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.43.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.44.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.44.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.45.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.4.8:*:*:*:*:*:*:*

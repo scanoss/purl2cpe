@@ -33,6 +33,11 @@ cpes:
   - cpe:2.3:a:openeclass:openeclass:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:3.16.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.1.9:*:*:*:*:*:*:*
@@ -77,3 +82,7 @@ cpes:
   - cpe:2.3:a:openeclass:openeclass:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openeclass:openeclass:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openeclass:openeclass:4.0.3:*:*:*:*:*:*:*

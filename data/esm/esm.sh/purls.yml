@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/esm-dev/esm.sh
+  - pkg:golang/github.com/esm-dev/esm.sh

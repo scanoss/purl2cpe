@@ -1,5 +1,46 @@
 cpes:
+  - cpe:2.3:a:capstone-engine:capstone:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0.5:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:4.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:post1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha3:*:*:*:*:*:*

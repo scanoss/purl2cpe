@@ -62,3 +62,4 @@ cpes:
   - cpe:2.3:a:opensmtpd:opensmtpd:6.8.0:patch1:*:*:*:*:*:*
   - cpe:2.3:a:opensmtpd:opensmtpd:6.8.0:patch1-rc1:*:*:*:*:*:*
   - cpe:2.3:a:opensmtpd:opensmtpd:6.8.0:patch2:*:*:*:*:*:*
+  - cpe:2.3:a:opensmtpd:opensmtpd:7.7.0:p0:*:*:*:*:*:*

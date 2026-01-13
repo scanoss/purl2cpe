@@ -52,3 +52,9 @@ cpes:
   - cpe:2.3:a:fastadmin:fastadmin:1.3.5.20221214:*:*:*:*:*:*:*
   - cpe:2.3:a:fastadmin:fastadmin:1.4.0.20230711:*:*:*:*:*:*:*
   - cpe:2.3:a:fastadmin:fastadmin:1.5.0.20240328:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.5.1.20240903:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.5.2.20240906:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.5.3.20250217:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.5.4.20250312:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.6.0.20250331:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.6.1.20250430:*:*:*:*:*:*:*
