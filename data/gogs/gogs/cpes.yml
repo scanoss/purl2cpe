@@ -42,6 +42,8 @@ cpes:
   - cpe:2.3:a:gogs:gogs:0.13.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gogs:gogs:0.13.2:-:*:*:*:*:*:*
   - cpe:2.3:a:gogs:gogs:0.13.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gogs:gogs:0.13.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:gogs:gogs:0.13.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gogs:gogs:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gogs:gogs:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gogs:gogs:0.3.1:*:*:*:*:*:*:*

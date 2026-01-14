@@ -129,6 +129,27 @@ cpes:
   - cpe:2.3:a:openproject:openproject:15.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:15.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:15.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:15.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:16.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.11:*:*:*:*:*:*:*

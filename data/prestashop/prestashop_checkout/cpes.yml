@@ -139,6 +139,9 @@ cpes:
   - cpe:2.3:a:prestashop:prestashop_checkout:7.4.3.0:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:7.4.3.1:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:7.4.4.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:7.5.0.2:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:7.5.0.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:7.5.0.4:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:8.3.1.0:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:8.3.2.0:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:8.3.3.0:*:*:*:*:prestashop:*:*
@@ -162,7 +165,11 @@ cpes:
   - cpe:2.3:a:prestashop:prestashop_checkout:8.4.3.1:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:8.4.4.0:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:8.5.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:8.5.0.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:8.5.0.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:8.5.0.4:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:9.4.3.1:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:9.4.3.2:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:9.4.3.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_checkout:9.5.0.4:*:*:*:*:prestashop:*:*
   - cpe:2.3:a:prestashop:prestashop_checkout:*:*:*:*:*:prestashop:*:*
