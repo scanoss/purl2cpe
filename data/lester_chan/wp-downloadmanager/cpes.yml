@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lester_chan:wp-downloadmanager:1.00:*:*:*:*:*:*:*
   - cpe:2.3:a:lester_chan:wp-downloadmanager:1.30:*:*:*:*:*:*:*
   - cpe:2.3:a:lester_chan:wp-downloadmanager:1.31:*:*:*:*:*:*:*
