@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpeverest:everest_forms_frontend_listing:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpeverest:everest_forms_frontend_listing:-:*:*:*:*:wordpress:*:*

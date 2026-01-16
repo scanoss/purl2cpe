@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/preactjs/preact
+  - pkg:npm/preact

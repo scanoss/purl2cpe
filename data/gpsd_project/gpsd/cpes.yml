@@ -86,7 +86,17 @@ cpes:
   - cpe:2.3:a:gpsd_project:gpsd:3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.25:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.25.1:dev:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsd_project:gpsd:3.27:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gpsd_project:gpsd:3.5:*:*:*:*:*:*:*

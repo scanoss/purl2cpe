@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mattermost/mattermost-plugin-channel-export
+  - pkg:golang/github.com/mattermost/mattermost-plugin-channel-export

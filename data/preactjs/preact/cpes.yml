@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:preactjs:preact:10.26.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.26.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.26.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.26.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.26.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.27.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.27.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.27.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.28.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:preactjs:preact:10.28.1:*:*:*:*:node.js:*:*

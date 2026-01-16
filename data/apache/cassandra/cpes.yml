@@ -217,6 +217,8 @@ cpes:
   - cpe:2.3:a:apache:cassandra:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cassandra:4.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cassandra:4.0.18:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.0.4:*:*:*:*:*:*:*
@@ -233,6 +235,8 @@ cpes:
   - cpe:2.3:a:apache:cassandra:4.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:4.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cassandra:4.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cassandra:4.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:cassandra:5.0.0:alpha1:*:*:*:*:*:*

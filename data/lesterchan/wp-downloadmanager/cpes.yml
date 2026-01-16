@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:lesterchan:wp-downloadmanager:1.60:*:*:*:*:wordpress:*:*

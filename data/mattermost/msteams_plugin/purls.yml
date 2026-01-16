@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mattermost/mattermost-plugin-msteams-meetings
+  - pkg:golang/github.com/mattermost/mattermost-plugin-msteams-meetings

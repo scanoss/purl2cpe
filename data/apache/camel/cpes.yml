@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:camel:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:1.1.0:*:*:*:*:*:*:*
@@ -251,6 +252,7 @@ cpes:
   - cpe:2.3:a:apache:camel:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:4.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.8.0:*:*:*:*:*:*:*
