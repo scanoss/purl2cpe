@@ -23,3 +23,4 @@ cpes:
   - cpe:2.3:a:svelte:kit:2.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:*:*:*:*:*:node.js:*:*

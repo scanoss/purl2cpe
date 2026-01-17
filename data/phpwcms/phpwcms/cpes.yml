@@ -6,6 +6,7 @@ cpes:
   - cpe:2.3:a:phpwcms:phpwcms:1.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpwcms:phpwcms:1.10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.2.5_dev:*:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.4.7:r412:*:*:*:*:*:*
   - cpe:2.3:a:phpwcms:phpwcms:1.5.3:*:*:*:*:*:*:*

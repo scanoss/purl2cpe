@@ -47,6 +47,7 @@ cpes:
   - cpe:2.3:a:frappe:learning:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.43.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.7.0:*:*:*:*:*:*:*

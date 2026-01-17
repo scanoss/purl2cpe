@@ -779,6 +779,7 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:2.71.14:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.15:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:2.71.19:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:2.71.4:*:*:*:*:*:*:*
@@ -809,6 +810,7 @@ cpes:
   - cpe:2.3:a:zitadel:zitadel:3.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zitadel:zitadel:3.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zitadel:zitadel:4.0.0:rc2:*:*:*:*:*:*

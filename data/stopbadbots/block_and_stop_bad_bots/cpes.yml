@@ -162,3 +162,4 @@ cpes:
   - cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:6.70:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:6.71:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:6.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:*:*:*:*:*:wordpress:*:*

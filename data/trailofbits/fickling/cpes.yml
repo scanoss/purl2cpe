@@ -1,2 +1,17 @@
 cpes:
   - cpe:2.3:a:trailofbits:fickling:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.0.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:trailofbits:fickling:0.1.6:*:*:*:*:python:*:*

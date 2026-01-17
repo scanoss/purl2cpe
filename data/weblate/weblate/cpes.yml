@@ -150,6 +150,7 @@ cpes:
   - cpe:2.3:a:weblate:weblate:5.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:5.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:weblate:weblate:5.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:weblate:weblate:5.3:*:*:*:*:*:*:*

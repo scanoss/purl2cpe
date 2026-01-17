@@ -86,6 +86,7 @@ cpes:
   - cpe:2.3:a:keras:keras:3.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keras:keras:3.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.3.0:*:*:*:*:*:*:*
