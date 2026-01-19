@@ -1901,6 +1901,7 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:16.0.68:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.68.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.68.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:16.0.68.39:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:16.0.89:*:*:*:*:*:*:*
