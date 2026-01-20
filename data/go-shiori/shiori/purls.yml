@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/go-shiori/shiori
+  - pkg:golang/github.com/go-shiori/shiori
