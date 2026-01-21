@@ -52,4 +52,5 @@ cpes:
   - cpe:2.3:a:impresscms:impresscms:1.3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.5:*:*:*:*:*:*:*

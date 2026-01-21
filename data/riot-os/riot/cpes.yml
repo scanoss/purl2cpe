@@ -134,3 +134,8 @@ cpes:
   - cpe:2.3:o:riot-os:riot:2025.01:rc2:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2025.04:-:*:*:*:*:*:*
   - cpe:2.3:o:riot-os:riot:2025.04:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2025.07:-:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2025.07:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2025.07:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2026.01:devel:*:*:*:*:*:*
+  - cpe:2.3:o:riot-os:riot:2026.01:rc1:*:*:*:*:*:*

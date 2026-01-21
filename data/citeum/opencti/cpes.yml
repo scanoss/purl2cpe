@@ -260,6 +260,13 @@ cpes:
   - cpe:2.3:a:citeum:opencti:6.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.6.18:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.4:*:*:*:*:*:*:*
@@ -268,3 +275,27 @@ cpes:
   - cpe:2.3:a:citeum:opencti:6.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.2:*:*:*:*:*:*:*

@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:a:itflow:itflow:25.02.2:*:*:*:*:*:*:*
   - cpe:2.3:a:itflow:itflow:25.02.3:*:*:*:*:*:*:*
   - cpe:2.3:a:itflow:itflow:25.02.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:itflow:itflow:25.03:*:*:*:*:*:*:*

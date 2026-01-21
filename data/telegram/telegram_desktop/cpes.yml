@@ -438,3 +438,4 @@ cpes:
   - cpe:2.3:a:telegram:telegram_desktop:2.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:telegram:telegram_desktop:2.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:telegram:telegram_desktop:2.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:telegram:telegram_desktop:2.9.2:*:*:*:*:*:*:*
