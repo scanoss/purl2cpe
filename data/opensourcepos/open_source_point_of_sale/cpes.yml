@@ -24,4 +24,5 @@ cpes:
   - cpe:2.3:a:opensourcepos:open_source_point_of_sale:3.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:opensourcepos:open_source_point_of_sale:3.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opensourcepos:open_source_point_of_sale:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensourcepos:open_source_point_of_sale:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensourcepos:open_source_point_of_sale:3.4.1:*:*:*:*:*:*:*
