@@ -1081,3 +1081,12 @@ cpes:
   - cpe:2.3:a:rocket.chat:rocket.chat:7.6.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:7.6.0:rc8:*:*:*:*:*:*
   - cpe:2.3:a:rocket.chat:rocket.chat:7.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rocket.chat:rocket.chat:7.7.9:*:*:*:*:*:*:*

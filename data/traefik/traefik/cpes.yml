@@ -300,7 +300,14 @@ cpes:
   - cpe:2.3:a:traefik:traefik:2.11.22:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.23:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.29:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:2.11.31:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:2.11.6:*:*:*:*:*:*:*
@@ -465,6 +472,8 @@ cpes:
   - cpe:2.3:a:traefik:traefik:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.5.0:rc2:*:*:*:*:*:*

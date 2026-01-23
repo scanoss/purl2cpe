@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:libcdio:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libcdio:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libcdio:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libcdio:0.2:*:*:*:*:*:*:*
@@ -39,3 +40,4 @@ cpes:
   - cpe:2.3:a:gnu:libcdio:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libcdio:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libcdio:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libcdio:2.2.0:*:*:*:*:*:*:*

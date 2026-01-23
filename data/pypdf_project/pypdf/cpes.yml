@@ -127,3 +127,9 @@ cpes:
   - cpe:2.3:a:pypdf_project:pypdf:6.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pypdf_project:pypdf:6.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pypdf_project:pypdf:6.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.5.0:*:*:*:*:*:*:*

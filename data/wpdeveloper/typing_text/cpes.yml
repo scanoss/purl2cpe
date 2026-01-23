@@ -12,5 +12,6 @@ cpes:
   - cpe:2.3:a:wpdeveloper:typing_text:1.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:typing_text:1.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:typing_text:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:typing_text:1.2.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:typing_text:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:typing_text:-:*:*:*:*:wordpress:*:*

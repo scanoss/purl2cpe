@@ -4,7 +4,9 @@ cpes:
   - cpe:2.3:a:averta:master_slider:3.10.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.10.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.10.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:master_slider:3.10.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:master_slider:3.11.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:averta:master_slider:3.1.6:*:*:*:*:wordpress:*:*

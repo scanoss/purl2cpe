@@ -1,2 +1,24 @@
 cpes:
   - cpe:2.3:a:grocerycrud:grocery_crud:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.89:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:2.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:grocerycrud:grocery_crud:2.0.0:beta1:*:*:*:*:*:*

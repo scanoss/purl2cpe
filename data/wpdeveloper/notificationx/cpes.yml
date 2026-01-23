@@ -73,4 +73,5 @@ cpes:
   - cpe:2.3:a:wpdeveloper:notificationx:2.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:notificationx:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:notificationx:2.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:notificationx:*:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:notificationx:-:*:*:*:*:wordpress:*:*

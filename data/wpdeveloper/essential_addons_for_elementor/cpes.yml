@@ -678,6 +678,7 @@ cpes:
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.18:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.19:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.1:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.20:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.2:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.3:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.4:*:*:*:lite:wordpress:*:*
@@ -686,6 +687,7 @@ cpes:
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.7:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.8:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.1.9:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:6.2.0:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:*:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:-:*:*:*:lite:wordpress:*:*
   - cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:*:*:*:*:pro:wordpress:*:*

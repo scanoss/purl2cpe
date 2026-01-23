@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:backdropcms:backdrop_cms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.0.1:*:*:*:*:*:*:*
