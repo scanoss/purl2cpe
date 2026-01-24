@@ -17,7 +17,17 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.101:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.102:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.103.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.104:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.105:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.107:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.108:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.109:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.111:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.112:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.1.113:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.1.15:*:*:*:*:*:*:*
@@ -219,3 +229,4 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:expedition:1.2.93:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.2.94:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:expedition:1.2.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:expedition:1.2.96:*:*:*:*:*:*:*

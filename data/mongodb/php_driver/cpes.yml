@@ -62,13 +62,18 @@ cpes:
   - cpe:2.3:a:mongodb:php_driver:1.19.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.19.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.19.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.19.4:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.1.9:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.20.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.20.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.0:alpha1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.0:alpha2:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.0:alpha3:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.10:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.21.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.11:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.21.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.2.3:*:*:*:*:mongodb:*:*
@@ -121,3 +126,4 @@ cpes:
   - cpe:2.3:a:mongodb:php_driver:1.9.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.9.0:rc1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:1.9.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:php_driver:1.9.2:*:*:*:*:mongodb:*:*

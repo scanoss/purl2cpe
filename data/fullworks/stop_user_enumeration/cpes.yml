@@ -43,3 +43,4 @@ cpes:
   - cpe:2.3:a:fullworks:stop_user_enumeration:1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworks:stop_user_enumeration:1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:fullworks:stop_user_enumeration:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fullworks:stop_user_enumeration:*:*:*:*:*:wordpress:*:*

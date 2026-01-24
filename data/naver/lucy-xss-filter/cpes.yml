@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:naver:lucy-xss-filter:*:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:lucy-xss-filter:2025-06-08:*:*:*:*:*:*:*

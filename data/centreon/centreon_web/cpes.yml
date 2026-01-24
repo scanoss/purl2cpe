@@ -197,6 +197,7 @@ cpes:
   - cpe:2.3:a:centreon:centreon_web:24.04.15:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.16:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.04.18:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.2:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.3:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.4:*:*:*:*:*:*:*
