@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/un-ts/synckit
+  - pkg:npm/synckit
