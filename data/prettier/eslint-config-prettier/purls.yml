@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/prettier/eslint-plugin-prettier
+  - pkg:npm/eslint-plugin-prettier

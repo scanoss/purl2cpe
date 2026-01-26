@@ -1,0 +1,10 @@
+purls:
+  - pkg:gem/msgpack
+  - pkg:github/msgpack/msgpack-java
+  - pkg:github/msgpack/msgpack-javascript
+  - pkg:github/msgpack/msgpack-perl
+  - pkg:github/msgpack/msgpack-ruby
+  - pkg:maven/org.msgpack/msgpack
+  - pkg:npm/@msgpack/msgpack
+  - pkg:pypi/msgpack
+  - pkg:rpm/fedora/msgpack

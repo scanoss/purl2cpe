@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:prettier:eslint-config-prettier:10.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prettier:eslint-config-prettier:10.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prettier:eslint-config-prettier:8.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prettier:eslint-config-prettier:9.1.1:*:*:*:*:node.js:*:*

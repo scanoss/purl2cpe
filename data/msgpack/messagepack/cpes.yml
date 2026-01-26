@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:msgpack:messagepack:0.9.10:*:*:*:*:java:*:*
