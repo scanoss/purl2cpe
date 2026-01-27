@@ -291,6 +291,7 @@ cpes:
   - cpe:2.3:a:appsmith:appsmith:1.9.28:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.29:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:appsmith:appsmith:1.93:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.30:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.31:*:*:*:*:*:*:*
@@ -304,6 +305,7 @@ cpes:
   - cpe:2.3:a:appsmith:appsmith:1.9.38:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.39:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:appsmith:appsmith:1.94:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.40:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.41:*:*:*:*:*:*:*
   - cpe:2.3:a:appsmith:appsmith:1.9.42:*:*:*:*:*:*:*

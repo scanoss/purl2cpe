@@ -200,3 +200,12 @@ cpes:
   - cpe:2.3:a:apache:hadoop:3.3.6:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:hadoop:3.3.6:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:hadoop:3.3.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hadoop:3.4.1:rc3:*:*:*:*:*:*
