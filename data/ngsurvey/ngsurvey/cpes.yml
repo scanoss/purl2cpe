@@ -2,3 +2,5 @@ cpes:
   - cpe:2.3:a:ngsurvey:ngsurvey:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:-:*:*:*:*:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:3.6.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:*:*:*:*:enterprise:*:*:*

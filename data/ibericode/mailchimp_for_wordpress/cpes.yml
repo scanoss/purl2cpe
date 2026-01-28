@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:2.2.6:*:*:*:*:wordpress:*:*
@@ -74,6 +75,7 @@ cpes:
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.1.0:*:*:*:*:wordpress:*:*
@@ -128,3 +130,4 @@ cpes:
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.8.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.8.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ibericode:mailchimp_for_wordpress:-:*:*:*:*:wordpress:*:*
