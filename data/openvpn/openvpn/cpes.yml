@@ -493,6 +493,9 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.6.11:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.12:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.13:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.14:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.15:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.16:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.1:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.2:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.3:*:*:*:community:*:*:*
@@ -510,6 +513,7 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.7:beta2:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:beta3:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:rc1:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7:rc2:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:*:*:*:*:community:*:*:*

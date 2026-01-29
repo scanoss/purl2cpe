@@ -464,3 +464,4 @@ cpes:
   - cpe:2.3:a:vega_project:vega:5.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vega_project:vega:5.9.2:*:*:*:*:-:*:*
   - cpe:2.3:a:vega_project:vega:5.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vega_project:vega:*:*:*:*:*:node.js:*:*

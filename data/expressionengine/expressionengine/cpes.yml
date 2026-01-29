@@ -217,3 +217,4 @@ cpes:
   - cpe:2.3:a:expressionengine:expressionengine:7.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:expressionengine:expressionengine:7.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:expressionengine:expressionengine:7.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:expressionengine:expressionengine:7.4.11:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/remix-run/react
+  - pkg:npm/%40remix-run/react

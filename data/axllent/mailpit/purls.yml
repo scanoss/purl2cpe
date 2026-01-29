@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/axllent/mailpit
+  - pkg:golang/github.com/axllent/mailpit

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/project-monai/monai
+  - pkg:pypi/monai

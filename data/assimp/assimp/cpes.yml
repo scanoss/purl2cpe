@@ -32,5 +32,7 @@ cpes:
   - cpe:2.3:a:assimp:assimp:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:assimp:assimp:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:assimp:assimp:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:assimp:assimp:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:assimp:assimp:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:assimp:assimp:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:assimp:assimp:release3.1:rc1:*:*:*:*:*:*

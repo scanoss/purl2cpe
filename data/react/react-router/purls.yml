@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/remix-run/react-router
+  - pkg:npm/react-router
