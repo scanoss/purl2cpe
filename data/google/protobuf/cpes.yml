@@ -25,6 +25,7 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.0.0:beta3.3:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:beta3-prelease1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.1.0:-:*:*:*:*:*:*

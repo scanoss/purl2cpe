@@ -27,6 +27,8 @@ cpes:
   - cpe:2.3:a:infiniflow:ragflow:0.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infiniflow:ragflow:0.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:infiniflow:ragflow:0.3.2:*:*:*:*:*:*:*

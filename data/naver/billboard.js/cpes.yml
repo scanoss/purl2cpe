@@ -87,6 +87,7 @@ cpes:
   - cpe:2.3:a:naver:billboard.js:3.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:billboard.js:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:billboard.js:3.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:naver:billboard.js:3.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:billboard.js:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:billboard.js:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:naver:billboard.js:3.2.2:*:*:*:*:*:*:*

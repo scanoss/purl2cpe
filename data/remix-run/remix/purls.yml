@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/remix-run/remix
+  - pkg:npm/remix

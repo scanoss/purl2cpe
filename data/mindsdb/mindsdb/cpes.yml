@@ -192,8 +192,32 @@ cpes:
   - cpe:2.3:a:mindsdb:mindsdb:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.10.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.11.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.11.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.11.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.41.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.123:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.124:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.125:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.126:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.127:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.128:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.129:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.130:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.12.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.42.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.42.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.42.2:*:*:*:*:*:*:*
@@ -203,22 +227,93 @@ cpes:
   - cpe:2.3:a:mindsdb:mindsdb:2.45.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.45.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:24.7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.8.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.8.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.8.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:24.9.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.11.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.51.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.55.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.55.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.55.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.6.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.7.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.7.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.7.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.58.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.58.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.58.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.8.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.58.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.9.2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:25.9.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.60.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.60.1:*:*:*:*:*:*:*
