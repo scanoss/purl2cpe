@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pithikos/python-websocket-server
+  - pkg:pypi/websocket-server

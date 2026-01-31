@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:c-ares:c-ares:*:*:*:*:*:*:*:*
   - cpe:2.3:a:c-ares:c-ares:-:*:*:*:*:*:*:*
   - cpe:2.3:a:c-ares:c-ares:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:c-ares:c-ares:1.1.0:*:*:*:*:*:*:*

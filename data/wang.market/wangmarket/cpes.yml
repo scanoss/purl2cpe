@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:wang.market:wangmarket:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wang.market:wangmarket:4.10:*:*:*:*:*:*:*
   - cpe:2.3:a:wang.market:wangmarket:6.1:*:*:*:*:*:*:*

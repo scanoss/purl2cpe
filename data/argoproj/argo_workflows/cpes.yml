@@ -273,6 +273,8 @@ cpes:
   - cpe:2.3:a:argoproj:argo_workflows:3.6.11:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.6.12:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.6.13:*:*:*:*:go:*:*
+  - cpe:2.3:a:argoproj:argo_workflows:3.6.14:*:*:*:*:go:*:*
+  - cpe:2.3:a:argoproj:argo_workflows:3.6.15:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.6.2:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.6.3:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.6.4:*:*:*:*:go:*:*
@@ -290,3 +292,5 @@ cpes:
   - cpe:2.3:a:argoproj:argo_workflows:3.7.2:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.7.3:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:3.7.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:argoproj:argo_workflows:3.7.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:argoproj:argo_workflows:3.7.6:*:*:*:*:go:*:*

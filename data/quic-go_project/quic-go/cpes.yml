@@ -81,14 +81,19 @@ cpes:
   - cpe:2.3:a:quic-go_project:quic-go:0.37.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.37.5:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.37.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:quic-go_project:quic-go:0.37.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quic-go_project:quic-go:0.38.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.39.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.39.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:quic-go_project:quic-go:0.39.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:quic-go_project:quic-go:0.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quic-go_project:quic-go:0.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:quic-go_project:quic-go:0.7.0:*:*:*:*:*:*:*

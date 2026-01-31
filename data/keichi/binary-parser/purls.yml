@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/keichi/binary-parser
+  - pkg:npm/binary-parser

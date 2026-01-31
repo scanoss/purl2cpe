@@ -146,6 +146,7 @@ cpes:
   - cpe:2.3:a:getcomposer:composer:2.2.20:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.2.21:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:getcomposer:composer:2.2.23:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.2.5:*:*:*:*:*:*:*
@@ -185,3 +186,4 @@ cpes:
   - cpe:2.3:a:getcomposer:composer:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:getcomposer:composer:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:getcomposer:composer:2.7.0:*:*:*:*:*:*:*

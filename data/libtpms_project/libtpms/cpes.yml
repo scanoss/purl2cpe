@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:a:libtpms_project:libtpms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libtpms_project:libtpms:0.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:libtpms_project:libtpms:0.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libtpms_project:libtpms:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libtpms_project:libtpms:0.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libtpms_project:libtpms:0.5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libtpms_project:libtpms:0.6.0:*:*:*:*:*:*:*

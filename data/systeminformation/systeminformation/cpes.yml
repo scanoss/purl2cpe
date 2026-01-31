@@ -242,6 +242,8 @@ cpes:
   - cpe:2.3:a:systeminformation:systeminformation:5.21.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.3:*:*:*:*:node.js:*:*
