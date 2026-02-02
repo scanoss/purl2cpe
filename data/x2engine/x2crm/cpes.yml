@@ -82,6 +82,7 @@ cpes:
   - cpe:2.3:a:x2engine:x2crm:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:x2engine:x2crm:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:x2engine:x2crm:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:x2engine:x2crm:5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:x2engine:x2crm:5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:x2engine:x2crm:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:x2engine:x2crm:5.4.2:*:*:*:*:*:*:*

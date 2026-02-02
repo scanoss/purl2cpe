@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:microsoft:azure_logic_apps:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_logic_apps:-:*:*:*:*:*:*:*

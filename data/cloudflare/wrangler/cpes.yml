@@ -9,6 +9,7 @@ cpes:
   - cpe:2.3:a:cloudflare:wrangler:0.0.17:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cloudflare:wrangler:0.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.21:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.22:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.23:*:*:*:*:node.js:*:*
@@ -18,11 +19,14 @@ cpes:
   - cpe:2.3:a:cloudflare:wrangler:0.0.27:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.28:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.29:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cloudflare:wrangler:0.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.30:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.31:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.32:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.33:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.34:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cloudflare:wrangler:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cloudflare:wrangler:0.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:cloudflare:wrangler:0.0.7:*:*:*:*:node.js:*:*
