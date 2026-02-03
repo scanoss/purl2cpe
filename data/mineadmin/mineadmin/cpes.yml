@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:mineadmin:mineadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mineadmin:mineadmin:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mineadmin:mineadmin:2.0:*:*:*:*:*:*:*

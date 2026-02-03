@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:limesurvey:limesurvey:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:-:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.01:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.45:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:1.49:*:*:*:*:*:*:*
@@ -972,8 +973,82 @@ cpes:
   - cpe:2.3:a:limesurvey:limesurvey:5.3.32:220817:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:5.4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.0:230405:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.1:230411:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.2:230417:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.3:230424:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.4:230427:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.5:230502:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.6:230508:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.0.7:230515:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.0:230522:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.1:230530:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.2:230606:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.13.0:250415:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.3:230612:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.4:230620:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.5:230626:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.6:230703:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.7:230710:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.1.8:230717:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.0:230732:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.10:231004:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.11:231007:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.1:230807:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.2:230814:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.3:230821:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.4:230825:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.5:230828:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.6:230904:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.7:230918:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.8:230921:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.2.9:230925:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.3.0:231016:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.1:231023:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.2:231031:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.3:231106:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.4:231108:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.5:231113:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.6:231120:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.7:231127:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.8:231204:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.3.9:231211:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.0:231218:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.10:240228:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.11:240304:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.12:240311:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.1:240108:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.2:240115:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.3:240122:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.4:240130:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.5:240205:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.6:240212:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.7:240219:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.8:240221:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.4.9:240226:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.0:240319:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.10:240603:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.11:240605:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.12:240611:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.1:240320:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.13:240617:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.14:240624:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.15:240701:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.16:240708:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.17:240715:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.18:240723:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.2:240402:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.3:240415:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.4:240422:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.5:240429:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.6:240506:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.7:240515:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.8:240517:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.5.9:240521:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.6.0:240729:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.6.1:240806:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:6.6.2:240827:*:*:*:*:*:*

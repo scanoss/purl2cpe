@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:fractalfir:memory_pages:0.1.0:*:*:*:*:rust:*:*

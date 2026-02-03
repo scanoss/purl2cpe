@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:browserstack:browserstack-local:1.5.8:*:*:*:*:node.j.s:*:*
+  - cpe:2.3:a:browserstack:browserstack-local:1.5.8:*:*:*:*:node.js:*:*

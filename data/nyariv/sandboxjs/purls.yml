@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nyariv/sandboxjs
+  - pkg:npm/%40nyariv/sandboxjs

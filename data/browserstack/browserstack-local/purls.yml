@@ -1,0 +1,14 @@
+purls:
+  - pkg:gem/browserstack-local
+  - pkg:github/browserstack/browserstack-local-csharp
+  - pkg:github/browserstack/browserstack-local-java
+  - pkg:github/browserstack/browserstack-local-nodejs
+  - pkg:github/browserstack/browserstack-local-perl
+  - pkg:github/browserstack/browserstack-local-php
+  - pkg:github/browserstack/browserstack-local-python
+  - pkg:github/browserstack/browserstack-local-ruby
+  - pkg:github/browserstack/docker-browserstack-local
+  - pkg:maven/com.browserstack/browserstack-local-java
+  - pkg:npm/browserstack-local
+  - pkg:nuget/browserstacklocal
+  - pkg:pypi/browserstack-local

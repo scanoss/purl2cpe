@@ -1,0 +1,6 @@
+purls:
+  - pkg:composer/acquia/content-hub-php
+  - pkg:github/acquia/content-hub-node
+  - pkg:github/acquia/content-hub-php
+  - pkg:github/acquia/content-hub-python
+  - pkg:npm/content-hub

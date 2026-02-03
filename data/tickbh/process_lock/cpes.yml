@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:tickbh:process_lock:0.1.0:*:*:*:*:rust:*:*

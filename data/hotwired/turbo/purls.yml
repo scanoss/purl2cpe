@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hotwired/turbo
+  - pkg:npm/@hotwired/turbo
