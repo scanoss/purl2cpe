@@ -62,3 +62,4 @@ cpes:
   - cpe:2.3:a:metinfo:metinfo:7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:metinfo:metinfo:7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:metinfo:metinfo:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:metinfo:metinfo:8.1:*:*:*:*:*:*:*

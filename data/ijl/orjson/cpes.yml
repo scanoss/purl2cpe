@@ -44,7 +44,30 @@ cpes:
   - cpe:2.3:a:ijl:orjson:3.0.0:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.0.1:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.10.9:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.11.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.11.3:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.1.1:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.1.2:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.2.0:*:*:*:*:python:*:*
@@ -110,6 +133,7 @@ cpes:
   - cpe:2.3:a:ijl:orjson:3.9.12:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.9.13:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.9.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.9.15:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.9.1:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.9.2:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.9.3:*:*:*:*:python:*:*

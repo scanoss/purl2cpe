@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opensagres:xdocreport:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensagres:xdocreport:1.0.0:*:*:*:*:*:*:*

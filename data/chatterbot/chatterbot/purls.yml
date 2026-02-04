@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gunthercox/chatterbot
+  - pkg:pypi/chatterbot
+  - pkg:sourceforge/chatterbot.mirror

@@ -171,10 +171,12 @@ cpes:
   - cpe:2.3:a:signalk:signal_k_server:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:-:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.19.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.3.0:-:*:*:*:*:*:*

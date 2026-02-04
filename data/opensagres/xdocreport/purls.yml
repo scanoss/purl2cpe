@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensagres/xdocreport
+  - pkg:maven/fr.opensagres/xdocreport

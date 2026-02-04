@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nuxt/devtools
+  - pkg:npm/%40nuxt/devtools

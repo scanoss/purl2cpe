@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/chainlit/chainlit
+  - pkg:pypi/chainlit
+  - pkg:sourceforge/chainlit.mirror
