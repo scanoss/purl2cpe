@@ -84,8 +84,19 @@ cpes:
   - cpe:2.3:a:dokploy:dokploy:0.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.11:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.24.9:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokploy:dokploy:0.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dokploy:dokploy:0.3.2:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facelessuser/pymdown-extensions
+  - pkg:pypi/pymdown-extensions

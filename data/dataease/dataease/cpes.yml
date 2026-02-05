@@ -86,6 +86,8 @@ cpes:
   - cpe:2.3:a:dataease:dataease:2.10.14:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:2.10.15:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:2.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:dataease:2.10.18:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:2.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dataease:dataease:2.10.4:*:*:*:*:*:*:*

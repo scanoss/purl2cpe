@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:node-tar_project:node-tar:*:*:*:*:*:*:*:*
   - cpe:2.3:a:node-tar_project:node-tar:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:node-tar_project:node-tar:0.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:node-tar_project:node-tar:0.1.11:*:*:*:*:*:*:*

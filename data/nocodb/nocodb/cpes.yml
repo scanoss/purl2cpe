@@ -105,6 +105,41 @@ cpes:
   - cpe:2.3:a:nocodb:nocodb:0.256.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.257.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.257.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.258.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.260.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.261.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.262.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.263.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.264.6:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.5:*:*:*:*:*:*:*
