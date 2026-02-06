@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:weberp:weberp:*:*:*:*:*:*:*:*
   - cpe:2.3:a:weberp:weberp:2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:weberp:weberp:3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:weberp:weberp:3.01:*:*:*:*:*:*:*

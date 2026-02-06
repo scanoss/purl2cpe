@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:microsoft:nugetgallery:2024.05.28:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2024.06.21:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2024.09.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:2024.12.05:*:*:*:*:*:*:*

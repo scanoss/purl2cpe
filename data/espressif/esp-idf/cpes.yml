@@ -155,3 +155,4 @@ cpes:
   - cpe:2.3:a:espressif:esp-idf:5.4:dev:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.5.2:*:*:*:*:*:*:*

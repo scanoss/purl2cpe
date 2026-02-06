@@ -46,3 +46,9 @@ cpes:
   - cpe:2.3:a:apache:answer:1.4.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:answer:1.4.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:answer:1.4.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.4.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.4.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:answer:1.5.1:rc1:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wikimedia:wikibase:1.39:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.43:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.44:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.45:*:*:*:*:mediawiki:*:*

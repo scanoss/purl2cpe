@@ -510,6 +510,15 @@ cpes:
   - cpe:2.3:a:n8n:n8n:1.122.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.12.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.123.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:1.123.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.123.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.123.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:1.123.3:*:*:*:*:node.js:*:*
@@ -815,6 +824,26 @@ cpes:
   - cpe:2.3:a:n8n:n8n:2.1.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.1.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.1.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.3.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:*:*:*:*:*:node.js:*:*

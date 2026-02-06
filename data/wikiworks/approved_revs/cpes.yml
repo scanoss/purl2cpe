@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wikiworks:approved_revs:1.39:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikiworks:approved_revs:1.43:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikiworks:approved_revs:1.44:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikiworks:approved_revs:1.45:*:*:*:*:mediawiki:*:*

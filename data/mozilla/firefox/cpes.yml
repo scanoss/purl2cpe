@@ -309,6 +309,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:128.0.2:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:128.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:128.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:firefox:128.0:*:*:*:esr:*:*:*
   - cpe:2.3:a:mozilla:firefox:128.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:128.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:128.10.0:*:*:*:esr:*:*:*

@@ -133,6 +133,8 @@ cpes:
   - cpe:2.3:a:glpi-project:glpi:10.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi:10.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi:10.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:10.0.5:*:*:*:*:*:*:*
@@ -157,6 +159,8 @@ cpes:
   - cpe:2.3:a:glpi-project:glpi:11.0.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:11.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:11.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi:11.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi:11.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:glpi-project:glpi:9.1.0:rc1:*:*:*:*:*:*
