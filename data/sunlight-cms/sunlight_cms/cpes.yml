@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:sunlight-cms:sunlight_cms:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sunlight-cms:sunlight_cms:8.0.1:*:*:*:*:*:*:*
