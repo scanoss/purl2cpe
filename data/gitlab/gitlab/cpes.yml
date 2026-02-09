@@ -1893,8 +1893,12 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:18.5.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.5.2:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.5.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.5.4:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.5.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.6.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.6.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.6.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.6.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.7.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.7.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:2.0.0:*:*:*:*:*:*:*

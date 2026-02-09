@@ -35,6 +35,7 @@ cpes:
   - cpe:2.3:o:google:android:2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2020-06-01:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:android:2024-04-05:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.2:*:*:*:*:*:*:*

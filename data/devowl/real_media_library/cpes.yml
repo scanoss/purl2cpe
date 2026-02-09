@@ -107,6 +107,9 @@ cpes:
   - cpe:2.3:a:devowl:real_media_library:4.13.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devowl:real_media_library:4.14.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devowl:real_media_library:4.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:devowl:real_media_library:4.14.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:devowl:real_media_library:4.14.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:devowl:real_media_library:4.15.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devowl:real_media_library:4.16.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devowl:real_media_library:4.16.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:devowl:real_media_library:4.16.2:*:*:*:*:wordpress:*:*
