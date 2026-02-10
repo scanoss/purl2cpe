@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:frangoteam:fuxa:1.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:frangoteam:fuxa:1.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.4:*:*:*:*:*:*:*
@@ -24,3 +25,4 @@ cpes:
   - cpe:2.3:a:frangoteam:fuxa:1.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:frangoteam:fuxa:1.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:frangoteam:fuxa:1.2.7:*:*:*:*:*:*:*

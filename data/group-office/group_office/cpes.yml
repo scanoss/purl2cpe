@@ -38,9 +38,40 @@ cpes:
   - cpe:2.3:a:group-office:group_office:25.0.44:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.45:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.49:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.59:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.68:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.69:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.72:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.73:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.77:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:25.0.78:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:25.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.2.85:*:*:*:*:*:*:*
@@ -587,7 +618,19 @@ cpes:
   - cpe:2.3:a:group-office:group_office:6.8.133:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.134:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.135:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.136:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.137:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.138:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.139:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.141:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.142:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.143:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.144:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.145:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.146:*:*:*:*:*:*:*
+  - cpe:2.3:a:group-office:group_office:6.8.147:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.16:*:*:*:*:*:*:*
   - cpe:2.3:a:group-office:group_office:6.8.17:*:*:*:*:*:*:*
