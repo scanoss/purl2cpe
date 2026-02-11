@@ -236,7 +236,24 @@ cpes:
   - cpe:2.3:a:systeminformation:systeminformation:5.20.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.19:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.26:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.4:*:*:*:*:node.js:*:*
@@ -244,12 +261,91 @@ cpes:
   - cpe:2.3:a:systeminformation:systeminformation:5.21.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.21.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.21.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.22.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.23.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.24.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.25.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.26.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.26.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.26.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.27.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.2.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.1:*:*:*:*:node.js:*:*
