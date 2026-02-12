@@ -17,7 +17,18 @@ cpes:
   - cpe:2.3:a:fastify:reply-from:0.6.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:10.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:11.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:11.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:11.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:12.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:2.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:2.2.0:*:*:*:*:node.js:*:*
@@ -73,4 +84,5 @@ cpes:
   - cpe:2.3:a:fastify:reply-from:9.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:9.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:9.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:reply-from:9.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:reply-from:-:*:*:*:*:node.js:*:*
