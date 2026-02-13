@@ -74,10 +74,21 @@ cpes:
   - cpe:2.3:a:webpack.js:webpack:5.0.0:rc4:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.0.0:rc5:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.0.0:rc6:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.100.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.100.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.100.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.101.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.101.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.101.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.101.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.102.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.102.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.103.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.10.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.104.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.11.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.11.1:*:*:*:*:node.js:*:*
@@ -239,3 +250,20 @@ cpes:
   - cpe:2.3:a:webpack.js:webpack:5.92.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.92.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:webpack.js:webpack:5.93.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.94.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.95.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.96.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.96.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.97.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.97.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.98.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:webpack.js:webpack:5.99.9:*:*:*:*:node.js:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:2.0:-:*:*:*:*:*:*
@@ -110,6 +111,7 @@ cpes:
   - cpe:2.3:a:espressif:esp-idf:5.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.0:rc1:*:*:*:*:*:*
@@ -149,10 +151,15 @@ cpes:
   - cpe:2.3:a:espressif:esp-idf:5.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:-:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:beta1:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:beta2:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:dev:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.5:-:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:espressif:esp-idf:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.5:dev:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-idf:5.5:rc1:*:*:*:*:*:*

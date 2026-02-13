@@ -169,6 +169,9 @@ cpes:
   - cpe:2.3:a:filebrowser:filebrowser:2.53.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.53.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.57.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.6.2:*:*:*:*:*:*:*

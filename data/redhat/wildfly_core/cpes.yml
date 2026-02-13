@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:wildfly_core:-:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:10.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:wildfly_core:10.0.0:beta2:*:*:*:*:*:*

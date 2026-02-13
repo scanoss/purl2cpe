@@ -105,6 +105,7 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:11.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:11.1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.2.2:*:*:*:*:*:*:*
@@ -132,6 +133,7 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:11.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:11.5.13:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:11.5.4:*:*:*:*:*:*:*
@@ -156,6 +158,9 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:12.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:12.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:12.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:12.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:12.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:12.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:1.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:1.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:1.5.0:*:*:*:*:*:*:*
@@ -183,6 +188,7 @@ cpes:
   - cpe:2.3:a:pimcore:pimcore:4.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pimcore:pimcore:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pimcore:pimcore:4.4.0:*:*:*:*:*:*:*
