@@ -444,6 +444,8 @@ cpes:
   - cpe:2.3:a:langroid:langroid:0.53.12:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.13:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.53.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.53.16:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.2:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.3:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.4:*:*:*:*:*:*:*
@@ -452,6 +454,7 @@ cpes:
   - cpe:2.3:a:langroid:langroid:0.53.7:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.8:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.2:*:*:*:*:*:*:*

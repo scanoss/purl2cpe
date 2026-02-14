@@ -26,6 +26,10 @@ cpes:
   - cpe:2.3:a:solspace:freeform:5.10.14:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.10.15.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.10.15:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.10.16.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.10.16:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.10.17.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.10.17:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.10.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.10.2:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.10.3:*:*:*:*:craft_cms:*:*
@@ -37,19 +41,37 @@ cpes:
   - cpe:2.3:a:solspace:freeform:5.10.9:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.0:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.10:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.10:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.11:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.12:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.13:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.14:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.15:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.16:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.17:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.11:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.12:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.2:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.13.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.13:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.3:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.14:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.4:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.15:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.5:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.16.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.16:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.6:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.17:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.7:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.18.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.18:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.8:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.19.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.19:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:solspace:freeform:5.11.9:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.2:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:solspace:freeform:5.1.3:*:*:*:*:craft_cms:*:*

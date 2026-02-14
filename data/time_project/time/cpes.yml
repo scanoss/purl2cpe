@@ -32,3 +32,43 @@ cpes:
   - cpe:2.3:a:time_project:time:0.2.7:*:*:*:*:rust:*:*
   - cpe:2.3:a:time_project:time:0.2.8:*:*:*:*:rust:*:*
   - cpe:2.3:a:time_project:time:0.2.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.13:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.15:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.16:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.17:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.18:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.19:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.20:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.21:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.22:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.23:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.24:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.25:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.27:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.28:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.29:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.30:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.31:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.32:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.33:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.34:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.35:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.36:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.37:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.38:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.39:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.40:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.41:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.42:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.43:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.44:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.45:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.46:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:time_project:time:0.3.9:*:*:*:*:rust:*:*

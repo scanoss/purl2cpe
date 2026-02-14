@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:owntone_project:owntone:*:*:*:*:*:*:*:*
   - cpe:2.3:a:owntone_project:owntone:-:*:*:*:*:*:*:*
   - cpe:2.3:a:owntone_project:owntone:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:owntone_project:owntone:0.11:*:*:*:*:*:*:*

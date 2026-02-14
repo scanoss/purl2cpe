@@ -1,0 +1,4 @@
+purls:
+  - pkg:cargo/jsonwebtoken
+  - pkg:github/keats/jsonwebtoken
+  - pkg:golang/github.com/keats/jsonwebtoken

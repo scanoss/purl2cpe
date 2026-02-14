@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:hotcrp:hotcrp:-:*:*:*:*:*:*:*
   - cpe:2.3:a:hotcrp:hotcrp:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotcrp:hotcrp:3.2:*:*:*:*:*:*:*

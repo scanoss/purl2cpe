@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:keats:jsonwebtoken:10.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:10.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:10.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:2.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:7.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:7.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:7.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:7.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:8.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:9.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:9.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:9.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:9.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:9.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:keats:jsonwebtoken:*:*:*:*:*:rust:*:*

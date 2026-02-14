@@ -379,6 +379,7 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.10.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.10.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:rc2:*:*:*:*:*:*
@@ -393,11 +394,13 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.0:rc2:*:*:*:*:*:*
@@ -410,3 +413,4 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.8.5:*:*:*:*:*:*:*

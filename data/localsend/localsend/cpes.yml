@@ -15,6 +15,7 @@ cpes:
   - cpe:2.3:a:localsend:localsend:1.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:localsend:localsend:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:localsend:localsend:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:localsend:localsend:1.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:localsend:localsend:1.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:localsend:localsend:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:localsend:localsend:1.5.2:*:*:*:*:*:*:*
