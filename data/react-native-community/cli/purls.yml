@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/react-native-community/cli
+  - pkg:npm/%40react-native-community/cli
