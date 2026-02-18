@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:strlen:lobster:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2021.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2021.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2021.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2023.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2024.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2025.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2025.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2025.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2025.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:strlen:lobster:2025.4:*:*:*:*:*:*:*

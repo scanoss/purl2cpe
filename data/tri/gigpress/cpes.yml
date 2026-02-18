@@ -73,6 +73,8 @@ cpes:
   - cpe:2.3:a:tri:gigpress:2.3.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.25.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:gigpress:2.3.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:gigpress:2.3.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.4:*:*:*:*:wordpress:*:*
@@ -82,3 +84,4 @@ cpes:
   - cpe:2.3:a:tri:gigpress:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tri:gigpress:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:gigpress:-:*:*:*:*:wordpress:*:*

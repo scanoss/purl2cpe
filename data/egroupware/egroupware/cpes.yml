@@ -199,6 +199,7 @@ cpes:
   - cpe:2.3:a:egroupware:egroupware:23.1.20240125:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:23.1.20240304:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:23.1.20240430:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20240624:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:9.1:-:commercial_epl:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:9.2:-:commercial_epl:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:*:*:*:*:community:*:*:*

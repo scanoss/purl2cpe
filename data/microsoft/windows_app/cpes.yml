@@ -2,6 +2,7 @@ cpes:
   - cpe:2.3:a:microsoft:windows_app:10.1.8:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.0:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.10:*:*:*:*:macos:*:*
+  - cpe:2.3:a:microsoft:windows_app:10.2.11:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.12:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.13:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.1:*:*:*:*:macos:*:*
@@ -13,6 +14,9 @@ cpes:
   - cpe:2.3:a:microsoft:windows_app:10.2.8:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.2.9:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.3.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:microsoft:windows_app:10.3.10:*:*:*:*:macos:*:*
+  - cpe:2.3:a:microsoft:windows_app:10.3.11:*:*:*:*:macos:*:*
+  - cpe:2.3:a:microsoft:windows_app:10.3.12:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.3.1:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.3.2:*:*:*:*:macos:*:*
   - cpe:2.3:a:microsoft:windows_app:10.3.3:*:*:*:*:macos:*:*

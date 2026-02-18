@@ -455,6 +455,71 @@ cpes:
   - cpe:2.3:a:langroid:langroid:0.53.8:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.53.9:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.54.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.54.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.55.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.56.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.58.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.58.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:langroid:langroid:0.59.9:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:langroid:langroid:0.6.2:*:*:*:*:*:*:*

@@ -118,6 +118,8 @@ cpes:
   - cpe:2.3:a:openfga:openfga:1.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:rc2:*:*:*:*:*:*

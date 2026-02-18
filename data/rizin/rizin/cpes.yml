@@ -17,4 +17,12 @@ cpes:
   - cpe:2.3:a:rizin:rizin:0.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rizin:rizin:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rizin:rizin:0.8.1:*:*:*:*:*:*:*

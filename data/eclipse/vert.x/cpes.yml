@@ -61,7 +61,28 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.0.0:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.20:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr3:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr4:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr6:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr7:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.0:cr8:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:5.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:5.0.4:*:*:*:*:*:*:*

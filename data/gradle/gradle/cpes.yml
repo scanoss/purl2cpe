@@ -348,6 +348,7 @@ cpes:
   - cpe:2.3:a:gradle:gradle:7.6.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:7.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:7.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.0.0:milestone2:*:*:*:*:*:*
@@ -379,6 +380,7 @@ cpes:
   - cpe:2.3:a:gradle:gradle:8.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.3.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.3.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:gradle:gradle:8.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:gradle:gradle:8.4.0:rc3:*:*:*:*:*:*

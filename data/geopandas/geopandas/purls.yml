@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-geopandas
+  - pkg:deb/ubuntu/python-geopandas
+  - pkg:github/geopandas/geopandas
+  - pkg:pypi/geopandas
+  - pkg:rpm/fedora/python-geopandas

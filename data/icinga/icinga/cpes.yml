@@ -134,6 +134,7 @@ cpes:
   - cpe:2.3:a:icinga:icinga:2.13.10:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.11:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:icinga:icinga:2.13.13:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.13.4:*:*:*:*:*:*:*
@@ -149,7 +150,9 @@ cpes:
   - cpe:2.3:a:icinga:icinga:2.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:icinga:icinga:2.14.7:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icinga:icinga:2.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:icinga:icinga:2.2.2:*:*:*:*:*:*:*

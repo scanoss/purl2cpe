@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chainguard-dev/melange
+  - pkg:golang/github.com/chainguard-dev/melange

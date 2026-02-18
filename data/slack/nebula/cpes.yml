@@ -3,3 +3,20 @@ cpes:
   - cpe:2.3:a:slack:nebula:-:*:*:*:*:*:*:*
   - cpe:2.3:a:slack:nebula:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:slack:nebula:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:slack:nebula:1.9.7:*:*:*:*:*:*:*

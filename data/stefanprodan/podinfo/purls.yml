@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stefanprodan/podinfo
+  - pkg:golang/github.com/stefanprodan/podinfo
