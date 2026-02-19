@@ -26,6 +26,7 @@ cpes:
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.7:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.4.0:*:*:*:*:*:*:*

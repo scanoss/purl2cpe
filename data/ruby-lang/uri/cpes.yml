@@ -14,9 +14,12 @@ cpes:
   - cpe:2.3:a:ruby-lang:uri:0.12.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:0.12.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:0.12.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:uri:0.12.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:0.13.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:0.13.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:uri:0.13.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:1.0.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:1.0.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:1.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-lang:uri:1.0.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:ruby-lang:uri:*:*:*:*:*:ruby:*:*

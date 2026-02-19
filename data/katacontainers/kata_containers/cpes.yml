@@ -43,6 +43,11 @@ cpes:
   - cpe:2.3:a:katacontainers:kata_containers:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:katacontainers:kata_containers:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:katacontainers:kata_containers:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:katacontainers:kata_containers:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:katacontainers:kata_containers:2.1.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:katacontainers:kata_containers:2.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:katacontainers:kata_containers:2.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:katacontainers:kata_containers:2.1.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:katacontainers:kata_containers:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:katacontainers:kata_containers:2.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:katacontainers:kata_containers:2.2.0:alpha0:*:*:*:*:*:*

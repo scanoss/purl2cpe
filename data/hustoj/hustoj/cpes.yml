@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:hustoj:hustoj:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:-:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:15.12:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:16.05:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:16.05.2:*:*:*:*:*:*:*
@@ -198,4 +200,47 @@ cpes:
   - cpe:2.3:a:hustoj:hustoj:22.10.28:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:22.11.04:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:22.11.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:22.11.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:22.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:22.12.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:22.12.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:22.12.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.01.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.01.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.02.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.04.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.08.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.11.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.12.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:23.12.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.01.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.02.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.03.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.03.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.03.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.05.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.06.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.07.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.08.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.08.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.09.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.10.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.10.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.12.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:24.12.25:*:*:*:*:*:*:*
   - cpe:2.3:a:hustoj:hustoj:25.01.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:25.05.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:25.05.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:25.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:25.12.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:25.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:26.01.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:26.01.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:hustoj:hustoj:26.01.31:*:*:*:*:*:*:*

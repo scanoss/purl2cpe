@@ -13,6 +13,10 @@ cpes:
   - cpe:2.3:a:markdown-it_project:markdown-it:12.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:markdown-it_project:markdown-it:12.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:markdown-it_project:markdown-it:12.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:markdown-it_project:markdown-it:13.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:markdown-it_project:markdown-it:13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:markdown-it_project:markdown-it:13.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:markdown-it_project:markdown-it:14.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:markdown-it_project:markdown-it:14.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:markdown-it_project:markdown-it:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:markdown-it_project:markdown-it:2.1.0:*:*:*:*:*:*:*

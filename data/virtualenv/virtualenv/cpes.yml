@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:virtualenv:virtualenv:-:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.10:-:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.10:rc1:*:*:*:*:*:*
@@ -69,13 +70,37 @@ cpes:
   - cpe:2.3:a:virtualenv:virtualenv:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:15.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:15.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:16.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:16.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.7.1.1:*:*:*:*:*:*:*
@@ -90,3 +115,140 @@ cpes:
   - cpe:2.3:a:virtualenv:virtualenv:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:1.9:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.16.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.24.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.26.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.31.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.35.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.35.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.9.0:*:*:*:*:*:*:*

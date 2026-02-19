@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tgies/client-certificate-auth
+  - pkg:npm/client-certificate-auth

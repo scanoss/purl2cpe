@@ -200,6 +200,25 @@ cpes:
   - cpe:2.3:a:egroupware:egroupware:23.1.20240304:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:23.1.20240430:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:23.1.20240624:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20240905:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20240930:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20241008:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20241111:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20241128:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20241214:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250113:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250307:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250416:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250506:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250715:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20250902:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20251021:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20251119:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20251222:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:23.1.20260108:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:26.0.20251208:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:26.0.20251216:*:*:*:community:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:26.0.20260108:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:9.1:-:commercial_epl:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:9.2:-:commercial_epl:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:*:*:*:*:community:*:*:*

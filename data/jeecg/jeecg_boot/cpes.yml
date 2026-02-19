@@ -43,3 +43,4 @@ cpes:
   - cpe:2.3:a:jeecg:jeecg_boot:3.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg_boot:3.8.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jeecg:jeecg_boot:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeecg:jeecg_boot:3.9.1:*:*:*:*:*:*:*

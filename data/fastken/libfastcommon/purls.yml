@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/happyfish100/libfastcommon
+  - pkg:sourceforge/libfastcommon

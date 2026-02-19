@@ -59,3 +59,4 @@ cpes:
   - cpe:2.3:a:mealie:mealie:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mealie:mealie:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mealie:mealie:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mealie:mealie:3.3.1:*:*:*:*:*:*:*

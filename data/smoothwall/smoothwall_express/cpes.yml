@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:o:smoothwall:smoothwall_express:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:*:*:*:*:*:*:*

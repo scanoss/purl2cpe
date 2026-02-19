@@ -429,6 +429,8 @@ cpes:
   - cpe:2.3:a:statamic:statamic:4.43.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.44.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statamic:statamic:4.47.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:statamic:statamic:4.7.0:*:*:*:*:*:*:*

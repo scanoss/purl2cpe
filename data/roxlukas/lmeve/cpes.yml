@@ -1,2 +1,16 @@
 cpes:
+  - cpe:2.3:a:roxlukas:lmeve:0.1.45:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.46:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.47:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.49:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.50:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.50:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.51:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.52:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.53:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.54:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.55:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.56:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.57:beta:*:*:*:*:*:*
   - cpe:2.3:a:roxlukas:lmeve:0.1.58:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roxlukas:lmeve:0.1.59:beta:*:*:*:*:*:*
