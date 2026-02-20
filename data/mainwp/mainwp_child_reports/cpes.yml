@@ -21,4 +21,6 @@ cpes:
   - cpe:2.3:a:mainwp:mainwp_child_reports:2.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child_reports:2.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child_reports:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:mainwp_child_reports:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:mainwp_child_reports:2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:mainwp:mainwp_child_reports:-:*:*:*:*:wordpress:*:*

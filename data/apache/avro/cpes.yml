@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:apache:avro:1.11.2:*:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:1.11.3:*:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:1.11.4:-:*:*:*:-:*:*
+  - cpe:2.3:a:apache:avro:1.11.4:rc1:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:1.12.0:-:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:1.12.0:rc0:*:*:*:-:*:*
   - cpe:2.3:a:apache:avro:1.12.0:rc1:*:*:*:-:*:*

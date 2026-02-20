@@ -1990,22 +1990,80 @@ cpes:
   - cpe:2.3:a:jenkins:jenkins:2.50:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.500:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.501:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.502:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.503:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.504:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.504.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.504.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.504.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.505:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.506:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.507:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.508:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.509:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.50:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.51:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.51:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.510:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.511:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.512:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.513:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.514:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.515:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.516:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.516.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.516.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.516.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.517:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.518:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.519:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.51:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.52:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.52:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.520:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.521:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.522:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.523:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.524:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.525:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.526:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.527:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.528:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.528.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.528.2:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.528.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.529:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.52:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.53:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.53:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.530:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.531:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.532:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.533:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.534:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.535:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.536:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.537:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.538:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.539:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.53:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.54:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.54:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.540:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.541:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.541.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.542:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.543:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.544:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.545:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.546:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.547:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.548:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.549:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.54:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.55:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.55:*:*:*:-:*:*:*
+  - cpe:2.3:a:jenkins:jenkins:2.550:*:*:*:-:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.55:*:*:*:lts:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.56:*:*:*:*:*:*:*
   - cpe:2.3:a:jenkins:jenkins:2.56:*:*:*:-:*:*:*

@@ -21,3 +21,4 @@ cpes:
   - cpe:2.3:a:jirafeau:jirafeau:4.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jirafeau:jirafeau:4.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jirafeau:jirafeau:4.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jirafeau:jirafeau:4.7.0:*:*:*:*:*:*:*
