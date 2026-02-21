@@ -115,6 +115,8 @@ cpes:
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.2:*:*:*:*:*:*:*

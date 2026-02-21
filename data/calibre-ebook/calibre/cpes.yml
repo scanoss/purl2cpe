@@ -603,3 +603,5 @@ cpes:
   - cpe:2.3:a:calibre-ebook:calibre:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-ebook:calibre:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:calibre-ebook:calibre:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:calibre-ebook:calibre:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:calibre-ebook:calibre:9.2.1:*:*:*:*:*:*:*

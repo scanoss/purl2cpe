@@ -60,7 +60,9 @@ cpes:
   - cpe:2.3:a:sigstore:cosign:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sigstore:cosign:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sigstore:cosign:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sigstore:cosign:3.0.4:*:*:*:*:*:*:*

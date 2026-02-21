@@ -134,4 +134,5 @@ cpes:
   - cpe:2.3:a:isaacs:tar:7.5.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:isaacs:tar:7.5.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:isaacs:tar:7.5.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:isaacs:tar:7.5.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:isaacs:tar:-:*:*:*:*:node.js:*:*

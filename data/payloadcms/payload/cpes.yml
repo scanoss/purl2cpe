@@ -316,6 +316,23 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:0.2.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.2.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.18:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.18:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.18:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.29:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.30:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.31:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.32:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.33:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.34:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.3.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.4.2:*:*:*:*:node.js:*:*
@@ -324,7 +341,15 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:0.4.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.4.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta2:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:beta6:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:0.5.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.5.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.5.2:*:*:*:*:node.js:*:*
@@ -366,6 +391,7 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:0.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.9.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:0.9.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.12:*:*:*:*:node.js:*:*
@@ -373,7 +399,10 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:1.0.14:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.15:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.0.17:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.0.17:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.0.17:-:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.19:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.20:*:*:*:*:node.js:*:*
@@ -398,19 +427,38 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:1.0.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.10.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.1.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.1.0:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.1.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.11.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.19:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.12.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.21:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.22:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.23:*:*:*:*:node.js:*:*
@@ -418,8 +466,23 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:1.1.25:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.26:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.13.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.13.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.13.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.13.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.14.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.15.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.1.7:*:*:*:*:node.js:*:*
@@ -487,3 +550,369 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:1.7.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.7.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:1.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.7.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.3:canary1:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.3:canary2:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.3:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:canary0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:canary1:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:canary2:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:canary3:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:canary4:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.4:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.8.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:1.9.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.11.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.11.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.12.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.14.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.14.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.18.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.18.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.18.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.19.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.19.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.19.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.22.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.22.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.23.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.23.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.24.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.24.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.24.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.26.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.27.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.28.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.29.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.30.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.30.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.30.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.30.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.30.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.31.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.32.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.32.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.32.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.32.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:2.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha10:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha11:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha12:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha14:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha15:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha16:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha18:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha19:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha22:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha23:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha25:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha29:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha30:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha32:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha33:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha34:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha35:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha36:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha37:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha39:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha40:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha41:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha42:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha44:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha45:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha46:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha48:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha49:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha50:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha52:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha53:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha54:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha55:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha57:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha58:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha59:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha60:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:alpha61:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta100:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta101:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta102:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta103:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta104:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta105:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta106:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta107:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta108:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta109:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta10:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta110:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta111:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta112:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta113:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta114:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta115:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta116:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta117:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta118:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta119:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta11:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta120:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta121:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta122:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta123:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta124:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta125:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta126:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta127:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta128:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta129:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta12:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta130:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta131:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta132:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta133:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta134:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta135:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta13:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta14:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta15:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta18:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta19:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta20:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta21:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta22:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta23:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta24:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta25:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta26:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta27:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta28:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta29:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta2:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta30:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta31:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta32:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta33:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta34:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta35:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta36:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta37:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta38:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta39:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta40:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta41:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta42:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta43:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta44:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta45:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta46:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta47:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta48:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta49:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta50:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta51:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta52:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta53:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta54:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta55:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta56:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta57:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta58:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta59:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta60:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta61:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta62:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta63:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta64:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta65:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta66:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta67:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta68:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta69:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta6:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta70:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta71:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta72:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta73:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta74:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta75:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta76:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta77:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta78:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta79:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta80:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta81:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta82:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta83:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta84:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta85:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta86:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta87:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta88:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta89:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta90:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta91:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta92:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta93:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta94:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta95:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta96:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta97:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta98:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta99:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:beta9:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.23.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.24.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.26.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.27.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.28.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.28.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.29.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.30.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.31.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.32.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.33.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.34.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.35.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.35.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.36.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.36.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.37.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.38.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.39.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.39.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.40.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.41.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.42.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.43.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.44.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.45.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.46.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.47.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.48.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.49.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.49.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.50.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.51.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.52.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.53.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.54.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.55.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.55.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.56.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.57.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.58.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.59.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.59.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.60.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.61.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.61.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.62.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.62.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.63.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.64.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.65.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.66.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.67.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.68.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.69.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.70.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.71.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.71.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.72.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.73.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.9.0:*:*:*:*:node.js:*:*

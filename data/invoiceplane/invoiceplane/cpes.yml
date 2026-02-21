@@ -53,4 +53,5 @@ cpes:
   - cpe:2.3:a:invoiceplane:invoiceplane:1.6.2:beta1:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:1.6.2:beta2:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:1.6.2:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:invoiceplane:invoiceplane:1.7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:invoiceplane:invoiceplane:2.0.0:alpha1:*:*:*:*:*:*

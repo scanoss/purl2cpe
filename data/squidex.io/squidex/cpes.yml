@@ -106,7 +106,19 @@ cpes:
   - cpe:2.3:a:squidex.io:squidex:7.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squidex.io:squidex:7.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:squidex.io:squidex:7.5.0:*:*:*:*:*:*:*
