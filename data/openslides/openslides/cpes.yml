@@ -1,6 +1,64 @@
 cpes:
+  - cpe:2.3:a:openslides:openslides:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.5:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.6:beta:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.6:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:1.7:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.1:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.2:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.2:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:2.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.12:*:*:*:*:*:*:*
@@ -11,6 +69,7 @@ cpes:
   - cpe:2.3:a:openslides:openslides:4.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.18:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.20:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.21:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.22:*:*:*:*:*:*:*
@@ -20,6 +79,7 @@ cpes:
   - cpe:2.3:a:openslides:openslides:4.2.26:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.27:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:openslides:openslides:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openslides:openslides:4.2.6:*:*:*:*:*:*:*

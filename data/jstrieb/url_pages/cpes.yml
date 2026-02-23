@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:jstrieb:url_pages:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jstrieb:url_pages:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jstrieb:url_pages:2020-10-25:*:*:*:*:*:*:*

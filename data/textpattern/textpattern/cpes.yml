@@ -51,3 +51,8 @@ cpes:
   - cpe:2.3:a:textpattern:textpattern:4.8.8:-:*:*:*:*:*:*
   - cpe:2.3:a:textpattern:textpattern:4.8.8:beta1:*:*:*:*:*:*
   - cpe:2.3:a:textpattern:textpattern:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:textpattern:textpattern:4.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:textpattern:textpattern:4.9.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:textpattern:textpattern:4.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:textpattern:textpattern:4.9.0:beta1a:*:*:*:*:*:*
+  - cpe:2.3:a:textpattern:textpattern:4.9.0:beta2:*:*:*:*:*:*

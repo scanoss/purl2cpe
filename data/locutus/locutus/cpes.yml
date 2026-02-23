@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:locutus:locutus:2.0.36:*:*:*:*:node.js:*:*
   - cpe:2.3:a:locutus:locutus:2.0.37:*:*:*:*:node.js:*:*
   - cpe:2.3:a:locutus:locutus:2.0.38:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:locutus:locutus:2.0.39:*:*:*:*:node.js:*:*
   - cpe:2.3:a:locutus:locutus:2.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:locutus:locutus:2.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:locutus:locutus:2.0.5:*:*:*:*:node.js:*:*

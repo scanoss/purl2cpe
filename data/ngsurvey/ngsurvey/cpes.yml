@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:ngsurvey:ngsurvey:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:-:*:*:*:-:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:1.7.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:1.7.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:1.7.3:*:*:*:enterprise:*:*:*
@@ -222,6 +223,7 @@ cpes:
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.26:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.27:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:-:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.29:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:ngsurvey:ngsurvey:2.4.2:*:*:*:enterprise:*:*:*
