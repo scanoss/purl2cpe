@@ -844,6 +844,8 @@ cpes:
   - cpe:2.3:a:n8n:n8n:2.4.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.4.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:n8n:n8n:*:*:*:*:*:node.js:*:*

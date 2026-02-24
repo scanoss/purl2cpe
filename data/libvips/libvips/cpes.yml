@@ -62,6 +62,10 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.17.0:test3:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.17.0:test4:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.3.0:*:*:*:*:*:*:*

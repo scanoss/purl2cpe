@@ -53,10 +53,42 @@ cpes:
   - cpe:2.3:a:kimai:kimai:1.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.19.7:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.20.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.29.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.30.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:1.30.9:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.4.2:*:*:*:*:*:*:*
@@ -67,7 +99,50 @@ cpes:
   - cpe:2.3:a:kimai:kimai:1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.13.0:*:*:*:*:*:*:*
@@ -78,7 +153,11 @@ cpes:
   - cpe:2.3:a:kimai:kimai:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.23.0:*:*:*:*:*:*:*
@@ -88,6 +167,7 @@ cpes:
   - cpe:2.3:a:kimai:kimai:2.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.31.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.32.0:*:*:*:*:*:*:*
@@ -100,8 +180,15 @@ cpes:
   - cpe:2.3:a:kimai:kimai:2.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.42.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.43.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.9.0:*:*:*:*:*:*:*

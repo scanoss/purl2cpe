@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:trilium_project:trilium:*:*:*:*:*:*:*:*
   - cpe:2.3:a:trilium_project:trilium:-:*:*:*:*:*:*:*
   - cpe:2.3:a:trilium_project:trilium:0.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:trilium_project:trilium:0.0.11:*:*:*:*:*:*:*

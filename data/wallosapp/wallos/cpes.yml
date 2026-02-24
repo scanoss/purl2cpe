@@ -126,15 +126,49 @@ cpes:
   - cpe:2.3:a:wallosapp:wallos:2.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.38.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.38.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.42.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.46.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.49.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.50.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.51.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:2.52.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:3.1.1:*:*:*:*:*:*:*

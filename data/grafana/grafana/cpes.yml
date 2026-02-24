@@ -3,94 +3,499 @@ cpes:
   - cpe:2.3:a:grafana:grafana:*:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:*:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:10.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.0:preview:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.0:preview:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.11:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.0.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.0.9:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:10.0.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:10.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.1.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.4:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:10.1.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.5:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:10.1.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.1.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.2.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:10.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.3.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.14:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.15:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.15:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.16:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.16:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.17:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.17:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.17:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.17:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:10.4.18:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:10.4.18:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.18:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.18:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.18:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.19:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.19:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.19:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.19:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:10.4.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.0:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.0:preview:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.0:preview:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.5:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.5:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.5:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.5:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.6:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.0.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.6:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.7:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.7:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.7:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.7:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.1.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.2.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.1:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.10:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.10:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.10:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.10:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.1:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.1:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.1:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.2:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.2:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.2:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.2:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.3:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.3:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.3:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.8:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.8:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.8:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.8:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.2.9:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.2.9:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.9:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.9:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.2.9:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.0:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.0:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.0:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.5:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.5:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.5:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.5:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.3.6:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.3.6:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.7:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.7:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.7:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.7:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.8:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.8:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.8:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.8:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.3.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.3:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.3:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.3:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.4.4:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.4.4:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.4:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.4:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.4:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.5:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.5:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.5:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.5:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.6:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.4.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.5.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.3:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.3:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.3:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.5.4:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.5.4:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.4:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.4:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.4:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.5:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.5:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.5:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.5:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.6:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.5.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.6.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.0:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.0:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.0:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:11.6.1:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:11.6.1:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.10:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.10:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.10:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.10:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.1:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.1:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.1:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.2:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.2:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.2:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.2:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.3:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.3:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.3:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:11.6.9:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.0:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.0:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.0:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.1:-:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.1:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.1:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.1:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.2:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.2:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.2:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.2:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.3:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.5:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.6:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.6:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.6:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.6:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.7:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.8:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.8:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.8:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.8:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.1:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.2:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.3:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.3:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.3:security01:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.4:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.5:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.5:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.5:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.5:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.6:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.6:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.1:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.1:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.1:security-01:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.1:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.1:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.3:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.3:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.3:security-01:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.3:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.3:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.4:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:security-01:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.4:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.4:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.1:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.1:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.1:security-01:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.1:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.1:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.2:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.2:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.2:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.2:security-01:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.2:security01:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.3.2:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:1.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.3.1:*:*:*:enterprise:*:*:*
@@ -586,61 +991,224 @@ cpes:
   - cpe:2.3:a:grafana:grafana:8.5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:8.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta1:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta2:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta2:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta3:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:beta3:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.0.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.0:beta1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.1.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.1:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.15:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.15:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.17:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.17:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.18:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.18:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.19:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.19:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.20:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.2.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.0:beta1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.1:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.11:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.11:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.14:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.15:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.15:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.16:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.16:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.3.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.0:beta1:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.0:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.13:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.14:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.15:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.15:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.16:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.17:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.17:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.4.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.5.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.10:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.5.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.12:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.12:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.13:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:9.5.13:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.14:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.14:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.15:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.15:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.16:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.16:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.17:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.17:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.18:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.18:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.19:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.19:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.20:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.20:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.21:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.21:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:9.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.8:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:9.5.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:*:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:-:*:*:*:enterprise:*:*:*

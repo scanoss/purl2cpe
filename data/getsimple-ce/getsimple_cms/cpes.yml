@@ -9,4 +9,5 @@ cpes:
   - cpe:2.3:a:getsimple-ce:getsimple_cms:3.3.19:*:*:*:community:*:*:*
   - cpe:2.3:a:getsimple-ce:getsimple_cms:3.3.20:*:*:*:community:*:*:*
   - cpe:2.3:a:getsimple-ce:getsimple_cms:3.3.21:*:*:*:community:*:*:*
+  - cpe:2.3:a:getsimple-ce:getsimple_cms:3.3.22:*:*:*:community:*:*:*
   - cpe:2.3:a:getsimple-ce:getsimple_cms:*:*:*:*:community:*:*:*

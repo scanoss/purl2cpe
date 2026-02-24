@@ -11,4 +11,8 @@ cpes:
   - cpe:2.3:a:flag_module_project:flag:7.x-3.3:*:*:*:*:drupal:*:*
   - cpe:2.3:a:flag_module_project:flag:7.x-3.4:*:*:*:*:drupal:*:*
   - cpe:2.3:a:flag_module_project:flag:7.x-3.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.6:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.7:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.8:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.9:*:*:*:*:drupal:*:*
   - cpe:2.3:a:flag_module_project:flag:7.x-3.x:dev:*:*:*:drupal:*:*

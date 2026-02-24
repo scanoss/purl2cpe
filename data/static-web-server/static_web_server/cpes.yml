@@ -92,6 +92,7 @@ cpes:
   - cpe:2.3:a:static-web-server:static_web_server:2.38.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:static-web-server:static_web_server:2.39.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:static-web-server:static_web_server:2.40.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:static-web-server:static_web_server:2.40.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:static-web-server:static_web_server:2.4.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:static-web-server:static_web_server:2.5.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:static-web-server:static_web_server:2.6.0:beta1:*:*:*:rust:*:*

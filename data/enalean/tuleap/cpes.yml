@@ -123,6 +123,11 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:16.10-5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.10.99.1754050155:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.12-10:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.13-7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.13-8:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.13-9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:16.13:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1-4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1.99.50:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.1:*:*:*:enterprise:*:*:*
@@ -174,6 +179,15 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:16.9.99.1751892857:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9.99.1752585665:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:16.9:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0-2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0-3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0-4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0.99.1762431347:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0.99.1762444754:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0.99.1762456922:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0.99.1763126988:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0.99.1763803709:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:enalean:tuleap:4.0.12:*:*:*:*:*:*:*

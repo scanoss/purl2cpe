@@ -143,6 +143,7 @@ cpes:
   - cpe:2.3:a:ethereum:go_ethereum:1.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:ethereum:go_ethereum:1.16.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ethereum:go_ethereum:1.16.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethereum:go_ethereum:1.16.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ethereum:go_ethereum:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ethereum:go_ethereum:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ethereum:go_ethereum:1.2.3:*:*:*:*:*:*:*

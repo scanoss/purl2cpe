@@ -146,3 +146,4 @@ cpes:
   - cpe:2.3:a:zoneminder:zoneminder:1.37.00:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.37.23:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.37.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.37.61:*:*:*:*:*:*:*
