@@ -1,4 +1,24 @@
 cpes:
   - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:30.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:31.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:34.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:35.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:35.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:36.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:36.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:37.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:37.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:38.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:39.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:40.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:41.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:42.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:43.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:44.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:45.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:46.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:47.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:48.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:49.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:50.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:*:*:*:*:*:rust:*:*

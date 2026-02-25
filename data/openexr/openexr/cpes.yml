@@ -111,3 +111,11 @@ cpes:
   - cpe:2.3:a:openexr:openexr:3.4.2:-:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.4.2:rc:*:*:*:*:*:*
   - cpe:2.3:a:openexr:openexr:3.4.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:openexr:openexr:3.4.4:rc2:*:*:*:*:*:*

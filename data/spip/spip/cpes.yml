@@ -9,6 +9,7 @@ cpes:
   - cpe:2.3:a:spip:spip:1.8.2e:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.8.2g:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.8.3:b:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.8b1:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.8b2:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.8b3:*:*:*:*:*:*:*
@@ -18,14 +19,25 @@ cpes:
   - cpe:2.3:a:spip:spip:1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.1:i:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.1:rev7385:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.1:rev7502:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2c:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2d:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:f:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2f:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:g:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2g:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:h:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.2h:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:i:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:j:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:k:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:m:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:n:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:o:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:1.9.2:p:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9.alpha1:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:1.9:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:2.0:*:*:*:*:*:*:*
@@ -145,7 +157,9 @@ cpes:
   - cpe:2.3:a:spip:spip:3.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:3.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:3.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.2.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:3.2.0:beta3:*:*:*:*:*:*
@@ -183,6 +197,7 @@ cpes:
   - cpe:2.3:a:spip:spip:4.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.0:rc:*:*:*:*:*:*
@@ -193,7 +208,12 @@ cpes:
   - cpe:2.3:a:spip:spip:4.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.19:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.1.20:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.1.5:*:*:*:*:*:*:*
@@ -205,6 +225,14 @@ cpes:
   - cpe:2.3:a:spip:spip:4.2.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.4:*:*:*:*:*:*:*
@@ -212,6 +240,30 @@ cpes:
   - cpe:2.3:a:spip:spip:4.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.8:*:*:*:*:*:*:*

@@ -756,6 +756,12 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:14.89.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.89.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:14.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:14.92.9:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.10.0:*:*:*:*:*:*:*
@@ -1034,9 +1040,32 @@ cpes:
   - cpe:2.3:a:frappe:erpnext:15.92.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.92.3:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:15.92.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.92.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.93.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.93.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.93.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.94.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.94.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.94.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.94.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.95.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.95.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.95.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.96.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.96.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.97.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:15.98.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:16.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:16.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:16.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:erpnext:16.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:erpnext:3.1.2:*:*:*:*:*:*:*

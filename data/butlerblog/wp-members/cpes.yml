@@ -37,6 +37,16 @@ cpes:
   - cpe:2.3:a:butlerblog:wp-members:3.4.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:butlerblog:wp-members:3.4.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:butlerblog:wp-members:3.4.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.4.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.4.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:butlerblog:wp-members:3.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:butlerblog:wp-members:3.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:butlerblog:wp-members:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:butlerblog:wp-members:-:*:*:*:*:wordpress:*:*

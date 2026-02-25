@@ -114,3 +114,4 @@ cpes:
   - cpe:2.3:a:caddyserver:caddy:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:caddyserver:caddy:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:caddyserver:caddy:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:caddyserver:caddy:2.7.5:*:*:*:*:*:*:*

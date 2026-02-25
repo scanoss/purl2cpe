@@ -1745,3 +1745,4 @@ cpes:
   - cpe:2.3:a:jetbrains:kotlin:1.4.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:kotlin:1.4.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:kotlin:1.4.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:kotlin:1.6.0:-:*:*:*:*:*:*

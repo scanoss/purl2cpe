@@ -113,3 +113,4 @@ cpes:
   - cpe:2.3:a:cern:indico:3.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cern:indico:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cern:indico:3.3.8:*:*:*:*:*:*:*

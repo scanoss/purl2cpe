@@ -137,6 +137,9 @@ cpes:
   - cpe:2.3:a:zoneminder:zoneminder:1.36.32:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.36.33:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.36.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.36.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.36.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.36.37:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.36.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.36.5:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.36.6:*:*:*:*:*:*:*
@@ -147,3 +150,8 @@ cpes:
   - cpe:2.3:a:zoneminder:zoneminder:1.37.23:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.37.24:*:*:*:*:*:*:*
   - cpe:2.3:a:zoneminder:zoneminder:1.37.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.37.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.37.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.37.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.37.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:zoneminder:zoneminder:1.38.0:*:*:*:*:*:*:*

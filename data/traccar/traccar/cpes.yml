@@ -59,3 +59,7 @@ cpes:
   - cpe:2.3:a:traccar:traccar:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:traccar:traccar:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:traccar:traccar:6.4:*:*:*:*:*:*:*

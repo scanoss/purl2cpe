@@ -420,6 +420,7 @@ cpes:
   - cpe:2.3:a:djangoproject:django:5.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:djangoproject:django:5.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.4:*:*:*:*:*:*:*
@@ -427,4 +428,7 @@ cpes:
   - cpe:2.3:a:djangoproject:django:5.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:5.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:djangoproject:django:6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:djangoproject:django:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:djangoproject:django:6.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:djangoproject:django:6.0:rc1:*:*:*:*:*:*
