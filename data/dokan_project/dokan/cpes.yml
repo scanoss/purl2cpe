@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dokan_project:dokan:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dokan_project:dokan:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dokan_project:dokan:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dokan_project:dokan:0.7.1:*:*:*:*:*:*:*

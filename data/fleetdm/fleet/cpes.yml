@@ -160,6 +160,7 @@ cpes:
   - cpe:2.3:a:fleetdm:fleet:4.77.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.78.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.78.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fleetdm:fleet:4.78.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.9.1:*:*:*:*:*:*:*

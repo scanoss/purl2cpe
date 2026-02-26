@@ -916,5 +916,6 @@ cpes:
   - cpe:2.3:a:payloadcms:payload:3.71.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:3.72.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:3.73.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:payloadcms:payload:3.74.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:3.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:payloadcms:payload:3.9.0:*:*:*:*:node.js:*:*

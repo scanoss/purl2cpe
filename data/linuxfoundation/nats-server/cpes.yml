@@ -34,6 +34,9 @@ cpes:
   - cpe:2.3:a:linuxfoundation:nats-server:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats-server:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats-server:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats-server:2.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.1.6:*:*:*:*:*:*:*
@@ -88,6 +91,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.20:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.21:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats-server:2.9.23:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:nats-server:2.9.5:*:*:*:*:*:*:*

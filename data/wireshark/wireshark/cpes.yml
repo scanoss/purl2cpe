@@ -394,6 +394,7 @@ cpes:
   - cpe:2.3:a:wireshark:wireshark:4.4.11:rc0:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.12:-:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.12:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:wireshark:wireshark:4.4.13:rc0:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wireshark:wireshark:4.4.6:*:*:*:*:*:*:*

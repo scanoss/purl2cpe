@@ -66,8 +66,31 @@ cpes:
   - cpe:2.3:a:it-novum:openitcockpit:4.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:it-novum:openitcockpit:4.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:4.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:it-novum:openitcockpit:5.3.1:*:*:*:*:*:*:*
