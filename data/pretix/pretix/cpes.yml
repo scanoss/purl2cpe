@@ -79,6 +79,7 @@ cpes:
   - cpe:2.3:a:pretix:pretix:2024.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.4.0:*:*:*:*:*:*:*
@@ -86,8 +87,16 @@ cpes:
   - cpe:2.3:a:pretix:pretix:2025.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2025.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2025.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.3.0:*:*:*:*:*:*:*
