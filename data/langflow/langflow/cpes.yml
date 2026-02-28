@@ -440,3 +440,4 @@ cpes:
   - cpe:2.3:a:langflow:langflow:1.7.0:dev8:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.7.0:dev9:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.7.1:*:*:*:*:*:*:*

@@ -1,2 +1,8 @@
 cpes:
+  - cpe:2.3:a:a54552239:pearprojectapi:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:a54552239:pearprojectapi:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:a54552239:pearprojectapi:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:a54552239:pearprojectapi:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:a54552239:pearprojectapi:2.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:a54552239:pearprojectapi:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:a54552239:pearprojectapi:2.8.4:*:*:*:*:*:*:*

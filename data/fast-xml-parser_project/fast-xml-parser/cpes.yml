@@ -124,3 +124,4 @@ cpes:
   - cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:4.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:4.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:4.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:node.js:*:*

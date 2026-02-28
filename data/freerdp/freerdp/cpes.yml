@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:freerdp:freerdp:2.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:freerdp:freerdp:2.11.8:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:2.3.0:*:*:*:*:*:*:*
@@ -80,6 +81,7 @@ cpes:
   - cpe:2.3:a:freerdp:freerdp:3.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:3.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:3.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freerdp:freerdp:3.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freerdp:freerdp:3.5.0:*:*:*:*:*:*:*

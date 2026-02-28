@@ -243,11 +243,67 @@ cpes:
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.56:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.57:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.58:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.59:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.60:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.61:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.62:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.63:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.64:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.65:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.66:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.1.67:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.6:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.7:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.8:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.1.9:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.1:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.1:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.1:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.1:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.1:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.2:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.2:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.3:rc4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.4:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.2.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.1:rc4:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.3:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.3:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.3:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:-:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.4:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:beta0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:rc0:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.3.5:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:dragonfly:2.4.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.4.1:beta0:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.4.1:beta1:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:dragonfly:2.4.1:rc0:*:*:*:go:*:*

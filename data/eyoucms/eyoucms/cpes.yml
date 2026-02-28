@@ -71,3 +71,4 @@ cpes:
   - cpe:2.3:a:eyoucms:eyoucms:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eyoucms:eyoucms:1.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eyoucms:eyoucms:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eyoucms:eyoucms:5.0:*:*:*:*:*:*:*

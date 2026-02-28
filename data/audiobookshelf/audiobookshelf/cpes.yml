@@ -133,8 +133,11 @@ cpes:
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiobookshelf:audiobookshelf:2.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiobookshelf:audiobookshelf:2.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiobookshelf:audiobookshelf:2.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:audiobookshelf:audiobookshelf:2.3.3:*:*:*:*:*:*:*
