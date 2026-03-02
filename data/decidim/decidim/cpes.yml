@@ -53,7 +53,10 @@ cpes:
   - cpe:2.3:a:decidim:decidim:0.20.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.21.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.22.0:rc1:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.22.0:rc2:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.22.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.22.0:-:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.23.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.23.1:rc1:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.23.1:-:*:*:*:ruby:*:*
