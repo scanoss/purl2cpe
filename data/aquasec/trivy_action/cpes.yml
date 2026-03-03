@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:aquasec:trivy_action:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquasec:trivy_action:0.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquasec:trivy_action:0.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquasec:trivy_action:0.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquasec:trivy_action:0.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aquasec:trivy_action:0.34.0:*:*:*:*:*:*:*

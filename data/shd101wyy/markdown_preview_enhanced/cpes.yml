@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:shd101wyy:markdown_preview_enhanced:0.8.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shd101wyy:markdown_preview_enhanced:0.8.19:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shd101wyy:markdown_preview_enhanced:0.8.20:*:*:*:*:visual_studio_code:*:*

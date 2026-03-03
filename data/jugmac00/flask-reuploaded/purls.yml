@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jugmac00/flask-reuploaded
+  - pkg:pypi/flask-reuploaded

@@ -149,6 +149,7 @@ cpes:
   - cpe:2.3:a:fleetdm:fleet:4.53.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.53.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.53.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fleetdm:fleet:4.53.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.54.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.54.2:*:*:*:*:*:*:*

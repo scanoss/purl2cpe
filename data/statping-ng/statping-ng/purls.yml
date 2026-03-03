@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/statping-ng/statping-ng
+  - pkg:golang/github.com/statping-ng/statping-ng

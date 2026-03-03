@@ -127,3 +127,4 @@ cpes:
   - cpe:2.3:a:naturalintelligence:fast-xml-parser:5.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:naturalintelligence:fast-xml-parser:5.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:naturalintelligence:fast-xml-parser:5.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:naturalintelligence:fast-xml-parser:5.3.7:*:*:*:*:*:*:*

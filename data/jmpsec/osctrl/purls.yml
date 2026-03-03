@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jmpsec/osctrl
+  - pkg:golang/github.com/jmpsec/osctrl
