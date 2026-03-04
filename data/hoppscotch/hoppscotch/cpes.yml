@@ -57,9 +57,42 @@ cpes:
   - cpe:2.3:a:hoppscotch:hoppscotch:2024.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2024.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2025.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2026.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2026.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:3.0.1:*:*:*:*:*:*:*

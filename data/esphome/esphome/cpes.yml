@@ -150,5 +150,51 @@ cpes:
   - cpe:2.3:a:esphome:esphome:2021.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:2021.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:2023.12.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2024.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2024.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2024.2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2024.2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2024.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.12.6:*:*:*:*:*:*:*
   - cpe:2.3:a:esphome:esphome:2025.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:esphome:esphome:2025.9.3:*:*:*:*:*:*:*
   - cpe:2.3:o:esphome:esphome:*:*:*:*:*:*:*:*

@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:ritwickdey:live_server:5.7.10:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:ritwickdey:live_server:5.7.9:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:ritwickdey:live_server:*:*:*:*:*:visual_studio_code:*:*
