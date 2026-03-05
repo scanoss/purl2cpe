@@ -252,11 +252,41 @@ cpes:
   - cpe:2.3:a:theforeman:foreman:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.12.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.13.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.16.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.2.0:rc2:*:*:*:*:*:*
@@ -286,3 +316,10 @@ cpes:
   - cpe:2.3:a:theforeman:foreman:3.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:3.9.3:*:*:*:*:*:*:*

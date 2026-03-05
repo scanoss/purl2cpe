@@ -1238,6 +1238,7 @@ cpes:
   - cpe:2.3:a:craftcms:craft_cms:4.16.8:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:4.16.9:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:4.16.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:craftcms:craft_cms:4.17.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:4.2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:4.2.0.2:*:*:*:*:*:*:*
@@ -1521,3 +1522,4 @@ cpes:
   - cpe:2.3:a:craftcms:craft_cms:5.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:5.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:5.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:craftcms:craft_cms:5.9.0:beta1:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/akuity/kargo
+  - pkg:golang/github.com/akuity/kargo

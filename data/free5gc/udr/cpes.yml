@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:free5gc:udr:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:free5gc:udr:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.2.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.3.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.3.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:1.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udr:*:*:*:*:*:go:*:*

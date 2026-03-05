@@ -18,6 +18,7 @@ cpes:
   - cpe:2.3:a:max-3000:maxsite_cms:107:*:*:*:*:*:*:*
   - cpe:2.3:a:max-3000:maxsite_cms:107.5:*:*:*:*:*:*:*
   - cpe:2.3:a:max-3000:maxsite_cms:108:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:109:*:*:*:*:*:*:*
   - cpe:2.3:a:max-3000:maxsite_cms:180:*:*:*:*:*:*:*
   - cpe:2.3:a:max-3000:maxsite_cms:97:*:*:*:*:*:*:*
   - cpe:2.3:a:max-3000:maxsite_cms:98:*:*:*:*:*:*:*

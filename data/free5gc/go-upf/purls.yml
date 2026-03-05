@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/free5gc/go-upf
+  - pkg:golang/github.com/free5gc/go-upf

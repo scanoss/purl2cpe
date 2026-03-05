@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-telemetry/opentelemetry-go
+  - pkg:golang/github.com/open-telemetry/opentelemetry-go

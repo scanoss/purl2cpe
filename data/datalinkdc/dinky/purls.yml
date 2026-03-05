@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/datalinkdc/dinky
+  - pkg:github/datalinkdc/dinky
+  - pkg:maven/io.github.datalinkdc/dinky-shaded
