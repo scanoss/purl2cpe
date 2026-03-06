@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tox-dev/filelock
+  - pkg:pypi/filelock

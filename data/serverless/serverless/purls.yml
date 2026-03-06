@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/serverless/serverless
+  - pkg:npm/serverless

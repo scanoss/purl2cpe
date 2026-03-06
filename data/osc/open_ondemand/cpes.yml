@@ -195,3 +195,7 @@ cpes:
   - cpe:2.3:a:osc:open_ondemand:4.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:osc:open_ondemand:4.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:osc:open_ondemand:4.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:osc:open_ondemand:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:osc:open_ondemand:4.1.0-0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:osc:open_ondemand:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:osc:open_ondemand:4.1.2:*:*:*:*:*:*:*

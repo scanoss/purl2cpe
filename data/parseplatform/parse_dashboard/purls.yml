@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/parse-community/parse-dashboard
+  - pkg:npm/parse-dashboard

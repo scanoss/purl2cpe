@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jonathanwilbur/asn1-ts
+  - pkg:npm/asn1-ts

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/patrickjuchli/basic-ftp
+  - pkg:npm/basic-ftp

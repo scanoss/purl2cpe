@@ -53,6 +53,9 @@ cpes:
   - cpe:2.3:a:apache:activemq_artemis:2.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:2.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_artemis:2.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_artemis:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_artemis:2.42.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:2.6.1:*:*:*:*:*:*:*
