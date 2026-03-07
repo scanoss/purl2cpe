@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:fluentcms:fluentcms:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentcms:fluentcms:1.2.3:*:*:*:*:*:*:*

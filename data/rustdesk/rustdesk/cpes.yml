@@ -1,7 +1,9 @@
 cpes:
+  - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:-:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:android:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:ios:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:linux:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:macos:*:*:*
+  - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:webclient:*:*:*
   - cpe:2.3:a:rustdesk:rustdesk:*:*:*:*:windows:*:*:*

@@ -69,3 +69,4 @@ cpes:
   - cpe:2.3:a:gin-vue-admin_project:gin-vue-admin:2.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gin-vue-admin_project:gin-vue-admin:2.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gin-vue-admin_project:gin-vue-admin:2.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gin-vue-admin_project:gin-vue-admin:2.8.7:*:*:*:*:*:*:*

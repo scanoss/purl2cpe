@@ -199,7 +199,11 @@ cpes:
   - cpe:2.3:a:centreon:centreon_web:24.04.16:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.17:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.04.19:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.04.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.04.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.04.22:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.3:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.4:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.04.5:*:*:*:*:*:*:*
@@ -215,6 +219,9 @@ cpes:
   - cpe:2.3:a:centreon:centreon_web:24.10.12:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.10.13:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:24.10.17:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:24.10.4:*:*:*:*:*:*:*
@@ -229,6 +236,10 @@ cpes:
   - cpe:2.3:a:centreon:centreon_web:2.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:25.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:25.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:25.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:25.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:25.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_web:25.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon_web:2.5.4:*:*:*:*:*:*:*
