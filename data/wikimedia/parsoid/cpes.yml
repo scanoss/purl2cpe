@@ -20,4 +20,5 @@ cpes:
   - cpe:2.3:a:wikimedia:parsoid:0.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:wikimedia:parsoid:0.8.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:wikimedia:parsoid:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:wikimedia:parsoid:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:wikimedia:parsoid:-:*:*:*:*:node.js:*:*

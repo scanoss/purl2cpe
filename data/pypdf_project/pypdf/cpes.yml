@@ -140,3 +140,4 @@ cpes:
   - cpe:2.3:a:pypdf_project:pypdf:6.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pypdf_project:pypdf:6.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pypdf_project:pypdf:6.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pypdf_project:pypdf:6.7.4:*:*:*:*:*:*:*

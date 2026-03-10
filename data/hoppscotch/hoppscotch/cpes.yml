@@ -91,6 +91,7 @@ cpes:
   - cpe:2.3:a:hoppscotch:hoppscotch:2025.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2026.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2026.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2026.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hoppscotch:hoppscotch:2.2.1:*:*:*:*:*:*:*

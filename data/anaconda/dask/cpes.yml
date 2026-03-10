@@ -58,16 +58,105 @@ cpes:
   - cpe:2.3:a:anaconda:dask:0.9.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.0.0:-:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.0.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.10.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.10.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.11.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.11.3:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.12.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.12.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.13.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.13.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.13.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.13.3:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.14.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.14.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.14.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.14.3:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.15.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.15.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.15.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.16.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.16.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.16.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.16.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.17.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.17.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.18.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.18.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.18.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.18.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.19.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.19.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.19.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.19.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.20.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.20.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.20.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.21.8:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.22.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.22.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:1.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.23.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.23.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.23.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.23.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.24.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.24.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.24.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.25.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.25.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.25.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.25.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.26.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.26.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.27.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.27.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.28.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.28.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.3.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.3.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.7.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.7.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.7.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:1.9.5:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.0.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2020.12.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2021.01.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2021.01.1:*:*:*:*:python:*:*
@@ -89,6 +178,107 @@ cpes:
   - cpe:2.3:a:anaconda:dask:2021.09.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2021.09.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2021.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2021.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2021.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2021.11.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2021.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.01.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.01.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.02.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.02.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.03.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.04.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.04.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.04.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.05.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.05.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.05.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.10.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.10.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.12.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2022.9.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.10.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.12.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.3.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.3.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.9.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2023.9.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.11.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.12.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.5.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.6.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.8.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2024.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2025.9.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.10.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.10.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.1.0:*:*:*:*:python:*:*
@@ -97,6 +287,8 @@ cpes:
   - cpe:2.3:a:anaconda:dask:2.13.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.14.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.15.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.15.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.15.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.16.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.17.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.17.1:*:*:*:*:python:*:*
@@ -116,9 +308,14 @@ cpes:
   - cpe:2.3:a:anaconda:dask:2.28.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.29.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.30.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.30.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.31.0:dev:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.3.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.4.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.5.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.5.2:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.6.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.7.0:*:*:*:*:python:*:*
@@ -127,4 +324,5 @@ cpes:
   - cpe:2.3:a:anaconda:dask:2.9.0:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.9.1:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:2.9.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:anaconda:dask:2.9.3:*:*:*:*:python:*:*
   - cpe:2.3:a:anaconda:dask:*:*:*:*:*:python:*:*

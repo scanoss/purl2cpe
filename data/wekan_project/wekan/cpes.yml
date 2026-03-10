@@ -835,3 +835,5 @@ cpes:
   - cpe:2.3:a:wekan_project:wekan:8.18:*:*:*:*:*:*:*
   - cpe:2.3:a:wekan_project:wekan:8.19:*:*:*:*:*:*:*
   - cpe:2.3:a:wekan_project:wekan:8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:wekan_project:wekan:8.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:wekan_project:wekan:8.33:*:*:*:*:*:*:*
