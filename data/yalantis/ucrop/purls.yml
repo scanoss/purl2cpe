@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yalantis/ucrop
+  - pkg:maven/com.yalantis/ucrop

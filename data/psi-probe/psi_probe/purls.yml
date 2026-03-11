@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/psi-probe/psi-probe
+  - pkg:maven/com.github.psi-probe/psi-probe-core

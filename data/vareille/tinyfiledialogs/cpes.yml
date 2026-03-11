@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:vareille:tinyfiledialogs:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vareille:tinyfiledialogs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:vareille:tinyfiledialogs:3.8.0:*:*:*:*:*:*:*

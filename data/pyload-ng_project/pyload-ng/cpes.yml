@@ -60,6 +60,45 @@ cpes:
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev45:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev46:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev47:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev48:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev49:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev50:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev51:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev52:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev53:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev54:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev57:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev60:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev62:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev64:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev65:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev66:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev67:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev68:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev69:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev70:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev71:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev72:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev73:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev74:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev75:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev76:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev77:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev78:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev79:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev80:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev81:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev82:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev85:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev87:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev88:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev89:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev90:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev91:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev92:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev93:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev94:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev95:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev96:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:*:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:-:*:*:*:*:python:*:*

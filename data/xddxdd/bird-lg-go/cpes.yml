@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:xddxdd:bird-lg-go:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xddxdd:bird-lg-go:*:*:*:*:*:go:*:*

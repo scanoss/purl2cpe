@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bigcat88/pillow_heif
+  - pkg:pypi/pillow-heif

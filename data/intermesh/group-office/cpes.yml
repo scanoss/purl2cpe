@@ -85,6 +85,7 @@ cpes:
   - cpe:2.3:a:intermesh:group-office:25.0.84:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.85:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:25.0.87:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:25.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:26.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:26.0.2:*:*:*:*:*:*:*
@@ -94,6 +95,7 @@ cpes:
   - cpe:2.3:a:intermesh:group-office:26.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:26.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:26.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:intermesh:group-office:26.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:3.2.26:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:3.2.29:*:*:*:*:*:*:*
   - cpe:2.3:a:intermesh:group-office:3.2.30:*:*:*:*:*:*:*

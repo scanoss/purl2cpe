@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/defenseunicorns/pepr
+  - pkg:npm/pepr

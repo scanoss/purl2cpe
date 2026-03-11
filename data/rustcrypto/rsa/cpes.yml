@@ -33,4 +33,7 @@ cpes:
   - cpe:2.3:a:rustcrypto:rsa:0.9.4:*:*:*:*:rust:*:*
   - cpe:2.3:a:rustcrypto:rsa:0.9.5:*:*:*:*:rust:*:*
   - cpe:2.3:a:rustcrypto:rsa:0.9.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rustcrypto:rsa:0.9.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rustcrypto:rsa:0.9.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rustcrypto:rsa:0.9.9:*:*:*:*:rust:*:*
   - cpe:2.3:a:rustcrypto:rsa:-:*:*:*:*:rust:*:*

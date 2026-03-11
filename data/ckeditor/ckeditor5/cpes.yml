@@ -47,6 +47,49 @@ cpes:
   - cpe:2.3:a:ckeditor:ckeditor5:26.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:27.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:27.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:28.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:29.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:29.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:29.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:30.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:31.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:31.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:32.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:33.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:34.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:34.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:34.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:35.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:36.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:36.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:37.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.0.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.2.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:38.2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:39.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:39.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:39.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:40.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:40.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:40.2.0:*:*:*:*:*:*:*
@@ -72,4 +115,22 @@ cpes:
   - cpe:2.3:a:ckeditor:ckeditor5:42.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:43.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:43.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:43.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:43.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:43.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:43.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:44.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:44.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:44.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:44.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:44.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:45.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:45.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:45.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:45.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:45.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:46.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:46.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:46.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:46.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:46.1.0:*:*:*:*:*:*:*
