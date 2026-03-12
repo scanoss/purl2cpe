@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:facilemanager:facilemanager:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facilemanager:facilemanager:4.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:facilemanager:facilemanager:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:facilemanager:facilemanager:4.5.1:*:*:*:*:*:*:*

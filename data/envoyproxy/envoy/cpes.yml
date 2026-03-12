@@ -236,6 +236,7 @@ cpes:
   - cpe:2.3:a:envoyproxy:envoy:1.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.6.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cloudfoundry:uaa-release:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa-release:10:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa-release:11:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:uaa-release:11.1:*:*:*:*:*:*:*

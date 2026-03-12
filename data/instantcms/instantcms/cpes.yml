@@ -24,6 +24,7 @@ cpes:
   - cpe:2.3:a:instantcms:instantcms:2.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:instantcms:instantcms:2.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:instantcms:instantcms:2.5.0:*:*:*:*:*:*:*
