@@ -162,6 +162,8 @@ cpes:
   - cpe:2.3:a:feathersjs:feathers:5.0.38:*:*:*:*:node.js:*:*
   - cpe:2.3:a:feathersjs:feathers:5.0.39:*:*:*:*:node.js:*:*
   - cpe:2.3:a:feathersjs:feathers:5.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:feathersjs:feathers:5.0.40:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:feathersjs:feathers:5.0.41:*:*:*:*:node.js:*:*
   - cpe:2.3:a:feathersjs:feathers:5.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:feathersjs:feathers:5.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:feathersjs:feathers:5.0.6:*:*:*:*:node.js:*:*

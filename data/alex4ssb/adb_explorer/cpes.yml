@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:alex4ssb:adb_explorer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:alex4ssb:adb_explorer:*:*:*:*:*:windows:*:*
