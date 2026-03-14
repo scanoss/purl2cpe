@@ -45,7 +45,19 @@ cpes:
   - cpe:2.3:a:apache:pdfbox:2.0.21:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:2.0.35:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0.6:*:*:*:*:*:*:*
@@ -55,3 +67,15 @@ cpes:
   - cpe:2.3:a:apache:pdfbox:2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:pdfbox:2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pdfbox:3.0.7:*:*:*:*:*:*:*

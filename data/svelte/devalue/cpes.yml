@@ -1,4 +1,30 @@
 cpes:
+  - cpe:2.3:a:svelte:devalue:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:3.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:3.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:4.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:5.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.3.0:*:*:*:*:node.js:*:*
@@ -10,4 +36,5 @@ cpes:
   - cpe:2.3:a:svelte:devalue:5.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:5.6.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:*:*:*:*:*:node.js:*:*

@@ -298,4 +298,17 @@ cpes:
   - cpe:2.3:a:citeum:opencti:6.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:6.8.9:*:*:*:*:*:*:*

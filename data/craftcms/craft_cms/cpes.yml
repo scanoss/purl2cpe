@@ -1536,3 +1536,5 @@ cpes:
   - cpe:2.3:a:craftcms:craft_cms:5.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:5.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_cms:5.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:craftcms:craft_cms:5.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:craftcms:craft_cms:5.9.8:*:*:*:*:*:*:*

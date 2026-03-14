@@ -9,6 +9,7 @@ cpes:
   - cpe:2.3:a:craftcms:craft_commerce:4.0.4:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.10.0:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.10.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:craftcms:craft_commerce:4.10.2:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.1.0:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.1.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.1.2:*:*:*:*:craft_cms:*:*
@@ -161,3 +162,4 @@ cpes:
   - cpe:2.3:a:craftcms:craft_commerce:5.5.0:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:5.5.1:*:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:5.5.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:craftcms:craft_commerce:5.5.3:*:*:*:*:craft_cms:*:*
