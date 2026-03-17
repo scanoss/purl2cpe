@@ -291,4 +291,6 @@ cpes:
   - cpe:2.3:a:fastify:fastify:5.7.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:fastify:5.7.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:fastify:5.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:fastify:5.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fastify:fastify:5.7.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:fastify:fastify:*:*:*:*:*:node.js:*:*

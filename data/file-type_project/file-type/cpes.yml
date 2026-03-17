@@ -129,3 +129,4 @@ cpes:
   - cpe:2.3:a:file-type_project:file-type:8.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:file-type_project:file-type:8.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:file-type_project:file-type:9.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:file-type_project:file-type:*:*:*:*:*:node.js:*:*

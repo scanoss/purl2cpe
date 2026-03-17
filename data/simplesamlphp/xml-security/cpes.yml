@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:simplesamlphp:xml-security:*:*:*:*:*:*:*:*
   - cpe:2.3:a:simplesamlphp:xml-security:1.6.11:*:*:*:*:*:*:*

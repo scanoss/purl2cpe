@@ -2,6 +2,35 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:-:*:*
   - cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.0:0:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.4:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:android:*:*

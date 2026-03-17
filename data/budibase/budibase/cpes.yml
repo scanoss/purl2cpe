@@ -3055,7 +3055,16 @@ cpes:
   - cpe:2.3:a:budibase:budibase:3.31.2:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.31.3:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.31.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.31.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.31.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.31.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.31.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.31.9:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.3:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.5:*:*:*:*:*:*:*

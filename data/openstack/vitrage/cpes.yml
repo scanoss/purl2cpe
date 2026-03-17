@@ -1,2 +1,8 @@
 cpes:
   - cpe:2.3:a:openstack:vitrage:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:13.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:13.0.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:14.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:14.0.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:15.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:vitrage:15.0.0.0:rc1:*:*:*:*:*:*

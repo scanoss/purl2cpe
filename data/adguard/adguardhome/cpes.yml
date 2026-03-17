@@ -60,12 +60,68 @@ cpes:
   - cpe:2.3:a:adguard:adguardhome:0.107.14:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.15:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.19:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.29:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.39:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.49:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.59:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.68:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.69:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:adguardhome:0.107.72:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.8:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.107.9:*:*:*:*:*:*:*
   - cpe:2.3:a:adguard:adguardhome:0.108:-:*:*:*:*:*:*
