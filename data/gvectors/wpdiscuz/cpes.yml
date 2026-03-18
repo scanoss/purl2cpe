@@ -155,6 +155,7 @@ cpes:
   - cpe:2.3:a:gvectors:wpdiscuz:7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.16:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.19:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.21:*:*:*:*:wordpress:*:*
@@ -164,7 +165,26 @@ cpes:
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.26:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.29:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.39:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.46:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:-:*:*:*:*:wordpress:*:*

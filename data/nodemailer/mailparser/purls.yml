@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nodemailer/mailparser
+  - pkg:npm/%40nodemailer/mailparser2

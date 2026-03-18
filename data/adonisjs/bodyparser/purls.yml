@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adonisjs/bodyparser
+  - pkg:npm/%40adonisjs/bodyparser

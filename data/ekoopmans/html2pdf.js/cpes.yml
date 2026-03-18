@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ekoopmans:html2pdf.js:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ekoopmans:html2pdf.js:*:*:*:*:*:node.js:*:*

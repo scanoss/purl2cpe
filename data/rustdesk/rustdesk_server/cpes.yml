@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rustdesk:rustdesk_server:1.7.5:*:*:*:pro:*:*:*
+  - cpe:2.3:a:rustdesk:rustdesk_server:*:*:*:*:oss:*:*:*
+  - cpe:2.3:a:rustdesk:rustdesk_server:*:*:*:*:pro:*:*:*

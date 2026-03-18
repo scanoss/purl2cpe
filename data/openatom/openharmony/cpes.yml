@@ -53,4 +53,6 @@ cpes:
   - cpe:2.3:o:openatom:openharmony:5.0.1:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:5.0.2:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:5.0.2:-:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:5.0.3:*:*:*:-:*:*:*
   - cpe:2.3:o:openatom:openharmony:5.0:beta1:*:*:-:*:*:*
+  - cpe:2.3:o:openatom:openharmony:5.1.0:*:*:*:-:*:*:*

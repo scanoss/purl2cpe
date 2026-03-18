@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bokeh/bokeh
+  - pkg:npm/%40bokeh/bokehjs
