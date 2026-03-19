@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/airlift/aircompressor
+  - pkg:maven/io.airlift/aircompressor

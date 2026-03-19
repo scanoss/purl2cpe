@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:tokuhirom:unqlite:0.01:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:0.02:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:0.03:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:0.04:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:0.05:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:0.06:*:*:*:*:perl:*:*
+  - cpe:2.3:a:tokuhirom:unqlite:*:*:*:*:*:perl:*:*

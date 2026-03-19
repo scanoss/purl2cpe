@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/emiago/sipgo
+  - pkg:golang/github.com/emiago/sipgo

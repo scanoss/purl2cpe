@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pyasn1:pyasn1:*:*:*:*:*:python:*:*

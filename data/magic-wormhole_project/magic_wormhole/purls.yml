@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/magic-wormhole/magic-wormhole
+  - pkg:pypi/magic-wormhole

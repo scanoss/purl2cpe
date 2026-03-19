@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pyopenssl:pyopenssl:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pyopenssl:pyopenssl:0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:pyopenssl:pyopenssl:0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:pyopenssl:pyopenssl:0.15.1:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mattermost:channel_export:0.2.2:*:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:channel_export:1.0.0:alpha1:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:channel_export:1.0.0:-:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:channel_export:*:*:*:*:*:mattermost:*:*

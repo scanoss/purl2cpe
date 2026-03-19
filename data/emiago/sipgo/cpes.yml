@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:emiago:sipgo:0.30.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:emiago:sipgo:0.31.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:emiago:sipgo:0.32.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:emiago:sipgo:0.32.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:emiago:sipgo:0.33.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:emiago:sipgo:*:*:*:*:*:go:*:*
