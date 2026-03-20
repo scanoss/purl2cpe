@@ -249,3 +249,4 @@ cpes:
   - cpe:2.3:a:netbox:netbox:4.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:netbox:netbox:4.2.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:netbox:netbox:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netbox:netbox:4.3.5:*:*:*:*:*:*:*

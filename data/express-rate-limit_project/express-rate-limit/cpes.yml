@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:express-rate-limit_project:express-rate-limit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:express-rate-limit_project:express-rate-limit:8.1.0:*:*:*:*:*:*:*

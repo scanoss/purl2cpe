@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hexpm:hex_core:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hexpm:hex_core:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hexpm:hex_core:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hexpm:hex_core:0.2.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/express-rate-limit/express-rate-limit
+  - pkg:npm/express-rate-limit
