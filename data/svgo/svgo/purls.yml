@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/svg/svgo
+  - pkg:npm/svgo

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:samtools:samtools:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:samtools:samtools:1.23:*:*:*:*:*:*:*

@@ -535,6 +535,8 @@ cpes:
   - cpe:2.3:a:discourse:discourse:2025.12.1:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.1.0:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.2.0:*:*:*:latest:*:*:*
+  - cpe:2.3:a:discourse:discourse:2026.2.0:*:*:*:stable:*:*:*
+  - cpe:2.3:a:discourse:discourse:2026.3.0:*:*:*:latest:*:*:*
   - cpe:2.3:a:discourse:discourse:2.0.2:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:discourse:discourse:2.0.3:*:*:*:stable:*:*:*

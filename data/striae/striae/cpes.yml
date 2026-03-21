@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:striae:striae:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:striae:striae:0.9.22a:beta:*:*:*:*:*:*
+  - cpe:2.3:a:striae:striae:0.9.22:beta:*:*:*:*:*:*
+  - cpe:2.3:a:striae:striae:*:*:*:*:*:node.js:*:*

@@ -64,6 +64,7 @@ cpes:
   - cpe:2.3:a:getgreenshot:greenshot:1.3.300:*:*:*:*:*:*:*
   - cpe:2.3:a:getgreenshot:greenshot:1.3.301:*:*:*:*:*:*:*
   - cpe:2.3:a:getgreenshot:greenshot:1.3.302:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgreenshot:greenshot:1.3.312:*:*:*:*:*:*:*
   - cpe:2.3:a:getgreenshot:greenshot:1.3.55:*:*:*:*:*:*:*
   - cpe:2.3:a:getgreenshot:greenshot:1.3.57:*:*:*:*:*:*:*
   - cpe:2.3:a:getgreenshot:greenshot:1.3.63:*:*:*:*:*:*:*

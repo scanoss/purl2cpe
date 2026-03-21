@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bloomberg/memray
+  - pkg:pypi/memray

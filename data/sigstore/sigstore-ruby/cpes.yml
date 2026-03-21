@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sigstore:sigstore-ruby:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sigstore:sigstore-ruby:0.1.0:*:*:*:*:*:*:*

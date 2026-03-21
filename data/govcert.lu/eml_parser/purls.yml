@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/govcert-lu/eml_parser
+  - pkg:pypi/eml-parser

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jstedfast/mimekit
+  - pkg:nuget/mimekit

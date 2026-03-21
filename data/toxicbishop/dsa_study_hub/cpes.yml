@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:toxicbishop:dsa_study_hub:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:toxicbishop:dsa_study_hub:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:toxicbishop:dsa_study_hub:*:*:*:*:*:node.js:*:*
