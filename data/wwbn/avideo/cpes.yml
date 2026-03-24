@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:wwbn:avideo:15fed957fb:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:3.4.1:*:*:*:*:*:*:*

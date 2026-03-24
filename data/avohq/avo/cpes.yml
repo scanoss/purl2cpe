@@ -217,6 +217,7 @@ cpes:
   - cpe:2.3:a:avohq:avo:2.44.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:2.45.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:2.46.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:avohq:avo:2.47.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:2.5.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:2.5.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:2.6.0:*:*:*:*:ruby:*:*
@@ -245,3 +246,4 @@ cpes:
   - cpe:2.3:a:avohq:avo:3.2.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:3.2.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:avohq:avo:3.2.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:avohq:avo:3.3.0:*:*:*:*:ruby:*:*

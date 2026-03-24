@@ -129,3 +129,4 @@ cpes:
   - cpe:2.3:o:openwrt:openwrt:24.10.1:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:24.10.2:*:*:*:*:*:*:*
   - cpe:2.3:o:openwrt:openwrt:24.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:openwrt:openwrt:24.10.4:*:*:*:*:*:*:*

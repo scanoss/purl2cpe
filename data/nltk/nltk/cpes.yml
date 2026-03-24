@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nltk:nltk:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc3:*:*:*:*:*:*

@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:discourse:discourse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:discourse:discourse:*:*:*:*:-:*:*:*
   - cpe:2.3:a:discourse:discourse:-:*:*:*:*:*:*:*
   - cpe:2.3:a:discourse:discourse:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:discourse:discourse:0.8.0:*:*:*:stable:*:*:*
@@ -533,7 +534,9 @@ cpes:
   - cpe:2.3:a:discourse:discourse:2025.11.2:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2025.12.0:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2025.12.1:*:*:*:stable:*:*:*
+  - cpe:2.3:a:discourse:discourse:2026.1.0:*:*:*:latest:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.1.0:*:*:*:stable:*:*:*
+  - cpe:2.3:a:discourse:discourse:2026.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.2.0:*:*:*:latest:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.2.0:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:2026.3.0:*:*:*:latest:*:*:*
@@ -987,6 +990,7 @@ cpes:
   - cpe:2.3:a:discourse:discourse:beta3:*:*:*:beta:*:*:*
   - cpe:2.3:a:discourse:discourse:beta3:*:*:*:tests-passed:*:*:*
   - cpe:2.3:a:discourse:discourse:beta4:*:*:*:beta:*:*:*
+  - cpe:2.3:a:discourse:discourse:*:*:*:*:latest:*:*:*
   - cpe:2.3:a:discourse:discourse:*:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:-:*:*:*:stable:*:*:*
   - cpe:2.3:a:discourse:discourse:*:*:*:*:tests-passed*:*:*:*
