@@ -212,3 +212,4 @@ cpes:
   - cpe:2.3:a:dicebear:dicebear:9.3.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:dicebear:dicebear:9.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dicebear:dicebear:9.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dicebear:dicebear:9.4.0:*:*:*:*:*:*:*

@@ -143,6 +143,9 @@ cpes:
   - cpe:2.3:a:bytecodealliance:wasmtime:38.0.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:38.0.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:38.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bytecodealliance:wasmtime:39.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bytecodealliance:wasmtime:39.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bytecodealliance:wasmtime:39.0.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:40.0.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:40.0.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:bytecodealliance:wasmtime:40.0.2:*:*:*:*:rust:*:*

@@ -158,4 +158,8 @@ cpes:
   - cpe:2.3:a:salvo:salvo:0.87.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:salvo:salvo:0.87.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:salvo:salvo:0.88.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:salvo:salvo:0.88.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:salvo:salvo:0.89.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:salvo:salvo:0.89.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:salvo:salvo:0.89.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:salvo:salvo:*:*:*:*:*:rust:*:*

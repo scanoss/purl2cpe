@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:minizip_project:minizip:*:*:*:*:*:*:*:*
   - cpe:2.3:a:minizip_project:minizip:1.1-1:*:*:*:*:*:*:*
   - cpe:2.3:a:minizip_project:minizip:1.1-2:*:*:*:*:*:*:*
   - cpe:2.3:a:minizip_project:minizip:1.1-3:*:*:*:*:*:*:*
