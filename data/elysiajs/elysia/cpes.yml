@@ -89,6 +89,13 @@ cpes:
   - cpe:2.3:a:elysiajs:elysia:1.4.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:elysiajs:elysia:1.4.19:*:*:*:*:node.js:*:*
   - cpe:2.3:a:elysiajs:elysia:1.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:elysiajs:elysia:1.4.26:*:*:*:*:node.js:*:*
   - cpe:2.3:a:elysiajs:elysia:1.4.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:elysiajs:elysia:1.4.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:elysiajs:elysia:1.4.4:*:*:*:*:node.js:*:*
