@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pydicom/pydicom
+  - pkg:pypi/pydicom

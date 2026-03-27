@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:iputils:iputils:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils:iputils:20211215:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils:iputils:20221126:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils:iputils:20231222:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils:iputils:20240117:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils:iputils:20240905:*:*:*:*:*:*:*

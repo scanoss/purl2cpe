@@ -100,5 +100,6 @@ cpes:
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev94:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev95:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:0.5.0b3.dev96:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyload-ng_project:pyload-ng:*:dev13:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:*:*:*:*:*:python:*:*
   - cpe:2.3:a:pyload-ng_project:pyload-ng:-:*:*:*:*:python:*:*

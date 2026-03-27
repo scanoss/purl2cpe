@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apostrophecms:import-export:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:*:*:*:*:*:node.js:*:*

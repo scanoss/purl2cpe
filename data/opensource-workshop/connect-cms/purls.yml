@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/opensource-workshop/connect-cms
+  - pkg:github/opensource-workshop/connect-cms

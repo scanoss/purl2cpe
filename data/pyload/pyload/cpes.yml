@@ -22,6 +22,75 @@ cpes:
   - cpe:2.3:a:pyload:pyload:0.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pyload:pyload:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pyload:pyload:0.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev13:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev14:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev17:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev18:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev19:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev20:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev21:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev22:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev24:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev26:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev27:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev28:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev29:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev30:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev31:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev32:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev33:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev34:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev35:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev38:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev39:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev40:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev41:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev42:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev43:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev44:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev45:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev46:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev47:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev48:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev49:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev50:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev51:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev52:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev53:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev54:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev57:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev60:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev62:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev64:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev65:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev66:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev67:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev68:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev69:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev70:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev71:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev72:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev73:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev74:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev75:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev76:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev77:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev78:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev79:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev80:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev81:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev82:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev85:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev87:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev88:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev89:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev90:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev91:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev92:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev93:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev94:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev95:*:*:*:*:*:*
+  - cpe:2.3:a:pyload:pyload:0.5.0b3:dev96:*:*:*:*:*:*
   - cpe:2.3:a:pyload:pyload:0.5.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:pyload:pyload:0.5.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:pyload:pyload:2023-01-05:*:*:*:*:*:*:*

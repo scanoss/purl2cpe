@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:crun_project:crun:*:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:-:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.10.1:*:*:*:*:*:*:*

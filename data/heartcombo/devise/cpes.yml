@@ -63,5 +63,6 @@ cpes:
   - cpe:2.3:a:heartcombo:devise:3.5.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:heartcombo:devise:3.5.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:heartcombo:devise:3.5.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:heartcombo:devise:3.5.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:heartcombo:devise:*:*:*:*:*:ruby:*:*
   - cpe:2.3:a:heartcombo:devise:-:*:*:*:*:ruby:*:*
