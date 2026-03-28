@@ -141,6 +141,7 @@ cpes:
   - cpe:2.3:a:akuity:kargo:1.6.0:rc4:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.6.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.6.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:akuity:kargo:1.6.3:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.7.0:-:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.7.0:rc1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.7.0:rc2:*:*:*:kubernetes:*:*
@@ -152,6 +153,7 @@ cpes:
   - cpe:2.3:a:akuity:kargo:1.7.5:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.7.6:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.7.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:akuity:kargo:1.7.8:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.0:-:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.0:rc1:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.0:rc2:*:*:*:kubernetes:*:*
@@ -161,6 +163,7 @@ cpes:
   - cpe:2.3:a:akuity:kargo:1.8.0:rc6:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.0:rc7:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.10:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:akuity:kargo:1.8.11:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.8.3:*:*:*:*:kubernetes:*:*
@@ -174,4 +177,5 @@ cpes:
   - cpe:2.3:a:akuity:kargo:1.9.0:rc2:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.9.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.9.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:akuity:kargo:1.9.3:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:*:*:*:*:*:kubernetes:*:*

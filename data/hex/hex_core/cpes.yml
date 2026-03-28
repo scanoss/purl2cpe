@@ -1,6 +1,12 @@
 cpes:
   - cpe:2.3:a:hex:hex_core:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.3.0:*:*:*:*:*:*:*
@@ -22,3 +28,6 @@ cpes:
   - cpe:2.3:a:hex:hex_core:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hex:hex_core:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hex:hex_core:0.9.0:*:*:*:*:*:*:*

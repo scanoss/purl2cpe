@@ -134,6 +134,7 @@ cpes:
   - cpe:2.3:a:python:requests:2.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:requests:2.31.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:requests:2.4.2:*:*:*:*:*:*:*
