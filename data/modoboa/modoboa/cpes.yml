@@ -109,4 +109,38 @@ cpes:
   - cpe:2.3:a:modoboa:modoboa:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:modoboa:modoboa:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:modoboa:modoboa:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:modoboa:modoboa:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:modoboa:modoboa:*:*:*:*:*:modoboa:*:*

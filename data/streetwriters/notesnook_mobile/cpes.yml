@@ -317,6 +317,14 @@ cpes:
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.13:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.14:*:*:*:*:android:*:*
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.14:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:*:*:*:*:android:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:beta0:*:*:*:android:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:beta0:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:beta1:*:*:*:android:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:beta1:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.15:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.16:*:*:*:*:android:*:*
+  - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.16:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.1:*:*:*:*:android:*:*
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.1:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:streetwriters:notesnook_mobile:3.3.2:*:*:*:*:android:*:*

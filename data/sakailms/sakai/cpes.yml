@@ -57,3 +57,4 @@ cpes:
   - cpe:2.3:a:sakailms:sakai:23.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:23.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sakailms:sakai:23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sakailms:sakai:25.0:*:*:*:*:*:*:*

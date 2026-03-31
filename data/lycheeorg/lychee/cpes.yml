@@ -125,3 +125,5 @@ cpes:
   - cpe:2.3:a:lycheeorg:lychee:6.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:lycheeorg:lychee:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lycheeorg:lychee:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lycheeorg:lychee:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lycheeorg:lychee:7.1.1:*:*:*:*:*:*:*
