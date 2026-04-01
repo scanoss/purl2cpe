@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:serverless:serverless:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:serverless:serverless:4.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:serverless:serverless:4.29.2:*:*:*:*:*:*:*

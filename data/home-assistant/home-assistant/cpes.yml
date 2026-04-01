@@ -293,6 +293,7 @@ cpes:
   - cpe:2.3:a:home-assistant:home-assistant:0.99.0:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:0.99.1:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:0.99.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:home-assistant:home-assistant:2020.02:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:2021.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:2021.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:home-assistant:home-assistant:2021.1.3:*:*:*:*:*:*:*

@@ -1,3 +1,7 @@
 cpes:
   - cpe:2.3:a:statping-ng:statping-ng:*:*:*:*:*:*:*:*
   - cpe:2.3:a:statping-ng:statping-ng:0.91.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:statping-ng:statping-ng:0.91.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:statping-ng:statping-ng:0.91.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:statping-ng:statping-ng:0.91.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:statping-ng:statping-ng:0.91.0:rc3:*:*:*:*:*:*

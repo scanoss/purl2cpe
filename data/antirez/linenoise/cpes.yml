@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:antirez:linenoise:-:*:*:*:*:*:*:*
   - cpe:2.3:a:antirez:linenoise:1.0:*:*:*:*:*:*:*

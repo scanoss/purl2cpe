@@ -116,3 +116,6 @@ cpes:
   - cpe:2.3:a:linkace:linkace:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.1:*:*:*:*:*:*:*

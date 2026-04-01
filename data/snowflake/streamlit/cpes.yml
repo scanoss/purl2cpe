@@ -1590,6 +1590,26 @@ cpes:
   - cpe:2.3:a:snowflake:streamlit:1.36.1:dev20240722:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.36.1:dev20240723:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.36.1:dev20240724:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240725:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240726:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240727:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240728:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240729:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240730:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240731:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240801:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240802:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240803:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.1:dev20240804:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240805:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240806:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240807:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240808:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240809:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240810:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:1.37.2:dev20240811:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.4.1:dev20220113:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.4.1:dev20220114:*:*:*:*:*:*

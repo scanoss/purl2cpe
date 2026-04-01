@@ -307,6 +307,7 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:11.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:12.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.0:alpha:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.1:beta:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.2:rc:*:*:*:node.js:*:*

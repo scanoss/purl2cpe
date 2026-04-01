@@ -22,6 +22,8 @@ cpes:
   - cpe:2.3:a:seafile:seafile_server:12.0.9:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:13.0.11:beta:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:13.0.15:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:13.0.16:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:13.0.7:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:13.0.8:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:13.0.9:beta:*:*:community:*:*:*
