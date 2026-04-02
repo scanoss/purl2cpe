@@ -1,4 +1,6 @@
 cpes:
+  - cpe:2.3:a:synacor:zimbra_collaboration_server:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:synacor:zimbra_collaboration_server:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_server:6.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_server:6.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:synacor:zimbra_collaboration_server:6.0.13:*:*:*:*:*:*:*

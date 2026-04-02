@@ -690,6 +690,8 @@ cpes:
   - cpe:2.3:a:parseplatform:parse-server:8.6.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:8.6.5:-:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:8.6.60:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:8.6.61:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:8.6.62:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:8.6.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:8.6.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:8.6.8:*:*:*:*:node.js:*:*
@@ -826,11 +828,33 @@ cpes:
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha52:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha53:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha54:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha55:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha56:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha5:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha6:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha7:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha8:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:9.6.0:alpha9:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.6.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.6.1:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.6.1:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha10:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha11:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha12:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha13:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha14:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha15:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha16:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha17:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha6:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha7:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha8:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse-server:9.7.0:alpha9:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:alpha1:-:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:alpha2:-:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse-server:*:*:*:*:*:node.js:*:*

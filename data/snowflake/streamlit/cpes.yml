@@ -1753,3 +1753,4 @@ cpes:
   - cpe:2.3:a:snowflake:streamlit:1.9.3:dev20220530:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.9.3:dev20220531:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:streamlit:1.9.3:dev20220601:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:streamlit:*:*:*:*:*:windows:*:*

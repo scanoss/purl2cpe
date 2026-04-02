@@ -67,6 +67,7 @@ cpes:
   - cpe:2.3:a:go-git_project:go-git:5.16.2:*:*:*:*:go:*:*
   - cpe:2.3:a:go-git_project:go-git:5.16.3:*:*:*:*:go:*:*
   - cpe:2.3:a:go-git_project:go-git:5.16.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-git_project:go-git:5.16.5:*:*:*:*:go:*:*
   - cpe:2.3:a:go-git_project:go-git:5.2.0:*:*:*:*:go:*:*
   - cpe:2.3:a:go-git_project:go-git:5.3.0:*:*:*:*:go:*:*
   - cpe:2.3:a:go-git_project:go-git:5.4.0:*:*:*:*:go:*:*
