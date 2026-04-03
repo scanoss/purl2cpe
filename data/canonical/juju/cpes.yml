@@ -276,4 +276,9 @@ cpes:
   - cpe:2.3:a:canonical:juju:3.6:beta2:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:3.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:4.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:juju:4.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:canonical:juju:*:*:*:*:*:go:*:*

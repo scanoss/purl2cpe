@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:telnyx:telnyx:4.87.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:telnyx:telnyx:4.87.2:*:*:*:*:python:*:*

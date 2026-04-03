@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mmahrous:thumbler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmahrous:thumbler:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmahrous:thumbler:*:*:*:*:*:node.js:*:*

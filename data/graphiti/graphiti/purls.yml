@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/graphiti
+  - pkg:github/graphiti-api/graphiti

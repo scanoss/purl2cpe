@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dadrus/heimdall
+  - pkg:golang/github.com/dadrus/heimdall

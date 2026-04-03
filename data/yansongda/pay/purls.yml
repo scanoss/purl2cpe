@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/yansongda/pay
+  - pkg:gitee/yansongda/pay
+  - pkg:github/yansongda/pay

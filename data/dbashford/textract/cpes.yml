@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dbashford:textract:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dbashford:textract:*:*:*:*:*:node.js:*:*

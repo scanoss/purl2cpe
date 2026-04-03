@@ -1,0 +1,11 @@
+purls:
+  - pkg:gem/telnyx
+  - pkg:github/team-telnyx/telnyx-go
+  - pkg:github/team-telnyx/telnyx-java
+  - pkg:github/team-telnyx/telnyx-node
+  - pkg:github/team-telnyx/telnyx-php
+  - pkg:github/team-telnyx/telnyx-python
+  - pkg:github/team-telnyx/telnyx-ruby
+  - pkg:maven/com.telnyx.sdk/telnyx
+  - pkg:npm/telnyx
+  - pkg:pypi/telnyx

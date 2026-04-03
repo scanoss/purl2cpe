@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tomwright/dasel
+  - pkg:golang/github.com/tomwright/dasel

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/intake/intake
+  - pkg:pypi/intake

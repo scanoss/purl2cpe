@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pseitz:lz4_flex:0.12.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:pseitz:lz4_flex:*:*:*:*:*:rust:*:*

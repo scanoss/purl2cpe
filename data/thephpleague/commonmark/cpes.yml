@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:thephpleague:commonmark:*:*:*:*:*:*:*:*
   - cpe:2.3:a:thephpleague:commonmark:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thephpleague:commonmark:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thephpleague:commonmark:0.11.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mrsilaz:mfa_mail:2.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:mrsilaz:mfa_mail:*:*:*:*:*:typo3:*:*

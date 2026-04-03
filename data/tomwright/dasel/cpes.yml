@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tomwright:dasel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tomwright:dasel:*:*:*:*:*:go:*:*

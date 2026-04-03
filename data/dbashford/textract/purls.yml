@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dbashford/textract
+  - pkg:npm/textract
