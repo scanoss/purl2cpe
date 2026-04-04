@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mikro-orm/mikro-orm
+  - pkg:npm/@mikro-orm/core

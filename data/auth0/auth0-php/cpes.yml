@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:auth0:auth0-php:8.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:auth0:auth0-php:8.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:auth0:auth0-php:8.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0-php:8.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:auth0:auth0-php:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:auth0:auth0-php:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:auth0:auth0-php:8.3.0:*:*:*:*:*:*:*

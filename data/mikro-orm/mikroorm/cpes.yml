@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mikro-orm:mikroorm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mikro-orm:mikroorm:*:*:*:*:*:node.js:*:*

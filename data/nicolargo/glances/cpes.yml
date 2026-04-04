@@ -143,3 +143,4 @@ cpes:
   - cpe:2.3:a:nicolargo:glances:4.5.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nicolargo:glances:4.5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nicolargo:glances:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nicolargo:glances:4.5.2:*:*:*:*:*:*:*

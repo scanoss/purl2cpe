@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nuxt-modules/og-image
+  - pkg:npm/nuxt-og-image

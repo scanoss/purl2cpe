@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/schemahero/schemahero
+  - pkg:golang/github.com/schemahero/schemahero

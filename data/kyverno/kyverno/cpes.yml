@@ -116,12 +116,19 @@ cpes:
   - cpe:2.3:a:kyverno:kyverno:1.15.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.15.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.16.3:-:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:rc2:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:rc3:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:rc4:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.6:rc5:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.17.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.17.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.17.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:kyverno:kyverno:1.17.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:kyverno:kyverno:1.1.7:rc3:*:*:*:*:*:*

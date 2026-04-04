@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/flannel-io/flannel
+  - pkg:golang/github.com/flannel-io/flannel

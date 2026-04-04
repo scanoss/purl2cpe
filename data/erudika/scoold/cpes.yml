@@ -137,3 +137,9 @@ cpes:
   - cpe:2.3:a:erudika:scoold:1.62.0:*:*:*:*:*:*:*
   - cpe:2.3:a:erudika:scoold:1.63.0:*:*:*:*:*:*:*
   - cpe:2.3:a:erudika:scoold:1.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.64.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.64.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.64.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.64.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.64.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:erudika:scoold:1.65.0:*:*:*:*:*:*:*

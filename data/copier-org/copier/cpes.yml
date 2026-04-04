@@ -72,6 +72,8 @@ cpes:
   - cpe:2.3:a:copier-org:copier:9.1.0:*:*:*:*:python:*:*
   - cpe:2.3:a:copier-org:copier:9.11.0:*:*:*:*:python:*:*
   - cpe:2.3:a:copier-org:copier:9.11.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:copier-org:copier:9.11.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:copier-org:copier:9.11.3:*:*:*:*:python:*:*
   - cpe:2.3:a:copier-org:copier:9.1.1:*:*:*:*:python:*:*
   - cpe:2.3:a:copier-org:copier:9.2.0:*:*:*:*:python:*:*
   - cpe:2.3:a:copier-org:copier:9.3.0:*:*:*:*:python:*:*

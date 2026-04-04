@@ -196,6 +196,7 @@ cpes:
   - cpe:2.3:a:roundcube:webmail:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:webmail:1.6.12:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:roundcube:webmail:1.6.4:*:*:*:*:*:*:*

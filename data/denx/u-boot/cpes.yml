@@ -432,3 +432,5 @@ cpes:
   - cpe:2.3:a:denx:u-boot:2026.04:rc1:*:*:*:*:*:*
   - cpe:2.3:a:denx:u-boot:2026.04:rc2:*:*:*:*:*:*
   - cpe:2.3:a:denx:u-boot:2026.04:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:denx:u-boot:2026.04:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:denx:u-boot:2026.04:rc5:*:*:*:*:*:*
