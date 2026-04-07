@@ -102,9 +102,12 @@ cpes:
   - cpe:2.3:a:osrg:gobgp:3.32.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.33.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osrg:gobgp:3.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osrg:gobgp:3.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:osrg:gobgp:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osrg:gobgp:4.2.0:*:*:*:*:*:*:*

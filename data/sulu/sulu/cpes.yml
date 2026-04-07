@@ -317,7 +317,18 @@ cpes:
   - cpe:2.3:a:sulu:sulu:2.5.20:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.29:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.5.33:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.5.6:*:*:*:*:*:*:*
@@ -328,8 +339,39 @@ cpes:
   - cpe:2.3:a:sulu:sulu:2.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.19:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.21:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sulu:sulu:2.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:2.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sulu:sulu:3.0.4:*:*:*:*:*:*:*

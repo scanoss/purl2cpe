@@ -115,7 +115,9 @@ cpes:
   - cpe:2.3:a:pengutronix:barebox:2018.07.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.07.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2018.08.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2018.09.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2018.12.0:*:*:*:*:*:*:*
@@ -130,5 +132,84 @@ cpes:
   - cpe:2.3:a:pengutronix:barebox:2019.07.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2019.08.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2019.08.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2019.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2019.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2019.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2019.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.04.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2020.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.08.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2020.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.06.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2021.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2021.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2022.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.02.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.07.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2023.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2024.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.08.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.09.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.09.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2026.01.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2026.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2026.03.0:*:*:*:*:*:*:*

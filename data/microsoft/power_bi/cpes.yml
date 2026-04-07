@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:microsoft:power_bi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:power_bi:*:*:*:*:*:android:*:*

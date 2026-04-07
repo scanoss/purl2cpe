@@ -21,10 +21,31 @@ cpes:
   - cpe:2.3:a:tukaani:xz:5.1.4:beta:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.3.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.3.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.3.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.3.4:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.3.5:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.5.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.5.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tukaani:xz:5.5.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tukaani:xz:5.6.1:*:*:*:*:*:*:*

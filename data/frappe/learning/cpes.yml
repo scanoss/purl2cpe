@@ -49,6 +49,12 @@ cpes:
   - cpe:2.3:a:frappe:learning:2.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.42.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:frappe:learning:2.47.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frappe:learning:2.7.0:*:*:*:*:*:*:*

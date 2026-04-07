@@ -701,54 +701,124 @@ cpes:
   - cpe:2.3:a:grpc:grpc:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.60.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.60.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.60.0:-:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.60.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.60.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.60.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.61.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.61.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.61.0:-:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.61.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.61.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.61.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.61.2:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.61.3:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.62.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.62.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.62.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.62.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.62.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.62.2:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.62.3:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.63.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.63.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.63.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.63.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.63.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.63.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.63.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.64.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.64.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.64.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.64.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.64.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.64.3:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.65.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.65.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.65.0:-:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.65.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.65.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.65.2:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.65.3:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.65.4:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.65.5:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.66.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.66.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.66.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.66.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.66.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.66.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grpc:grpc:1.67.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.67.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.67.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.67.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.67.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.68.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.68.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.68.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.68.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.69.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.69.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.69.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.69.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.69.4:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.70.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.70.0:-:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.0:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:grpc:grpc:1.71.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.71.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.71.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.71.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.71.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.1:*:*:*:*:java:*:*
   - cpe:2.3:a:grpc:grpc:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:grpc:grpc:1.72.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.72.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.72.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.72.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.72.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.2:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:grpc:grpc:1.73.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.73.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.73.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.74.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.74.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.74.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.74.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.74.3:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.75.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.75.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.75.1:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.7.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.76.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.76.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.77.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.77.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.78.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.78.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.79.0:dev:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.79.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.79.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:grpc:grpc:1.79.2:*:*:*:*:go:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:-:*:*
   - cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:go:*:*

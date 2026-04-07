@@ -17,6 +17,8 @@ cpes:
   - cpe:2.3:a:apache:traffic_server:10.0.4:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:10.0.5:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:10.0.5:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:10.0.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:10.0.6:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:2.0.1:*:*:*:*:*:*:*
@@ -193,6 +195,8 @@ cpes:
   - cpe:2.3:a:apache:traffic_server:9.2.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.10:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.10:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:9.2.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:traffic_server:9.2.11:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:traffic_server:9.2.2:rc0:*:*:*:*:*:*
