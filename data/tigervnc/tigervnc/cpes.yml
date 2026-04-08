@@ -11,6 +11,14 @@ cpes:
   - cpe:2.3:a:tigervnc:tigervnc:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tigervnc:tigervnc:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tigervnc:tigervnc:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.13.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.14.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.15.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigervnc:tigervnc:1.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tigervnc:tigervnc:1.1.90:*:*:*:*:*:*:*
   - cpe:2.3:a:tigervnc:tigervnc:1.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:tigervnc:tigervnc:1.2.0:*:*:*:*:*:*:*

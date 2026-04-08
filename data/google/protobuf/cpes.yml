@@ -1,15 +1,98 @@
 cpes:
   - cpe:2.3:a:google:protobuf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:21.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:24.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:25.7:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:26.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:26.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:26.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:2.6.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:29.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:30.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:alpha3:*:*:*:*:*:*
@@ -25,14 +108,19 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.0.0:beta3.3:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:beta3-prelease1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:30.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:30.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:30.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:31.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:31.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:rc2:*:*:*:*:*:*
@@ -54,17 +142,141 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.14.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.14.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.14.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.15.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.19.6:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.21.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:java:*:*
   - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:java_lite:*:*
   - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:kotllin:*:*
   - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:kotllin_lite:*:*
   - cpe:2.3:a:google:protobuf:3.25.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protobuf:3.25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.25.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.26.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.26.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.26.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:3.29.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:rc1:*:*:*:*:*:*
@@ -128,6 +340,16 @@ cpes:
   - cpe:2.3:a:google:protobuf:4.24.2:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:4.24.3:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:4.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.25.7:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:4.25.8:*:*:*:*:python:*:*
   - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:java:*:*
   - cpe:2.3:a:google:protobuf:4.27.5:*:*:*:*:java_lite:*:*
@@ -139,7 +361,50 @@ cpes:
   - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:kotllin:*:*
   - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:kotllin_lite:*:*
   - cpe:2.3:a:google:protobuf:4.28.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:protobuf:4.30.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.30.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.30.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.30.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.31.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:4.31.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.26.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.26.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.26.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:5.29.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:5.29.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:google:protobuf:6.30.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.30.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.30.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.30.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.31.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:6.31.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:6.31.1:*:*:*:*:python:*:*
   - cpe:2.3:a:google:protobuf:*:*:*:*:*:python:*:*
   - cpe:2.3:a:google:protobuf:*:*:*:*:*:ruby:*:*

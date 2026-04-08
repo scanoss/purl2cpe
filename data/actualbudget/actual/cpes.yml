@@ -51,4 +51,5 @@ cpes:
   - cpe:2.3:a:actualbudget:actual:25.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:actualbudget:actual:26.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:actualbudget:actual:26.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:actualbudget:actual:26.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:actualbudget:actual:*:*:*:*:*:node.js:*:*

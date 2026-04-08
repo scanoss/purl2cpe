@@ -1,2 +1,4 @@
 cpes:
   - cpe:2.3:a:mediawiki:visual_editor:1.34:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.44.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:*:*:*:*:*:mediawiki:*:*

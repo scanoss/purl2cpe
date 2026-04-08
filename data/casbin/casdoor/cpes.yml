@@ -605,3 +605,4 @@ cpes:
   - cpe:2.3:a:casbin:casdoor:1.98.2:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.99.0:*:*:*:*:*:*:*
   - cpe:2.3:a:casbin:casdoor:1.99.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:casbin:casdoor:2.356.0:*:*:*:*:*:*:*

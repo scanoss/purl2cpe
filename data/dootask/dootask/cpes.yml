@@ -255,5 +255,19 @@ cpes:
   - cpe:2.3:a:dootask:dootask:1.1.66:*:*:*:*:*:*:*
   - cpe:2.3:a:dootask:dootask:1.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:dootask:dootask:1.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.2.49:*:*:*:*:*:*:*
   - cpe:2.3:a:dootask:dootask:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.2.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.3.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.3.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.4.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dootask:dootask:1.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:dootask:dootask:1.6.27:*:*:*:*:*:*:*

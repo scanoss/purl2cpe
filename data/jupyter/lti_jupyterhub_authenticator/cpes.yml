@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jupyter:lti_jupyterhub_authenticator:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:lti_jupyterhub_authenticator:1.3.0:*:*:*:*:*:*:*

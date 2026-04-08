@@ -3065,7 +3065,11 @@ cpes:
   - cpe:2.3:a:budibase:budibase:3.32.1:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.32.2:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.32.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.32.6:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.33.0:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.6:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:slab:quill:2.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:slab:quill:4.8.0:*:*:*:*:node.js:*:*

@@ -319,4 +319,6 @@ cpes:
   - cpe:2.3:a:dovecot:dovecot:2.3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dovecot:dovecot:2.3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dovecot:dovecot:2.3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dovecot:dovecot:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dovecot:dovecot:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dovecot:dovecot:*:rc2:*:*:*:*:*:*
