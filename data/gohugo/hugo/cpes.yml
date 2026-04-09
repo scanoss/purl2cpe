@@ -443,6 +443,9 @@ cpes:
   - cpe:2.3:a:gohugo:hugo:0.9:*:*:*:*:linux:*:*
   - cpe:2.3:a:gohugo:hugo:0.9:*:*:*:*:macos:*:*
   - cpe:2.3:a:gohugo:hugo:0.9:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:*:*:*:*:*:linux:*:*
   - cpe:2.3:a:gohugo:hugo:-:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:*:*:*:*:*:macos:*:*
   - cpe:2.3:a:gohugo:hugo:-:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:*:*:*:*:*:windows:*:*
   - cpe:2.3:a:gohugo:hugo:-:*:*:*:*:windows:*:*

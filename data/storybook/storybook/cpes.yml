@@ -1770,6 +1770,48 @@ cpes:
   - cpe:2.3:a:storybook:storybook:7.6.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:storybook:storybook:7.6.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:storybook:storybook:7.6.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha10:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha11:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha12:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha13:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha14:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha15:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha16:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha17:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha6:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha7:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha8:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:alpha9:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta2:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:beta6:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc1:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc2:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc3:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc4:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.0:rc5:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:storybook:storybook:8.0.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:storybook:storybook:8.1.0:alpha0:*:*:*:node.js:*:*
   - cpe:2.3:a:storybook:storybook:8.1.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:storybook:storybook:8.1.0:alpha2:*:*:*:node.js:*:*

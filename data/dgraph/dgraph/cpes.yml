@@ -156,5 +156,8 @@ cpes:
   - cpe:2.3:a:dgraph:dgraph:22.0.0:rc1:*:*:*:go:*:*
   - cpe:2.3:a:dgraph:dgraph:22.0.1:*:*:*:*:go:*:*
   - cpe:2.3:a:dgraph:dgraph:22.0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:dgraph:dgraph:23.0.0:beta1:*:*:*:go:*:*
+  - cpe:2.3:a:dgraph:dgraph:23.0.0:-:*:*:*:go:*:*
+  - cpe:2.3:a:dgraph:dgraph:23.0.0:rc1:*:*:*:go:*:*
   - cpe:2.3:a:dgraph:dgraph:*:*:*:*:*:go:*:*
   - cpe:2.3:a:dgraph:dgraph:-:*:*:*:*:go:*:*

@@ -307,6 +307,7 @@ cpes:
   - cpe:2.3:a:filezilla-project:filezilla_client:3.61.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.62.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.62.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.63.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0.2:*:*:*:*:*:*:*

@@ -116,7 +116,10 @@ cpes:
   - cpe:2.3:a:usebruno:bruno:1.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.38.1:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:1.39.1:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:1.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:1.40.1:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.6.0:*:*:*:*:*:*:*
@@ -125,3 +128,21 @@ cpes:
   - cpe:2.3:a:usebruno:bruno:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:usebruno:bruno:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:usebruno:bruno:2.9.1:*:*:*:*:*:*:*

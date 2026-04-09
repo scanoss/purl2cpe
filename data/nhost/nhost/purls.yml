@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nhost/nhost
+  - pkg:npm/%40nhost/nhost-js
