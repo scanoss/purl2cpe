@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:genieacs:genieacs:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:genieacs:genieacs:1.2.0:beta0:*:*:*:*:*:*
   - cpe:2.3:a:genieacs:genieacs:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:genieacs:genieacs:1.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:genieacs:genieacs:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:genieacs:genieacs:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:genieacs:genieacs:1.2.4:*:*:*:*:*:*:*

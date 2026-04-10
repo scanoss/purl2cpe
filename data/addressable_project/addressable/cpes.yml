@@ -15,3 +15,13 @@ cpes:
   - cpe:2.3:a:addressable_project:addressable:2.6.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:addressable_project:addressable:2.7.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:addressable_project:addressable:2.8.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.10:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.9:*:*:*:*:ruby:*:*

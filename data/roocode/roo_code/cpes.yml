@@ -463,6 +463,7 @@ cpes:
   - cpe:2.3:a:roocode:roo_code:3.44.2:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.45.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.46.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.7.0:*:*:*:*:*:*:*

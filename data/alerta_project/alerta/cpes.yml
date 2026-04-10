@@ -100,3 +100,14 @@ cpes:
   - cpe:2.3:a:alerta_project:alerta:8.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alerta_project:alerta:8.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alerta_project:alerta:8.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:8.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:9.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:9.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:alerta_project:alerta:9.0.4:*:*:*:*:*:*:*

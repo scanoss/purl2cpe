@@ -408,3 +408,4 @@ cpes:
   - cpe:2.3:a:hono:hono:4.9.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.9.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.9.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:*:*:*:*:*:node.js:*:*

@@ -647,8 +647,30 @@ cpes:
   - cpe:2.3:a:astro:astro:5.15.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.15.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.16.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.17.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.17.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.18.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.2.0:*:*:*:*:node.js:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pi-hole:ftldns:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:1.10:*:*:*:*:*:*:*

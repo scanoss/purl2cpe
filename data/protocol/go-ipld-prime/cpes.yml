@@ -16,6 +16,7 @@ cpes:
   - cpe:2.3:a:protocol:go-ipld-prime:0.16.0:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:go-ipld-prime:0.17.0:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:go-ipld-prime:0.18.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-ipld-prime:0.19.0:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:go-ipld-prime:0.4.0:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:go-ipld-prime:0.4:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:go-ipld-prime:0.5.0:*:*:*:*:go:*:*

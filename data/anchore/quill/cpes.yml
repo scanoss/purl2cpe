@@ -1,2 +1,13 @@
 cpes:
   - cpe:2.3:a:anchore:quill:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anchore:quill:0.7.1:*:*:*:*:*:*:*

@@ -724,6 +724,7 @@ cpes:
   - cpe:2.3:a:windmill:windmill:1.421.2:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.422.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.422.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.422.3:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.423.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.423.1:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.423.2:*:*:*:*:*:*:*
