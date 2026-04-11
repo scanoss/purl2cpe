@@ -1,3 +1,39 @@
 cpes:
   - cpe:2.3:a:dbashford:textract:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dbashford:textract:0.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.11.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.11.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.13.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.13.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dbashford:textract:2.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:dbashford:textract:*:*:*:*:*:node.js:*:*

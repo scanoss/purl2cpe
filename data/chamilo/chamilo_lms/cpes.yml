@@ -27,9 +27,20 @@ cpes:
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.16:beta1:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.18:*:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.20:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.22:-:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.22:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.22:beta2:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.24:*:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.26:-:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.26:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.30:-:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.30:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:1.11.36:*:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.4:-:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.4:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:1.11.4:alpha2:*:*:*:*:*:*

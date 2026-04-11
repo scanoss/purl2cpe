@@ -78,3 +78,5 @@ cpes:
   - cpe:2.3:a:libraw:libraw:0.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.22.1:*:*:*:*:*:*:*
