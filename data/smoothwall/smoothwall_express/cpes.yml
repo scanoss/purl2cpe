@@ -2,4 +2,16 @@ cpes:
   - cpe:2.3:o:smoothwall:smoothwall_express:3.0:*:*:*:*:*:*:*
   - cpe:2.3:o:smoothwall:smoothwall_express:3.1:*:*:*:*:*:*:*
   - cpe:2.3:o:smoothwall:smoothwall_express:3.1:sp4:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update1:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update10:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update11:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update12:*:*:-:*:*:*
   - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update13:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update2:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update3:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update4:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update5:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update6:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update7:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update8:*:*:-:*:*:*
+  - cpe:2.3:o:smoothwall:smoothwall_express:3.1:update9:*:*:-:*:*:*
