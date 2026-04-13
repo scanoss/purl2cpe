@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:pengutronix:barebox:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2009.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2010.02.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2010.03.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2010.04.0:*:*:*:*:*:*:*
@@ -14,6 +15,7 @@ cpes:
   - cpe:2.3:a:pengutronix:barebox:2011.01.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.02.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2011.03.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.04.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.05.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.06.0:*:*:*:*:*:*:*
@@ -23,6 +25,7 @@ cpes:
   - cpe:2.3:a:pengutronix:barebox:2011.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2011.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2012.01.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2012.02.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2012.03.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2012.04.0:*:*:*:*:*:*:*

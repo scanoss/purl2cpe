@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:crun_project:crun:0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:crun_project:crun:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:crun_project:crun:0.9.1:*:*:*:*:*:*:*

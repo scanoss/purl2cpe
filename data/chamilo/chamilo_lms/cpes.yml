@@ -108,3 +108,7 @@ cpes:
   - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:alpha4:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:alpha5:*:*:*:*:*:*
   - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:chamilo:chamilo_lms:2.0.0:rc2:*:*:*:*:*:*
