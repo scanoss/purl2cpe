@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:microsoft:xml_notepad:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:xml_notepad:*:*:*:*:*:windows:*:*

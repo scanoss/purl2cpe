@@ -734,4 +734,5 @@ cpes:
   - cpe:2.3:a:capricorn86:happy_dom:9.9.0:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:9.9.1:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:9.9.2:*:*:*:*:nodejs:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:*:*:*:*:*:nodejs:*:*

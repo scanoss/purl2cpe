@@ -448,12 +448,54 @@ cpes:
   - cpe:2.3:a:roocode:roo_code:3.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.34.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.34.8:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.35.5:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.36.9:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.37.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.38.3:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.39.3:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roocode:roo_code:3.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.41.1:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.41.2:*:*:*:*:*:*:*
   - cpe:2.3:a:roocode:roo_code:3.42.0:*:*:*:*:*:*:*

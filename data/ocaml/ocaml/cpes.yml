@@ -193,6 +193,7 @@ cpes:
   - cpe:2.3:a:ocaml:ocaml:4.14.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:ocaml:ocaml:4.14.2:-:*:*:*:*:*:*
   - cpe:2.3:a:ocaml:ocaml:4.14.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:ocaml:4.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ocaml:ocaml:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:ocaml:ocaml:5.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:ocaml:ocaml:5.0.0:alpha1:*:*:*:*:*:*

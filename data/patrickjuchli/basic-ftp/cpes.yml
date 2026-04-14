@@ -106,4 +106,5 @@ cpes:
   - cpe:2.3:a:patrickjuchli:basic-ftp:5.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:patrickjuchli:basic-ftp:5.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:patrickjuchli:basic-ftp:5.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:patrickjuchli:basic-ftp:5.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:patrickjuchli:basic-ftp:*:*:*:*:*:node.js:*:*

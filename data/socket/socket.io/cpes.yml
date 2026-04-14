@@ -111,3 +111,4 @@ cpes:
   - cpe:2.3:a:socket:socket.io:2.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io:2.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:socket.io:*:*:*:*:*:node.js:*:*
