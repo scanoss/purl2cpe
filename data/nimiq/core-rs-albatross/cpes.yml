@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nimiq:core-rs-albatross:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nimiq:core-rs-albatross:*:*:*:*:*:rust:*:*

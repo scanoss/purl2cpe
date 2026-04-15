@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/clasp
+  - pkg:npm/%40google/clasp

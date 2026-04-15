@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/effect-ts/effect
+  - pkg:npm/effect

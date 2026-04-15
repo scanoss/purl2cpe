@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/distribution/distribution
+  - pkg:golang/github.com/distribution/distribution

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/rack-session
+  - pkg:github/rack/rack-session

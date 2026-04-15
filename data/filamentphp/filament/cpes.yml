@@ -527,6 +527,9 @@ cpes:
   - cpe:2.3:a:filamentphp:filament:4.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:4.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:beta2:*:*:*:*:*:*

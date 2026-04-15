@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ory/keto
+  - pkg:golang/github.com/ory/keto

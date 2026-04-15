@@ -1,24 +1,70 @@
 cpes:
   - cpe:2.3:a:seafile:seafile_server:10.0.0:beta:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.0:beta:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.10:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.11:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.12:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.13:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.14:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.15:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.16:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.17:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.18:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:10.0.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.2:beta:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.3:beta:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.4:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.5:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.6:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.7:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.8:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:10.0.9:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.10:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.11:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.11:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.12:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.12:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.13:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.14:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.15:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.16:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.17:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.18:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.19:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.1:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.2:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.4:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.4:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.5:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.5:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.6:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.6:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.7:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.8:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:11.0.9:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:11.0.9:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.10:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.11:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.11:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.12:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.13:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.14:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.14:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.15:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.16:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.17:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.18:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.19:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.4:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.6:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.8:beta:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:12.0.9:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0.9:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:12.0:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:13.0.11:beta:*:*:community:*:*:*
@@ -257,14 +303,28 @@ cpes:
   - cpe:2.3:a:seafile:seafile_server:9.0.0:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.0:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.10:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.11:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.12:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.13:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.14:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.15:*:*:*:professional:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.16:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.1:beta:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.1:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.2:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.3:beta:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.3:*:*:*:community:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.4:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.4:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.5:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.5:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.6:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.7:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.8:*:*:*:professional:*:*:*
   - cpe:2.3:a:seafile:seafile_server:9.0.9:*:*:*:community:*:*:*
+  - cpe:2.3:a:seafile:seafile_server:9.0.9:*:*:*:professional:*:*:*

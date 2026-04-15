@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ory/kratos
+  - pkg:golang/github.com/ory/kratos

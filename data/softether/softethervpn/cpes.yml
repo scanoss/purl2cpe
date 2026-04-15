@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:softether:softethervpn:5.01.9658:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:*:*:*:*:developer:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mozilla:rhino:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.8.0:*:*:*:*:*:*:*

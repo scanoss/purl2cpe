@@ -420,7 +420,9 @@ cpes:
   - cpe:2.3:a:systemd_project:systemd:258:rc1:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:258:rc2:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:258:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:259:-:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:26:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:260:-:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:27:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:28:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:29:*:*:*:*:*:*:*

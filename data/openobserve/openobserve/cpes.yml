@@ -21,16 +21,101 @@ cpes:
   - cpe:2.3:a:openobserve:openobserve:0.10.8:rc3:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.10.8:rc4:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.10.8:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.10.9:-:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.10.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.10.9:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.10.9:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.10.9:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.11.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.12.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.13.2:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.5:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.6:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.14.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.30.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.30.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.30.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.30.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.40.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.4.3:*:*:*:*:*:*:*
@@ -41,15 +126,42 @@ cpes:
   - cpe:2.3:a:openobserve:openobserve:0.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.50.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.60.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openobserve:openobserve:0.70.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.7.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.7.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:openobserve:openobserve:0.7.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kcp-dev/kcp
+  - pkg:golang/github.com/kcp-dev/kcp

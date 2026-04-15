@@ -30,3 +30,46 @@ cpes:
   - cpe:2.3:a:cloudreve:cloudreve:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudreve:cloudreve:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudreve:cloudreve:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.6.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.8.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:3.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta10:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta11:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta12:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.0.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudreve:cloudreve:4.9.2:*:*:*:*:*:*:*

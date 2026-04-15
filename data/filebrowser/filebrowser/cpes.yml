@@ -180,7 +180,15 @@ cpes:
   - cpe:2.3:a:filebrowser:filebrowser:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.60.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.61.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.61.2:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.62.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebrowser:filebrowser:2.63.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filebrowser:filebrowser:2.9.0:*:*:*:*:*:*:*

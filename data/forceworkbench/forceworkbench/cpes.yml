@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:forceworkbench:forceworkbench:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:forceworkbench:forceworkbench:65.0.0:*:*:*:*:*:*:*

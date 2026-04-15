@@ -1,2 +1,29 @@
 cpes:
   - cpe:2.3:a:gematik:authenticator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gematik:authenticator:4.9.0:*:*:*:*:*:*:*

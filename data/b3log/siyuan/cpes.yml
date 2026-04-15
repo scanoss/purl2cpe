@@ -875,3 +875,4 @@ cpes:
   - cpe:2.3:a:b3log:siyuan:3.5.9:dev1:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.5.9:dev2:*:*:*:*:*:*
   - cpe:2.3:a:b3log:siyuan:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:b3log:siyuan:3.6.4:*:*:*:*:*:*:*

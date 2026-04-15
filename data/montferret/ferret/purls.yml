@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/montferret/ferret
+  - pkg:golang/github.com/montferret/ferret

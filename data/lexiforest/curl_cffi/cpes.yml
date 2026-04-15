@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta4:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta5:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:beta6:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:0.15.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:lexiforest:curl_cffi:*:*:*:*:*:python:*:*
