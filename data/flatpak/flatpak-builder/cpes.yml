@@ -38,3 +38,6 @@ cpes:
   - cpe:2.3:a:flatpak:flatpak-builder:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:flatpak:flatpak-builder:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:flatpak:flatpak-builder:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:flatpak:flatpak-builder:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:flatpak:flatpak-builder:1.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:flatpak:flatpak-builder:1.4.7:*:*:*:*:*:*:*

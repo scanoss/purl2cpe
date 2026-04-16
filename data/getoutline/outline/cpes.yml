@@ -213,3 +213,10 @@ cpes:
   - cpe:2.3:a:getoutline:outline:0.87.3-0:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.87.4:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.5.0:*:*:*:*:*:*:*

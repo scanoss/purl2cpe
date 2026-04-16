@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/smallstep/certificates
+  - pkg:golang/github.com/smallstep/certificates

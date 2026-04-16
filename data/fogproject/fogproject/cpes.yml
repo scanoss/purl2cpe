@@ -30,11 +30,19 @@ cpes:
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1667:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1673:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1698:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1721:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1733:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1734:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1751:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1754:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1763:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1798:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.30:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.48:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.74:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.3:*:*:*:*:*:*:*

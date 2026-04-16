@@ -73,3 +73,7 @@ cpes:
   - cpe:2.3:a:formwork_project:formwork:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:formwork_project:formwork:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:formwork_project:formwork:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:formwork_project:formwork:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:formwork_project:formwork:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:formwork_project:formwork:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:formwork_project:formwork:2.3.3:*:*:*:*:*:*:*
