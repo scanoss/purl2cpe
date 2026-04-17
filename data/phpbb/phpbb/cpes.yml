@@ -111,6 +111,7 @@ cpes:
   - cpe:2.3:a:phpbb:phpbb:3.3.10:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpbb:phpbb:3.3.15:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:phpbb:phpbb:3.3.3:-:*:*:*:*:*:*

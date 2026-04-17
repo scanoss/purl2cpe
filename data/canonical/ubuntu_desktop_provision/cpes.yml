@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:canonical:ubuntu_desktop_provision:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:ubuntu_desktop_provision:24.04.4:*:*:*:*:*:*:*

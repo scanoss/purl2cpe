@@ -103,3 +103,4 @@ cpes:
   - cpe:2.3:a:varnish_cache_project:varnish_cache:7.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:varnish_cache_project:varnish_cache:7.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:varnish_cache_project:varnish_cache:7.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:varnish_cache_project:varnish_cache:9.0.0:*:*:*:*:*:*:*

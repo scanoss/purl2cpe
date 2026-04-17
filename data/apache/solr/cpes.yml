@@ -123,6 +123,7 @@ cpes:
   - cpe:2.3:a:apache:solr:8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:solr:9.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.2.1:*:*:*:*:*:*:*
@@ -135,3 +136,4 @@ cpes:
   - cpe:2.3:a:apache:solr:9.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:solr:9.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:solr:9.9.0:*:*:*:*:*:*:*

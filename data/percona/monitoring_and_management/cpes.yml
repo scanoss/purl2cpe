@@ -3,3 +3,4 @@ cpes:
   - cpe:2.3:a:percona:monitoring_and_management:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.37.1:*:*:*:*:*:*:*

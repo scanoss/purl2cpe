@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:*:*:*:*:*:*:*:*
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.0.0:rc2:*:*:*:*:*:*

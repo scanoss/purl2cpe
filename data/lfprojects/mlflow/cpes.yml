@@ -137,6 +137,9 @@ cpes:
   - cpe:2.3:a:lfprojects:mlflow:3.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.10.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.1.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.1.2:*:*:*:*:*:*:*
@@ -154,3 +157,10 @@ cpes:
   - cpe:2.3:a:lfprojects:mlflow:3.5.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.7.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.8.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.9.0:rc0:*:*:*:*:*:*

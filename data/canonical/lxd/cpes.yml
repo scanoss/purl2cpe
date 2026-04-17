@@ -176,6 +176,7 @@ cpes:
   - cpe:2.3:a:canonical:lxd:5.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:5.21.4:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.21:candidate:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.21:edge:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:5.3:*:*:*:*:*:*:*
@@ -190,4 +191,5 @@ cpes:
   - cpe:2.3:a:canonical:lxd:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:6.6:*:*:*:*:*:*:*

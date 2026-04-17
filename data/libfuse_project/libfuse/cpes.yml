@@ -98,6 +98,8 @@ cpes:
   - cpe:2.3:a:libfuse_project:libfuse:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libfuse_project:libfuse:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libfuse_project:libfuse:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libfuse_project:libfuse:3.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libfuse_project:libfuse:3.18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libfuse_project:libfuse:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libfuse_project:libfuse:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libfuse_project:libfuse:3.2.2:*:*:*:*:*:*:*
