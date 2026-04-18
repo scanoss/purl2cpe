@@ -93,3 +93,4 @@ cpes:
   - cpe:2.3:a:zammad:zammad:6.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.5.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.6.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.0.0:*:*:*:*:*:*:*

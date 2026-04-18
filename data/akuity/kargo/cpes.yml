@@ -178,4 +178,5 @@ cpes:
   - cpe:2.3:a:akuity:kargo:1.9.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.9.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:1.9.3:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:akuity:kargo:1.9.4:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:akuity:kargo:*:*:*:*:*:kubernetes:*:*

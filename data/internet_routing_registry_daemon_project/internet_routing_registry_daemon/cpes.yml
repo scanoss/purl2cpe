@@ -46,3 +46,14 @@ cpes:
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.5.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.5.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.5.0:rc2:*:*:*:*:*:*

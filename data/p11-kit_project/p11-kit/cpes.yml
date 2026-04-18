@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:p11-kit_project:p11-kit:-:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.11:*:*:*:*:*:*:*

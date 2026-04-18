@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:jellyfin:jellyfin:10.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:jellyfin:jellyfin:10.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jellyfin:jellyfin:10.2.2:*:*:*:*:*:*:*

@@ -487,6 +487,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:12.2.4:security01:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.4:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.3.1:*:*:*:-:*:*:*

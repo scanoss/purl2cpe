@@ -1,5 +1,30 @@
 cpes:
   - cpe:2.3:a:apostrophecms:import-export:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:import-export:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:import-export:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:import-export:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:import-export:*:*:*:*:*:node.js:*:*

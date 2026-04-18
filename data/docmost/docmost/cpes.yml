@@ -33,6 +33,7 @@ cpes:
   - cpe:2.3:a:docmost:docmost:0.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:docmost:docmost:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:docmost:docmost:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docmost:docmost:0.70.3:*:*:*:*:*:*:*
   - cpe:2.3:a:docmost:docmost:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:docmost:docmost:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:docmost:docmost:0.8.2:*:*:*:*:*:*:*

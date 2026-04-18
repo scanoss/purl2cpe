@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:prometheus:prometheus:*:*:*:*:*:*:*:*
   - cpe:2.3:a:prometheus:prometheus:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prometheus:prometheus:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prometheus:prometheus:0.11.1:*:*:*:*:*:*:*
