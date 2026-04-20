@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:flatpak:xdg-desktop-portal:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flatpak:xdg-desktop-portal:1.20.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:flatpak:xdg-desktop-portal:1.21.0:*:*:*:*:*:*:*

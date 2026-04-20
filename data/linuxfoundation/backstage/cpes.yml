@@ -489,7 +489,21 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:next1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.0:next1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next2:*:*:*:*:*:*

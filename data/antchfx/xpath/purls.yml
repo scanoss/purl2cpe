@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/antchfx/xpath
+  - pkg:golang/github.com/antchfx/xpath

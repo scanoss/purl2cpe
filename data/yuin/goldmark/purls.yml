@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yuin/goldmark
+  - pkg:golang/github.com/yuin/goldmark

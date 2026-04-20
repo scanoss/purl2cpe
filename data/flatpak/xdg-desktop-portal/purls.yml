@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xdg-desktop-portal
+  - pkg:deb/ubuntu/xdg-desktop-portal
+  - pkg:github/flatpak/xdg-desktop-portal
+  - pkg:rpm/fedora/xdg-desktop-portal
+  - pkg:rpm/opensuse/xdg-desktop-portal
