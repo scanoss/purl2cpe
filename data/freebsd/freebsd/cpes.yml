@@ -360,6 +360,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:13.5:-:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:beta3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p1:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:13.5:p10:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p4:*:*:*:*:*:*

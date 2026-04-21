@@ -1,6 +1,77 @@
 cpes:
   - cpe:2.3:a:percona:monitoring_and_management:-:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:percona:monitoring_and_management:2.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.41.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.42.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.43.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.44.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.0.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:percona:monitoring_and_management:3.6.0:*:*:*:*:*:*:*

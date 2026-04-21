@@ -52,6 +52,10 @@ cpes:
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ironmansoftware:powershell_universal:2026.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ironmansoftware:powershell_universal:2026.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ironmansoftware:powershell_universal:2026.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ironmansoftware:powershell_universal:2026.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ironmansoftware:powershell_universal:2.10.0:*:*:*:*:*:*:*

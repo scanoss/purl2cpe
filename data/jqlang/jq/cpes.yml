@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jqlang:jq:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jqlang:jq:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:jqlang:jq:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jqlang:jq:1.2:*:*:*:*:*:*:*
