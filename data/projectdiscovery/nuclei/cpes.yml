@@ -72,6 +72,7 @@ cpes:
   - cpe:2.3:a:projectdiscovery:nuclei:2.8.8:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.8.9:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:2.9.10:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.1:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.2:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.3:*:*:*:*:go:*:*
@@ -80,5 +81,6 @@ cpes:
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.6:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.7:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:2.9.9:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:*:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:-:*:*:*:*:go:*:*

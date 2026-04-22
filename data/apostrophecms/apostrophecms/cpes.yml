@@ -1056,6 +1056,7 @@ cpes:
   - cpe:2.3:a:apostrophecms:apostrophecms:4.27.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:apostrophecms:4.27.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:apostrophecms:4.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apostrophecms:apostrophecms:4.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:apostrophecms:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:apostrophecms:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apostrophecms:apostrophecms:4.3.2:*:*:*:*:*:*:*

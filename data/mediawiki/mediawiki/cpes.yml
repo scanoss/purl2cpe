@@ -344,6 +344,9 @@ cpes:
   - cpe:2.3:a:mediawiki:mediawiki:1.39.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.39.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.39.4:*:*:*:*:*:*:*
@@ -396,8 +399,13 @@ cpes:
   - cpe:2.3:a:mediawiki:mediawiki:1.43.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.43.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.43.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.43.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.43.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.43.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.44.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:mediawiki:1.44.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.45.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:mediawiki:1.4.6:*:*:*:*:*:*:*

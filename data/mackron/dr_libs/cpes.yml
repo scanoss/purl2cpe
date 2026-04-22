@@ -1,2 +1,18 @@
 cpes:
   - cpe:2.3:a:mackron:dr_libs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.12.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.13.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.6.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mackron:dr_libs:0.7.3:*:*:*:*:*:*:*

@@ -77,3 +77,4 @@ cpes:
   - cpe:2.3:a:rapid7:velociraptor:0.75:*:*:*:*:*:*:*
   - cpe:2.3:a:rapid7:velociraptor:0.75.1:*:*:*:*:*:*:*
   - cpe:2.3:a:rapid7:velociraptor:0.75.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76.3:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:giskard:giskard:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:giskard:giskard:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:giskard:giskard:1.0.0:*:*:*:*:*:*:*

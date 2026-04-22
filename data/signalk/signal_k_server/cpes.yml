@@ -194,9 +194,11 @@ cpes:
   - cpe:2.3:a:signalk:signal_k_server:2.23.0:-:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.23.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.23.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.24.0:-:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.24.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.24.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.24.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:signalk:signal_k_server:2.24.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.3.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:signalk:signal_k_server:2.3.1:*:*:*:*:*:*:*

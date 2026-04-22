@@ -1,2 +1,12 @@
 cpes:
   - cpe:2.3:a:lexbor:lexbor:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lexbor:lexbor:2.6.0:*:*:*:*:*:*:*

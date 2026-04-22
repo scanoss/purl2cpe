@@ -280,3 +280,11 @@ cpes:
   - cpe:2.3:a:apache:kafka:3.9.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.9.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:apache:kafka:3.9.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:3.9.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:4.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:kafka:4.0.0:rc3:*:*:*:*:*:*

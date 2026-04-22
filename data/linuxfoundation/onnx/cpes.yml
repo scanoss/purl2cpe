@@ -17,6 +17,11 @@ cpes:
   - cpe:2.3:a:linuxfoundation:onnx:1.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:onnx:1.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:onnx:1.2.3:*:*:*:*:*:*:*
