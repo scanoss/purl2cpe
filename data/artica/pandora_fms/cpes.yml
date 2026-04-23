@@ -55,10 +55,29 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:775:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:776:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.7:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.9:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:778:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:779:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:780:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:781:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:782:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:783:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:784:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:785:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:786:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:800:*:*:*:*:*:*:*

@@ -853,9 +853,13 @@ cpes:
   - cpe:2.3:a:misskey:misskey:2025.12.1:-:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.12.1:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.12.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2025.12.2:-:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.12.2:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.12.2:beta0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.12.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2025.12.2:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2025.12.2:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2025.12.2:beta4:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.2.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.2.0:beta0:*:*:*:*:*:*
@@ -1019,6 +1023,16 @@ cpes:
   - cpe:2.3:a:misskey:misskey:2025.9.1:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.9.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2025.9.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.1.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.2.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.2.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.3.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.22.0:*:*:*:*:*:*:*

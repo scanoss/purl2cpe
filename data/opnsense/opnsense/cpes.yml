@@ -108,6 +108,7 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:17.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:17.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7.11:*:*:*:*:*:*:*
@@ -120,9 +121,13 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:17.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:17.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:17.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:17.7:rc:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:17.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1.11:*:*:*:*:*:*:*
@@ -136,8 +141,14 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:18.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.1rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7.10:*:*:*:*:*:*:*
@@ -149,9 +160,13 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:18.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:18.7:rc:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:18.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1.2:*:*:*:*:*:*:*
@@ -162,9 +177,13 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:19.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.1:rc:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7.2:*:*:*:*:*:*:*
@@ -175,7 +194,12 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:19.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:19.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:19.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1.3:*:*:*:*:*:*:*
@@ -185,7 +209,12 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:20.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7.3:*:*:*:*:*:*:*
@@ -194,14 +223,85 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:20.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:20.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:20.7:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.10:rc:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:21.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:22.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.11:*:*:*:*:*:*:*
@@ -214,11 +314,17 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:23.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.r1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.1.r2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.11:*:*:*:*:*:*:*
@@ -232,12 +338,19 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:23.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.r1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.r2:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:23.7.r3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:23.7:rc3:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.2:*:*:*:*:*:*:*
@@ -249,10 +362,15 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:24.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.1:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.1.r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.11:*:*:*:*:*:*:*
@@ -266,11 +384,17 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:24.7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.r1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:24.7.r2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:24.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.11:*:*:*:*:*:*:*
@@ -284,16 +408,47 @@ cpes:
   - cpe:2.3:a:opnsense:opnsense:25.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.r1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.1.r2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:-:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.11:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.a:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:alpha:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:beta:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.r:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.r1:*:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:25.7.r2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:25.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:opnsense:opnsense:26.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:opnsense:opnsense:8.1.13:*:*:*:*:*:*:*

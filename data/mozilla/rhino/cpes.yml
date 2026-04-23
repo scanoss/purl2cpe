@@ -1,4 +1,44 @@
 cpes:
   - cpe:2.3:a:mozilla:rhino:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.4:r3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r4:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r4.1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.5:r52:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r12:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r22:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r32:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r4:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r42:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r5:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r52:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r6:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r62:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.6:r7:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.11:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.14:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:rhino:1.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7:r1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7:r2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7:r3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7:r4:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:rhino:1.7:r5:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:rhino:1.8.0:*:*:*:*:*:*:*

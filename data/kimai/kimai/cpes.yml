@@ -188,6 +188,9 @@ cpes:
   - cpe:2.3:a:kimai:kimai:2.43.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.44.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kimai:kimai:2.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kimai:kimai:2.8.0:*:*:*:*:*:*:*

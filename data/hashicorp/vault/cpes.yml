@@ -292,6 +292,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.20.3:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.20.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:beta1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:beta2:*:*:-:*:*:*
@@ -300,6 +301,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.2.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.0:rc1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.21.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.2:*:*:*:enterprise:*:*:*

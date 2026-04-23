@@ -1,4 +1,7 @@
 cpes:
   - cpe:2.3:a:microsoft:power_bi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:power_bi:2.2.260114.21286639:*:*:*:*:android:*:*
+  - cpe:2.3:a:microsoft:power_bi:2.2.260127.21288693:*:*:*:*:android:*:*
   - cpe:2.3:a:microsoft:power_bi:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:microsoft:power_bi:-:*:*:*:*:android:*:*
   - cpe:2.3:a:microsoft:power_bi:-:*:*:*:*:iphone_os:*:*
