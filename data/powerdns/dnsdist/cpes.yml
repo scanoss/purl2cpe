@@ -22,6 +22,7 @@ cpes:
   - cpe:2.3:a:powerdns:dnsdist:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:1.9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:1.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:powerdns:dnsdist:1.9.12:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:1.9.4:*:*:*:*:*:*:*
@@ -39,3 +40,4 @@ cpes:
   - cpe:2.3:a:powerdns:dnsdist:2.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:powerdns:dnsdist:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:powerdns:dnsdist:2.0.3:*:*:*:*:*:*:*

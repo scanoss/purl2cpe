@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:-:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:0.10.0:*:*:*:*:*:*:*
