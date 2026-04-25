@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/marimo-team/marimo
+  - pkg:pypi/marimo

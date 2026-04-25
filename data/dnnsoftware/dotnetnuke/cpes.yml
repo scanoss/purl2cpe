@@ -9,11 +9,97 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.0.1:rc3:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.10d:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.10e:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.1.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:10.3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:1.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:3.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:4.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.05.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.06.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:5.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.03.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.04.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.164:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.165:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.166:*:*:*:*:*:*:*
@@ -80,16 +166,28 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.227:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.228:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.0.607:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.0.607:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.1.367:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.1.367:stable:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.2.303:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.0.499:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.0.499:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.1.20:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.2.109:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.2.109:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.3.118:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.3.118:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.4.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.4.45:stable:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.4.0.353:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.4.0.353:stable:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.5.0.875:alpha:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:7.5.0.885:alpha:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:8.00.04:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:8.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:8.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:8.0.3:*:*:*:*:*:*:*
@@ -127,6 +225,7 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.10:*:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.2:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.13.2:rc1:*:*:*:*:*:*
@@ -163,10 +262,22 @@ cpes:
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.3.2:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.3.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.4.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dnnsoftware:dotnetnuke:9.5.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:dnnsoftware:dotnetnuke:9.6.0:rc2:*:*:*:*:*:*

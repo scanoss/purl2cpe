@@ -32,6 +32,7 @@ cpes:
   - cpe:2.3:a:monospace:directus:10.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:10.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:10.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:10.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:10.6.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:10.6.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:10.6.3:*:*:*:*:node.js:*:*
@@ -60,6 +61,7 @@ cpes:
   - cpe:2.3:a:monospace:directus:11.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.11.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.12.0:alpha:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.12.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.1.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.13.0:*:*:*:*:node.js:*:*
@@ -72,6 +74,10 @@ cpes:
   - cpe:2.3:a:monospace:directus:11.15.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.15.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.15.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.15.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.15.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.16.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.2:*:*:*:*:node.js:*:*

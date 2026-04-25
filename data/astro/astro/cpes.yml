@@ -671,6 +671,7 @@ cpes:
   - cpe:2.3:a:astro:astro:5.17.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:5.18.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.1.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.2.0:*:*:*:*:node.js:*:*
@@ -719,4 +720,39 @@ cpes:
   - cpe:2.3:a:astro:astro:5.9.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:5.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta10:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta11:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta12:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta13:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta14:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta15:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta16:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta17:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta18:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta19:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta20:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta2:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta6:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta7:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta8:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:beta9:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:*:*:*:*:*:node.js:*:*

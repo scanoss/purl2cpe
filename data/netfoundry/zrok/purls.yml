@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openziti/zrok
+  - pkg:golang/github.com/openziti/zrok

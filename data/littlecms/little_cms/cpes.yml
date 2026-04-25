@@ -24,6 +24,16 @@ cpes:
   - cpe:2.3:a:littlecms:little_cms:2.13.1:-:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms:2.13:rc1:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms:2.13:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.14:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.15:-:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.15:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.16:-:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.16:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.17:-:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.17:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.18:-:*:*:*:*:*:*
+  - cpe:2.3:a:littlecms:little_cms:2.18:rc1:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms:2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms:2.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:littlecms:little_cms:2.2:rc1:*:*:*:*:*:*

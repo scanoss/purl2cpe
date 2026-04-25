@@ -32,6 +32,16 @@ cpes:
   - cpe:2.3:a:fontconfig_project:fontconfig:2.13.92:*:*:*:*:*:*:*
   - cpe:2.3:a:fontconfig_project:fontconfig:2.13.93:*:*:*:*:*:*:*
   - cpe:2.3:a:fontconfig_project:fontconfig:2.13.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.13.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.13.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fontconfig_project:fontconfig:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fontconfig_project:fontconfig:2.1.91:*:*:*:*:*:*:*
   - cpe:2.3:a:fontconfig_project:fontconfig:2.1.92:*:*:*:*:*:*:*
   - cpe:2.3:a:fontconfig_project:fontconfig:2.1.93:*:*:*:*:*:*:*
