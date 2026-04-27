@@ -999,6 +999,9 @@ cpes:
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.16:rc1:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.16:rc1:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.17:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:30.0.17:-:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:30.0.17:rc1:*:*:enterprise:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_server:30.0.17:rc2:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.1:-:*:*:enterprise:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.1:rc1:*:*:-:*:*:*
   - cpe:2.3:a:nextcloud:nextcloud_server:30.0.1:rc1:*:*:enterprise:*:*:*
