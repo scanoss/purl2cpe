@@ -123,6 +123,8 @@ cpes:
   - cpe:2.3:a:leepeuker:movary:0.69.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leepeuker:movary:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leepeuker:movary:0.70.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:leepeuker:movary:0.70.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:leepeuker:movary:0.71.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leepeuker:movary:0.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leepeuker:movary:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leepeuker:movary:0.9.1:*:*:*:*:*:*:*

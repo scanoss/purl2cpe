@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:apache:activemq_web:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_web:5.19.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_web:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_web:6.2.2:*:*:*:*:*:*:*

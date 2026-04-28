@@ -371,10 +371,12 @@ cpes:
   - cpe:2.3:a:clickhouse:clickhouse:23.10:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.10.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.10.4.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.16.7:*:*:*:lts:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.17.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.18.15:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3:*:*:*:lts:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.6.16:*:*:*:lts:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.7.24:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.8.20:*:*:*:*:*:*:*

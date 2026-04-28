@@ -138,3 +138,4 @@ cpes:
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.48:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.49:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:*:*:*:*:*:rust:*:*

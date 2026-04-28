@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-telemetry/opentelemetry-dotnet
+  - pkg:nuget/opentelemetry.api

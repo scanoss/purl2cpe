@@ -45,8 +45,34 @@ cpes:
   - cpe:2.3:a:mathjs:mathjs:1.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:13.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:13.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:13.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:13.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:13.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:14.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:15.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:15.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mathjs:mathjs:15.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mathjs:mathjs:1.6.0:*:*:*:*:node.js:*:*

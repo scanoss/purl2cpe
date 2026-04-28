@@ -37,11 +37,13 @@ cpes:
   - cpe:2.3:o:linaro:op-tee:3.15.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.15.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:3.20:*:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.20.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.20.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.21.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:3.22.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.22.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.3.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.3.0:rc1:*:*:*:*:*:*
@@ -58,3 +60,25 @@ cpes:
   - cpe:2.3:o:linaro:op-tee:3.8.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.9.0:-:*:*:*:*:*:*
   - cpe:2.3:o:linaro:op-tee:3.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:linaro:op-tee:4.9.0:rc1:*:*:*:*:*:*

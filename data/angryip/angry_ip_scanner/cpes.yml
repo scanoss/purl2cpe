@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:angryip:angry_ip_scanner:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:angryip:angry_ip_scanner:3.5.3:*:*:*:*:linux:*:*
+  - cpe:2.3:a:angryip:angry_ip_scanner:3.5.3:*:*:*:*:windows:*:*
+  - cpe:2.3:a:angryip:angry_ip_scanner:*:*:*:*:*:linux:*:*
