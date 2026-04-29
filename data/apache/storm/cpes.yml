@@ -53,3 +53,4 @@ cpes:
   - cpe:2.3:a:apache:storm:2.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:storm:2.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:storm:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:storm:2.8.6:*:*:*:*:*:*:*

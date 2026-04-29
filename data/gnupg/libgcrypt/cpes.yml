@@ -40,10 +40,21 @@ cpes:
   - cpe:2.3:a:gnupg:libgcrypt:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.0:beta221:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.0:beta222:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.1.42:*:*:*:*:*:*:*
@@ -105,6 +116,10 @@ cpes:
   - cpe:2.3:a:gnupg:libgcrypt:1.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.8.13:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.4:*:*:*:*:*:*:*
@@ -112,7 +127,9 @@ cpes:
   - cpe:2.3:a:gnupg:libgcrypt:1.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:libgcrypt:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:libgcrypt:1.9.4:*:*:*:*:*:*:*

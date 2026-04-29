@@ -68,4 +68,5 @@ cpes:
   - cpe:2.3:a:projectcontour:contour:1.8.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:projectcontour:contour:1.8.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:projectcontour:contour:1.9.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:projectcontour:contour:*:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:projectcontour:contour:-:*:*:*:*:kubernetes:*:*

@@ -56,6 +56,13 @@ cpes:
   - cpe:2.3:a:teluu:pjsip:2.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:teluu:pjsip:2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:teluu:pjsip:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teluu:pjsip:2.16:*:*:*:*:*:*:*
   - cpe:2.3:a:teluu:pjsip:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:teluu:pjsip:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:teluu:pjsip:2.3:*:*:*:*:*:*:*

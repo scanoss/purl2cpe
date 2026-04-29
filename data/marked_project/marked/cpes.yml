@@ -146,3 +146,4 @@ cpes:
   - cpe:2.3:a:marked_project:marked:4.0.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:marked_project:marked:4.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:marked_project:marked:4.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked_project:marked:*:*:*:*:*:node.js:*:*

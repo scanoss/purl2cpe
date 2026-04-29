@@ -111,8 +111,20 @@ cpes:
   - cpe:2.3:a:nghttp2:nghttp2:1.55.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.56.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.59.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.60.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.67.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nghttp2:nghttp2:1.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nghttp2:nghttp2:1.8.0:*:*:*:*:*:*:*
