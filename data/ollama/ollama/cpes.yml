@@ -164,6 +164,14 @@ cpes:
   - cpe:2.3:a:ollama:ollama:0.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ollama:ollama:0.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:ollama:ollama:0.2.2:rc1:*:*:*:*:*:*

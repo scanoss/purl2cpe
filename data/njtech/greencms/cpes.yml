@@ -1,4 +1,12 @@
 cpes:
+  - cpe:2.3:a:njtech:greencms:2.1.0612:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.1.0822:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.1.0901:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.1.1001:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.2.0620:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.2.0706:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.2.0726:*:*:*:*:*:*:*
+  - cpe:2.3:a:njtech:greencms:2.2.0819:*:*:*:*:*:*:*
   - cpe:2.3:a:njtech:greencms:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:njtech:greencms:2.3.0101:*:*:*:*:*:*:*
   - cpe:2.3:a:njtech:greencms:2.3.0215:*:*:*:*:*:*:*

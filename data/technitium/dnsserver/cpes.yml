@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:technitium:dnsserver:13.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:technitium:dnsserver:13.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:technitium:dnsserver:13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:technitium:dnsserver:15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:technitium:dnsserver:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:technitium:dnsserver:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:technitium:dnsserver:5.0.2:*:*:*:*:*:*:*

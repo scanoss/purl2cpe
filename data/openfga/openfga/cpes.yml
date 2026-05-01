@@ -120,6 +120,15 @@ cpes:
   - cpe:2.3:a:openfga:openfga:1.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfga:openfga:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openfga:openfga:1.2.0:rc2:*:*:*:*:*:*

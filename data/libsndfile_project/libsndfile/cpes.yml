@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:libsndfile_project:libsndfile:1.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:libsndfile_project:libsndfile:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libsndfile_project:libsndfile:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsndfile_project:libsndfile:1.2.2:*:*:*:*:*:*:*

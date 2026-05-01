@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:letta:letta:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:letta:letta:0.16.4:*:*:*:*:*:*:*
   - cpe:2.3:a:letta:letta:0.7.12:*:*:*:*:*:*:*

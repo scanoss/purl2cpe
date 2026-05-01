@@ -121,6 +121,7 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.1.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:31.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:31.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:31.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.11.0:rc2:*:*:*:*:*:*
@@ -182,6 +183,7 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.19.6:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:32.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.20.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.20.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.20.0:rc2:*:*:*:*:*:*
@@ -192,8 +194,11 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:32.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:32.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:32.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.21.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.21.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.21.1:*:*:*:*:*:*:*
@@ -279,9 +284,16 @@ cpes:
   - cpe:2.3:a:google:protobuf:3.29.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf:33.4:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf:3.4.0:rc1:*:*:*:*:*:*

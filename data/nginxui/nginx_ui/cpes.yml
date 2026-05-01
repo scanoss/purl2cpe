@@ -62,6 +62,7 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:1.9.9-2:*:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:1.9.9-3:*:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:1.9.9-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta10:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta10_patch:*:*:*:*:*:*
@@ -69,13 +70,16 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta12:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta13:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta13-patch:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta13_patch:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta14:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta15:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta16:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta17:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta18:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta18-patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta18_patch1:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta18-patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta18_patch2:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta19:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta20:*:*:*:*:*:*
@@ -83,13 +87,18 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta22:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23-patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23_patch1:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23-patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23_patch2:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta23-ptach2:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta24:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25-patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25_patch1:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25-patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25_patch2:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta25-ptach2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta26:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta27:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta28:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta29:*:*:*:*:*:*
@@ -98,10 +107,23 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta31:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta32:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta32-patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta32_patch1:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta33:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta34:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta35:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta36:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37_patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37_patch3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37_patch4:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta37_patch5:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta38:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta39:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta40:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta41:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta42:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta4_patch:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta5_patch:*:*:*:*:*:*
@@ -112,3 +134,66 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta8:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta8_patch:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.0.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc1_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc1_patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc3_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc4_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc4_patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc4_patch3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6_patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6_patch3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6_patch4:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc6_patch5:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch4:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch5:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch6:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch7:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc7_patch8:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.0:rc8_patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.4:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.2.0:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.5:*:*:*:*:*:*:*

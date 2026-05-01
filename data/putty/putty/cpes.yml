@@ -37,4 +37,5 @@ cpes:
   - cpe:2.3:a:putty:putty:0.78:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:0.79:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:0.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:putty:putty:0.83:*:*:*:*:*:*:*
   - cpe:2.3:a:putty:putty:2010-06-01:r8967:*:*:development_snapshot:*:*:*

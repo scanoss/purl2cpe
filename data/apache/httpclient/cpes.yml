@@ -71,3 +71,4 @@ cpes:
   - cpe:2.3:a:apache:httpclient:5.4:beta1:*:*:*:*:*:*
   - cpe:2.3:a:apache:httpclient:5.4:beta1-rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:httpclient:5.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpclient:5.6:-:*:*:*:*:*:*

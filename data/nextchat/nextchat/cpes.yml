@@ -48,6 +48,7 @@ cpes:
   - cpe:2.3:a:nextchat:nextchat:2.15.7:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.15.8:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextchat:nextchat:2.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextchat:nextchat:2.4:*:*:*:*:*:*:*
