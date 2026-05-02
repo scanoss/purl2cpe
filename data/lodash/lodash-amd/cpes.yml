@@ -1,4 +1,28 @@
 cpes:
+  - cpe:2.3:a:lodash:lodash-amd:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:2.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:3.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.10.0:*:*:*:*:node.js:*:*
@@ -29,6 +53,7 @@ cpes:
   - cpe:2.3:a:lodash:lodash-amd:4.17.15:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.17.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.17.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lodash:lodash-amd:4.17.23:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.17.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.17.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:lodash:lodash-amd:4.17.4:*:*:*:*:node.js:*:*

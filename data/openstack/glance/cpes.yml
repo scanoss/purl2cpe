@@ -161,6 +161,8 @@ cpes:
   - cpe:2.3:a:openstack:glance:27.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:glance:28.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:glance:28.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:glance:28.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:glance:29.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:glance:31.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:glance:mitaka:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:glance:v1:*:*:*:*:*:*:*

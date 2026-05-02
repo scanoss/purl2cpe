@@ -1,3 +1,42 @@
 cpes:
+  - cpe:2.3:a:nothings:stb_truetype.h:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.4b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.6b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.6c:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.8b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:0.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.21:*:*:*:*:*:*:*
   - cpe:2.3:a:nothings:stb_truetype.h:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:nothings:stb_truetype.h:1.25:*:*:*:*:*:*:*
   - cpe:2.3:a:nothings:stb_truetype.h:1.26:*:*:*:*:*:*:*

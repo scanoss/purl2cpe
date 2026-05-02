@@ -489,4 +489,6 @@ cpes:
   - cpe:2.3:a:traefik:traefik:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.7.0:ea1:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:3.7.0:ea2:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.7.0:ea3:*:*:*:*:*:*
+  - cpe:2.3:a:traefik:traefik:3.7.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:traefik:traefik:*:*:*:*:*:go:*:*

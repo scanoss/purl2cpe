@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nothings:stb_image.h:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nothings:stb_image.h:0.50:*:*:*:*:*:*:*
   - cpe:2.3:a:nothings:stb_image.h:0.51:*:*:*:*:*:*:*
   - cpe:2.3:a:nothings:stb_image.h:0.52:*:*:*:*:*:*:*

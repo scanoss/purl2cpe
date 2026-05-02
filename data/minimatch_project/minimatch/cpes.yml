@@ -63,6 +63,7 @@ cpes:
   - cpe:2.3:a:minimatch_project:minimatch:3.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:3.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:3.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:3.1.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:4.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:4.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:4.1.1:*:*:*:*:node.js:*:*
@@ -70,6 +71,7 @@ cpes:
   - cpe:2.3:a:minimatch_project:minimatch:4.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:4.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:4.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:4.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:5.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:5.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:5.1.0:*:*:*:*:node.js:*:*
@@ -79,6 +81,7 @@ cpes:
   - cpe:2.3:a:minimatch_project:minimatch:5.1.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:5.1.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:5.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:5.1.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:6.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:6.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:6.0.2:*:*:*:*:node.js:*:*
@@ -96,6 +99,7 @@ cpes:
   - cpe:2.3:a:minimatch_project:minimatch:6.1.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:6.1.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:6.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:6.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:7.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:7.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:7.1.0:*:*:*:*:node.js:*:*
@@ -112,14 +116,17 @@ cpes:
   - cpe:2.3:a:minimatch_project:minimatch:7.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:7.4.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:7.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:7.4.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:8.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:8.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:8.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:8.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:8.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:8.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:minimatch_project:minimatch:9.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:minimatch_project:minimatch:9.0.6:*:*:*:*:node.js:*:*

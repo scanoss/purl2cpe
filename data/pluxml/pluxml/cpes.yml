@@ -12,7 +12,18 @@ cpes:
   - cpe:2.3:a:pluxml:pluxml:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.19:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.20:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.21:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.22:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.3:*:*:*:*:*:*:*
@@ -20,5 +31,7 @@ cpes:
   - cpe:2.3:a:pluxml:pluxml:5.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pluxml:pluxml:5.8.9:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:pluxml:pluxml:5.8:rc1:*:*:*:*:*:*

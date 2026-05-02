@@ -11,6 +11,7 @@ cpes:
   - cpe:2.3:a:prosody:prosody:0.11.11:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.11.12:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:0.11.14:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.11.4:*:*:*:*:*:*:*
@@ -21,6 +22,10 @@ cpes:
   - cpe:2.3:a:prosody:prosody:0.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:0.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:0.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:0.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:0.12.5:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.4.0:*:*:*:*:*:*:*
@@ -54,3 +59,8 @@ cpes:
   - cpe:2.3:a:prosody:prosody:0.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:prosody:prosody:0.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:13.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:13.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:13.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:prosody:prosody:13.0.4:*:*:*:*:*:*:*
