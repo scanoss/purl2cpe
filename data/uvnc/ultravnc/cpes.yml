@@ -14,6 +14,11 @@ cpes:
   - cpe:2.3:a:uvnc:ultravnc:1.2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.6.1.0:*:*:*:*:*:*:*

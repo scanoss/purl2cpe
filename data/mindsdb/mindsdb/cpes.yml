@@ -326,6 +326,10 @@ cpes:
   - cpe:2.3:a:mindsdb:mindsdb:25.9.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:26.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:26.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:26.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mindsdb:mindsdb:26.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.60.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mindsdb:mindsdb:2.61.0:*:*:*:*:*:*:*

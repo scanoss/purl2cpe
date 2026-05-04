@@ -224,6 +224,7 @@ cpes:
   - cpe:2.3:a:keystonejs:keystone:6.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:keystonejs:keystone:6.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:keystonejs:keystone:6.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:keystonejs:keystone:6.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:keystonejs:keystone:7.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:keystonejs:keystone:7.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:keystonejs:keystone:8.0.0:*:*:*:*:node.js:*:*
