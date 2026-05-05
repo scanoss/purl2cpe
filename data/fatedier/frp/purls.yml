@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fatedier/frp
+  - pkg:golang/github.com/fatedier/frp

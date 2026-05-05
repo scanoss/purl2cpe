@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:ransomlook:ransomlook:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ransomlook:ransomlook:1.8.0:*:*:*:*:*:*:*

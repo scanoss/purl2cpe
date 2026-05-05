@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:kubernetes:nginx_ingress_controller:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.10.2:*:*:*:*:*:*:*
@@ -44,4 +45,5 @@ cpes:
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:nginx_ingress_controller:1.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kubernetes:nginx_ingress_controller:1.5.0:*:*:*:*:*:*:*

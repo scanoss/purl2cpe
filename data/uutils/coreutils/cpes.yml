@@ -1,5 +1,42 @@
 cpes:
   - cpe:2.3:a:uutils:coreutils:*:*:*:*:*:*:*:*
   - cpe:2.3:a:uutils:coreutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.13:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.15:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.16:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.17:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.18:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.19:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.20:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.21:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.22:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.23:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.24:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.25:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.27:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.28:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.29:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.30:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.0.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:uutils:coreutils:0.7.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:uutils:coreutils:*:*:*:*:*:rust:*:*
   - cpe:2.3:a:uutils:coreutils:-:*:*:*:*:rust:*:*

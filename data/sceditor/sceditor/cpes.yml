@@ -8,3 +8,7 @@ cpes:
   - cpe:2.3:a:sceditor:sceditor:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sceditor:sceditor:2.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sceditor:sceditor:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sceditor:sceditor:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sceditor:sceditor:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sceditor:sceditor:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sceditor:sceditor:3.2.0:*:*:*:*:*:*:*

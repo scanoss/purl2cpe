@@ -1,2 +1,22 @@
 cpes:
+  - cpe:2.3:a:pydicom:pydicom:2.0.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.0.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.2.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.2.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:2.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:3.0.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:3.0.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:pydicom:pydicom:3.0.1:*:*:*:*:python:*:*
   - cpe:2.3:a:pydicom:pydicom:*:*:*:*:*:python:*:*

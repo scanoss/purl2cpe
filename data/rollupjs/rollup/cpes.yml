@@ -814,9 +814,42 @@ cpes:
   - cpe:2.3:a:rollupjs:rollup:4.46.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.46.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.46.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.46.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.46.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.47.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.47.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.48.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.48.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.49.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.50.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.50.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.50.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.51.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.52.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.53.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.54.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.55.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.55.1-0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.55.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.55.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.55.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.56.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.57.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.57.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollupjs:rollup:4.58.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.6.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:rollupjs:rollup:4.7.0:*:*:*:*:node.js:*:*

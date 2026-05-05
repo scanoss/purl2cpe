@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/langchain-ai/langchain
+  - pkg:pypi/langchain

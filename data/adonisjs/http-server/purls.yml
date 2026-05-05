@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adonisjs/http-server
+  - pkg:npm/%40adonisjs/http-server

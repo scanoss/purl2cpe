@@ -63,6 +63,7 @@ cpes:
   - cpe:2.3:a:cloudfoundry:routing_release:0.188.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:routing_release:0.197.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:routing_release:0.262.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:routing_release:0.266.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:routing_release:0.273.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:routing_release:0.297.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:routing_release:0.62.0:*:*:*:*:*:*:*

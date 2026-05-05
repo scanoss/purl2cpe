@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:deskflow:deskflow:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0.134:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0.137:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0.138:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0.160:*:*:*:*:*:*:*
+  - cpe:2.3:a:deskflow:deskflow:1.26.0.161:*:*:*:*:*:*:*

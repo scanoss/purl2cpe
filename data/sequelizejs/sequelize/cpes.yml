@@ -566,12 +566,34 @@ cpes:
   - cpe:2.3:a:sequelizejs:sequelize:6.28.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.28.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.29.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.29.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.29.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.29.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.30.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.31.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.31.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.32.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.32.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.33.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.34.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.35.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.35.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.35.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.36.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sequelizejs:sequelize:6.37.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sequelizejs:sequelize:6.5.1:*:*:*:*:node.js:*:*
