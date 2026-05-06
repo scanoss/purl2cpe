@@ -58,8 +58,10 @@ cpes:
   - cpe:2.3:a:jenkins:script_security:1.33:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1.34:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1.35:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:script_security:1362.1364.v4cf2dc5d8776:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1365.v4778ca_84b_de5:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1366.vd44b_49a_5c85c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:script_security:1367.vdf2fc45f229c:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1.36:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1.37:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:script_security:1.38:*:*:*:*:jenkins:*:*

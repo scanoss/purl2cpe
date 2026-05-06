@@ -36,6 +36,9 @@ cpes:
   - cpe:2.3:a:simple-git_project:simple-git:3.31.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:simple-git_project:simple-git:3.32.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:simple-git_project:simple-git:3.32.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.32.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.32.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.33.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:simple-git_project:simple-git:3.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:simple-git_project:simple-git:3.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:simple-git_project:simple-git:3.6.0:*:*:*:*:node.js:*:*

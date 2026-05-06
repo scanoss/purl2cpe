@@ -82,5 +82,34 @@ cpes:
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.7:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.8:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:2.9.9:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.10:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.3.9:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.10:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.4.9:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.5.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.6.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.6.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.7.1:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:*:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:-:*:*:*:*:go:*:*

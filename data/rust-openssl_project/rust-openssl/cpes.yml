@@ -18,11 +18,64 @@ cpes:
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.22:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.23:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.24:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.25:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.27:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.28:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.29:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.30:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.31:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.32:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.33:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.34:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.35:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.36:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.37:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.38:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.39:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.40:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.41:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.42:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.43:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.44:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.45:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.46:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.47:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.48:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.49:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.50:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.51:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.52:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.53:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.54:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.55:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.56:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.57:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.58:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.59:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.60:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.61:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.62:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.63:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.64:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.65:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.66:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.67:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.68:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.69:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.70:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.71:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.72:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.73:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.74:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.75:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.76:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.77:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.7:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.8:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.10.9:*:*:*:*:rust:*:*
@@ -97,7 +150,22 @@ cpes:
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.8.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.8.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.100:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.101:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.102:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.103:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.104:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.105:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.106:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.107:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.108:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.109:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.110:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.111:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.112:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.113:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.114:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.11:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.12:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.13:*:*:*:*:rust:*:*
@@ -127,6 +195,7 @@ cpes:
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.37:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.38:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.39:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.40:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.41:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.42:*:*:*:*:rust:*:*
@@ -137,5 +206,60 @@ cpes:
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.47:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.48:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.49:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.50:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.51:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.52:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.53:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.54:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.55:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.56:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.57:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.58:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.59:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.60:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.61:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.62:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.63:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.64:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.65:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.66:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.67:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.68:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.69:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.70:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.71:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.72:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.73:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.74:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.75:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.76:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.77:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.78:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.79:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.80:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.81:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.82:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.83:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.84:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.85:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.86:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.87:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.88:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.89:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.90:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.91:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.92:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.93:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.94:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.95:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.96:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.97:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.98:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.99:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.9:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-openssl_project:rust-openssl:*:*:*:*:*:rust:*:*

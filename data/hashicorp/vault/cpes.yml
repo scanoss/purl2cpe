@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:0.11.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:vault:0.11.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:vault:0.11.5:*:*:*:*:*:*:*
@@ -267,6 +268,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.19.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.19.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.19.11:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.19.16:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.19.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.19.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.19.2:*:*:*:enterprise:*:*:*
@@ -286,6 +288,7 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.20.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.20.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.20.2:*:*:*:enterprise:*:*:*
@@ -302,6 +305,8 @@ cpes:
   - cpe:2.3:a:hashicorp:vault:1.2.0:rc1:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.21.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.21.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:vault:1.21.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:vault:1.2.2:*:*:*:enterprise:*:*:*

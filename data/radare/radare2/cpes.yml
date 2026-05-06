@@ -112,3 +112,9 @@ cpes:
   - cpe:2.3:a:radare:radare2:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:6.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:radare:radare2:6.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:radare:radare2:6.1.4:*:*:*:*:*:*:*

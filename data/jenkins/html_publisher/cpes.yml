@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:jenkins:html_publisher:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:html_publisher:424:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:html_publisher:425:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:html_publisher:427:*:*:*:*:jenkins:*:*

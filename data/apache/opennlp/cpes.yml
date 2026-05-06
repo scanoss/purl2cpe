@@ -9,3 +9,5 @@ cpes:
   - cpe:2.3:a:apache:opennlp:1.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:opennlp:1.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:opennlp:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:opennlp:3.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:opennlp:3.0.0:m2:*:*:*:*:*:*

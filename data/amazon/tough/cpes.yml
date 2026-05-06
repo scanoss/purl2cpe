@@ -23,7 +23,9 @@ cpes:
   - cpe:2.3:a:amazon:tough:0.18.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:amazon:tough:0.19.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:amazon:tough:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.20.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:amazon:tough:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.21.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:amazon:tough:0.4.0:*:*:*:*:*:*:*
