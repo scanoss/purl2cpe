@@ -45,6 +45,11 @@ cpes:
   - cpe:2.3:a:timescale:timescaledb:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:timescale:timescaledb:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:timescale:timescaledb:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timescale:timescaledb:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:timescale:timescaledb:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timescale:timescaledb:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:timescale:timescaledb:2.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:timescale:timescaledb:2.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:timescale:timescaledb:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:timescale:timescaledb:2.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:timescale:timescaledb:2.4.0:*:*:*:*:*:*:*
