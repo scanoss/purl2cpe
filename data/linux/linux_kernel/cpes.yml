@@ -6142,6 +6142,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:6.17.5:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.76:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:6.17.6:-:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.77:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.17.7:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:6.1.78:*:*:*:*:*:*:*
@@ -6545,6 +6546,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:7.0:rc5:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.0:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7.1:rc2:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm32:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:arm64:*

@@ -3092,6 +3092,7 @@ cpes:
   - cpe:2.3:a:budibase:budibase:3.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.4.1:*:*:*:*:*:*:*

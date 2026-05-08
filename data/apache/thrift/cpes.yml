@@ -8,6 +8,7 @@ cpes:
   - cpe:2.3:a:apache:thrift:0.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.23.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.4.0:*:*:*:*:*:*:*
