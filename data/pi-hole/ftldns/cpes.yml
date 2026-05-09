@@ -63,7 +63,36 @@ cpes:
   - cpe:2.3:a:pi-hole:ftldns:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.25.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.3.2:*:*:*:*:*:*:*
@@ -76,6 +105,7 @@ cpes:
   - cpe:2.3:a:pi-hole:ftldns:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.0.2:*:*:*:*:*:*:*
@@ -93,3 +123,4 @@ cpes:
   - cpe:2.3:a:pi-hole:ftldns:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:6.6:*:*:*:*:*:*:*

@@ -84,6 +84,8 @@ cpes:
   - cpe:2.3:a:yardoc:yard:0.9.33:*:*:*:*:*:*:*
   - cpe:2.3:a:yardoc:yard:0.9.34:*:*:*:*:*:*:*
   - cpe:2.3:a:yardoc:yard:0.9.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:yardoc:yard:0.9.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:yardoc:yard:0.9.37:*:*:*:*:*:*:*
   - cpe:2.3:a:yardoc:yard:0.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:yardoc:yard:0.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:yardoc:yard:0.9.6:*:*:*:*:*:*:*

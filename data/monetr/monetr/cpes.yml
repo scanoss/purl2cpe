@@ -271,6 +271,7 @@ cpes:
   - cpe:2.3:a:monetr:monetr:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:monetr:monetr:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:monetr:monetr:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetr:monetr:1.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:monetr:monetr:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:monetr:monetr:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:monetr:monetr:1.1.5:*:*:*:*:*:*:*
