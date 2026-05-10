@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/uuidjs/uuid
+  - pkg:npm/uuid

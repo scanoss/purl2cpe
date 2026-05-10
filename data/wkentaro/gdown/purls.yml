@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wkentaro/gdown
+  - pkg:pypi/gdown
