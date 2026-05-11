@@ -303,6 +303,7 @@ cpes:
   - cpe:2.3:a:getkirby:kirby:4.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:4.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:4.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:getkirby:kirby:4.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:5.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:getkirby:kirby:5.0.0:alpha2:*:*:*:*:*:*

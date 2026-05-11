@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:fohrloop:dash-uploader:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha1:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:*:*:*:*:*:python:*:*

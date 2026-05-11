@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/package-registry
+  - pkg:golang/github.com/elastic/package-registry

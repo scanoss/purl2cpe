@@ -249,6 +249,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_boot:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:2.7.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:2.7.33:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:2.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:2.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:2.7.6:*:*:*:*:*:*:*
@@ -282,6 +283,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_boot:3.3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.3.13:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:3.3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.3.4:*:*:*:*:*:*:*
@@ -302,6 +304,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_boot:3.4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:3.4.16:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.4.4:*:*:*:*:*:*:*
@@ -321,6 +324,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_boot:3.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:3.5.14:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:3.5.4:*:*:*:*:*:*:*
@@ -341,3 +345,8 @@ cpes:
   - cpe:2.3:a:vmware:spring_boot:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:4.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_boot:4.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:4.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:4.1.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:4.1.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:4.1.0:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_boot:4.1.0:milestone4:*:*:*:*:*:*

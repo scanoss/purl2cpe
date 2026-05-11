@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/opentelemetry-beam/opentelemetry_zipkin

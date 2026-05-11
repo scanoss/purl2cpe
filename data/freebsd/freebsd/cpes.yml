@@ -363,6 +363,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:13.5:p10:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p11:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p12:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:13.5:p13:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:13.5:p4:*:*:*:*:*:*
@@ -419,6 +420,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:14.4:-:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:p1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:p2:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:14.4:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:rc1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:1.5:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:*:*:*:*:*:*:*
@@ -429,6 +431,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:15.0:p4:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p5:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p6:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.0:p7:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0.5:*:*:*:*:*:*:*

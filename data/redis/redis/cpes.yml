@@ -245,3 +245,4 @@ cpes:
   - cpe:2.3:a:redis:redis:8.6.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redis:redis:8.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redis:redis:8.6.3:*:*:*:*:*:*:*

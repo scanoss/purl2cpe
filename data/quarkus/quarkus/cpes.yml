@@ -430,6 +430,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.33.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.33.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.33.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.34.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.34.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.34.1:*:*:*:*:*:*:*
@@ -438,9 +439,11 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.34.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.34.5:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.34.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.34.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.35.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.35.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.35.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.2:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bitwarden/cli
+  - pkg:npm/%40bitwarden/cli

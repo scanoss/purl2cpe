@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/pylixm/django-mdeditor
+  - pkg:github/pylixm/django-mdeditor
+  - pkg:pypi/django-mdeditor

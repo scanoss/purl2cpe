@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sequoia-pgp:rpm-sequoia:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sequoia-pgp:rpm-sequoia:-:*:*:*:*:rust:*:*

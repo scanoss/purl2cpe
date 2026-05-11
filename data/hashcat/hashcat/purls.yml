@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/hashcat
+  - pkg:deb/ubuntu/hashcat
+  - pkg:github/hashcat/hashcat
+  - pkg:rpm/fedora/hashcat
+  - pkg:rpm/opensuse/hashcat
+  - pkg:sourceforge/hashcat
