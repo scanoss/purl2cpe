@@ -371,8 +371,29 @@ cpes:
   - cpe:2.3:a:langfuse:langfuse:3.146.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.147.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.148.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.149.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.150.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.150.1-0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.151.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.152.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.153.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.154.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.154.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.155.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.155.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.156.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.157.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.158.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.159.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.160.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.161.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.162.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.163.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.164.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.165.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langfuse:langfuse:3.166.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:langfuse:langfuse:3.18.0:*:*:*:*:*:*:*

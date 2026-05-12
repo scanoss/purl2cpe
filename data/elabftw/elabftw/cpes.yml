@@ -222,5 +222,6 @@ cpes:
   - cpe:2.3:a:elabftw:elabftw:4.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:elabftw:elabftw:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elabftw:elabftw:5.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:elabftw:elabftw:5.1.15:*:*:*:*:*:*:*
   - cpe:2.3:a:elabftw:elabftw:5.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:elabftw:elabftw:5.1.9:*:*:*:*:*:*:*

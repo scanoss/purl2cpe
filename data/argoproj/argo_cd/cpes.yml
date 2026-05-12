@@ -499,3 +499,4 @@ cpes:
   - cpe:2.3:a:argoproj:argo_cd:3.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:3.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:argoproj:argo_cd:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:argoproj:argo_cd:3.2.0:rc2:*:*:*:*:*:*
