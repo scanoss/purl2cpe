@@ -172,9 +172,11 @@ cpes:
   - cpe:2.3:a:supabase:auth:2.152.1:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.153.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:supabase:auth:2.15.4:-:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.154.0:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.154.1:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.154.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:supabase:auth:2.15.4:zerosessionidfix.1:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.15.5:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.155.0:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.155.1:*:*:*:*:*:*:*
@@ -306,6 +308,7 @@ cpes:
   - cpe:2.3:a:supabase:auth:2.33.1:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.33.2:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.33.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:supabase:auth:2.33.4:lastsigninatfix.1:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.34.0:*:*:*:*:*:*:*
   - cpe:2.3:a:supabase:auth:2.3.5:*:*:*:*:*:*:*

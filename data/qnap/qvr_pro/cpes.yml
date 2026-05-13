@@ -1,2 +1,33 @@
 cpes:
   - cpe:2.3:a:qnap:qvr_pro:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.4.0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.4.0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:1.4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.7.1.1259:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.7.2.1336:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.7.3.1377:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:qvr_pro:2.7.4.1407:*:*:*:*:*:*:*

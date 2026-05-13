@@ -318,3 +318,4 @@ cpes:
   - cpe:2.3:a:getgrav:grav:1.8.0:beta7:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta8:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:2.0.0:beta1:*:*:*:*:*:*

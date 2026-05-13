@@ -207,6 +207,15 @@ cpes:
   - cpe:2.3:a:postfix:postfix:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.1.11:*:*:*:*:*:*:*
@@ -313,6 +322,8 @@ cpes:
   - cpe:2.3:a:postfix:postfix:3.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.5.22:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.5.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.5.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.5.25:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.5.5:*:*:*:*:*:*:*
@@ -326,6 +337,11 @@ cpes:
   - cpe:2.3:a:postfix:postfix:3.6.11:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.6.12:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.6.18:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.6.4:*:*:*:*:*:*:*
@@ -336,7 +352,18 @@ cpes:
   - cpe:2.3:a:postfix:postfix:3.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.19:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.7.20:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.7.5:*:*:*:*:*:*:*
@@ -346,6 +373,27 @@ cpes:
   - cpe:2.3:a:postfix:postfix:3.7.9:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.15:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:postfix:postfix:3.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:postfix:postfix:3.9.9:*:*:*:*:*:*:*

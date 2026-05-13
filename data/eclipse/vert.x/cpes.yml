@@ -61,6 +61,22 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.0.0:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.12:*:*:*:*:*:*:*
@@ -71,6 +87,7 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.5.17:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.18:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.20:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.22:*:*:*:*:*:*:*
@@ -78,6 +95,12 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.5.24:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.25:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:5.0.0:-:*:*:*:*:*:*
