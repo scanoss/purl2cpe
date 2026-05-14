@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/inngest/inngest
+  - pkg:golang/github.com/inngest/inngest

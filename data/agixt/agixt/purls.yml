@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/agixt/python-sdk
+  - pkg:npm/agixt
+  - pkg:pypi/agixt

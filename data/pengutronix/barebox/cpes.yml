@@ -210,9 +210,11 @@ cpes:
   - cpe:2.3:a:pengutronix:barebox:2025.09.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2025.09.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2025.09.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2025.09.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2025.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2025.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2025.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2026.01.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2026.02.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pengutronix:barebox:2026.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pengutronix:barebox:2026.03.1:*:*:*:*:*:*:*

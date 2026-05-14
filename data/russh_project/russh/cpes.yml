@@ -69,3 +69,9 @@ cpes:
   - cpe:2.3:a:russh_project:russh:0.53.0:beta1:*:*:*:rust:*:*
   - cpe:2.3:a:russh_project:russh:0.53.0:-:*:*:*:rust:*:*
   - cpe:2.3:a:russh_project:russh:0.54.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.54.6:*:*:*:*:rust:*:*

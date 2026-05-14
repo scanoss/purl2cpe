@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aiven/aiven-operator
+  - pkg:golang/github.com/aiven/aiven-operator

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:openjsf:fast-uri:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:fast-uri:3.1.1:*:*:*:*:node.js:*:*
