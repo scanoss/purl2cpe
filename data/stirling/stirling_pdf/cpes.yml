@@ -162,3 +162,4 @@ cpes:
   - cpe:2.3:a:stirling:stirling_pdf:2.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:stirling:stirling_pdf:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:stirling:stirling_pdf:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stirling:stirling_pdf:2.7.3:*:*:*:*:*:*:*

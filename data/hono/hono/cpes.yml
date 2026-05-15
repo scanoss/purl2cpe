@@ -291,6 +291,11 @@ cpes:
   - cpe:2.3:a:hono:hono:4.12.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.17:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.3:*:*:*:*:node.js:*:*

@@ -135,6 +135,13 @@ cpes:
   - cpe:2.3:a:ec-cube:ec-cube:4.1.2:p3:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.1.2:p4:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube:4.2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.2.3:-:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.2.3:p1:*:*:*:*:*:*
   - cpe:2.3:a:ec-cube:ec-cube:4.3.1:-:*:*:*:*:*:*

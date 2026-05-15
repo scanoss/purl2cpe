@@ -6567,6 +6567,7 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:7.0:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.1:rc1:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7.1:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm32:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:arm64:*

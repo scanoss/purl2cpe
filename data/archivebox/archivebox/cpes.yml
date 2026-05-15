@@ -29,4 +29,54 @@ cpes:
   - cpe:2.3:a:archivebox:archivebox:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.2:rc:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.4:rc:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc13:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc22:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc23:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc24:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc25:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc26:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc27:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc28:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc29:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc30:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc31:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc32:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc33:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc34:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc35:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc36:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc37:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc38:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc39:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc40:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc41:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc42:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc43:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc44:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc45:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc46:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc47:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc48:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc49:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc50:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc51:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc53:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:archivebox:archivebox:0.8.5:rc9:*:*:*:*:*:*
   - cpe:2.3:a:archivebox:archivebox:0.8.6:rc0:*:*:*:*:*:*
