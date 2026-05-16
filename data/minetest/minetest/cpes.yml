@@ -24,7 +24,18 @@ cpes:
   - cpe:2.3:a:minetest:minetest:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.4.0:*:*:*:*:*:*:*
@@ -32,3 +43,8 @@ cpes:
   - cpe:2.3:a:minetest:minetest:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:minetest:minetest:5.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minetest:minetest:5.9.1:*:*:*:*:*:*:*

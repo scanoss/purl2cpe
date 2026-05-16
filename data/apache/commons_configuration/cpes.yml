@@ -26,14 +26,48 @@ cpes:
   - cpe:2.3:a:apache:commons_configuration:2.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.14.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.4:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.7:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.8.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:commons_configuration:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_configuration:2.9.0:rc1:*:*:*:*:*:*
