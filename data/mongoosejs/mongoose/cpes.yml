@@ -733,6 +733,7 @@ cpes:
   - cpe:2.3:a:mongoosejs:mongoose:6.13.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:6.13.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:6.13.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mongoosejs:mongoose:6.13.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:6.1.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:6.1.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:6.1.5:*:*:*:*:node.js:*:*
@@ -854,6 +855,7 @@ cpes:
   - cpe:2.3:a:mongoosejs:mongoose:7.8.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:7.8.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:7.8.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mongoosejs:mongoose:7.8.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:8.0.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:8.0.0:rc0:*:*:*:node.js:*:*
   - cpe:2.3:a:mongoosejs:mongoose:8.0.1:*:*:*:*:node.js:*:*

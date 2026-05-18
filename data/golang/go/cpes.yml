@@ -269,6 +269,7 @@ cpes:
   - cpe:2.3:a:golang:go:1.24:rc3:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.25.0:-:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:go:1.25.10:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.25.2:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.25.3:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.25.4:*:*:*:*:*:*:*
@@ -286,6 +287,7 @@ cpes:
   - cpe:2.3:a:golang:go:1.26.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.26.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:go:1.26.3:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*

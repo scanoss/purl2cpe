@@ -22,4 +22,10 @@ cpes:
   - cpe:2.3:a:svgo:svgo:3.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svgo:svgo:3.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svgo:svgo:3.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:rc1:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:rc2:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:rc4:*:*:*:node.js:*:*
+  - cpe:2.3:a:svgo:svgo:4.0.0:rc5:*:*:*:node.js:*:*
   - cpe:2.3:a:svgo:svgo:*:*:*:*:*:node.js:*:*

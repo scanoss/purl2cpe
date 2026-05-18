@@ -262,6 +262,8 @@ cpes:
   - cpe:2.3:a:cilium:cilium:1.17.12:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.13:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:cilium:cilium:1.17.16:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cilium:cilium:1.17.4:*:*:*:*:*:*:*
