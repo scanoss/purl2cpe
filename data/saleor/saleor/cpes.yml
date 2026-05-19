@@ -845,6 +845,7 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.20.109:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.20.11:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.20.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.20.119:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.20.12:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.20.13:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.20.14:*:*:*:*:*:*:*
@@ -1038,6 +1039,7 @@ cpes:
   - cpe:2.3:a:saleor:saleor:3.22.9:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:saleor:3.23.0:-:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.23.0:a0:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.23.0:a1:*:*:*:*:*:*
   - cpe:2.3:a:saleor:saleor:3.23.0:a2:*:*:*:*:*:*

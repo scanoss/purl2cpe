@@ -1,2 +1,17 @@
 cpes:
   - cpe:2.3:a:shopify:tophat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:tophat:2.5.0:*:*:*:*:*:*:*

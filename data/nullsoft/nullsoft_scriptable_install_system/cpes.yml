@@ -90,3 +90,5 @@ cpes:
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:3.11:*:*:*:*:*:*:*

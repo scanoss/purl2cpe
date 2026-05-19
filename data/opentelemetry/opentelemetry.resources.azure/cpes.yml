@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.0.0:beta7:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.0.0:beta8:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.0.0:beta9:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.10.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.11.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.11.0:beta2:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.12.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.13.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.14.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:1.15.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:*:*:*:*:*:.net:*:*

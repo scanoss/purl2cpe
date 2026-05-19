@@ -6,8 +6,32 @@ cpes:
   - cpe:2.3:a:apache:thrift:0.12.0:*:*:*:*:-:*:*
   - cpe:2.3:a:apache:thrift:0.12.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.14.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.14.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.18.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.19.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.20.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:thrift:0.22.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.23.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*

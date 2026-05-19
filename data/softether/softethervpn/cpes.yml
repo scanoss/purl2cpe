@@ -1,3 +1,29 @@
 cpes:
   - cpe:2.3:a:softether:softethervpn:5.01.9658:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9659:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9660:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9661:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9662:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9663:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9664:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9665:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9666:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9667:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9668:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9669:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9670:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9671:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9672:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9673:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.01.9674:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.0:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5180:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5181:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5182:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5183:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5184:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5185:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5186:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.02.5187:*:*:*:developer:*:*:*
+  - cpe:2.3:a:softether:softethervpn:5.2.5188:*:*:*:developer:*:*:*
   - cpe:2.3:a:softether:softethervpn:*:*:*:*:developer:*:*:*
