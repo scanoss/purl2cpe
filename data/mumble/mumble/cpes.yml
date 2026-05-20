@@ -37,3 +37,12 @@ cpes:
   - cpe:2.3:a:mumble:mumble:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mumble:mumble:1.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mumble:mumble:1.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.4.230:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.4.274:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.4.287:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.517:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.613:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.629:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.634:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.735:*:*:*:*:*:*:*
+  - cpe:2.3:a:mumble:mumble:1.5.857:*:*:*:*:*:*:*

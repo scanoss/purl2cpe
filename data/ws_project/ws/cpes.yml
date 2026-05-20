@@ -108,6 +108,8 @@ cpes:
   - cpe:2.3:a:ws_project:ws:5.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:5.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:5.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:5.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:5.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.1.1:*:*:*:*:node.js:*:*
@@ -136,4 +138,39 @@ cpes:
   - cpe:2.3:a:ws_project:ws:7.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:7.4.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:7.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.12.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.14.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.14.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.18.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.18.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.18.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:8.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:*:*:*:*:*:node.js:*:*

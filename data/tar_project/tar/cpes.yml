@@ -121,8 +121,15 @@ cpes:
   - cpe:2.3:a:tar_project:tar:0.4.35:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.36:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.37:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.38:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.39:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.40:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.41:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.42:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.43:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.44:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.4:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tar_project:tar:0.4.5:*:*:*:*:rust:*:*

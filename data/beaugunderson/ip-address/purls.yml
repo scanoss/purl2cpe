@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/beaugunderson/ip-address
+  - pkg:npm/ip-address

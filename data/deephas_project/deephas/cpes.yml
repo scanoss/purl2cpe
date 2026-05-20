@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:deephas_project:deephas:1.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:deephas_project:deephas:1.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:deephas_project:deephas:1.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deephas_project:deephas:*:*:*:*:*:node.js:*:*

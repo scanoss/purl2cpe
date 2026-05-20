@@ -109,3 +109,4 @@ cpes:
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:beta2:*:*:*:windows:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:*:*:*:*:windows:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:*:*:*:*:*:macos:*:*

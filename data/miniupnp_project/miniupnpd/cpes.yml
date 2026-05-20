@@ -121,3 +121,17 @@ cpes:
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.1:2019-04-08:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.1:2019-05-02:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.1:2019-06-25:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.9:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pocketbase/pocketbase
+  - pkg:golang/github.com/pocketbase/pocketbase

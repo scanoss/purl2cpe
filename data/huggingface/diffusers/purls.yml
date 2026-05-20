@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/huggingface/diffusers
+  - pkg:pypi/diffusers
