@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/continuedev/continue
+  - pkg:npm/@continuedev/cli

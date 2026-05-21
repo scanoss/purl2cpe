@@ -1,112 +1,277 @@
 cpes:
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:alpha4:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:alpha4:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:alpha5:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:alpha5:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta4:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta4:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta5:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta5:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta6:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta6:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta7:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2017.1:beta7:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta10:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta10:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta8:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta8:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta9:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:beta9:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.2:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.3:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.3:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.3:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.6:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.6:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2018.6:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2018.6:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.10:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.2:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.2:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.2:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.2:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.3:*:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.3:*:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.4:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.4:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.4:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.6:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.6:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.6:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.6:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.7:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.7:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.7:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.7:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.8:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.8:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.8:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.8:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.9:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.9:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2019.9:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2019.9:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.2:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.2:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.2:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.2:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.3:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.3:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.3:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta4:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:beta4:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.6:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.7:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2020.8:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2020.8:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.2:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.2:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.2:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.2:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.4:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.4:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.4:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.6:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.6:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2021.6:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2021.6:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.2:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta3:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:beta3:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.4:*:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2022.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.1:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.2:*:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.2:*:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.3:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.3:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.3:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.4:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.4:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.4:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.4:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:beta1:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:beta1:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:beta2:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:beta2:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:*:*:*:*:windows:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:2023.5:-:*:*:*:windows:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.6:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2023.6:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.1:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.1:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.1:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.2:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.2:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.3:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.3:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.4:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.4:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.5:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.5:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.6:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.6:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.6:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.7:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.7:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.8:*:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.9:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2024.9:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.10:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.10:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.10:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.11:*:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.12:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.12:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.13:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.13:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.13:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.14:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.14:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.14:beta3:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.14:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.1:*:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.2:*:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.3:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.3:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.4:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.4:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.5:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.5:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.6:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.6:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.6:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.7:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.7:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.8:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.8:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.8:beta3:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.8:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.9:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2025.9:-:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2026.1:beta1:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2026.1:beta2:*:*:*:macos:*:*
+  - cpe:2.3:a:mullvad:mullvad_vpn:2026.1:-:*:*:*:macos:*:*
   - cpe:2.3:a:mullvad:mullvad_vpn:*:*:*:*:*:macos:*:*

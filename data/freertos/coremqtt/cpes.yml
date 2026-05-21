@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:freertos:coremqtt:5.0.0:*:*:*:*:*:*:*

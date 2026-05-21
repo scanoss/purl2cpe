@@ -1961,6 +1961,7 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:18.8.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.9.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.9.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:18.9.1:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.9.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.9.2:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:18.9.2:*:*:*:enterprise:*:*:*

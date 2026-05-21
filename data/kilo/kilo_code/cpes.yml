@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:kilo:kilo_code:7.0.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.26:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.27:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.28:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.29:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.30:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.31:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.32:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.33:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.34:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.35:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.36:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.37:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.38:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.39:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.40:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.41:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.42:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.43:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.44:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.45:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.46:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:7.0.47:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:kilo:kilo_code:*:*:*:*:*:visual_studio_code:*:*

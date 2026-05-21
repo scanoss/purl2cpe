@@ -1,2 +1,22 @@
 cpes:
   - cpe:2.3:a:wger:wger:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wger:wger:2.4:*:*:*:*:*:*:*

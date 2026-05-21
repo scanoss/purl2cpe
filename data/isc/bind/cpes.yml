@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:*:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:-:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:-:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:4:*:*:*:*:*:*:*
