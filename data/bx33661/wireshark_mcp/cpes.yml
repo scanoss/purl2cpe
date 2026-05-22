@@ -1,2 +1,12 @@
 cpes:
   - cpe:2.3:a:bx33661:wireshark_mcp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bx33661:wireshark_mcp:1.1.5:*:*:*:*:*:*:*

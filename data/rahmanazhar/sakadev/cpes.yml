@@ -1,3 +1,7 @@
 cpes:
   - cpe:2.3:a:rahmanazhar:sakadev:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rahmanazhar:sakadev:4.0.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rahmanazhar:sakadev:4.0.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rahmanazhar:sakadev:4.0.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rahmanazhar:sakadev:4.0.5:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:rahmanazhar:sakadev:*:*:*:*:*:visual_studio_code:*:*

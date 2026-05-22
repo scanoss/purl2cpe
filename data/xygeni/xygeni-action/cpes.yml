@@ -1,2 +1,12 @@
 cpes:
   - cpe:2.3:a:xygeni:xygeni-action:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:5.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:5.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xygeni:xygeni-action:6.4.0:*:*:*:*:*:*:*

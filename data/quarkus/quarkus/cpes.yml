@@ -183,6 +183,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.15.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.15.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.15.2:*:*:*:*:*:*:*
@@ -192,6 +193,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.10:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.16.12:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.16.4:*:*:*:*:*:*:*
@@ -232,6 +234,8 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:2.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.8.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.8.1:*:*:*:*:*:*:*
@@ -335,6 +339,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.20.4:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.20.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.20.6:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.10:*:*:*:*:*:*:*
@@ -386,6 +391,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.27.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.27.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.28.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.28.0:candidate_release1:*:*:*:*:*:*
@@ -414,12 +420,14 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.30.7:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.30.8:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.3.0:candidate_release1:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.31.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.32.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.32.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.32.1:*:*:*:*:*:*:*
@@ -444,6 +452,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:3.35.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.4.2:*:*:*:*:*:*:*
