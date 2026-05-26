@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jackc/pgproto3
+  - pkg:golang/github.com/jackc/pgproto3

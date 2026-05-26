@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ngtcp2
+  - pkg:deb/ubuntu/ngtcp2
+  - pkg:github/ngtcp2/ngtcp2
+  - pkg:rpm/fedora/ngtcp2
+  - pkg:rpm/opensuse/ngtcp2

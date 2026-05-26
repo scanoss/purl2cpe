@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:elixir-plug:plug_cowboy:*:*:*:*:*:*:*:*

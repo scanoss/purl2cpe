@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jackc/pgx
+  - pkg:golang/github.com/jackc/pgx

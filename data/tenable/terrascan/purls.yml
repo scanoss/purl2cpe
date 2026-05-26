@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tenable/terrascan
+  - pkg:golang/github.com/tenable/terrascan

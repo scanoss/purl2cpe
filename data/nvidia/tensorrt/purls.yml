@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nvidia/tensorrt
+  - pkg:pypi/tensorrt-llm

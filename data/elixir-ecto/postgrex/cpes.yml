@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.21.1:*:*:*:*:*:*:*

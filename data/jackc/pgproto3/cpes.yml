@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:jackc:pgproto3:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.0:alpha1:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.0:rc1:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.0:rc2:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.0:rc3:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.0.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.3.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:2.3.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:jackc:pgproto3:-:*:*:*:*:go:*:*

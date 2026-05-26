@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azure/go-ntlmssp
+  - pkg:golang/github.com/azure/go-ntlmssp

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/backstage/backstage
+  - pkg:npm/@backstage/plugin-catalog-unprocessed-entities-common

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/charmbracelet/wish
+  - pkg:golang/github.com/charmbracelet/wish

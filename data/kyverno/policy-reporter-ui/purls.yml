@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kyverno/policy-reporter-ui
+  - pkg:golang/github.com/kyverno/policy-reporter-ui

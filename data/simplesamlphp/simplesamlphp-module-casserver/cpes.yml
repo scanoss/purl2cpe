@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc3:*:*:*:*:*:*

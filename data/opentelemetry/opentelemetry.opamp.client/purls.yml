@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-telemetry/opentelemetry-dotnet-contrib
+  - pkg:nuget/opentelemetry.opamp.client
