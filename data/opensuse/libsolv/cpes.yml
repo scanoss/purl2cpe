@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:opensuse:libsolv:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libsolv:-:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.6.11:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.6.12:*:*:*:*:*:*:*

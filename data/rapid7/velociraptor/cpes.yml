@@ -79,4 +79,10 @@ cpes:
   - cpe:2.3:a:rapid7:velociraptor:0.75.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rapid7:velociraptor:0.75.5:*:*:*:*:*:*:*
   - cpe:2.3:a:rapid7:velociraptor:0.75.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.75.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rapid7:velociraptor:0.76.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapid7:velociraptor:0.76.4:*:*:*:*:*:*:*

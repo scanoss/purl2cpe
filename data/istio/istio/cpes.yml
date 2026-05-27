@@ -301,6 +301,7 @@ cpes:
   - cpe:2.3:a:istio:istio:1.27.6:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.27.7:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.27.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.27.9:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.28.0:-:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.28.0:alpha0:*:*:*:*:*:*

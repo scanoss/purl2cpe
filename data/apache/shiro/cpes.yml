@@ -43,3 +43,4 @@ cpes:
   - cpe:2.3:a:apache:shiro:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:shiro:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:shiro:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shiro:3.0.0:alpha1:*:*:*:*:*:*

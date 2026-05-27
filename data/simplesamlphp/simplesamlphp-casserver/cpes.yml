@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:simplesamlphp:simplesamlphp-casserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-casserver:7.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:simplesamlphp:simplesamlphp-casserver:7.0.0:rc2:*:*:*:*:*:*

@@ -1,2 +1,22 @@
 cpes:
+  - cpe:2.3:a:laravel:passport:13.0.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.1:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.2:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.3:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.4:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.5:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.0.6:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.1.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.2.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.2.1:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.2.2:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.3.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.4.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.4.1:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.4.2:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.4.3:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.4.4:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.5.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.6.0:*:*:*:*:laravel:*:*
+  - cpe:2.3:a:laravel:passport:13.7.0:*:*:*:*:laravel:*:*
   - cpe:2.3:a:laravel:passport:*:*:*:*:*:laravel:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bestpractical:request_tracker:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:3.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:3.6.11:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:3.6.8:*:*:*:*:*:*:*
@@ -111,3 +112,4 @@ cpes:
   - cpe:2.3:a:bestpractical:request_tracker:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:5.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:bestpractical:request_tracker:5.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bestpractical:request_tracker:5.0.8:*:*:*:*:*:*:*

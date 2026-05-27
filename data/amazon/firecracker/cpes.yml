@@ -75,6 +75,7 @@ cpes:
   - cpe:2.3:a:amazon:firecracker:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.14.0:-:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.14.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.15.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.3.0:*:*:*:*:*:*:*

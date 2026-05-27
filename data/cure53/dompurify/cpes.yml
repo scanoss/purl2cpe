@@ -89,6 +89,7 @@ cpes:
   - cpe:2.3:a:cure53:dompurify:2.5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:2.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:2.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cure53:dompurify:2.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:3.0.10:*:*:*:*:*:*:*
@@ -118,3 +119,6 @@ cpes:
   - cpe:2.3:a:cure53:dompurify:3.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:3.2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:cure53:dompurify:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cure53:dompurify:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cure53:dompurify:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cure53:dompurify:3.3.3:*:*:*:*:*:*:*

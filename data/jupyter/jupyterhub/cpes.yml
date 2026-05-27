@@ -87,3 +87,4 @@ cpes:
   - cpe:2.3:a:jupyter:jupyterhub:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyterhub:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:jupyter:jupyterhub:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:jupyterhub:5.4.4:*:*:*:*:*:*:*
