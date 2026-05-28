@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:a:opensuse:libsolv:0.7.20:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.7.21:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libsolv:0.7.36:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libsolv:0.7.6:*:*:*:*:*:*:*

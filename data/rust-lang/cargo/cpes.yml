@@ -83,5 +83,7 @@ cpes:
   - cpe:2.3:a:rust-lang:cargo:0.71.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:cargo:0.72.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:cargo:0.72.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:cargo:0.72.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:cargo:0.8.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:rust-lang:cargo:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:cargo:*:*:*:*:*:rust:*:*

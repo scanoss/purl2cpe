@@ -1,5 +1,26 @@
 cpes:
   - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:5.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:6.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:simplesamlphp:simplesamlphp-module-casserver:7.0.0:rc3:*:*:*:*:*:*
