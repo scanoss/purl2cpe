@@ -46,6 +46,10 @@ cpes:
   - cpe:2.3:a:apache:ignite:2.15.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.16.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.16.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.17.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.17.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ignite:2.17.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:ignite:2.4.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:canonical:multipass:*:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.0.1:-:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.0.1:rc:*:*:*:*:*:*
@@ -10,16 +11,48 @@ cpes:
   - cpe:2.3:a:canonical:multipass:1.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.1.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.11.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.11.1:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.12.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.12.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.12.1:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.12.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.12.2:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.13.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.13.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.13.1:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.14.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.14.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.15.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.15.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:multipass:1.16.1:rc3:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.2.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:canonical:multipass:1.2.1:*:*:*:*:*:*:*

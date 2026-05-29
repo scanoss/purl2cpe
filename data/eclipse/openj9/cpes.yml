@@ -130,6 +130,8 @@ cpes:
   - cpe:2.3:a:eclipse:openj9:0.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.55.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:openj9:0.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:openj9:0.58.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:openj9:0.8.0:rc1:*:*:*:*:*:*

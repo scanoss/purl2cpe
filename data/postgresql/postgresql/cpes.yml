@@ -180,6 +180,7 @@ cpes:
   - cpe:2.3:a:postgresql:postgresql:17.7:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:17.8:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:17.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgresql:postgresql:18.*:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:18.1:*:*:*:*:*:*:*
   - cpe:2.3:a:postgresql:postgresql:18.2:*:*:*:*:*:*:*

@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:free5gc:udm:1.4.0:*:*:*:*:go:*:*
   - cpe:2.3:a:free5gc:udm:1.4.1:*:*:*:*:go:*:*
   - cpe:2.3:a:free5gc:udm:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udm:-:*:*:*:*:go:*:*

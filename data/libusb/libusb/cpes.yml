@@ -48,6 +48,22 @@ cpes:
   - cpe:2.3:a:libusb:libusb:1.0.22:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libusb:libusb:1.0.22:rc3:*:*:*:*:*:*
   - cpe:2.3:a:libusb:libusb:1.0.22:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.23:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.23:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.23:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.23:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.24:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.24:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.25:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.25:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.26:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.26:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.27:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.27:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.27:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.28:-:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.28:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libusb:libusb:1.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:libusb:libusb:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libusb:libusb:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libusb:libusb:1.0.5:*:*:*:*:*:*:*
