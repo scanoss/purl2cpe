@@ -23,6 +23,12 @@ cpes:
   - cpe:2.3:a:tigera:calico:21.0.0:*:*:*:cloud:*:*:*
   - cpe:2.3:a:tigera:calico:21.1.0:*:*:*:cloud:*:*:*
   - cpe:2.3:a:tigera:calico:21.2.0:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:21.3.0:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:22.0.0:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:22.0.1:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:22.1.0:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:22.2.0:*:*:*:cloud:*:*:*
+  - cpe:2.3:a:tigera:calico:22.3.0:*:*:*:cloud:*:*:*
   - cpe:2.3:a:tigera:calico:2.4.0:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:2.4.0:rc1:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:2.4.0:rc2:*:*:open_source:*:*:*
@@ -207,21 +213,32 @@ cpes:
   - cpe:2.3:a:tigera:calico:3.20.3:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.20.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.20.4:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.20.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.20.5:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.20.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.20.6:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.20.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.2.0:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.1:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.2:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.3:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.3:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.4:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.5:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.21.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.21.6:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.2.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.22.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.22.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.22.1:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:tigera:calico:3.22.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tigera:calico:3.22.2:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.22.3:*:*:*:open_source:*:*:*
   - cpe:2.3:a:tigera:calico:3.22.4:*:*:*:open_source:*:*:*

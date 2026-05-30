@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/midoks/mdserver-web
+  - pkg:github/midoks/mdserver-web

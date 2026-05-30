@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jump-app:esaml:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jump-app:esaml:4.6.0:*:*:*:*:*:*:*

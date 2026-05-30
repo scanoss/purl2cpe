@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-i18next-http-backend
+  - pkg:deb/ubuntu/node-i18next-http-backend
+  - pkg:github/i18next/i18next-http-backend
+  - pkg:npm/i18next-http-backend

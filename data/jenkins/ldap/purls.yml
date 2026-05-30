@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/ldap-plugin
+  - pkg:maven/org.jenkins-ci.plugins/ldap

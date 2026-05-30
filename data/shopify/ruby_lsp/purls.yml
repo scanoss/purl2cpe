@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ruby-lsp
+  - pkg:github/shopify/ruby-lsp

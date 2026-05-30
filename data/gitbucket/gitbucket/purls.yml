@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gitbucket/gitbucket
+  - pkg:maven/io.github.gitbucket/gitbucket

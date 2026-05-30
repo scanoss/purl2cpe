@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:handnot2:esaml:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:handnot2:esaml:4.2.0:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:midoks:mdserver-web:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:midoks:mdserver-web:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:midoks:mdserver-web:0.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:midoks:mdserver-web:0.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:midoks:mdserver-web:0.18.4:*:*:*:*:*:*:*

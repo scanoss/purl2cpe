@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/datadog/dd-trace-java
+  - pkg:maven/com.datadoghq/dd-trace-java

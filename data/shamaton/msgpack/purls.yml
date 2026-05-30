@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shamaton/msgpack
+  - pkg:golang/github.com/shamaton/msgpack
