@@ -109,6 +109,7 @@ cpes:
   - cpe:2.3:a:alchemy-cms:alchemy_cms:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.0:rc6:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.0:rc7:*:*:*:*:*:*
@@ -118,6 +119,7 @@ cpes:
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.0:beta3:*:*:*:*:*:*
@@ -131,21 +133,25 @@ cpes:
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:3.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.5.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.6.0:*:*:*:*:*:*:*
@@ -157,6 +163,7 @@ cpes:
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:3.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:rc2:*:*:*:*:*:*
@@ -167,11 +174,13 @@ cpes:
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.1:*:*:*:*:*:*:*

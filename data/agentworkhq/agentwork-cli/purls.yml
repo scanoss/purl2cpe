@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/agentworkhq/agentwork
+  - pkg:npm/@agentwork/cli

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:antoinebcx:ml-toolkit-ts:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:antoinebcx:ml-toolkit-ts:1.0.5:*:*:*:*:node.js:*:*

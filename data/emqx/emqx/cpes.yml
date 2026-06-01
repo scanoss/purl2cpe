@@ -1,7 +1,19 @@
 cpes:
   - cpe:2.3:a:emqx:emqx:*:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:emqx:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:beta1:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:beta2:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:beta3:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:beta4:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:-:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:rc1:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:rc2:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:rc3:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:rc4:*:*:opensource:*:*:*
+  - cpe:2.3:a:emqx:emqx:3.0.0:rc5:*:*:opensource:*:*:*
   - cpe:2.3:a:emqx:emqx:4.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:emqx:4.3.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:emqx:emqx:5.0.0:alpha1:*:*:opensource:*:*:*
   - cpe:2.3:a:emqx:emqx:5.0.0:alpha2:*:*:opensource:*:*:*
   - cpe:2.3:a:emqx:emqx:5.0.0:alpha3:*:*:opensource:*:*:*

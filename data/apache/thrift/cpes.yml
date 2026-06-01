@@ -32,6 +32,7 @@ cpes:
   - cpe:2.3:a:apache:thrift:0.21.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:apache:thrift:0.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.23.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*

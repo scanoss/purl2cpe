@@ -1,0 +1,6 @@
+purls:
+  - pkg:composer/opensearch-project/opensearch-php
+  - pkg:github/opensearch-project/opensearch
+  - pkg:github/opensearch-project/opensearch-js
+  - pkg:maven/org.opensearch/opensearch
+  - pkg:npm/%40opensearch-project/opensearch

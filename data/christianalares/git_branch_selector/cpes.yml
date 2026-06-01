@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:christianalares:git_branch_selector:1.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git_branch_selector:1.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git_branch_selector:1.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git_branch_selector:1.3.7:*:*:*:*:node.js:*:*

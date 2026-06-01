@@ -49,6 +49,7 @@ cpes:
   - cpe:2.3:a:golang:net:0.52.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:net:0.53.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:net:0.54.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:golang:net:0.55.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:net:0.6.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:net:0.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:golang:net:0.8.0:*:*:*:*:go:*:*

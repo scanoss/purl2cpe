@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:pony_mail:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pony_mail:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:pony_mail:0.11:rc:*:*:*:*:*:*
   - cpe:2.3:a:apache:pony_mail:0.1a:*:*:*:*:*:*:*

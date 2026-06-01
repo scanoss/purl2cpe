@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:christianalares:git-git-git:1.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git-git-git:1.0.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git-git-git:1.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:christianalares:git-git-git:1.0.9:*:*:*:*:node.js:*:*

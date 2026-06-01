@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/neilcochran/wot-api
+  - pkg:npm/wot-api

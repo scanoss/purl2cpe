@@ -251,3 +251,4 @@ cpes:
   - cpe:2.3:a:webmin:webmin:2.621:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2.630:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2.640:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.641:*:*:*:*:*:*:*

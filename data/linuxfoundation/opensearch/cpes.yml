@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:opensearch:3.6.2:*:*:*:*:node.js:*:*

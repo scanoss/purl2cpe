@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:agentworkhq:agentwork-cli:0.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agentworkhq:agentwork-cli:0.1.5:*:*:*:*:node.js:*:*

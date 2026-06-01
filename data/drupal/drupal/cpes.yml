@@ -78,6 +78,7 @@ cpes:
   - cpe:2.3:a:drupal:drupal:10.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal:10.5.10:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.5.4:*:*:*:*:*:*:*
@@ -95,6 +96,7 @@ cpes:
   - cpe:2.3:a:drupal:drupal:10.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:10.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal:10.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.0.0:alpha1:*:*:*:*:*:*
@@ -128,6 +130,7 @@ cpes:
   - cpe:2.3:a:drupal:drupal:11.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal:11.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.2.4:*:*:*:*:*:*:*
@@ -142,6 +145,7 @@ cpes:
   - cpe:2.3:a:drupal:drupal:11.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal:11.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:drupal:drupal:11.3.4:*:*:*:*:*:*:*

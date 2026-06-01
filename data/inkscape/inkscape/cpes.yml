@@ -16,12 +16,14 @@ cpes:
   - cpe:2.3:a:inkscape:inkscape:0.45.1:*:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.46:*:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.47:-:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:pre0:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:pre1:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:pre2:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:pre3:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.47:pre4:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.48:-:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.48.1:*:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.48.2:*:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.48.3:*:*:*:*:*:*:*
@@ -30,6 +32,12 @@ cpes:
   - cpe:2.3:a:inkscape:inkscape:0.48:pre0:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.48:pre1:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:-:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:pre0:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:inkscape:inkscape:0.91:pre4:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:inkscape:inkscape:1.1.2:*:*:*:*:*:*:*

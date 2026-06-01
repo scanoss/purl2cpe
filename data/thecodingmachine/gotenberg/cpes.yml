@@ -118,6 +118,7 @@ cpes:
   - cpe:2.3:a:thecodingmachine:gotenberg:8.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.32.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.5.1:*:*:*:*:*:*:*
