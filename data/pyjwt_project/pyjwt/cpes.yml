@@ -35,6 +35,14 @@ cpes:
   - cpe:2.3:a:pyjwt_project:pyjwt:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pyjwt_project:pyjwt:2.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pyjwt_project:pyjwt:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pyjwt_project:pyjwt:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pyjwt_project:pyjwt:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pyjwt_project:pyjwt:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyjwt_project:pyjwt:2.9.0:*:*:*:*:*:*:*

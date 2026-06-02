@@ -71,10 +71,15 @@ cpes:
   - cpe:2.3:a:amazon:firecracker:1.13.0:-:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.13.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.14.0:-:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.14.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:firecracker:1.15.0:-:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.15.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:firecracker:1.2.1:*:*:*:*:*:*:*

@@ -123,5 +123,10 @@ cpes:
   - cpe:2.3:a:concretecms:concrete_cms:9.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:concretecms:concrete_cms:9.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:concretecms:concrete_cms:9.5.0:rc2:*:*:*:*:*:*

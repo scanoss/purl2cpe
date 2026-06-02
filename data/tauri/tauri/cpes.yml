@@ -37,7 +37,13 @@ cpes:
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha13:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha14:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha15:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha16:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha17:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha18:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha19:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha20:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:alpha21:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha4:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha5:*:*:*:*:*:*
@@ -45,3 +51,86 @@ cpes:
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha7:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha8:*:*:*:*:*:*
   - cpe:2.3:a:tauri:tauri:2.0.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta10:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta11:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta12:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta15:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta16:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta17:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta18:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta19:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta20:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta21:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta22:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta23:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta24:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta25:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc13:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc14:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc15:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc16:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc17:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.0:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tauri:tauri:2.9.5:*:*:*:*:*:*:*

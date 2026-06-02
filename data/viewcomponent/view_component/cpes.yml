@@ -148,6 +148,7 @@ cpes:
   - cpe:2.3:a:viewcomponent:view_component:3.0.0:rc5:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.0.0:rc6:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.0.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:viewcomponent:view_component:3.10.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.3.0:*:*:*:*:ruby:*:*
@@ -156,4 +157,5 @@ cpes:
   - cpe:2.3:a:viewcomponent:view_component:3.6.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.7.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.8.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:viewcomponent:view_component:3.9.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:-:*:*:*:*:ruby:*:*

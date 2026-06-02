@@ -138,6 +138,7 @@ cpes:
   - cpe:2.3:a:portainer:portainer:2.29.2:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.40.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.6.0:*:*:*:*:*:*:*
