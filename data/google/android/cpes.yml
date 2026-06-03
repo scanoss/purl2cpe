@@ -33,8 +33,11 @@ cpes:
   - cpe:2.3:o:google:android:16.0:-:*:*:*:*:*:*
   - cpe:2.3:o:google:android:16.0:qpr2:*:*:*:*:*:*
   - cpe:2.3:o:google:android:16.0:qpr2_beta_1:*:*:*:*:*:*
+  - cpe:2.3:o:google:android:16.0:qpr2_beta1:*:*:*:*:*:*
   - cpe:2.3:o:google:android:16.0:qpr2_beta_2:*:*:*:*:*:*
+  - cpe:2.3:o:google:android:16.0:qpr2_beta2:*:*:*:*:*:*
   - cpe:2.3:o:google:android:16.0:qpr2_beta_3:*:*:*:*:*:*
+  - cpe:2.3:o:google:android:16.0:qpr2_beta3:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:2020-06-01:*:*:*:*:*:*:*

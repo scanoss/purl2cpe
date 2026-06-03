@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:samsung:walrus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:samsung:walrus:2026-04-27:*:*:*:*:*:*:*
   - cpe:2.3:a:samsung:walrus:2026-04-28:*:*:*:*:*:*:*
