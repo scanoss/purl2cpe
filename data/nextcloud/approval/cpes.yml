@@ -1,5 +1,9 @@
 cpes:
   - cpe:2.3:a:nextcloud:approval:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:approval:0.0.6:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:0.0.7:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:0.0.8:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:0.0.9:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:1.0.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:1.0.10:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:1.0.11:*:*:*:*:nextcloud:*:*
@@ -19,8 +23,13 @@ cpes:
   - cpe:2.3:a:nextcloud:approval:1.1.1:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:1.2.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:1.3.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:1.3.1:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:2.0.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:2.1.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:2.2.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:2.3.0:*:*:*:*:nextcloud:*:*
   - cpe:2.3:a:nextcloud:approval:2.4.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:2.5.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:2.6.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:2.7.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:approval:2.7.1:*:*:*:*:nextcloud:*:*

@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:shamaton:msgpack:2.4.0:*:*:*:*:golang:*:*
   - cpe:2.3:a:shamaton:msgpack:3.1.0:*:*:*:*:golang:*:*
+  - cpe:2.3:a:shamaton:msgpack:*:*:*:*:*:go:*:*

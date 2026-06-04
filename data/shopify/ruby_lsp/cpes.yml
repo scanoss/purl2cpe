@@ -13,7 +13,9 @@ cpes:
   - cpe:2.3:a:shopify:ruby_lsp:0.0.8:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.0.9:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.10.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.10.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.10.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.10.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.11.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.11.1:*:*:*:*:ruby:*:*
@@ -163,7 +165,18 @@ cpes:
   - cpe:2.3:a:shopify:ruby_lsp:0.5.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.10:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.11:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.11:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.12:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.13:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.14:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.15:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.16:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.17:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.19:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.20:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.5.21:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.5.5:*:*:*:*:ruby:*:*
@@ -176,16 +189,92 @@ cpes:
   - cpe:2.3:a:shopify:ruby_lsp:0.6.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.6.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.10:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.11:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.12:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.13:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.14:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.15:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.16:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.17:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.19:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.20:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.2:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.3:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.4:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.5:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.7.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.7:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.8:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.7.9:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.8.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.10:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.11:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.12:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.13:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.14:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.15:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.16:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.17:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.19:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.8.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.20:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.7:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.8:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.8.9:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.9.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.10:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.11:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.12:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.13:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.14:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.15:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.16:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.17:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.19:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.9.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.20:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.21:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.22:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.23:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.24:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.25:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.26:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.27:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.28:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.29:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.9.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.30:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.31:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.32:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.33:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.9.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.3:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.9.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.7:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.8:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.9.9:*:*:*:*:visual_studio_code:*:*
