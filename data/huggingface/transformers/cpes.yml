@@ -218,3 +218,4 @@ cpes:
   - cpe:2.3:a:huggingface:transformers:5.0.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:5.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:huggingface:transformers:5.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:huggingface:transformers:5.2.0:*:*:*:*:*:*:*

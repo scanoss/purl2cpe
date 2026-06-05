@@ -381,6 +381,7 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.12.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.12.0:rc2:*:*:*:*:*:*
@@ -388,6 +389,9 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.12.6:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.2.0:rc2:*:*:*:*:*:*
@@ -422,3 +426,21 @@ cpes:
   - cpe:2.3:a:goauthentik:authentik:2025.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:goauthentik:authentik:2025.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2025.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.2.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:goauthentik:authentik:2026.5.0:rc2:*:*:*:*:*:*

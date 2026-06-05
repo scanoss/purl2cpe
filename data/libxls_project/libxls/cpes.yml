@@ -31,4 +31,5 @@ cpes:
   - cpe:2.3:a:libxls_project:libxls:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libxls_project:libxls:1.6.2:-:*:*:*:*:*:*
   - cpe:2.3:a:libxls_project:libxls:1.6.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:libxls_project:libxls:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libxls_project:libxls:2.0.0:*:*:*:*:*:*:*
