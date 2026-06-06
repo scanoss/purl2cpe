@@ -75,3 +75,4 @@ cpes:
   - cpe:2.3:a:vmware:spring_cloud_gateway:3.1.0:m2:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_gateway:3.1.0:m3:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_gateway:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_gateway:4.2.0:*:*:*:*:*:*:*

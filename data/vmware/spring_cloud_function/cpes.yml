@@ -89,6 +89,13 @@ cpes:
   - cpe:2.3:a:vmware:spring_cloud_function:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_function:4.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_function:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.0:m3:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_function:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_function:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_function:5.0.0:m1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_cloud_function:5.0.0:m2:*:*:*:*:*:*
