@@ -1,143 +1,360 @@
 cpes:
   - cpe:2.3:a:portainer:portainer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.0.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.0.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.0.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.0.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.10.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.10.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.10.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.1.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.11.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.11.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.11.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.11.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.11.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.12.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.12.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.12.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.12.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.12.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.13.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.13.6:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.14.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.14.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.14.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.14.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.15.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.16.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.17.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.17.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.18.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.18.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.19.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.19.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.19.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:1.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.20.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.20.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.20.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.2.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.21.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.22.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.22.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.22.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.23.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.23.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.23.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.24.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.24.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.24.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.25.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.3.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.4.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.5.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.6.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.7.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.8.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.8.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.9.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.9.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.9.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:1.9.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.0.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.0.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.0.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.0.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.10.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.1.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.11.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.11.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.1.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.12.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.12.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.12.2:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.13.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.13.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.13.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.13.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.14.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.15.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.15.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.15.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.15.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.16.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.17.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.17.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.17.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.17.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.4:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.18.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.4:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.5:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.19.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.20.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.0:-:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.0:rc1:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.0:rc2:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.4:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.5:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.21.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.22.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.22.0:-:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.22.0:rc1:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.23.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.23.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.24.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.24.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.24.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.24.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.25.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.25.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.25.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.25.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.26.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.26.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.26.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.26.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.0:-:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.0:rc1:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.0:rc2:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.0:rc3:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.4:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.5:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.27.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.6:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.7:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.8:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.9:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.27.9:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.28.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.28.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.28.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.28.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.29.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.30.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.30.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.30.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.30.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.31.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.32.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.32.0:-:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.32.0:rc1:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.33.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.33.0:-:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.33.0:rc1:*:*:community:*:*:*
@@ -154,24 +371,52 @@ cpes:
   - cpe:2.3:a:portainer:portainer:2.33.5:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.33.6:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.33.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.33.8:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.34.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.34.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.35.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.35.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.36.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.36.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.37.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.37.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.38.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.38.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.38.1:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.38.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.39.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.1:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.39.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.40.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.40.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.4.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.41.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.41.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.41.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.42.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.5.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.5.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.6.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.6.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.6.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.6.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.7.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.9.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.9.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.9.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.9.3:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:*:*:*:*:community:*:*:*

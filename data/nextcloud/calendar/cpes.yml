@@ -244,10 +244,16 @@ cpes:
   - cpe:2.3:a:nextcloud:calendar:5.4.0:rc5:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.13:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.14:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.15:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:calendar:5.5.19:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nextcloud:calendar:5.5.4:*:*:*:*:*:*:*
