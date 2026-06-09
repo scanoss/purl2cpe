@@ -1,2 +1,30 @@
 cpes:
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.124.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.124.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.125.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.126.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.127.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.128.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.129.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.130.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.131.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.132.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.133.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.134.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.135.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.136.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.137.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.138.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.139.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.140.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.141.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.142.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.143.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.144.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.145.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.146.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.147.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.148.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.149.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:0.150.0:*:*:*:*:go:*:*
   - cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:*:*:*:*:*:go:*:*
