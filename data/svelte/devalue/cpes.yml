@@ -38,4 +38,5 @@ cpes:
   - cpe:2.3:a:svelte:devalue:5.6.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.6.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:5.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:devalue:5.6.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:devalue:*:*:*:*:*:node.js:*:*

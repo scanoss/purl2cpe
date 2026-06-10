@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/volcano-sh/volcano
+  - pkg:golang/github.com/volcano-sh/volcano

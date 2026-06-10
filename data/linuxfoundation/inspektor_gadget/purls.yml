@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/inspektor-gadget/inspektor-gadget
+  - pkg:rpm/fedora/inspektor-gadget
+  - pkg:rpm/opensuse/inspektor-gadget

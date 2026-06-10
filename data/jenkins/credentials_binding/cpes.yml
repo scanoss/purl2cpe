@@ -30,5 +30,24 @@ cpes:
   - cpe:2.3:a:jenkins:credentials_binding:1.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:1.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:523.525.vb_72269281873:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:523.vd859a_4b_122e6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:604.vb_64480b_c56ca_:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:621.v58c0fb_d285a_c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:626.v8d9034b_8ea_cc:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:631.v861c06d062b_4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:636.v55f1275c7b_27:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:642.v737c34dea_6c2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:657.v2b_19db_7d6e6d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:677.vdc9d38cb_254d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:679.v6288482e873c:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:681.vf91669a_32e45:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:687.689.v1a_f775332fc9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:credentials_binding:687.689.v1a_f775332fc:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:687.v619cb_15e923f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:696.v256688029804:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:702.vfe613e537e88:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:717.v951d49b_5f3a_a_:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:719.v80e905ef14eb:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:719.v80e905ef14eb_:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:credentials_binding:720.v3f6decef43ea_:*:*:*:*:jenkins:*:*

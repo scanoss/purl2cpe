@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zapolnoch:tesseract_ocr:2.2.1:*:*:*:*:node.js:*:*

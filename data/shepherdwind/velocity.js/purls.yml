@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shepherdwind/velocity.js
+  - pkg:npm/velocityjs

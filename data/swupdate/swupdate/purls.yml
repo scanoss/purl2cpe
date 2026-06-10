@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sbabic/swupdate
+  - pkg:rpm/opensuse/swupdate

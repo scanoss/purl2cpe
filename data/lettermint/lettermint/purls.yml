@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lettermint/lettermint-go
+  - pkg:github/lettermint/lettermint-python
+  - pkg:github/lettermint/lettermint-rust

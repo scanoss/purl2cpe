@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.7.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:opentelemetry:ebpf_instrumentation:0.8.0:*:*:*:*:go:*:*

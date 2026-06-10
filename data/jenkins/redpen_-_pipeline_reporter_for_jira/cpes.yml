@@ -1,2 +1,7 @@
 cpes:
+  - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:1.049.vdddf0d74fd83:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:1.050.v7fa_7c97a_def4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:1.051.v6dd2d99a_12f7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:1.053.vfe24a_b_ece2ce:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:1.054.v7b_9517b_6b_202:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira:*:*:*:*:*:jenkins:*:*

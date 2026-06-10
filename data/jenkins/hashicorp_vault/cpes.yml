@@ -22,5 +22,6 @@ cpes:
   - cpe:2.3:a:jenkins:hashicorp_vault:3.6.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:hashicorp_vault:3.6.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:hashicorp_vault:3.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:hashicorp_vault:371.v884a_4dd60fb_6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:hashicorp_vault:3.8.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:hashicorp_vault:*:*:*:*:*:wordpress:*:*

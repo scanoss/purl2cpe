@@ -42,5 +42,12 @@ cpes:
   - cpe:2.3:a:wegia:wegia:3.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wegia:wegia:3.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wegia:wegia:3.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wegia:wegia:3.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wegia:wegia:3.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wegia:wegia:3.6.9:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mattermost/mattermost-plugin-zoom
+  - pkg:golang/github.com/mattermost/mattermost-plugin-zoom

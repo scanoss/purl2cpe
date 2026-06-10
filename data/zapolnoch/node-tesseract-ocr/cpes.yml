@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:zapolnoch:node-tesseract-ocr:*:*:*:*:*:node.js:*:*

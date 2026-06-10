@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudnative-pg/cloudnative-pg
+  - pkg:golang/github.com/cloudnative-pg/cloudnative-pg

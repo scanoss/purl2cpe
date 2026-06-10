@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/milvus-io/milvus
+  - pkg:github/milvus-io/milvus
+  - pkg:golang/github.com/milvus-io/milvus

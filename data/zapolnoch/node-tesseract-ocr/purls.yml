@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zapolnoch/node-tesseract-ocr
+  - pkg:npm/node-tesseract-ocr

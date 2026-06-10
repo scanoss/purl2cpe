@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:formulahendry:coderunner:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:formulahendry:coderunner:*:*:*:*:*:visual_studio_code:*:*

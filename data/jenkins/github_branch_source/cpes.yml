@@ -15,6 +15,7 @@ cpes:
   - cpe:2.3:a:jenkins:github_branch_source:1.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:1.8.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:github_branch_source:1967.vdea_d580c1a_b_a:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:1.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:2.0.0:beta-1:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:github_branch_source:2.0.0:beta-2:*:*:*:jenkins:*:*

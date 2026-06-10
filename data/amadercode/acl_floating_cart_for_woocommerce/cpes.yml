@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:amadercode:acl_floating_cart_for_woocommerce:0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:amadercode:acl_floating_cart_for_woocommerce:-:*:*:*:*:wordpress:*:*

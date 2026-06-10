@@ -71,4 +71,5 @@ cpes:
   - cpe:2.3:a:jenkins:azure_ad:401.vdec46839d6b_8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:403.v725537911b_7e:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:404.v99a_327a_b_8904:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_ad:666.v6060de32f87d:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:azure_ad:*:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:agentfront:enclave-vm:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agentfront:enclave-vm:2.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agentfront:enclave-vm:*:*:*:*:*:node.js:*:*

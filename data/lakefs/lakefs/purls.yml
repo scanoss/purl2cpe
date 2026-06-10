@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/treeverse/lakefs
+  - pkg:golang/github.com/treeverse/lakefs

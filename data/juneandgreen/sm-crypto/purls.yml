@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/juneandgreen/sm-crypto
+  - pkg:npm/sm-crypto

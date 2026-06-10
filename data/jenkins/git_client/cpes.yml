@@ -118,3 +118,4 @@ cpes:
   - cpe:2.3:a:jenkins:git_client:6.3.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git_client:6.3.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git_client:6.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:git_client:6.4.0:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:lxsmnsyc:seroval:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxsmnsyc:seroval:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lxsmnsyc:seroval:*:*:*:*:*:npm:*:*

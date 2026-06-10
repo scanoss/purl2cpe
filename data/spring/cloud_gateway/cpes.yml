@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:spring:cloud_gateway:4.2.0:*:*:*:*:*:*:*
