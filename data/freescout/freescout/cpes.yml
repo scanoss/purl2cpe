@@ -234,7 +234,13 @@ cpes:
   - cpe:2.3:a:freescout:freescout:1.8.192:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.207:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.208:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.209:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.210:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.211:*:*:*:*:*:*:*
+  - cpe:2.3:a:freescout:freescout:1.8.212:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.22:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.23:*:*:*:*:*:*:*
   - cpe:2.3:a:freescout:freescout:1.8.24:*:*:*:*:*:*:*

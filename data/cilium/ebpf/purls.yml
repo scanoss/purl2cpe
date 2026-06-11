@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cilium/ebpf
+  - pkg:golang/github.com/cilium/ebpf
