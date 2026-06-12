@@ -58,6 +58,7 @@ cpes:
   - cpe:2.3:a:lldpd_project:lldpd:1.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:lldpd_project:lldpd:1.0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:lldpd_project:lldpd:1.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:lldpd_project:lldpd:1.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:lldpd_project:lldpd:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:lldpd_project:lldpd:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lldpd_project:lldpd:1.0.4:*:*:*:*:*:*:*
