@@ -287,6 +287,8 @@ cpes:
   - cpe:2.3:a:getgrav:grav:1.7.49.4:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.49.5:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.7.52:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.6:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.7.8:*:*:*:*:*:*:*
@@ -311,6 +313,8 @@ cpes:
   - cpe:2.3:a:getgrav:grav:1.8.0:beta25:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta26:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta27:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.8.0:beta28:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav:1.8.0:beta29:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav:1.8.0:beta5:*:*:*:*:*:*

@@ -1,7 +1,10 @@
 cpes:
   - cpe:2.3:a:neovim:neovim:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.5:*:*:*:*:*:*:*

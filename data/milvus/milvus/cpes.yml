@@ -142,6 +142,7 @@ cpes:
   - cpe:2.3:a:milvus:milvus:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.13:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.4:*:*:*:*:*:*:*

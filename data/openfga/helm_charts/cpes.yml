@@ -103,4 +103,8 @@ cpes:
   - cpe:2.3:a:openfga:helm_charts:0.2.7:*:*:*:*:openfga:*:*
   - cpe:2.3:a:openfga:helm_charts:0.2.8:*:*:*:*:openfga:*:*
   - cpe:2.3:a:openfga:helm_charts:0.2.9:*:*:*:*:openfga:*:*
+  - cpe:2.3:a:openfga:helm_charts:0.3.0:*:*:*:*:openfga:*:*
   - cpe:2.3:a:openfga:helm_charts:0.3.1:*:*:*:*:openfga:*:*
+  - cpe:2.3:a:openfga:helm_charts:0.3.2:*:*:*:*:openfga:*:*
+  - cpe:2.3:a:openfga:helm_charts:0.3.3:*:*:*:*:openfga:*:*
+  - cpe:2.3:a:openfga:helm_charts:0.3.4:*:*:*:*:openfga:*:*
