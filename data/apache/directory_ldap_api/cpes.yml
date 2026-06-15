@@ -1,6 +1,63 @@
 cpes:
   - cpe:2.3:a:apache:directory_ldap_api:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:0.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m10:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m11:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m12:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m13:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m14:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m15:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m16:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m17:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m18:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m19:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m20:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m21:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m22:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m23:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m24:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m25:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m26:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m27:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m28:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m29:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m3:*:*:*:*:*:*
   - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m30:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m31:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m32:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m33:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m6:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m7:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m8:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:m9:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:directory_ldap_api:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:directory_ldap_api:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:directory_ldap_api:2.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:directory_ldap_api:2.0.0:am1:*:*:*:*:*:*

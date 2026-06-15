@@ -130,10 +130,13 @@ cpes:
   - cpe:2.3:a:openstack:keystone:26.1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:27.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:27.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:keystone:27.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:28.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:28.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:keystone:28.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:29.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:29.0.1-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:keystone:29.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:8.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openstack:keystone:8.0.0:beta1:*:*:*:*:*:*

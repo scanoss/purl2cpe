@@ -114,6 +114,10 @@ cpes:
   - cpe:2.3:a:umbraco:umbraco_cms:13.13.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:13.13.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:13.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.14.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:umbraco:umbraco_cms:13.14.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:13.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:13.2.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:umbraco:umbraco_cms:13.2.1:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jenkins:eggplant_runner:0.0.1.301.v963cffe8ddb_8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:eggplant_runner:*:*:*:*:*:jenkins:*:*

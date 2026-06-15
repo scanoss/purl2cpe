@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jenkins:extensible_choice_parameter:239.v5f5c278708cf:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:extensible_choice_parameter:*:*:*:*:*:jenkins:*:*
