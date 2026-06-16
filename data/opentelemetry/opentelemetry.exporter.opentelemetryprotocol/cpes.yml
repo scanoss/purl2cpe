@@ -1,2 +1,24 @@
 cpes:
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.10.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.10.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.10.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.11.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.11.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.11.1:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.11.2:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.12.0:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.13.0:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.13.1:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.14.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.14.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.15.0:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.15.1:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.15.2:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.8.0:beta1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.8.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.8.0:rc1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.8.1:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.9.0:alpha1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.9.0:-:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:1.9.0:rc1:*:*:*:.net:*:*
   - cpe:2.3:a:opentelemetry:opentelemetry.exporter.opentelemetryprotocol:*:*:*:*:*:.net:*:*

@@ -1,2 +1,11 @@
 cpes:
   - cpe:2.3:a:microsoft:symcrypt:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:symcrypt:103.9.1:*:*:*:*:*:*:*

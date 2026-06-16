@@ -27,9 +27,51 @@ cpes:
   - cpe:2.3:a:apache:calcite:1.26:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.26.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.26.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.27.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.27.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.28.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.28.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.29.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.29.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.3.0:incubating:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.31.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.31.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.31.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.31.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.31.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.32.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.32.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.33.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.33.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.33.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.33.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.33.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.34.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.34.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.35.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.35.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.35.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.35.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.35.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.36.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.36.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.37.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.37.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.37.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.37.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.37.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.38.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.38.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.38.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.39.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.39.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.39.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.40.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.40.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.4.0:incubating:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.41.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:calcite:1.41.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:calcite:1.6.0:rc0:*:*:*:*:*:*

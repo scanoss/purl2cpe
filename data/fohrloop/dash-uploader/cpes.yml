@@ -1,5 +1,18 @@
 cpes:
   - cpe:2.3:a:fohrloop:dash-uploader:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.2.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:fohrloop:dash-uploader:0.6.1:*:*:*:*:python:*:*
   - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha1:*:*:*:python:*:*
   - cpe:2.3:a:fohrloop:dash-uploader:0.7.0:alpha2:*:*:*:*:*:*

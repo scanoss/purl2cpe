@@ -1,2 +1,8 @@
 cpes:
+  - cpe:2.3:a:msiemens:one2html:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:one2html:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:one2html:1.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:one2html:1.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:one2html:1.3.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:msiemens:one2html:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:one2html:-:*:*:*:*:rust:*:*

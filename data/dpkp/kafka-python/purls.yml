@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dpkp/kafka-python
+  - pkg:pypi/kafka-python

@@ -63,6 +63,11 @@ cpes:
   - cpe:2.3:a:nyariv:sandboxjs:0.8.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.30:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.31:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.8.32:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.8.33:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.8.34:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.8.35:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.8.36:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.5:*:*:*:*:node.js:*:*
@@ -70,4 +75,10 @@ cpes:
   - cpe:2.3:a:nyariv:sandboxjs:0.8.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:0.8.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nyariv:sandboxjs:0.9.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nyariv:sandboxjs:*:*:*:*:*:node.js:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:activemq_artemis:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:activemq_artemis:1.1.0:*:*:*:*:*:*:*

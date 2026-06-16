@@ -20,4 +20,5 @@ cpes:
   - cpe:2.3:a:linuxfoundation:opentelemetry-go:1.37.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:opentelemetry-go:1.38.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:opentelemetry-go:1.39.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:linuxfoundation:opentelemetry-go:1.43.0:*:*:*:*:go:*:*
   - cpe:2.3:a:linuxfoundation:opentelemetry-go:*:*:*:*:*:go:*:*

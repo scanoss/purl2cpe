@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pillarjs/path-to-regexp
+  - pkg:npm/path-to-regexp

@@ -241,8 +241,10 @@ cpes:
   - cpe:2.3:a:botan_project:botan:3.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.3.1:*:*:*:*:*:*:*
@@ -251,3 +253,7 @@ cpes:
   - cpe:2.3:a:botan_project:botan:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:botan_project:botan:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:botan_project:botan:3.9.0:*:*:*:*:*:*:*
