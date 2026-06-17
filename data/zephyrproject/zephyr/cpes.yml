@@ -136,6 +136,10 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:3.2.31:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.2.40:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.2.41:*:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.3.0:rc3:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.5.0:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc1:*:*:*:*:*:*
@@ -155,7 +159,23 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.3.0:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.1:rc1:*:*:*:*:*:*

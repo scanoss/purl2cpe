@@ -10,6 +10,11 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:10.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.1:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:10.11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.2:-:*:*:*:*:*:*
@@ -41,6 +46,13 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:11.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:android:*:*

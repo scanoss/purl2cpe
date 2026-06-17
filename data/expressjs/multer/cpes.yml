@@ -35,4 +35,6 @@ cpes:
   - cpe:2.3:a:expressjs:multer:2.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:expressjs:multer:2.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:expressjs:multer:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expressjs:multer:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expressjs:multer:3.0.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:expressjs:multer:*:*:*:*:*:node.js:*:*

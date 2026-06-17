@@ -311,11 +311,14 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:11.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.10:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:12.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.0:alpha:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.1:beta:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.2:rc:*:*:*:node.js:*:*
@@ -337,6 +340,8 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:2.4.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mariadb:mariadb:3.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:3.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.41:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.42:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.44:*:*:*:*:*:*:*

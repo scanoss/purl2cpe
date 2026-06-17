@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xdmod:open_xdmod:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xdmod:open_xdmod:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xdmod:open_xdmod:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:xdmod:open_xdmod:4.5.1:*:*:*:*:*:*:*

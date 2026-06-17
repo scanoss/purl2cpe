@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_mobile:7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:*:*:*:*:*:iphone_os:*:*
