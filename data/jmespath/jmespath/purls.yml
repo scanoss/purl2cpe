@@ -1,0 +1,14 @@
+purls:
+  - pkg:gem/jmespath
+  - pkg:github/jmespath/go-jmespath
+  - pkg:github/jmespath/jmespath.js
+  - pkg:github/jmespath/jmespath.lua
+  - pkg:github/jmespath/jmespath.php
+  - pkg:github/jmespath/jmespath.py
+  - pkg:github/jmespath/jmespath.rb
+  - pkg:github/jmespath/jmespath.rs
+  - pkg:github/jmespath/jmespath.site
+  - pkg:github/jmespath/jmespath.swift
+  - pkg:golang/github.com/jmespath/go-jmespath
+  - pkg:npm/jmespath
+  - pkg:pypi/jmespath

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/i18next/i18next-http-middleware
+  - pkg:npm/i18next-http-middleware

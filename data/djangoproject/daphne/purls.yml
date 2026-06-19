@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/django/daphne
+  - pkg:pypi/daphne

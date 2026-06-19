@@ -44,6 +44,8 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.10.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.10.2:release:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.10.5:*:*:*:*:*:*:*
@@ -54,7 +56,13 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.14:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.13:*:*:*:*:*:*:*
@@ -66,8 +74,11 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.1.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.20:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.21:*:*:*:*:*:*:*
@@ -219,6 +230,8 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.4.30:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.4.31:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.4.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.4.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.4.34:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.4.6:*:*:*:*:*:*:*
@@ -242,6 +255,12 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.5.22:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.5.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.5.29:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.5.5:*:*:*:*:*:*:*
@@ -258,8 +277,17 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.6.14:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.15:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.19:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.23:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.27:-:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.2:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.4:*:*:*:*:*:*:*
@@ -301,22 +329,56 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:11.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.11:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.7:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.0:alpha:*:*:*:node.js:*:*
@@ -342,9 +404,18 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:2.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:3.3.18:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:3.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.38:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.39:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.41:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.41:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.42:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.42:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.44:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.44:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.1.44:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.47:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.49:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.50:*:*:*:*:*:*:*
@@ -357,13 +428,16 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:5.1.66:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.1.67:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.2.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.2.2:gamma:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.5:*:*:*:*:*:*:*
@@ -372,41 +446,65 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:5.2.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.3.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.11:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.3.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.3.3:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.3.5:alpha:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.3.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.20:alpha:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.21:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.22:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.23:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.24:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.25:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.27:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.28:-:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.28a:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.28:alpha:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.32:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.33:-:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.33:a:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.33:alpha:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.34:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.39:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.42:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.45:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.46:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.47:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.48:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.49:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.50:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.53:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.54:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.55:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.56:*:*:*:*:*:*:*
@@ -415,6 +513,13 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:5.5.59:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.60:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:5.5.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:5.5.68:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:-:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:*:r1:*:*:*:*:*:*

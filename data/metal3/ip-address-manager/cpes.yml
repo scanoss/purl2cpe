@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:metal3:ip-address-manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:metal3:ip-address-manager:1.13.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:metal3:ip-address-manager:1.13.0:rc0:*:*:*:*:*:*

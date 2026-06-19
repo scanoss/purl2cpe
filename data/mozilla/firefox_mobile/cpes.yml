@@ -5,6 +5,31 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_mobile:10.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:10.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:10.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.2.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.4:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:147.5:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:148.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:148.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:148.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:148.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:149.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:149.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:149.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:149.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:150.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:150.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:150.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:150.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:151.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:151.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:151.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:151.3.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:151.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:152.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta2:*:*:*:*:*:*

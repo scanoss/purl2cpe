@@ -54,3 +54,4 @@ cpes:
   - cpe:2.3:a:apache:dolphinscheduler:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:dolphinscheduler:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:dolphinscheduler:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:dolphinscheduler:3.4.1:*:*:*:*:*:*:*

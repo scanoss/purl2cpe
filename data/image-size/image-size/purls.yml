@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/image-size/image-size
+  - pkg:npm/image-size
