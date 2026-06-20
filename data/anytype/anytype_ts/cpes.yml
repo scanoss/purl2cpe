@@ -974,10 +974,42 @@ cpes:
   - cpe:2.3:a:anytype:anytype_ts:0.51.10:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.11:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.12:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.13:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.14:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.15:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.16:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.17:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.18:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.19:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.1:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.20:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.21:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.22:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.23:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.24:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.25:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.26:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.27:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.28:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.29:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.30:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.31:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.32:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.33:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.34:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.35:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.36:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.37:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.38:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.39:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.40:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.41:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.42:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.43:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.51.44:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.4:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.5:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.6:alpha:*:*:*:*:*:*
@@ -985,8 +1017,89 @@ cpes:
   - cpe:2.3:a:anytype:anytype_ts:0.51.8:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.51.9:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.10:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.11:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.12:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.13:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.14:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.15:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.16:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.17:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.4:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.5:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.6:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.8:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.52.9:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.10:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.11:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.12:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.13:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.14:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.15:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.16:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.17:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.18:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.19:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.20:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.21:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.22:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.23:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.24:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.25:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.26:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.27:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.28:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.29:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.30:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.31:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.32:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.33:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.34:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.35:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.36:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.37:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.38:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.39:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.40:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.41:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.42:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.43:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.44:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.45:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.46:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.47:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.48:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.49:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.50:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.51:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.6:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.7:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.8:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.53.9:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.3:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:anytype:anytype_ts:0.54.4:alpha:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:anytype:anytype_ts:0.7.1:*:*:*:*:*:*:*

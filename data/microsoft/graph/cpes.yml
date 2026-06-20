@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:microsoft:graph:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:graph:1.109.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:graph:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:graph:2.0.0:-:*:*:*:*:*:*
