@@ -110,6 +110,7 @@ cpes:
   - cpe:2.3:a:ws_project:ws:5.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:5.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:5.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ws_project:ws:5.2.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ws_project:ws:6.1.1:*:*:*:*:node.js:*:*

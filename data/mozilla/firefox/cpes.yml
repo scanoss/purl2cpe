@@ -424,6 +424,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox:151.0.4:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:15.1:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox:152.0.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:firefox:1.5.5:*:*:*:*:*:*:*

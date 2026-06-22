@@ -336,6 +336,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_framework:6.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.2.17:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_framework:6.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:6.2.4:*:*:*:*:*:*:*
@@ -349,3 +350,4 @@ cpes:
   - cpe:2.3:a:vmware:spring_framework:7.0.0:milestone5:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:7.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_framework:7.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_framework:7.0.8:*:*:*:*:*:*:*

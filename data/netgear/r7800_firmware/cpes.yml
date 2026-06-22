@@ -21,5 +21,6 @@ cpes:
   - cpe:2.3:o:netgear:r7800_firmware:1.0.2.80:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r7800_firmware:1.0.2.84:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r7800_firmware:1.0.2.90:*:*:*:*:*:*:*
+  - cpe:2.3:o:netgear:r7800_firmware:1.0.4.96:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r7800_firmware:v1.0.11.100_10.2.100:*:*:*:*:*:*:*
   - cpe:2.3:o:netgear:r7800_firmware:v1.0.9.6_1.2.19:*:*:*:*:*:*:*
