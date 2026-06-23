@@ -260,6 +260,9 @@ cpes:
   - cpe:2.3:a:spip:spip:4.4.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.4.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:spip:spip:4.4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:spip:spip:4.4.4:*:*:*:*:*:*:*

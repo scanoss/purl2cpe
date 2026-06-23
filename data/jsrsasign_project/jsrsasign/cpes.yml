@@ -184,3 +184,4 @@ cpes:
   - cpe:2.3:a:jsrsasign_project:jsrsasign:9.1.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:jsrsasign_project:jsrsasign:9.1.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:jsrsasign_project:jsrsasign:9.1.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*
