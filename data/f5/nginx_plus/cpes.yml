@@ -10,6 +10,7 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r28:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r29:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r29:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r3:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r30:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r30:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r30:p2:*:*:*:*:*:*
@@ -34,3 +35,6 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r36:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p3:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p4:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p5:*:*:*:*:*:*

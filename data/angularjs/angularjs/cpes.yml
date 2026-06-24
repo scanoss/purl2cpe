@@ -217,3 +217,20 @@ cpes:
   - cpe:2.3:a:angularjs:angularjs:1.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:angularjs:angularjs:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:angularjs:angularjs:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next10:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next11:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next12:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next3:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next4:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next5:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next6:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next7:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next8:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:next9:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:angularjs:angularjs:22.0.0:rc3:*:*:*:*:*:*

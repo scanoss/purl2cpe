@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:coturn_project:coturn:4.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:coturn_project:coturn:4.4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:coturn_project:coturn:4.4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:coturn_project:coturn:4.5.0.1:*:*:*:*:*:*:*
