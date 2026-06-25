@@ -187,4 +187,8 @@ cpes:
   - cpe:2.3:a:encode:starlette:0.9.9:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:1.0.0:-:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:1.0.0:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:1.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:1.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:1.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:encode:starlette:1.2.1:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:starlette:*:*:*:*:*:python:*:*

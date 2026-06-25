@@ -191,13 +191,17 @@ cpes:
   - cpe:2.3:a:misp-project:misp:2.4.113:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.114:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.115:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.116:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.117:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.118:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.119:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.120:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.121:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.122:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.123:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.124:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.125:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.126:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.127:*:*:*:*:*:*:*
   - cpe:2.3:a:misp-project:misp:2.4.128:*:*:*:*:*:*:*

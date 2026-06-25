@@ -1,3 +1,6 @@
 cpes:
   - cpe:2.3:a:arekinath:esaml:*:*:*:*:*:*:*:*
   - cpe:2.3:a:arekinath:esaml:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:arekinath:esaml:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arekinath:esaml:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arekinath:esaml:1.1:*:*:*:*:*:*:*

@@ -83,4 +83,5 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:786:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:800:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:800.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:800.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:801:*:*:*:*:*:*:*
