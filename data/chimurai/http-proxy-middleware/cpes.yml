@@ -73,3 +73,16 @@ cpes:
   - cpe:2.3:a:chimurai:http-proxy-middleware:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:chimurai:http-proxy-middleware:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:chimurai:http-proxy-middleware:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.1.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:chimurai:http-proxy-middleware:4.1.0:beta2:*:*:*:*:*:*

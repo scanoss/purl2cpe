@@ -608,3 +608,4 @@ cpes:
   - cpe:2.3:a:langflow:langflow:1.9.1:-:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.9.4:*:*:*:*:*:*:*

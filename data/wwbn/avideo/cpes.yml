@@ -16,8 +16,13 @@ cpes:
   - cpe:2.3:a:wwbn:avideo:14.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:15fed957fb:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo:25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:2.7:*:*:*:*:*:*:*
   - cpe:2.3:a:wwbn:avideo:29.0:*:*:*:*:*:*:*

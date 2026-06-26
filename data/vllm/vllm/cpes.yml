@@ -90,11 +90,24 @@ cpes:
   - cpe:2.3:a:vllm:vllm:0.20.2:rc0:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.21.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.21.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.21.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.21.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.1:post1:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.22.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vllm:vllm:0.23.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.23.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vllm:vllm:0.2.5:*:*:*:*:*:*:*

@@ -432,6 +432,7 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.8.16:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.0:-:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.0:dev0:*:*:*:*:*:*
@@ -448,6 +449,7 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:2.9.0:dev8:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.0:dev9:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:2.9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:2.9.4:*:*:*:*:*:*:*
@@ -474,6 +476,12 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.4:*:*:*:*:*:*:*
@@ -482,12 +490,64 @@ cpes:
   - cpe:2.3:a:haproxy:haproxy:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:-:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev0:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev12:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev13:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev14:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev2:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev3:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev4:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:3.1:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.1:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev12:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev13:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev14:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev15:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev16:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev17:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.2:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev10:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev11:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev12:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev13:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev14:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev6:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev7:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev8:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.3:dev9:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:haproxy:haproxy:3.4:dev5:*:*:*:*:*:*
   - cpe:2.3:a:haproxy:haproxy:hapee-2.4r1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:haproxy:haproxy:hapee-2.6r1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:haproxy:haproxy:hapee-2.8r1:*:*:*:enterprise:*:*:*

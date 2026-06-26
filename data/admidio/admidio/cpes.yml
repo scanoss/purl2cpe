@@ -222,3 +222,4 @@ cpes:
   - cpe:2.3:a:admidio:admidio:5.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:admidio:admidio:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:admidio:admidio:5.0.7:*:*:*:*:*:*:*

@@ -53,6 +53,9 @@ cpes:
   - cpe:2.3:a:azuracast:azuracast:0.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:azuracast:azuracast:0.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:azuracast:azuracast:0.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:azuracast:azuracast:0.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:azuracast:azuracast:0.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:azuracast:azuracast:0.23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:azuracast:azuracast:0.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:azuracast:azuracast:0.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:azuracast:azuracast:0.3.3:*:*:*:*:*:*:*

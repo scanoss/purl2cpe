@@ -61,7 +61,11 @@ cpes:
   - cpe:2.3:a:stefanprodan:podinfo:6.0.4:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.10.0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.10.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:stefanprodan:podinfo:6.10.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.1.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:stefanprodan:podinfo:6.11.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:stefanprodan:podinfo:6.11.12:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:stefanprodan:podinfo:6.11.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.1.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.1.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:stefanprodan:podinfo:6.1.3:*:*:*:*:kubernetes:*:*

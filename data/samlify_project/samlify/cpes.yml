@@ -31,5 +31,58 @@ cpes:
   - cpe:2.3:a:samlify_project:samlify:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:samlify_project:samlify:2.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:samlify_project:samlify:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:samlify_project:samlify:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:samlify_project:samlify:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:samlify_project:samlify:2.9.1:*:*:*:*:*:*:*

@@ -46,3 +46,7 @@ cpes:
   - cpe:2.3:a:ci4-cms-erp:ci4ms:0.28.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ci4-cms-erp:ci4ms:0.28.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ci4-cms-erp:ci4ms:0.28.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ci4-cms-erp:ci4ms:0.31.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ci4-cms-erp:ci4ms:0.31.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ci4-cms-erp:ci4ms:0.31.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ci4-cms-erp:ci4ms:0.31.3.0:*:*:*:*:*:*:*

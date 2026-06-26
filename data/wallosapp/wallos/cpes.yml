@@ -185,3 +185,6 @@ cpes:
   - cpe:2.3:a:wallosapp:wallos:4.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wallosapp:wallos:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wallosapp:wallos:4.7.1:*:*:*:*:*:*:*

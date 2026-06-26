@@ -55,6 +55,7 @@ cpes:
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.12:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.13:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.14:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.15:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.1:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.2:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:1.7.3:*:*:*:*:pimcore:*:*
@@ -79,5 +80,6 @@ cpes:
   - cpe:2.3:a:pimcore:admin_classic_bundle:2.1.4:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:2.2.0:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:2.2.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:2.2.2:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:*:*:*:*:*:pimcore:*:*
   - cpe:2.3:a:pimcore:admin_classic_bundle:-:*:*:*:*:pimcore:*:*

@@ -1,4 +1,615 @@
 cpes:
+  - cpe:2.3:a:babel:babel:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.11.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.12.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.13.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.14.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:1.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.13.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:3.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:4.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:5.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.26.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:6.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha10:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha11:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha15:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha16:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha17:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha18:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha19:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha20:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta31:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta32:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta33:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta34:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta35:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta36:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta37:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta38:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta39:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta40:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta41:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta42:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta43:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta44:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta45:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta46:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta47:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta48:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta49:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta50:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta51:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta52:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta53:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta54:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta55:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:beta56:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.12.10:*:*:*:*:*:*:*
@@ -18,6 +629,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.12.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.12.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.12.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.13.10:*:*:*:*:*:*:*
@@ -36,6 +648,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.13.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.13.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.13.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.14.2:*:*:*:*:*:*:*
@@ -46,6 +659,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.14.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.14.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.14.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.15.2:*:*:*:*:*:*:*
@@ -55,6 +669,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.15.6:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.15.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.15.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.16.10:*:*:*:*:*:*:*
@@ -102,6 +717,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.19.4:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.19.5:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.20.10:*:*:*:*:*:*:*
@@ -118,6 +734,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.20.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.20.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.20.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.21.2:*:*:*:*:*:*:*
@@ -130,6 +747,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.21.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.21.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.21.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.22.10:*:*:*:*:*:*:*
@@ -151,6 +769,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.22.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.22.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.22.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.23.10:*:*:*:*:*:*:*
@@ -162,6 +781,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.23.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.23.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.23.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.24.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.24.10:*:*:*:*:*:*:*
@@ -173,6 +793,7 @@ cpes:
   - cpe:2.3:a:babel:babel:7.24.7:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.24.8:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.24.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.25.0:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.25.2:*:*:*:*:*:*:*
@@ -213,11 +834,65 @@ cpes:
   - cpe:2.3:a:babel:babel:7.29.1:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.29.2:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:7.29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.29.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.29.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:7.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha10:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha11:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:alpha13:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:alpha14:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:alpha15:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:alpha16:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:alpha17:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha4:*:*:*:*:*:*
@@ -226,3 +901,13 @@ cpes:
   - cpe:2.3:a:babel:babel:8.0.0:alpha7:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha8:*:*:*:*:*:*
   - cpe:2.3:a:babel:babel:8.0.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:babel:babel:8.0.0:rc5:*:*:*:*:*:*
