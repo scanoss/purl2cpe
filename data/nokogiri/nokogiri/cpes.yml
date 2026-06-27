@@ -67,6 +67,50 @@ cpes:
   - cpe:2.3:a:nokogiri:nokogiri:1.13.7:*:*:*:*:ruby:*:*
   - cpe:2.3:a:nokogiri:nokogiri:1.13.8:*:*:*:*:ruby:*:*
   - cpe:2.3:a:nokogiri:nokogiri:1.13.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.0:rc1:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.14.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.15.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.0:rc1:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.16.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.17.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.17.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.17.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.0:rc1:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.10:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.18.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.19.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.19.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.19.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:nokogiri:nokogiri:1.19.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:nokogiri:nokogiri:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nokogiri:nokogiri:1.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:nokogiri:nokogiri:1.2.1:*:*:*:*:*:*:*

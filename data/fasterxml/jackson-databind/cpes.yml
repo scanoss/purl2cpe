@@ -71,10 +71,45 @@ cpes:
   - cpe:2.3:a:fasterxml:jackson-databind:2.15.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.17.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.18.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.19.4:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.20.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:2.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.2.4:*:*:*:*:*:*:*
@@ -203,3 +238,23 @@ cpes:
   - cpe:2.3:a:fasterxml:jackson-databind:2.9.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.9.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-databind:2.9.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.0:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-databind:3.1.3:*:*:*:*:*:*:*

@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:explorance:blue:*:*:*:*:*:*:*:*
   - cpe:2.3:a:explorance:blue:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:explorance:blue:8.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:explorance:blue:8.14.9:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/radvd
+  - pkg:deb/ubuntu/radvd
+  - pkg:github/radvd-project/radvd
+  - pkg:rpm/fedora/radvd
+  - pkg:rpm/opensuse/radvd

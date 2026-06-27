@@ -30,6 +30,7 @@ cpes:
   - cpe:2.3:a:dedecms:dedecms:5.7.17:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.7.18:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.7.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:dedecms:dedecms:5.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.7.20:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.7.22:*:*:*:*:*:*:*
   - cpe:2.3:a:dedecms:dedecms:5.7.23:*:*:*:*:*:*:*

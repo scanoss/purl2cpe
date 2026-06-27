@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/concurrent-ruby
+  - pkg:github/ruby-concurrency/concurrent-ruby

@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:dineshrawat:masy_gallery:1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:dineshrawat:masy_gallery:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshrawat:masy_gallery:-:*:*:*:*:wordpress:*:*
