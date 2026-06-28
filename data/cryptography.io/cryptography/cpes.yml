@@ -230,4 +230,5 @@ cpes:
   - cpe:2.3:a:cryptography.io:cryptography:46.0.3:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:46.0.4:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:46.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:cryptography.io:cryptography:46.0.6:*:*:*:*:python:*:*
   - cpe:2.3:a:cryptography.io:cryptography:*:*:*:*:*:python:*:*

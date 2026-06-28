@@ -32,6 +32,7 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r34:p2:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r35:p2:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p2:*:*:*:*:*:*

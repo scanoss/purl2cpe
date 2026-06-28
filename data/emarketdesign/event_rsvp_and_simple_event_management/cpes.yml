@@ -1,2 +1,31 @@
 cpes:
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:4.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:emarketdesign:event_rsvp_and_simple_event_management:*:*:*:*:*:wordpress:*:*

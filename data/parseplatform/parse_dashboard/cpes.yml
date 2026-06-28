@@ -1,13 +1,22 @@
 cpes:
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0-alpha.42:*:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.42:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha42:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.43:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha43:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.44:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha44:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.5:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha5:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.6:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha6:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.7:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha7:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.8:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha8:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha.9:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:7.3.0:alpha9:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.4.0:alpha.1:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.4.0:alpha1:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:7.4.0:alpha.2:*:*:*:node.js:*:*
@@ -254,6 +263,7 @@ cpes:
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha2:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha.3:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha42:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha.4:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha4:*:*:*:node.js:*:*
   - cpe:2.3:a:parseplatform:parse_dashboard:9.0.0:alpha.5:*:*:*:node.js:*:*

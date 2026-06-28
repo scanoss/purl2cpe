@@ -1,4 +1,21 @@
 cpes:
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.6.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.6.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:1.6.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.3.3:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.4.0:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.5.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.5.2:*:*:*:*:jenkins:*:*
@@ -17,3 +34,4 @@ cpes:
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.8.1:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.8.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.8.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:2.8.4:*:*:*:*:jenkins:*:*

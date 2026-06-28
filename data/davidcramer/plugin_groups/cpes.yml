@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:davidcramer:plugin_groups:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:davidcramer:plugin_groups:-:*:*:*:*:wordpress:*:*

@@ -31,6 +31,12 @@ cpes:
   - cpe:2.3:a:dest-unreach:socat:1.7.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dest-unreach:socat:1.7.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dest-unreach:socat:1.7.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dest-unreach:socat:1.8.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dest-unreach:socat:2.0.0:b1:*:*:*:*:*:*
   - cpe:2.3:a:dest-unreach:socat:2.0.0:b2:*:*:*:*:*:*
   - cpe:2.3:a:dest-unreach:socat:2.0.0-b3:*:*:*:*:*:*:*

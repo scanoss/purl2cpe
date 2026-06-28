@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/ec2-fleet-plugin
+  - pkg:maven/com.amazon.jenkins.fleet/ec2-fleet

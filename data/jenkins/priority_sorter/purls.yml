@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/priority-sorter-plugin
+  - pkg:maven/org.jenkins-ci.plugins/prioritysorter

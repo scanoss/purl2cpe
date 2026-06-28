@@ -1,5 +1,7 @@
 cpes:
   - cpe:2.3:a:friendsofsymfony1:symfony1:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendsofsymfony1:symfony1:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendsofsymfony1:symfony1:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:friendsofsymfony1:symfony1:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:friendsofsymfony1:symfony1:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:friendsofsymfony1:symfony1:1.5.10:*:*:*:*:*:*:*

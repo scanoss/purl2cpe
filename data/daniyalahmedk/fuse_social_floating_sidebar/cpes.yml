@@ -1,2 +1,28 @@
 cpes:
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:daniyalahmedk:fuse_social_floating_sidebar:*:*:*:*:*:wordpress:*:*

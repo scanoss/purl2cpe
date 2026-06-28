@@ -87,6 +87,8 @@ cpes:
   - cpe:2.3:a:emqx:nanomq:0.23.9:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.24.0:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.24.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:nanomq:0.24.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:emqx:nanomq:0.24.10:beta2:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.24.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.24.2:*:*:*:*:*:*:*
   - cpe:2.3:a:emqx:nanomq:0.24.3:*:*:*:*:*:*:*

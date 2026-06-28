@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pivotal_software:spring_data_rest:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_rest:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_rest:1.0.0:m1:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:spring_data_rest:1.0.0:m2:*:*:*:*:*:*

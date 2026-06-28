@@ -63,3 +63,5 @@ cpes:
   - cpe:2.3:a:gpac:gpac:2.4-rev0-g5d70253ac-head:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gpac:gpac:2.5-dev-rev288-g11067ea92-master:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:26.02.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpac:gpac:26.2.0:*:*:*:*:*:*:*

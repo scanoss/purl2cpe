@@ -1115,6 +1115,7 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:22.17.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:22.18.0:*:*:*:lts:*:*:*
   - cpe:2.3:a:nodejs:node.js:22.2.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:22.22.3:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:22.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:22.4.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:22.4.1:*:*:*:-:*:*:*
@@ -1154,6 +1155,8 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:24.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:24.0.2:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:24.1.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:24.16.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:24.16.10:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:24.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:24.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:24.4.0:*:*:*:-:*:*:*
@@ -1161,6 +1164,8 @@ cpes:
   - cpe:2.3:a:nodejs:node.js:24.5.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:2.5.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:25.1.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:nodejs:node.js:26.3.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nodejs:node.js:3.0.0:*:*:*:-:*:*:*
   - cpe:2.3:a:nodejs:node.js:3.0.0:rc1:*:*:*:*:*:*
