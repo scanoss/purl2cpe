@@ -6,6 +6,7 @@ purls:
   - pkg:github/team-telnyx/telnyx-php
   - pkg:github/team-telnyx/telnyx-python
   - pkg:github/team-telnyx/telnyx-ruby
+  - pkg:golang/github.com/team-telnyx/telnyx-go
   - pkg:maven/com.telnyx.sdk/telnyx
   - pkg:npm/telnyx
   - pkg:pypi/telnyx

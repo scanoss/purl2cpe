@@ -1,4 +1,5 @@
 purls:
+  - pkg:deb/debian/yyjson
   - pkg:deb/ubuntu/yyjson
   - pkg:github/ibireme/yyjson
   - pkg:rpm/fedora/yyjson

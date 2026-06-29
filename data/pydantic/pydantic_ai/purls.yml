@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pydantic/pydantic-ai
+  - pkg:pypi/pydantic-ai

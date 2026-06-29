@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/abhiphile/fermat-mcp
+  - pkg:pypi/fermat-mcp

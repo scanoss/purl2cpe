@@ -64,6 +64,8 @@ cpes:
   - cpe:2.3:a:artica:pandora_fms:777.14:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.15:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:artica:pandora_fms:777.18:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.2:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.3:*:*:*:*:*:*:*
   - cpe:2.3:a:artica:pandora_fms:777.4:*:*:*:*:*:*:*

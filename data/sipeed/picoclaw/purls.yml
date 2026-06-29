@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sipeed/picoclaw
+  - pkg:golang/github.com/sipeed/picoclaw

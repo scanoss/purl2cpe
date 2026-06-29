@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/cm-ad-changer
   - pkg:github/wp-plugins/cm-ad-changer

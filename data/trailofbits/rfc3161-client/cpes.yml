@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:trailofbits:rfc3161-client:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:rfc3161-client:1.0.5:*:*:*:*:*:*:*

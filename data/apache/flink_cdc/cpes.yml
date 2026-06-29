@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:flink_cdc:3.4.0:*:*:*:*:*:*:*

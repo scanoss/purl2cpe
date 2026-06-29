@@ -51,6 +51,7 @@ cpes:
   - cpe:2.3:a:backdropcms:backdrop_cms:1.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:backdropcms:backdrop_cms:1.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.16.0:-:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.16.0:preview:*:*:*:*:*:*
   - cpe:2.3:a:backdropcms:backdrop_cms:1.16.1:*:*:*:*:*:*:*

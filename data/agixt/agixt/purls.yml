@@ -1,4 +1,6 @@
 purls:
+  - pkg:github/agixt/csharp-sdk
   - pkg:github/agixt/python-sdk
+  - pkg:github/agixt/typescript-sdk
   - pkg:npm/agixt
   - pkg:pypi/agixt

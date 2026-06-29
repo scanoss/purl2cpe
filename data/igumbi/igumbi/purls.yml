@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/igumbi-online-booking
   - pkg:github/wp-plugins/igumbi-online-booking

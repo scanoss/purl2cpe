@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:shared_library_version_override:11.v1ee70e324a_3f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shared_library_version_override:17.v786074c9fce7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shared_library_version_override:*:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mlc-ai/xgrammar
+  - pkg:pypi/xgrammar

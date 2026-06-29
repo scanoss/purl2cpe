@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rexxars:eventsource-encoder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rexxars:eventsource-encoder:*:*:*:*:*:node.js:*:*

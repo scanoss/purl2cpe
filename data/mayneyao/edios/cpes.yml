@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mayneyao:edios:0.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mayneyao:edios:*:*:*:*:*:node.js:*:*

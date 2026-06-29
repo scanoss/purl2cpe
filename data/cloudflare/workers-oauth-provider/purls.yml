@@ -1,2 +1,3 @@
 purls:
   - pkg:github/cloudflare/workers-oauth-provider
+  - pkg:npm/%40cloudflare/workers-oauth-provider

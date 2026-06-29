@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/wp-media-category-management
   - pkg:github/wp-plugins/wp-media-category-management
   - pkg:github/wpplugins/wp-media-category-management

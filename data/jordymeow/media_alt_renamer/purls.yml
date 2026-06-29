@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/media-alt-renamer
   - pkg:github/wpplugins/media-alt-renamer

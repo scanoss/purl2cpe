@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/deskflow/deskflow
   - pkg:sourceforge/deskflow.mirror

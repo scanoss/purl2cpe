@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opennextjs/opennextjs-cloudflare
+  - pkg:npm/%40opennextjs/cloudflare

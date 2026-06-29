@@ -1,3 +1,4 @@
 purls:
+  - pkg:cargo/rosenpass
   - pkg:github/rosenpass/rosenpass
   - pkg:rpm/opensuse/rosenpass

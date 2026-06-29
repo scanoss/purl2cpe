@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/bx33661/wireshark-mcp
   - pkg:github/pypi/wireshark-mcp

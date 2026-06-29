@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/sync-post-with-other-site
   - pkg:github/kp4coder/sync-post-with-other-site

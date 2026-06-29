@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/feiskyer/mcp-kubernetes-server
+  - pkg:pypi/mcp-kubernetes-server

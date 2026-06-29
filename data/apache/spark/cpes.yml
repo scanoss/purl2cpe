@@ -216,6 +216,8 @@ cpes:
   - cpe:2.3:a:apache:spark:3.5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:3.5.7:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:3.5.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:3.5.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:3.5.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:4.0.0:rc2:*:*:*:*:*:*
@@ -226,3 +228,37 @@ cpes:
   - cpe:2.3:a:apache:spark:4.0.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:4.0.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:spark:4.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.0.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.0.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview1-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview2-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview3-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:preview4-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.1.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview1-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview2-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview3-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview4-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:preview5-rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:spark:4.2.0:rc3:*:*:*:*:*:*

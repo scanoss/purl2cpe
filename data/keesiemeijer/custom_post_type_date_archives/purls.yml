@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/custom-post-type-date-archives
   - pkg:github/keesiemeijer/custom-post-type-date-archives

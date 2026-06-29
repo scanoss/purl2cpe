@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/apeworx/web3.py
   - pkg:pypi/web3

@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/allow-php-execute
   - pkg:github/wp-plugins/allow-php-execute

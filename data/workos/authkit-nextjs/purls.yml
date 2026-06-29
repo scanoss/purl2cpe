@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/workos/authkit-nextjs
   - pkg:npm/@workos-inc/authkit-nextjs

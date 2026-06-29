@@ -322,3 +322,4 @@ cpes:
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2026.0.0:*:*:*:*:*:*:*

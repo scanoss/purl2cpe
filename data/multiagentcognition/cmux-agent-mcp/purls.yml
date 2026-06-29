@@ -1,2 +1,3 @@
 purls:
   - pkg:github/multiagentcognition/cmux-agent-mcp
+  - pkg:npm/cmux-agent-mcp

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nvidia/nvidia-resiliency-ext
+  - pkg:pypi/nvidia-resiliency-ext

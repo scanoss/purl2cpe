@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dataease:sqlbot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease:sqlbot:1.5.0:*:*:*:*:*:*:*

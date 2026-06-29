@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jlowin/fastmcp
+  - pkg:pypi/fastmcp

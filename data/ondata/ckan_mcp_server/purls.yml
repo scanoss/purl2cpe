@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/ondata/ckan-mcp-server
   - pkg:npm/@aborruso/ckan-mcp-server

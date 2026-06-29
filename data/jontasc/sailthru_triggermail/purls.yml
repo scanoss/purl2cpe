@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/sailthru-triggermail
   - pkg:github/wp-plugins/sailthru-triggermail

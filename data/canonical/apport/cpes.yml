@@ -109,6 +109,7 @@ cpes:
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.19:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.2:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.28:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.4:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.5:*:*:*:*:*:*:*
@@ -167,6 +168,8 @@ cpes:
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu69:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu70:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu8:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu82:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu82.7:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.11-0ubuntu9:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.7-0ubuntu3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.7-0ubuntu3.1:*:*:*:*:*:*:*
@@ -205,6 +208,7 @@ cpes:
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.21:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.23:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.29:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.5:*:*:*:*:*:*:*
@@ -212,3 +216,7 @@ cpes:
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.8:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:apport:2.20.9-0ubuntu7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.21.0-0ubuntu1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.28.1-0ubuntu1:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.28.1-0ubuntu3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:apport:2.32.0-0ubuntu1:*:*:*:*:*:*:*

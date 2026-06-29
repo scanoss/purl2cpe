@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/sveltejs/devalue
   - pkg:npm/devalue

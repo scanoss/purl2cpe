@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:adguard:trusttunnel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.102:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.105:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.109:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.114:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:adguard:trusttunnel:0.9.99:*:*:*:*:*:*:*

@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/mpl-publisher
   - pkg:github/ferranfg/mpl-publisher
   - pkg:github/wp-plugins/mpl-publisher

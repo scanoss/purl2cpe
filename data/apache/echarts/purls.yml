@@ -1,3 +1,4 @@
 purls:
+  - pkg:apache/echarts
   - pkg:github/apache/echarts
   - pkg:npm/echarts

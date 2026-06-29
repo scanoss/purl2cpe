@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/woomotiv
   - pkg:github/delabon/woomotiv

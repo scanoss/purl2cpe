@@ -1,2 +1,4 @@
 purls:
+  - pkg:github/microsoft/semantic-kernel
+  - pkg:nuget/Microsoft.SemanticKernel
   - pkg:pypi/semantic-kernel

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zcaceres/fetch-mcp
+  - pkg:npm/mcp-fetch-server

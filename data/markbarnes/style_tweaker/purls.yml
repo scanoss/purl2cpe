@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/style-tweaker
   - pkg:github/wp-plugins/style-tweaker
   - pkg:github/wpplugins/style-tweaker

@@ -1,2 +1,3 @@
 purls:
   - pkg:docker/model-runner
+  - pkg:github/docker/model-runner

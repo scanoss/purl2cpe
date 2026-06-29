@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/tourfic
   - pkg:github/themefic-team/tourfic

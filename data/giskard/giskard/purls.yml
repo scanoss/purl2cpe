@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/giskard-ai/giskard-oss
   - pkg:pypi/giskard

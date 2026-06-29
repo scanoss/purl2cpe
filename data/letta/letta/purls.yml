@@ -1,2 +1,4 @@
 purls:
+  - pkg:github/letta-ai/letta
+  - pkg:pypi/letta
   - pkg:sourceforge/letta.mirror

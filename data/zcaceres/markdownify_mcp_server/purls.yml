@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zcaceres/markdownify-mcp
+  - pkg:npm/%40iflow-mcp/markdownify-mcp

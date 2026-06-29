@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/fedify-dev/fedify
   - pkg:npm/@fedify/fedify

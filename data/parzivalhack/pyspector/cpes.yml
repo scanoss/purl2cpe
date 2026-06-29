@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.1:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.1:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.2:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.2:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.3:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.3:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.4:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.4:post1:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.4:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.5:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.5:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.6:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.6:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.7:beta:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:0.1.7:-:*:*:*:python:*:*
+  - cpe:2.3:a:parzivalhack:pyspector:*:*:*:*:*:python:*:*

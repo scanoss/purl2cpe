@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:fastapiadmin:fastapiadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapiadmin:fastapiadmin:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapiadmin:fastapiadmin:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapiadmin:fastapiadmin:2.2.0:*:*:*:*:*:*:*

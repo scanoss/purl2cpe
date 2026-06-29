@@ -21,6 +21,7 @@ cpes:
   - cpe:2.3:a:mediawiki:checkuser:1.43.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:checkuser:1.43.4:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:checkuser:1.44.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:checkuser:1.45.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:checkuser:2.3:-:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:checkuser:*:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:checkuser:-:*:*:*:*:mediawiki:*:*

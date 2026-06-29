@@ -1,2 +1,3 @@
 purls:
   - pkg:github/neilcochran/cross-stitch
+  - pkg:npm/cross-stitch

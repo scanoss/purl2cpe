@@ -110,6 +110,8 @@ cpes:
   - cpe:2.3:a:lmsys:sglang:0.5.10:post1:*:*:*:*:*:*
   - cpe:2.3:a:lmsys:sglang:0.5.10:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lmsys:sglang:0.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:lmsys:sglang:0.5.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:lmsys:sglang:0.5.12:post1:*:*:*:*:*:*
   - cpe:2.3:a:lmsys:sglang:0.5.1:post1:*:*:*:*:*:*
   - cpe:2.3:a:lmsys:sglang:0.5.1:post2:*:*:*:*:*:*
   - cpe:2.3:a:lmsys:sglang:0.5.1:post3:*:*:*:*:*:*

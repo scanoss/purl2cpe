@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:cisa:thorium:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cisa:thorium:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cisa:thorium:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cisa:thorium:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cisa:thorium:1.1.2:*:*:*:*:*:*:*

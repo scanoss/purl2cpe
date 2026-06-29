@@ -1,4 +1,5 @@
 purls:
   - pkg:github/bu-ist/bu-section-editing
+  - pkg:github/common-repository/bu-section-editing
   - pkg:github/wp-plugins/bu-section-editing
   - pkg:github/wpplugins/bu-section-editing

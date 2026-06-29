@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/wp-forecast
   - pkg:github/wp-plugins/wp-forecast

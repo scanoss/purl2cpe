@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/christianalares/nextmove-mcp
+  - pkg:npm/nextmove-mcp

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:espressif:esp-usb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp-usb:1.0.0:*:*:*:*:*:*:*

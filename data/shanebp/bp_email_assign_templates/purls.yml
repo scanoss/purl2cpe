@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/bp-email-assign-templates
   - pkg:github/wpplugins/bp-email-assign-templates

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mariadb:model_context_protocol:0.1.0:*:*:*:*:*:*:*

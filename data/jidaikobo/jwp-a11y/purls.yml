@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/jwp-a11y
   - pkg:github/jidaikobo-shibata/jwp-a11y

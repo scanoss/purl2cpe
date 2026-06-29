@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:9fans:plan9port:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:9fans:plan9port:2025-03-29:*:*:*:*:*:*:*

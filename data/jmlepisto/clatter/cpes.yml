@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jmlepisto:clatter:0.1.1:alpha:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:0.1.2:alpha:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:0.1.3:alpha:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:1.0.0:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:1.0.0:rc2:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:1.0.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:2.0.0:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:2.0.0:rc2:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:2.0.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:2.1.0:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:2.1.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:jmlepisto:clatter:*:*:*:*:*:rust:*:*

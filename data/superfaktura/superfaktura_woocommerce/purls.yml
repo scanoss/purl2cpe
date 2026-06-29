@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/woocommerce-superfaktura
   - pkg:github/wp-plugins/woocommerce-superfaktura

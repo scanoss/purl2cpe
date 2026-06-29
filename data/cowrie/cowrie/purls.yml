@@ -1,2 +1,3 @@
 purls:
   - pkg:github/cowrie/cowrie
+  - pkg:pypi/cowrie

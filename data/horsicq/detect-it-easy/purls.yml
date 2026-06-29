@@ -1,2 +1,3 @@
 purls:
   - pkg:github/horsicq/detect-it-easy
+  - pkg:npm/detectiteasy

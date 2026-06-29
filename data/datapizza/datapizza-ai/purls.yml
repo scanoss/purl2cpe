@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/datapizza-labs/datapizza-ai
+  - pkg:pypi/datapizza-ai

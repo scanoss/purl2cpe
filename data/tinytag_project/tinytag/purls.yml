@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/tinytag/tinytag
   - pkg:pypi/tinytag

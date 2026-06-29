@@ -11,19 +11,88 @@ cpes:
   - cpe:2.3:a:oracle:mysql_shell:1.0.5:m3:*:*:*:-:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.0.8:rc:*:*:*:-:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.0.9:*:*:*:*:-:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.10.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.10.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.11.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.11.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.11.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.11.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.11.4:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.12.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.12.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.13.6:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.14.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.14.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.14.2:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.15.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.15.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.15.2:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.16.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.16.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.16.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.16.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.16.4:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.17.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.17.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.7:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.18.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.18.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.1.8:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.10:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.11:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.12:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.13:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.14:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.15:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.16:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.17:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.18:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.19:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.20:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.4:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.5:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.6:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.7:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.8:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.19.9:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.20.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.2.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.2.2:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.3.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:1.3.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.3.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.3.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.4.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.4.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.5.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.6.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.6.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.6.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.7.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.7.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.7.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.8.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.8.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.8.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.9.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:oracle:mysql_shell:1.9.1:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:2026.2.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:oracle:mysql_shell:8.0.0:dmr:*:*:*:-:*:*
   - cpe:2.3:a:oracle:mysql_shell:8.0.11:*:*:*:*:-:*:*

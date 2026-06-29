@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/kimtore/pms
   - pkg:golang/github.com/kimtore/pms

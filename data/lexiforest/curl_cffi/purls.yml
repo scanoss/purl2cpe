@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/lexiforest/curl_cffi
   - pkg:pypi/curl-cffi

@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/langchain-ai/langchain-community
   - pkg:pypi/langchain-community

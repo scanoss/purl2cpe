@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:ryandfir:unfurl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2020.08.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2020.11.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2021.03.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2021.06.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2022.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2022.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2022.11.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2023.09.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2024.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2024.06.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2024.06.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2024.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2024.11.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2025.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2025.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2025.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:ryandfir:unfurl:2026.04:*:*:*:*:*:*:*

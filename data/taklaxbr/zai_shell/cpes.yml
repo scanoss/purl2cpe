@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:taklaxbr:zai_shell:5.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:6.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:7.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:7.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:7.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:8.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:8.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:9.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:9.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:taklaxbr:zai_shell:*:*:*:*:*:python:*:*

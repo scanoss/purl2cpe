@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/executeautomation/mcp-database-server
+  - pkg:npm/%40executeautomation/database-server

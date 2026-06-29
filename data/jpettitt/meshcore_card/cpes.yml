@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jpettitt:meshcore_card:0.0.1:*:*:*:*:home_assistant:*:*
+  - cpe:2.3:a:jpettitt:meshcore_card:0.1.0:*:*:*:*:home_assistant:*:*
+  - cpe:2.3:a:jpettitt:meshcore_card:0.2.0:*:*:*:*:home_assistant:*:*
+  - cpe:2.3:a:jpettitt:meshcore_card:0.3.1:*:*:*:*:home_assistant:*:*
+  - cpe:2.3:a:jpettitt:meshcore_card:0.3.2:*:*:*:*:home_assistant:*:*
+  - cpe:2.3:a:jpettitt:meshcore_card:*:*:*:*:*:home_assistant:*:*

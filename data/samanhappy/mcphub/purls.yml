@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/samanhappy/mcphub
+  - pkg:npm/%40samanhappy/mcphub

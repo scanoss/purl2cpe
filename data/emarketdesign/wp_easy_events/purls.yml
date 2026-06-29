@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/wp-easy-events
   - pkg:github/wpplugins/wp-easy-events

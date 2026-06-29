@@ -1,2 +1,3 @@
 purls:
+  - pkg:apache/seatunnel
   - pkg:github/apache/seatunnel

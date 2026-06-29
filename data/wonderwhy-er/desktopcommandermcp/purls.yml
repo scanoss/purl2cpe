@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/wonderwhy-er/desktopcommandermcp
   - pkg:npm/@wonderwhy-er/desktop-commander

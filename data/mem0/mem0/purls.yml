@@ -1,2 +1,4 @@
 purls:
+  - pkg:github/mem0ai/mem0
   - pkg:github/pypi/mem0ai
+  - pkg:npm/mem0ai

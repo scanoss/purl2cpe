@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:coredns.io:coredns:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coredns.io:coredns:1.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:1.2.2:*:*:*:*:*:*:*

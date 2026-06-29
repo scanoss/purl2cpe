@@ -1,2 +1,6 @@
 purls:
+  - pkg:github/anthropics/claude-agent-sdk-demos
+  - pkg:github/anthropics/claude-agent-sdk-python
+  - pkg:github/anthropics/claude-agent-sdk-typescript
   - pkg:npm/@anthropic-ai/claude-agent-sdk
+  - pkg:pypi/claude-agent-sdk

@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/auto-prune-posts
   - pkg:github/wp-plugins/auto-prune-posts

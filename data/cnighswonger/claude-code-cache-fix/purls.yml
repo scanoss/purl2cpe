@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cnighswonger/claude-code-cache-fix
+  - pkg:npm/claude-code-cache-fix

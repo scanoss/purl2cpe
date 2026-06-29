@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:solidtime:solidtime:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solidtime:solidtime:0.9.0:*:*:*:*:*:*:*

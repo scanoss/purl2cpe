@@ -1,2 +1,3 @@
 purls:
   - pkg:docker/donetick/donetick
+  - pkg:github/donetick/donetick

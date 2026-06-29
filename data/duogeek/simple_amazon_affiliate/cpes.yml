@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:duogeek:simple_amazon_affiliate:1.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:duogeek:simple_amazon_affiliate:*:*:*:*:*:wordpress:*:*

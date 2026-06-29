@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:zoho_qengine:1.0.22.vd05b_10b_8f5dd:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zoho_qengine:1.0.24.v8a_00da_0756ee:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zoho_qengine:1.0.29.vfa_cc23396502:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zoho_qengine:*:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:coverage:2.3054.ve1ff7b_a_a_123b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:coverage:*:*:*:*:*:jenkins:*:*

@@ -1,2 +1,3 @@
 purls:
   - pkg:apache/polaris
+  - pkg:github/apache/polaris

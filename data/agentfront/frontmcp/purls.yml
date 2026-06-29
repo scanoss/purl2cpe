@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/agentfront/frontmcp
   - pkg:npm/@frontmcp/sdk

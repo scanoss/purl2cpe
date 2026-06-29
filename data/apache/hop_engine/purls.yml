@@ -1,2 +1,3 @@
 purls:
+  - pkg:apache/hop
   - pkg:github/apache/hop

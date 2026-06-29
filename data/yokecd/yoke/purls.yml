@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yokecd/yoke
+  - pkg:golang/github.com/yokecd/yoke

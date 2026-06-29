@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/withstudiocms/studiocms
+  - pkg:npm/studiocms

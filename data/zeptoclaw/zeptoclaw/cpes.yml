@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.5.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.6.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:0.7.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:zeptoclaw:zeptoclaw:*:*:*:*:*:rust:*:*

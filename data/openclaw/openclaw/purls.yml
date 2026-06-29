@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openclaw/openclaw
+  - pkg:npm/openclaw

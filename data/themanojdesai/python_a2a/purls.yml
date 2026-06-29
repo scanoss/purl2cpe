@@ -1,2 +1,3 @@
 purls:
   - pkg:github/themanojdesai/python-a2a
+  - pkg:pypi/python-a2a

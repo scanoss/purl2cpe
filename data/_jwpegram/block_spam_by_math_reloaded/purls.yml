@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/block-spam-by-math-reloaded
   - pkg:github/wpplugins/block-spam-by-math-reloaded

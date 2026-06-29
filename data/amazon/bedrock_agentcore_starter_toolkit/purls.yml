@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aws/bedrock-agentcore-starter-toolkit
+  - pkg:pypi/bedrock-agentcore-starter-toolkit

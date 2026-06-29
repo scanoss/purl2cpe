@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:openvessl:anchorr:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvessl:anchorr:1.4.1:*:*:*:*:*:*:*

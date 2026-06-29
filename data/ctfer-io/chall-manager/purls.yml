@@ -1,2 +1,3 @@
 purls:
   - pkg:github/ctfer-io/chall-manager
+  - pkg:golang/github.com/ctfer-io/chall-manager

@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/fesod
+  - pkg:github/apache/fesod

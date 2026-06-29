@@ -1,2 +1,3 @@
 purls:
   - pkg:github/huggingface/smolagents
+  - pkg:pypi/smolagents

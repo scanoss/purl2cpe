@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pab1it0:azure_data_explorer_mcp_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pab1it0:azure_data_explorer_mcp_server:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pab1it0:azure_data_explorer_mcp_server:*:*:*:*:*:python:*:*

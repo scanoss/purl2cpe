@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libops/captcha-protect
+  - pkg:golang/github.com/dararish/captcha-protect

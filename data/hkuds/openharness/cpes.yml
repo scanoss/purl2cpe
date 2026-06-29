@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:hkuds:openharness:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hkuds:openharness:0.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hkuds:openharness:2026-04-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hkuds:openharness:2026-04-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:hkuds:openharness:2026-04-17:*:*:*:*:*:*:*

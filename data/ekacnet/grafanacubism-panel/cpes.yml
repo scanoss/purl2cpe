@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.1:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.2:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.3:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.4:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.5:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.6:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.7:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.0.8:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.1.0:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.1.1:*:*:*:*:grafana:*:*
+  - cpe:2.3:a:ekacnet:grafanacubism-panel:0.1.2:*:*:*:*:grafana:*:*

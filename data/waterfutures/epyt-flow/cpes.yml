@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:waterfutures:epyt-flow:0.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.13.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.13.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.14.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.14.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.14.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.15.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.15.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.16.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.7.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.7.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:0.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:waterfutures:epyt-flow:*:*:*:*:*:python:*:*

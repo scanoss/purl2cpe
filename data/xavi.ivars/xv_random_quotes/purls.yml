@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/xv-random-quotes
   - pkg:github/wp-plugins/xv-random-quotes
   - pkg:github/xavivars/xv-random-quotes

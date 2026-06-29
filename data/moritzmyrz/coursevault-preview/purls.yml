@@ -1,2 +1,3 @@
 purls:
   - pkg:github/moritzmyrz/coursevault-preview
+  - pkg:npm/coursevault-preview

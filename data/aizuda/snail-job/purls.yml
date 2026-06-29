@@ -1,2 +1,3 @@
 purls:
   - pkg:github/aizuda/snail-job
+  - pkg:maven/com.aizuda/snail-job

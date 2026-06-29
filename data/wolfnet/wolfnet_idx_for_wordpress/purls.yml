@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/wolfnet-idx-for-wordpress
   - pkg:github/wp-plugins/wolfnet-idx-for-wordpress
   - pkg:github/wpplugins/wolfnet-idx-for-wordpress

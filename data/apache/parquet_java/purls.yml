@@ -1,3 +1,4 @@
 purls:
   - pkg:apache/parquet
+  - pkg:github/apache/parquet-java
   - pkg:maven/org.apache.parquet/parquet

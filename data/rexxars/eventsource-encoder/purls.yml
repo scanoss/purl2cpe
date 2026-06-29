@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rexxars/eventsource-encoder
+  - pkg:npm/eventsource-encoder

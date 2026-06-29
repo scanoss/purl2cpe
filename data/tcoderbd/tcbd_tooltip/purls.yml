@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/tcbd-tooltip
   - pkg:github/wp-plugins/tcbd-tooltip

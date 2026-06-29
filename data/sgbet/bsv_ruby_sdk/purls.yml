@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/bsv-sdk
+  - pkg:github/sgbett/bsv-ruby-sdk

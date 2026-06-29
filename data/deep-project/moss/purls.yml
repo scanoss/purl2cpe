@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/deep-project/moss
   - pkg:golang/github.com/deep-project/moss

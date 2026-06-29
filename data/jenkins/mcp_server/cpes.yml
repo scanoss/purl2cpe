@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:mcp_server:0.86.v7d3355e6a_a_18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mcp_server:*:*:*:*:*:jenkins:*:*

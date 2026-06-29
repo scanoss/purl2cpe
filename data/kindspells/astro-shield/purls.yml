@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kindspells/astro-shield
+  - pkg:npm/%40kindspells/astro-shield

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/docling-project/docling-core
+  - pkg:pypi/docling

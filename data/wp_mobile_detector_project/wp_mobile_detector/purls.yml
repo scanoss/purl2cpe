@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/wp-mobile-detector
   - pkg:github/wp-plugins/wp-mobile-detector
   - pkg:github/wpplugins/wptap-mobile-detector

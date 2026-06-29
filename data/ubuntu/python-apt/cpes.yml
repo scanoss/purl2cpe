@@ -79,6 +79,7 @@ cpes:
   - cpe:2.3:a:ubuntu:python-apt:1.9.0:alpha0\~ubuntu1:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:1.9.0:alpha0\~ubuntu2:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:1.9.0:ubuntu1:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu:python-apt:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.0.1:-:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.4.0:-:*:*:*:*:*:*
@@ -86,6 +87,7 @@ cpes:
   - cpe:2.3:a:ubuntu:python-apt:2.4.0:ubuntu2:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.4.0:ubuntu3:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.4.0:ubuntu4:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu:python-apt:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.7.7:-:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.7.7:build1:*:*:*:*:*:*
   - cpe:2.3:a:ubuntu:python-apt:2.7.7:ubuntu1:*:*:*:*:*:*

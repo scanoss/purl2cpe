@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/workos/authkit
+  - pkg:npm/%40workos-inc/authkit-js

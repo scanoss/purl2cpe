@@ -1,2 +1,4 @@
 purls:
+  - pkg:composer/slowlyo/owl-admin
   - pkg:gitee/slowlyo/owl-admin
+  - pkg:github/slowlyo/owl-admin

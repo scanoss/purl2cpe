@@ -415,6 +415,7 @@ cpes:
   - cpe:2.3:a:elementor:elementor_page_builder:3.19.1:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:elementor_page_builder:3.19.3:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:elementor_page_builder:3.20.1:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:elementor:elementor_page_builder:3.20.2:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:elementor_page_builder:3.20.3:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:elementor_page_builder:3.21.0:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:elementor:elementor_page_builder:3.2.1:*:*:*:pro:wordpress:*:*

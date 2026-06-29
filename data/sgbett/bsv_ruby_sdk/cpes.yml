@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.6.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.6.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.6.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.7.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.8.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:0.8.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sgbett:bsv_ruby_sdk:*:*:*:*:*:ruby:*:*

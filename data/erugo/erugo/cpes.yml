@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:erugo:erugo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.001:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.002:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.003:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.004:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.005:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.005-g:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.005-n:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.006:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.006b:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.007:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.008:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.009:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.010:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.0.011:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:erugo:erugo:0.2.14:*:*:*:*:*:*:*

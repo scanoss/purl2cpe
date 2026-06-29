@@ -23,6 +23,9 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r32:p2:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p3:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p4:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p5:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p6:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p7:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:p2:*:*:*:*:*:*

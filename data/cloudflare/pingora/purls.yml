@@ -1,2 +1,3 @@
 purls:
+  - pkg:cargo/pingora
   - pkg:github/cloudflare/pingora

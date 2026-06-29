@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/filecoin-project/go-f3
   - pkg:golang/github.com/filecoin-project/go-f3

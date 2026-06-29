@@ -1,2 +1,3 @@
 purls:
+  - pkg:gem/sigstore
   - pkg:github/sigstore/sigstore-ruby

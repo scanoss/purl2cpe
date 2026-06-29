@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:redwoodjs:redwoodsdk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta50:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta51:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta52:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta53:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta53_test20260205213024:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta54:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta55:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta56:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta57:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.0:beta58:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redwoodjs:redwoodsdk:1.0.8:*:*:*:*:*:*:*

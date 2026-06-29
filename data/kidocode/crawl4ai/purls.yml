@@ -1,2 +1,3 @@
 purls:
   - pkg:github/unclecode/crawl4ai
+  - pkg:pypi/crawl4ai

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:alpha1:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:alpha3:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:alpha:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta4:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:beta5:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.1:-:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.2:alaph1:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.2:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.2:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.2:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.2:-:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.3:alaph1:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.3:-:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:0.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:armurox:logging_redactor:*:*:*:*:*:python:*:*

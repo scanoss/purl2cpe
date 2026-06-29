@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/wp-seo-structured-data-schema
   - pkg:github/wpplugins/wp-seo-structured-data-schema

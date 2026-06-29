@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/modelcontextprotocol/java-sdk
+  - pkg:maven/io.modelcontextprotocol.sdk/mcp

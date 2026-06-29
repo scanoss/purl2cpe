@@ -1,2 +1,3 @@
 purls:
   - pkg:github/rvc-boss/gpt-sovits
+  - pkg:pypi/gpt-sovits-python

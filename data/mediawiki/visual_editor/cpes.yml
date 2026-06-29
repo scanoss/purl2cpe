@@ -7,5 +7,7 @@ cpes:
   - cpe:2.3:a:mediawiki:visual_editor:1.25:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.26:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.34:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.39.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.43.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.44.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:*:*:*:*:*:mediawiki:*:*

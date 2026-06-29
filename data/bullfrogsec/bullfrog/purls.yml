@@ -1,2 +1,3 @@
 purls:
   - pkg:github/bullfrogsec/bullfrog
+  - pkg:golang/github.com/bullfrogsec/bullfrog

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/free5gc/bsf
+  - pkg:golang/github.com/free5gc/bsf

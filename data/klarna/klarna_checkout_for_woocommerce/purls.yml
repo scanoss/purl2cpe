@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/klarna-checkout-for-woocommerce
   - pkg:github/krokedil/klarna-checkout-for-woocommerce

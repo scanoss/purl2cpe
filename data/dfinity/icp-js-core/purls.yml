@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/dfinity/icp-js-core
   - pkg:npm/@icp-sdk/core

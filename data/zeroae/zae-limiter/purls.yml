@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zeroae/zae-limiter
+  - pkg:pypi/zae-limiter

@@ -1,2 +1,3 @@
 purls:
   - pkg:github/modelscope/agentscope
+  - pkg:pypi/agentscope

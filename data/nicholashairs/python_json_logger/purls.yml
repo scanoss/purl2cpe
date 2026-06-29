@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/nhairs/python-json-logger
   - pkg:pypi/python-json-logger

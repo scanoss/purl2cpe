@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/work-the-flow-file-upload
   - pkg:github/wp-plugins/work-the-flow-file-upload
   - pkg:github/wpplugins/work-the-flow-file-upload

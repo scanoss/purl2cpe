@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/un-ts/napi-postinstall
+  - pkg:npm/napi-postinstall

@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:boscop:orejime:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:1.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:boscop:orejime:*:*:*:*:*:node.js:*:*

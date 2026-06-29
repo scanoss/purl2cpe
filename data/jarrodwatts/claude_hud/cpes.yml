@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jarrodwatts:claude_hud:*:*:*:*:*:claude_code*:*:*
+  - cpe:2.3:a:jarrodwatts:claude_hud:*:*:*:*:*:claude_code:*:*

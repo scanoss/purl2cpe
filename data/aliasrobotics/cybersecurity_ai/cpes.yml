@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:0.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:0.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:0.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:aliasrobotics:cybersecurity_ai:0.5.9:*:*:*:*:*:*:*

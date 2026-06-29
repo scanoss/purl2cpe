@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastapi-guard:fastapi_guard:3.0.1:*:*:*:*:*:*:*

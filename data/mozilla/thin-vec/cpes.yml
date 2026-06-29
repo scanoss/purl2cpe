@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mozilla:thin-vec:0.2.15:*:*:*:*:rust:*:*

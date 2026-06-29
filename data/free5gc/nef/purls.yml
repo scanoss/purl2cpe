@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/free5gc/nef
+  - pkg:golang/github.com/free5gc/nef

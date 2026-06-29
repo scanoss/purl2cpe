@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/ravpage
   - pkg:github/wpplugins/ravpage

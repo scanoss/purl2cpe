@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/base64-encoderdecoder
   - pkg:github/wp-plugins/base64-encoderdecoder

@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/qlustered/deepdiff
   - pkg:pypi/deepdiff

@@ -1,4 +1,12 @@
 purls:
   - pkg:github/lettermint/lettermint-go
+  - pkg:github/lettermint/lettermint-java
+  - pkg:github/lettermint/lettermint-laravel
+  - pkg:github/lettermint/lettermint-node
+  - pkg:github/lettermint/lettermint-php
   - pkg:github/lettermint/lettermint-python
   - pkg:github/lettermint/lettermint-rust
+  - pkg:golang/github.com/lettermint/lettermint-go
+  - pkg:maven/co.lettermint/lettermint
+  - pkg:npm/lettermint
+  - pkg:pypi/lettermint

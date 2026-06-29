@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/openmcdf/openmcdf
   - pkg:nuget/openmcdf

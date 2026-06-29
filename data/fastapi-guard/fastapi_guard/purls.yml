@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rennf93/fastapi-guard
+  - pkg:pypi/fastapi-guard

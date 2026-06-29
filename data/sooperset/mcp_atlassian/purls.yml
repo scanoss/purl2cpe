@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sooperset/mcp-atlassian
+  - pkg:pypi/mcp-atlassian

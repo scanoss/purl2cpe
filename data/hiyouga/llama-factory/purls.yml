@@ -1,2 +1,3 @@
 purls:
   - pkg:github/hiyouga/llama-factory
+  - pkg:pypi/llamafactory

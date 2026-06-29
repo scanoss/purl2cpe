@@ -1,3 +1,4 @@
 purls:
+  - pkg:github/common-repository/insert-php-code-snippet
   - pkg:github/wp-plugins/insert-php-code-snippet
   - pkg:github/wpplugins/insert-php-code-snippet

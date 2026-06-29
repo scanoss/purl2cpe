@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/doris-mcp-server
+  - pkg:pypi/mcp-doris-server

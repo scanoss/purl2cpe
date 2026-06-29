@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/cashubtc/nutshell
   - pkg:pypi/cashu

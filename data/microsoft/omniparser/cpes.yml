@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:microsoft:omniparser:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:omniparser:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:omniparser:2.0.0:*:*:*:*:*:*:*

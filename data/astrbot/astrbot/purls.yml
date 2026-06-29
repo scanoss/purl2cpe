@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/astrbotdevs/astrbot
   - pkg:pypi/AstrBot

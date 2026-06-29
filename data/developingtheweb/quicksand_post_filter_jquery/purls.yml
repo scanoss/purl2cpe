@@ -1,2 +1,3 @@
 purls:
+  - pkg:github/common-repository/quicksand-jquery-post-filter
   - pkg:github/wpplugins/quicksand-jquery-post-filter
