@@ -169,3 +169,6 @@ cpes:
   - cpe:2.3:a:docling:docling:2.90.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.90.1:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.9.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.91.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.92.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.93.0:*:*:*:*:python:*:*
