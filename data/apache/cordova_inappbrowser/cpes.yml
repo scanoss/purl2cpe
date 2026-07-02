@@ -1,2 +1,8 @@
 cpes:
   - cpe:2.3:a:apache:cordova_inappbrowser:3.0.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:cordova_inappbrowser:6.0.0:*:*:*:*:*:*:*

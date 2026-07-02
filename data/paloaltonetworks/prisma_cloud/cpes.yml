@@ -38,7 +38,10 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.03:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04.113:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05.124:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05:update_5:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.06.113:*:*:*:compute:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_cloud:32.07.123:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:32:*:*:*:compute:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_cloud:*:*:*:*:compute:*:*:*

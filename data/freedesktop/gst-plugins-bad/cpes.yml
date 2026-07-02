@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:freedesktop:gst-plugins-bad:-:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:gst-plugins-bad:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:gst-plugins-bad:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:gst-plugins-bad:0.10.10:*:*:*:*:*:*:*

@@ -718,6 +718,7 @@ cpes:
   - cpe:2.3:a:prefect:prefect:3.6.21:dev3:*:*:*:*:*:*
   - cpe:2.3:a:prefect:prefect:3.6.21:dev4:*:*:*:*:*:*
   - cpe:2.3:a:prefect:prefect:3.6.21:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:prefect:prefect:3.6.23:-:*:*:*:*:*:*
   - cpe:2.3:a:prefect:prefect:3.6.2:dev1:*:*:*:*:*:*
   - cpe:2.3:a:prefect:prefect:3.6.3:-:*:*:*:*:*:*
   - cpe:2.3:a:prefect:prefect:3.6.3:dev1:*:*:*:*:*:*

@@ -37,6 +37,7 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:11.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:11.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:11.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:11.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:11.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:11.13.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:11.2.0:*:*:*:*:*:*:*
@@ -209,6 +210,11 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:14.47.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:14.47.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:14.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:14.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:14.48.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:14.48.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:14.48.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:14.48.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:14.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:14.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:14.7.0:*:*:*:*:*:*:*
@@ -287,6 +293,12 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:15.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:15.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:15.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:15.28.6:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:15.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:15.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:15.4.1:*:*:*:*:*:*:*
@@ -355,7 +367,27 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:16.21.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.21.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.2.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:16.22.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:16.2.5:*:*:*:*:*:*:*
@@ -435,8 +467,134 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:17.25.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.28.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.29.7:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.30.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.30.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.30.3:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.31.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.32.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.33.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.33.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.33.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.34.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.35.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.36.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.37.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:17.38.9:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:17.5.1:*:*:*:*:*:*:*
@@ -749,6 +907,11 @@ cpes:
   - cpe:2.3:a:opensuse:libzypp:9.40.4:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:9.40.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:9.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:9.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:9.41.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:9.41.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:9.41.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:libzypp:9.41.5:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:9.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:9.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:libzypp:9.7.0:*:*:*:*:*:*:*

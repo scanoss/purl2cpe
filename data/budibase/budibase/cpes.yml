@@ -3091,6 +3091,7 @@ cpes:
   - cpe:2.3:a:budibase:budibase:3.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.35.10:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.2:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.4:*:*:*:*:*:*:*
@@ -3100,6 +3101,35 @@ cpes:
   - cpe:2.3:a:budibase:budibase:3.35.8:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.35.9:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.36.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.36.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.36.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.37.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.38.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:budibase:budibase:3.39.9:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:budibase:budibase:3.4.10:*:*:*:*:*:*:*

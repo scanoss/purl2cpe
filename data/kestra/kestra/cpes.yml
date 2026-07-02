@@ -306,6 +306,10 @@ cpes:
   - cpe:2.3:a:kestra:kestra:0.22.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.22.40:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.22.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.22.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.22.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.22.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.22.45:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.22.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.22.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.22.7:*:*:*:*:*:*:*
@@ -340,7 +344,12 @@ cpes:
   - cpe:2.3:a:kestra:kestra:0.23.26:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.27:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.23.29:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.23.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.23.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.23.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.23.33:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.23.6:*:*:*:*:*:*:*
@@ -361,7 +370,10 @@ cpes:
   - cpe:2.3:a:kestra:kestra:0.24.15:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.16:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.24.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.24.19:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:0.24.20:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:0.24.5:*:*:*:*:*:*:*
@@ -434,7 +446,20 @@ cpes:
   - cpe:2.3:a:kestra:kestra:1.0.33:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.34:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.39:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.0.48:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.0.7:*:*:*:*:*:*:*
@@ -449,7 +474,11 @@ cpes:
   - cpe:2.3:a:kestra:kestra:1.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.15:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.1.19:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.1.20:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.1.5:*:*:*:*:*:*:*
@@ -466,7 +495,16 @@ cpes:
   - cpe:2.3:a:kestra:kestra:1.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.2.22:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.2.5:*:*:*:*:*:*:*
@@ -478,8 +516,25 @@ cpes:
   - cpe:2.3:a:kestra:kestra:1.3.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.19:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.23:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kestra:kestra:1.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:kestra:kestra:1.3.9:*:*:*:*:*:*:*

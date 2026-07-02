@@ -46,4 +46,5 @@ cpes:
   - cpe:2.3:a:nltk:nltk:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.9:beta1:*:*:*:*:*:*
