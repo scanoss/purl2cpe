@@ -13,6 +13,8 @@ cpes:
   - cpe:2.3:a:hedgedoc:hedgedoc:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hedgedoc:hedgedoc:1.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hedgedoc:hedgedoc:1.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hedgedoc:hedgedoc:1.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hedgedoc:hedgedoc:1.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:hedgedoc:hedgedoc:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hedgedoc:hedgedoc:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hedgedoc:hedgedoc:1.3.0:*:*:*:*:*:*:*

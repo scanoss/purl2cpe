@@ -91,6 +91,8 @@ cpes:
   - cpe:2.3:a:kovidgoyal:kitty:0.46.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kovidgoyal:kitty:0.46.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kovidgoyal:kitty:0.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kovidgoyal:kitty:0.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kovidgoyal:kitty:0.47.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kovidgoyal:kitty:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kovidgoyal:kitty:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kovidgoyal:kitty:0.6.0:*:*:*:*:*:*:*

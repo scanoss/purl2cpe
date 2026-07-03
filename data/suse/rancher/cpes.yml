@@ -236,11 +236,30 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.11.0:rc6:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.0:rc7:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.0:rc9:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.1:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.10:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.10:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.10:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.11:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.11:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.12:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.12:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.14:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.14:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.1:alpha3:*:*:*:*:*:*
@@ -287,6 +306,7 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.11.8:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.8:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.8:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.11.8:alpha5:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.9:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.11.9:alpha1:*:*:*:*:*:*
@@ -323,6 +343,13 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.12.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.1:alpha3:*:*:*:*:*:*
@@ -351,6 +378,7 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.12.5:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.5:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.5:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.6:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.6:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.6:alpha2:*:*:*:*:*:*
@@ -361,6 +389,19 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.12.7:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.7:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.12.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.8:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.8:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.12.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.0:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.0:alpha1:*:*:*:*:*:*
@@ -383,6 +424,7 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.13.1:alpha5:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.1:alpha6:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.1:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.2:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.2:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.2:alpha2:*:*:*:*:*:*
@@ -403,13 +445,74 @@ cpes:
   - cpe:2.3:a:suse:rancher:2.13.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.13.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.13.6:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:-:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha10:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha11:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha13:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha4:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha5:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.14.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha10:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha11:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha12:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha13:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha14:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:alpha9:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:alpha8:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher:2.14.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:suse:rancher:2.1.7:*:*:*:*:*:*:*

@@ -38,6 +38,10 @@ cpes:
   - cpe:2.3:a:liquidjs:liquidjs:10.25.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:liquidjs:liquidjs:10.25.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:liquidjs:liquidjs:10.25.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:liquidjs:liquidjs:10.25.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:liquidjs:liquidjs:10.25.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:liquidjs:liquidjs:10.25.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:liquidjs:liquidjs:10.25.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:liquidjs:liquidjs:10.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:liquidjs:liquidjs:10.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:liquidjs:liquidjs:10.3.2:*:*:*:*:node.js:*:*

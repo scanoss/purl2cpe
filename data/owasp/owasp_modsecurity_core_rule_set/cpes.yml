@@ -27,3 +27,38 @@ cpes:
   - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:4.9.0:*:*:*:*:*:*:*

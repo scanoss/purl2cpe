@@ -16,3 +16,6 @@ cpes:
   - cpe:2.3:a:libexif_project:libexif:0.6.20:*:*:*:*:*:*:*
   - cpe:2.3:a:libexif_project:libexif:0.6.21:*:*:*:*:*:*:*
   - cpe:2.3:a:libexif_project:libexif:0.6.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif_project:libexif:0.6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif_project:libexif:0.6.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif_project:libexif:0.6.25:*:*:*:*:*:*:*

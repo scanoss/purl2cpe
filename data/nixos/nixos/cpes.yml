@@ -22,3 +22,5 @@ cpes:
   - cpe:2.3:o:nixos:nixos:23.11:*:*:*:*:*:*:*
   - cpe:2.3:o:nixos:nixos:24.05:*:*:*:*:*:*:*
   - cpe:2.3:o:nixos:nixos:24.11:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:25.05:*:*:*:*:*:*:*
+  - cpe:2.3:o:nixos:nixos:25.11:*:*:*:*:*:*:*

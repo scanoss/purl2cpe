@@ -1,2 +1,27 @@
 cpes:
   - cpe:2.3:a:jsonata:jsonata:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:1.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonata:jsonata:2.0.3:*:*:*:*:*:*:*

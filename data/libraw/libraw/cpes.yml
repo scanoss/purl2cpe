@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.11.3:*:*:*:*:*:*:*
@@ -73,10 +74,13 @@ cpes:
   - cpe:2.3:a:libraw:libraw:0.20:beta1:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.20:beta2:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.20:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.20:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.21.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:libraw:libraw:0.21.5:beta:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libraw:libraw:0.22.1:*:*:*:*:*:*:*
