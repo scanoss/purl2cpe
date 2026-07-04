@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/max-mapper/extract-zip
+  - pkg:npm/extract-zip

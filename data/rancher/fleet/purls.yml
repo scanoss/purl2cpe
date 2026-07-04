@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rancher/fleet
+  - pkg:golang/github.com/rancher/fleet

@@ -551,6 +551,7 @@ cpes:
   - cpe:2.3:a:gnome:glib:2.85.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.86.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:2.88.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.88.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.89.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:2.9.0:*:*:*:*:*:*:*

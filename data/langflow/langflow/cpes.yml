@@ -235,6 +235,12 @@ cpes:
   - cpe:2.3:a:langflow:langflow:1.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev0:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.0:dev5:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.3:*:*:*:*:*:*:*

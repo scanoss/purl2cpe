@@ -745,6 +745,7 @@ cpes:
   - cpe:2.3:a:strapi:strapi:4.25.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:4.26.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:4.26.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:strapi:strapi:4.26.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:4.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.3.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:4.3.0:beta1:*:*:*:node.js:*:*
@@ -1078,6 +1079,7 @@ cpes:
   - cpe:2.3:a:strapi:strapi:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:5.5.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:strapi:strapi:5.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:5.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.7.0:-:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fgmacedo/python-statemachine
+  - pkg:pypi/python-statemachine

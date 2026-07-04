@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/httpcomponents-core
+  - pkg:github/apache/httpcomponents-core

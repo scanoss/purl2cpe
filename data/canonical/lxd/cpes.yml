@@ -197,3 +197,5 @@ cpes:
   - cpe:2.3:a:canonical:lxd:6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:canonical:lxd:6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:lxd:6.9:*:*:*:*:*:*:*

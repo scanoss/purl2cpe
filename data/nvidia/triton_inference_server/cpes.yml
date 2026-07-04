@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:nvidia:triton_inference_server:25.12:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:26.01:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:triton_inference_server:26.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:triton_inference_server:26.03:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:rapid7:insightconnect_sqlmap:*:*:*:*:*:rapid7:*:*
