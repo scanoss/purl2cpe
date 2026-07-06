@@ -1655,6 +1655,7 @@ cpes:
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-23:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-24:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:7.1.2-26:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-3:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-5:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:7.1.2-6:*:*:*:*:*:*:*

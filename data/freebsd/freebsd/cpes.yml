@@ -411,6 +411,7 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:14.3:p12:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.3:p13:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.3:p14:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:14.3:p15:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.3:p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.3:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.3:p4:*:*:*:*:*:*

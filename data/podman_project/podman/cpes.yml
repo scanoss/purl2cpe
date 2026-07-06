@@ -264,4 +264,6 @@ cpes:
   - cpe:2.3:a:podman_project:podman:5.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:podman_project:podman:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:podman_project:podman:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:podman_project:podman:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:podman_project:podman:6.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:podman_project:podman:6.0.0:rc1:*:*:*:*:*:*

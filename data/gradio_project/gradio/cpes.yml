@@ -594,6 +594,12 @@ cpes:
   - cpe:2.3:a:gradio_project:gradio:6.15.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:6.15.1:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:6.15.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.17.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.17.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.17.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.17.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.18.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:gradio_project:gradio:6.19.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:6.2.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:6.3.0:*:*:*:*:python:*:*
   - cpe:2.3:a:gradio_project:gradio:6.4.0:*:*:*:*:python:*:*
