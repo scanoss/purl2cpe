@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gohugo:hugo:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gohugo:hugo:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gohugo:hugo:0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:gohugo:hugo:0.100.0:*:*:*:*:linux:*:*

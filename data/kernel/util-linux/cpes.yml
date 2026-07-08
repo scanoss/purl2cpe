@@ -212,8 +212,12 @@ cpes:
   - cpe:2.3:a:kernel:util-linux:2.41.2:-:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.41.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.41.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:util-linux:2.41.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.41:rc1:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.41:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:util-linux:2.42:-:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:util-linux:2.42:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:util-linux:2.42:rc2:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kernel:util-linux:2.8:*:*:*:*:*:*:*
