@@ -102,6 +102,8 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-google:21.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:21.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:4.0.0:*:*:*:*:*:*:*

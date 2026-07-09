@@ -1,5 +1,10 @@
 cpes:
+  - cpe:2.3:a:apple:container:0.10.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.1.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:0.11.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:0.12.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:0.12.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:0.12.2:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.2.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.3.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.4.0:*:*:*:*:swift:*:*
@@ -9,4 +14,5 @@ cpes:
   - cpe:2.3:a:apple:container:0.7.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.7.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:0.8.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:0.9.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:*:*:*:*:*:swift:*:*

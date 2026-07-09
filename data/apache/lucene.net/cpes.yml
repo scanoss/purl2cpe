@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:apache:lucene.net:4.8.0:beta00014:*:*:*:*:*:*
   - cpe:2.3:a:apache:lucene.net:4.8.0:beta00015:*:*:*:*:*:*
   - cpe:2.3:a:apache:lucene.net:4.8.0:beta00016:*:*:*:*:*:*
+  - cpe:2.3:a:apache:lucene.net:4.8.0:beta00017:*:*:*:*:*:*

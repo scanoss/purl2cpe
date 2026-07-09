@@ -11,3 +11,15 @@ cpes:
   - cpe:2.3:a:ntop:ntopng:3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:ntop:ntopng:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ntop:ntopng:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ntop:ntopng:6.6:*:*:*:*:*:*:*

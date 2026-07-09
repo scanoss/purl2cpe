@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:a:libreswan:libreswan:4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:libreswan:libreswan:4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:libreswan:libreswan:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libreswan:libreswan:4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:libreswan:libreswan:4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libreswan:libreswan:4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libreswan:libreswan:4.4:*:*:*:*:*:*:*

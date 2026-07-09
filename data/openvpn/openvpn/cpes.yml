@@ -473,6 +473,7 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.5.0:rc3:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.5.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.5.11:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.5.1:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.5.2:*:*:*:community:*:*:*
@@ -496,7 +497,11 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.6.14:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.15:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.16:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.17:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.18:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.19:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.6.20:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.2:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.3:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.4:*:*:*:community:*:*:*
@@ -506,6 +511,10 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.6.8:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.6.9:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7.4:*:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:alpha1:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:alpha2:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:alpha3:*:*:community:*:*:*
@@ -514,6 +523,10 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn:2.7:beta3:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:rc1:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:2.7:rc2:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7:rc3:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7:rc4:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7:rc5:*:*:community:*:*:*
+  - cpe:2.3:a:openvpn:openvpn:2.7:rc6:*:*:community:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn:*:*:*:*:community:*:*:*

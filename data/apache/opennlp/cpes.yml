@@ -40,3 +40,4 @@ cpes:
   - cpe:2.3:a:apache:opennlp:2.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:opennlp:3.0.0:m1:*:*:*:*:*:*
   - cpe:2.3:a:apache:opennlp:3.0.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:opennlp:3.0.0:m3:*:*:*:*:*:*

@@ -557,6 +557,27 @@ cpes:
   - cpe:2.3:a:gohugo:hugo:0.160.1:*:*:*:*:linux:*:*
   - cpe:2.3:a:gohugo:hugo:0.160.1:*:*:*:*:macos:*:*
   - cpe:2.3:a:gohugo:hugo:0.160.1:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.0:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.1:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.1:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.161.1:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.0:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.1:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.1:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.162.1:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.0:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.1:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.1:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.1:*:*:*:*:windows:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.2:*:*:*:*:linux:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.2:*:*:*:*:macos:*:*
+  - cpe:2.3:a:gohugo:hugo:0.163.2:*:*:*:*:windows:*:*
   - cpe:2.3:a:gohugo:hugo:0.16:*:*:*:*:linux:*:*
   - cpe:2.3:a:gohugo:hugo:0.16:*:*:*:*:macos:*:*
   - cpe:2.3:a:gohugo:hugo:0.16:*:*:*:*:windows:*:*
