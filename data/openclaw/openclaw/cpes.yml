@@ -251,6 +251,9 @@ cpes:
   - cpe:2.3:a:openclaw:openclaw:2026.5.26:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:openclaw:openclaw:2026.5.26:beta2:*:*:*:node.js:*:*
   - cpe:2.3:a:openclaw:openclaw:2026.5.26:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:openclaw:openclaw:2026.5.27:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:openclaw:openclaw:2026.5.27:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:openclaw:openclaw:2026.5.27:-:*:*:*:node.js:*:*
   - cpe:2.3:a:openclaw:openclaw:2026.5.2:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:openclaw:openclaw:2026.5.2:beta2:*:*:*:node.js:*:*
   - cpe:2.3:a:openclaw:openclaw:2026.5.2:beta3:*:*:*:node.js:*:*
