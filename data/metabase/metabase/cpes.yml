@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:metabase:metabase:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:metabase:metabase:*:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.10.0:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.10.3:*:*:*:*:*:*:*
@@ -1224,6 +1225,12 @@ cpes:
   - cpe:2.3:a:metabase:metabase:0.58.5.5:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.58.6:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.58.6.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.58.7:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.58.7.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.59.0.1:beta:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.59.0.2:beta:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.59.0.3:beta:*:*:-:*:*:*
+  - cpe:2.3:a:metabase:metabase:0.59.0:beta:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9:*:*:*:-:*:*:*
   - cpe:2.3:a:metabase:metabase:0.9.1:*:*:*:-:*:*:*
@@ -2213,6 +2220,8 @@ cpes:
   - cpe:2.3:a:metabase:metabase:1.58.0.8:beta:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.58.0.9:beta:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.58.0:beta:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.58.10.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.58.10:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.58.1.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.58.1.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.58.1.3:*:*:*:enterprise:*:*:*
@@ -2283,4 +2292,14 @@ cpes:
   - cpe:2.3:a:metabase:metabase:1.59.3.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.59.3.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:1.59.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4.2:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.59.4:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.60.0.1:beta:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.60.0.2:beta:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.60.0.3:beta:*:*:enterprise:*:*:*
+  - cpe:2.3:a:metabase:metabase:1.60.0:beta:*:*:enterprise:*:*:*
   - cpe:2.3:a:metabase:metabase:*:*:*:*:enterprise:*:*:*

@@ -99,4 +99,5 @@ cpes:
   - cpe:2.3:a:tonycoz:imager:1.024:008:*:*:*:perl:*:*
   - cpe:2.3:a:tonycoz:imager:1.024:*:*:*:*:perl:*:*
   - cpe:2.3:a:tonycoz:imager:1.024:-:*:*:*:perl:*:*
+  - cpe:2.3:a:tonycoz:imager:1.025:*:*:*:*:perl:*:*
   - cpe:2.3:a:tonycoz:imager:-:*:*:*:*:perl:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amazon:advanced_jdbc_wrapper:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:advanced_jdbc_wrapper:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:advanced_jdbc_wrapper:4.0.0:*:*:*:*:*:*:*

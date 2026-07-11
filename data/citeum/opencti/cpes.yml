@@ -345,3 +345,14 @@ cpes:
   - cpe:2.3:a:citeum:opencti:6.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:6.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:7.260224.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260227.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260305.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260306.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260306.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260309.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260309.0:lts1:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260309.0:lts2:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260309.0:lts3:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260309.0:lts4:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260317.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260318.0:*:*:*:*:*:*:*

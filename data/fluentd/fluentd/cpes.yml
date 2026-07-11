@@ -198,6 +198,24 @@ cpes:
   - cpe:2.3:a:fluentd:fluentd:1.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentd:fluentd:1.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentd:fluentd:1.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.16.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluentd:fluentd:1.19.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentd:fluentd:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentd:fluentd:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fluentd:fluentd:1.2.2:*:*:*:*:*:*:*

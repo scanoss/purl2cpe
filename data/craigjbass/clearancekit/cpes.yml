@@ -1,2 +1,31 @@
 cpes:
   - cpe:2.3:a:craigjbass:clearancekit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:4.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:craigjbass:clearancekit:5.0.5:*:*:*:*:*:*:*

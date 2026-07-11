@@ -100,6 +100,11 @@ cpes:
   - cpe:2.3:a:yhirose:cpp-httplib:0.43.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yhirose:cpp-httplib:0.43.3:*:*:*:*:*:*:*
   - cpe:2.3:a:yhirose:cpp-httplib:0.43.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:yhirose:cpp-httplib:0.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yhirose:cpp-httplib:0.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yhirose:cpp-httplib:0.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yhirose:cpp-httplib:0.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yhirose:cpp-httplib:0.46.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yhirose:cpp-httplib:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:yhirose:cpp-httplib:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:yhirose:cpp-httplib:0.5.10:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:paloaltonetworks:cortex_xsiam:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xsiam:1.1.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bentoml/openllm
+  - pkg:pypi/openllmtrace

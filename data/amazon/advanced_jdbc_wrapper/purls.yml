@@ -1,0 +1,2 @@
+purls:
+  - pkg:maven/software.amazon.jdbc/aws-advanced-jdbc-wrapper

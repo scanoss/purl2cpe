@@ -22,6 +22,11 @@ cpes:
   - cpe:2.3:a:jeesite:jeesite:5.12.0:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.12.1:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.13.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.13.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.14.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.14.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.15.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:jeesite:jeesite:5.15.1:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.2.1:*:*:*:-:*:*:*
   - cpe:2.3:a:jeesite:jeesite:5.2.2:*:*:*:-:*:*:*

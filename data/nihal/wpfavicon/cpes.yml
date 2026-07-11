@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:nihal:wpfavicon:2.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nihal:wpfavicon:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nihal:wpfavicon:-:*:*:*:*:wordpress:*:*
