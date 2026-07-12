@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mvantellingen/python-zeep
+  - pkg:pypi/zeep

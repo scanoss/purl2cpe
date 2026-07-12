@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:python-zeep:zeep:4.0.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.0.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-zeep:zeep:4.3.2:*:*:*:*:python:*:*
