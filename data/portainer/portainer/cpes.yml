@@ -391,6 +391,7 @@ cpes:
   - cpe:2.3:a:portainer:portainer:2.39.2:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.39.2:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.39.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.39.4:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.40.0:*:*:*:business:*:*:*
   - cpe:2.3:a:portainer:portainer:2.40.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.4.0:*:*:*:business:*:*:*
@@ -398,6 +399,7 @@ cpes:
   - cpe:2.3:a:portainer:portainer:2.41.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.41.1:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.42.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:portainer:portainer:2.43.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.0:*:*:*:community:*:*:*
   - cpe:2.3:a:portainer:portainer:2.5.1:*:*:*:*:*:*:*

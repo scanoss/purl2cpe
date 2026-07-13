@@ -241,9 +241,11 @@ cpes:
   - cpe:2.3:a:clamav:clamav:1.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.5.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.5.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamav:clamav:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:clamav:clamav:-:*:*:*:lts:*:*:*

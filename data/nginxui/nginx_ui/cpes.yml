@@ -197,3 +197,5 @@ cpes:
   - cpe:2.3:a:nginxui:nginx_ui:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nginxui:nginx_ui:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nginxui:nginx_ui:2.3.7:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:eclipse:threadx_filex:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx_filex:6.4.1:*:*:*:*:*:*:*
