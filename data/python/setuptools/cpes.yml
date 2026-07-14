@@ -498,14 +498,128 @@ cpes:
   - cpe:2.3:a:python:setuptools:65.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:65.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:65.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:65.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:65.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:66.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:66.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:66.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:67.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:68.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:69.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:70.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:70.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:70.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:70.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:70.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:71.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:72.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:72.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:72.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:73.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:73.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:74.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:74.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:74.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:74.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:74.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:75.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:76.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:76.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:77.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:77.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:77.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:77.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:78.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:78.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:78.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:78.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:78.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:79.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:79.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:80.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:81.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:82.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:setuptools:82.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:setuptools:9.0:*:*:*:*:*:*:*

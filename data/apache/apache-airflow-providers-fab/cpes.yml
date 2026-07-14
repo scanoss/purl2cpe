@@ -115,3 +115,11 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.3:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.6.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.1:rc1:*:*:*:*:*:*

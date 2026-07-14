@@ -11,3 +11,6 @@ cpes:
   - cpe:2.3:a:openquantumsafe:liboqs:0.13.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:openquantumsafe:liboqs:0.14.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openquantumsafe:liboqs:0.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openquantumsafe:liboqs:0.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openquantumsafe:liboqs:0.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openquantumsafe:liboqs:0.15.0:rc2:*:*:*:*:*:*

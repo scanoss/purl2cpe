@@ -356,3 +356,4 @@ cpes:
   - cpe:2.3:a:citeum:opencti:7.260309.0:lts4:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:7.260317.0:*:*:*:*:*:*:*
   - cpe:2.3:a:citeum:opencti:7.260318.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:citeum:opencti:7.260326.0:*:*:*:*:*:*:*

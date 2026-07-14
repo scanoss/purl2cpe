@@ -117,9 +117,25 @@ cpes:
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.53.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.56.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.59.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.60.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.61.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cvat:computer_vision_annotation_tool:2.7.2:*:*:*:*:*:*:*

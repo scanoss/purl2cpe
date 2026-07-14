@@ -288,6 +288,7 @@ cpes:
   - cpe:2.3:a:golang:go:1.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.26.2:*:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.26.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:golang:go:1.27:rc1:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*
   - cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*

@@ -240,3 +240,17 @@ cpes:
   - cpe:2.3:a:socket:engine.io:6.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:engine.io:6.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:engine.io:6.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:engine.io:6.6.6:*:*:*:*:node.js:*:*

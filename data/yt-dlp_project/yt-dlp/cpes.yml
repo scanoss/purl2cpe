@@ -97,4 +97,8 @@ cpes:
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.01.31:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.02.04:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.02.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.03.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.03.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.03.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:yt-dlp_project:yt-dlp:2026.06.09:*:*:*:*:*:*:*
   - cpe:2.3:a:yt-dlp_project:yt-dlp:*:*:*:*:nightly:*:*:*
