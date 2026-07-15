@@ -268,3 +268,6 @@ cpes:
   - cpe:2.3:a:snipeitapp:snipe-it:8.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:snipeitapp:snipe-it:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snipeitapp:snipe-it:8.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snipeitapp:snipe-it:8.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snipeitapp:snipe-it:8.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snipeitapp:snipe-it:8.6.1:*:*:*:*:*:*:*

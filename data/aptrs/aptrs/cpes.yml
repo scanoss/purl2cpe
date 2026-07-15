@@ -1,2 +1,6 @@
 cpes:
+  - cpe:2.3:a:aptrs:aptrs:0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:aptrs:aptrs:1.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:aptrs:aptrs:1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:aptrs:aptrs:2.0:*:*:*:*:python:*:*
   - cpe:2.3:a:aptrs:aptrs:*:*:*:*:*:python:*:*

@@ -14,5 +14,8 @@ cpes:
   - cpe:2.3:a:apache:doris:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:2.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:doris:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:3.0.3:*:*:*:*:*:*:*
