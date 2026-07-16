@@ -274,6 +274,7 @@ cpes:
   - cpe:2.3:a:apache:camel:4.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.14.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:4.14.8:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:4.17.0:*:*:*:*:*:*:*
