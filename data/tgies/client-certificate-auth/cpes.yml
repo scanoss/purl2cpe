@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:tgies:client-certificate-auth:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tgies:client-certificate-auth:0.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:tgies:client-certificate-auth:*:*:*:*:*:node.js:*:*

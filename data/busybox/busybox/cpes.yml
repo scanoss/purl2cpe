@@ -142,6 +142,7 @@ cpes:
   - cpe:2.3:a:busybox:busybox:1.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:busybox:busybox:1.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.4.2:*:*:*:*:*:*:*
@@ -164,3 +165,4 @@ cpes:
   - cpe:2.3:a:busybox:busybox:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:busybox:busybox:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:busybox:busybox:2024-07-13:*:*:*:*:*:*:*

@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:rapid7:insightconnect_awk:1.1.2:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_awk:1.2.0:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_awk:1.2.1:*:*:*:*:rapid7:*:*
   - cpe:2.3:a:rapid7:insightconnect_awk:*:*:*:*:*:rapid7:*:*

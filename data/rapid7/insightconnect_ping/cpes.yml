@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:rapid7:insightconnect_ping:1.0.1:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_ping:1.0.2:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_ping:1.0.3:*:*:*:*:rapid7:*:*
   - cpe:2.3:a:rapid7:insightconnect_ping:*:*:*:*:*:rapid7:*:*

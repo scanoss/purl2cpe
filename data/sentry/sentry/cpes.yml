@@ -173,6 +173,13 @@ cpes:
   - cpe:2.3:a:sentry:sentry:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:26.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:26.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sentry:sentry:26.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sentry:sentry:2.8.1:*:*:*:*:*:*:*

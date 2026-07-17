@@ -99,3 +99,4 @@ cpes:
   - cpe:2.3:a:f5:nginx_ingress_controller:5.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:5.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:5.5.1:*:*:*:*:*:*:*

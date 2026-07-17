@@ -369,3 +369,11 @@ cpes:
   - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:6.9.9:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/qax-os/excelize
+  - pkg:golang/github.com/qax-os/excelize

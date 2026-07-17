@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:rapid7:insightconnect_sqlmap:1.1.0:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_sqlmap:1.1.1:*:*:*:*:rapid7:*:*
+  - cpe:2.3:a:rapid7:insightconnect_sqlmap:2.0.0:*:*:*:*:rapid7:*:*
   - cpe:2.3:a:rapid7:insightconnect_sqlmap:*:*:*:*:*:rapid7:*:*

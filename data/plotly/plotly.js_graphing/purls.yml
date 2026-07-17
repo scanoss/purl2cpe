@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/plotly/plotly.js
+  - pkg:github/plotly/plotly.js
+  - pkg:npm/plotly.js
