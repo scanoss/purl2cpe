@@ -21,6 +21,8 @@ cpes:
   - cpe:2.3:a:shaarli_project:shaarli:0.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shaarli_project:shaarli:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shaarli_project:shaarli:0.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:shaarli_project:shaarli:0.5.2:*:*:*:*:*:*:*

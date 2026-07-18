@@ -1,2 +1,6 @@
 cpes:
+  - cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:0.1.0:alpha1:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:0.1.0:alpha2:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:0.1.0:alpha3:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:0.1.0:alpha4:*:*:*:.net:*:*
   - cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:*:*:*:*:*:.net:*:*

@@ -68,6 +68,7 @@ cpes:
   - cpe:2.3:a:ijl:orjson:3.11.1:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.11.2:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.11.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:ijl:orjson:3.11.4:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.1.1:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.1.2:*:*:*:*:python:*:*
   - cpe:2.3:a:ijl:orjson:3.2.0:*:*:*:*:python:*:*

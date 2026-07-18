@@ -301,4 +301,7 @@ cpes:
   - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awesomemotive:easy_digital_downloads:3.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:awesomemotive:easy_digital_downloads:-:*:*:*:*:wordpress:*:*
