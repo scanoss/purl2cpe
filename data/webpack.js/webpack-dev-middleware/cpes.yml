@@ -74,3 +74,4 @@ cpes:
   - cpe:2.3:a:webpack.js:webpack-dev-middleware:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:webpack.js:webpack-dev-middleware:6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:webpack.js:webpack-dev-middleware:6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webpack.js:webpack-dev-middleware:7.0.0:*:*:*:*:*:*:*

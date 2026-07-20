@@ -92,6 +92,7 @@ cpes:
   - cpe:2.3:a:imagemagick:imagemagick:6.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.1.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.19.13-34:*:*:*:*:*:*:*
+  - cpe:2.3:a:imagemagick:imagemagick:6.19.13-51:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:imagemagick:imagemagick:6.2.0.3:*:*:*:*:*:*:*

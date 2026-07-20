@@ -98,4 +98,5 @@ cpes:
   - cpe:2.3:a:apache:syncope:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:4.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:syncope:4.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:syncope:4.1.0:milestone0:*:*:*:*:*:*

@@ -363,6 +363,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:6.5.0:milestone3:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.5.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.5.4:*:*:*:*:*:*:*
@@ -383,3 +384,4 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:7.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:7.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:7.0.5.1:*:*:*:*:*:*:*
