@@ -78,6 +78,11 @@ cpes:
   - cpe:2.3:a:monospace:directus:11.15.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.16.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.17.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.17.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:monospace:directus:11.17.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:monospace:directus:11.2.2:*:*:*:*:node.js:*:*

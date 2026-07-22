@@ -320,6 +320,13 @@ cpes:
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2025.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2025.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2025.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:spinnaker:2026.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2026.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2026.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:spinnaker:2026.1.0:*:*:*:*:*:*:*

@@ -170,26 +170,117 @@ cpes:
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.36.0-01:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.37.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.4.0-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.40.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.41.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.49.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.5.0-02:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.5.2-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.54.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.57.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.59.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.60.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.0-02:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.61.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.1-02:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.62.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.6.2-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.67.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.68.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.69.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.70.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.7.0-04:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.70.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.71.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.7.1-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.72.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.73.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.74.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.75.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.75.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.76.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.76.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.77.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.77.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.77.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.78.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.78.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.78.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.79.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.79.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.80.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.8.0-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.81.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.83.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.83.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.84.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.84.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.85.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.86.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.86.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.86.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.87.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.87.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.87.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.88.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.89.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.89.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.90.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.9.0-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.90.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.90.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.90.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.90.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.91.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.91.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:*:*:*:*:open_source:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:*:*:*:*:professional:*:*:*

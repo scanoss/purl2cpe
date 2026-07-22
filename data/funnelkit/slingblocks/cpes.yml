@@ -1,2 +1,15 @@
 cpes:
+  - cpe:2.3:a:funnelkit:slingblocks:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:funnelkit:slingblocks:1.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:funnelkit:slingblocks:*:*:*:*:*:wordpress:*:*
