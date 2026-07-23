@@ -1,2 +1,8 @@
 cpes:
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:2.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kylebjohnson:user_shortcodes_plus:-:*:*:*:*:wordpress:*:*

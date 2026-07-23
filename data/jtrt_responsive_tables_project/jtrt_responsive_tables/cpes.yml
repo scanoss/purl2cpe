@@ -21,5 +21,6 @@ cpes:
   - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:4.1.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:4.1.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:4.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:4.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jtrt_responsive_tables_project:jtrt_responsive_tables:-:*:*:*:*:wordpress:*:*

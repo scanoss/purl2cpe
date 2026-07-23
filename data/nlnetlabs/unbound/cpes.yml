@@ -84,6 +84,7 @@ cpes:
   - cpe:2.3:a:nlnetlabs:unbound:1.24.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:unbound:1.25.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:unbound:1.25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nlnetlabs:unbound:1.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:unbound:1.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:unbound:1.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:unbound:1.3.1:-:*:*:*:*:*:*

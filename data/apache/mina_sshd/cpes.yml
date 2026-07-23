@@ -39,6 +39,7 @@ cpes:
   - cpe:2.3:a:apache:mina_sshd:2.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina_sshd:2.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:2.4.0:*:*:*:*:*:*:*
@@ -54,3 +55,4 @@ cpes:
   - cpe:2.3:a:apache:mina_sshd:3.0.0:m1:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:3.0.0:m2:*:*:*:*:*:*
   - cpe:2.3:a:apache:mina_sshd:3.0.0:m3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:mina_sshd:3.0.0:m4:*:*:*:*:*:*
