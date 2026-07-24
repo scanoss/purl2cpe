@@ -119,3 +119,4 @@ cpes:
   - cpe:2.3:a:oracle:mysql_cluster:9.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:9.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_cluster:9.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_cluster:9.7.1:*:*:*:*:*:*:*

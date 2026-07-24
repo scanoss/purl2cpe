@@ -2834,6 +2834,40 @@ cpes:
   - cpe:2.3:a:n8n:n8n:2.28.0:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.28.1:*:*:*:community:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.28.1:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.2:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.2:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.3:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.3:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.4:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.4:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.5:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.5:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.6:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.6:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.7:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.28.7:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.0:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.0:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.1:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.1:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.2:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.2:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.3:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.3:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.4:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.4:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.5:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.5:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.6:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.6:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.7:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.7:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.8:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.8:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.9:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.29.9:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.30.0:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.30.0:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.3.0:*:*:*:community:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.3.0:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.3.0:*:*:*:*:node.js:*:*

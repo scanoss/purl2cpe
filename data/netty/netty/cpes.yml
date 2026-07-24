@@ -211,6 +211,7 @@ cpes:
   - cpe:2.3:a:netty:netty:4.1.133:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.134:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.135:*:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:4.1.136:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.15:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:4.1.16:*:*:*:*:*:*:*

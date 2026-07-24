@@ -1,2 +1,7 @@
 cpes:
+  - cpe:2.3:a:tillitis:tkey_client:0.0.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:tillitis:tkey_client:0.0.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:tillitis:tkey_client:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:tillitis:tkey_client:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:tillitis:tkey_client:1.2.0:*:*:*:*:go:*:*
   - cpe:2.3:a:tillitis:tkey_client:*:*:*:*:*:go:*:*

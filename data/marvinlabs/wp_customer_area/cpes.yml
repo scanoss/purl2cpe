@@ -1,7 +1,11 @@
 cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:1.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:1.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.3.0:*:*:*:*:wordpress:*:*
@@ -9,6 +13,7 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:1.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.6.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:1.6.4:*:*:*:*:wordpress:*:*
@@ -22,18 +27,25 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.3.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:3.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.6.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.7.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:3.7.1:*:*:*:*:wordpress:*:*
@@ -54,12 +66,15 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:4.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.5.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:4.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:5.0.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:5.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:5.0.4:*:*:*:*:wordpress:*:*
@@ -100,6 +115,7 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.1.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:7.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:7.4.1:*:*:*:*:wordpress:*:*
@@ -137,11 +153,15 @@ cpes:
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:marvinlabs:wp_customer_area:8.2.4:*:*:*:*:wordpress:*:*

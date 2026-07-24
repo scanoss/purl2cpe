@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pydantic/pydantic-settings
+  - pkg:pypi/pydantic-settings

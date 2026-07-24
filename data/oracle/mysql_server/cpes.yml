@@ -63,3 +63,4 @@ cpes:
   - cpe:2.3:a:oracle:mysql_server:9.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql_server:9.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_server:9.7.1:*:*:*:*:*:*:*

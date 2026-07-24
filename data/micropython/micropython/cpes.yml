@@ -4,3 +4,9 @@ cpes:
   - cpe:2.3:a:micropython:micropython:1.22.0:preview:*:*:*:*:*:*
   - cpe:2.3:a:micropython:micropython:1.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:micropython:micropython:1.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.26.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:micropython:micropython:1.27.0:-:*:*:*:*:*:*

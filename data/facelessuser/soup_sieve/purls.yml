@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facelessuser/soupsieve
+  - pkg:pypi/soupsieve

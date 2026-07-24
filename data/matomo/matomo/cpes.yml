@@ -163,5 +163,6 @@ cpes:
   - cpe:2.3:a:matomo:matomo:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:matomo:matomo:3.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:matomo:matomo:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:matomo:4.5.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:matomo:matomo:*:*:*:*:*:drupal:*:*
   - cpe:2.3:a:matomo:matomo:*:*:*:*:*:wordpress:*:*
