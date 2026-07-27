@@ -69,3 +69,4 @@ cpes:
   - cpe:2.3:a:gnu:libidn:0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libidn:1.30:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libidn:1.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libidn:1.43:*:*:*:*:*:*:*
