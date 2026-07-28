@@ -1,2 +1,21 @@
 cpes:
   - cpe:2.3:a:apache:neethi:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:1.01:rc:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:neethi:3.2.2:*:*:*:*:*:*:*

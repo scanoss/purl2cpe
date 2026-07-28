@@ -102,8 +102,19 @@ cpes:
   - cpe:2.3:a:mobyproject:buildkit:0.28.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.28.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.28.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.29.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.29.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.30.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.30.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.30.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.31.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.31.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.31.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:buildkit:0.31.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mobyproject:buildkit:0.4.0:*:*:*:*:*:*:*

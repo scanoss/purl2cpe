@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:apache:fory:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:*:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:fory:0.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:fory:0.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:fory:0.10.0:rc1:*:*:*:*:*:*
@@ -103,3 +104,9 @@ cpes:
   - cpe:2.3:a:apache:fory:0.9.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:fory:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:fory:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fory:1.3.0:rc1:*:*:*:*:*:*

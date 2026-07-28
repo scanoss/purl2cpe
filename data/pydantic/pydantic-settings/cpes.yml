@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:pydantic:pydantic-settings:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic-settings:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic-settings:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic-settings:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic-settings:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic-settings:2.14.1:*:*:*:*:*:*:*
