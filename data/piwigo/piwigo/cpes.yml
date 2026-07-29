@@ -99,8 +99,10 @@ cpes:
   - cpe:2.3:a:piwigo:piwigo:1.6.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:16.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.6.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:piwigo:piwigo:16.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:piwigo:piwigo:1.7.0:rc1:*:*:*:*:*:*

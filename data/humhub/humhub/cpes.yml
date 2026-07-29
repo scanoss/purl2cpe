@@ -102,6 +102,7 @@ cpes:
   - cpe:2.3:a:humhub:humhub:1.18.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.18.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.18.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:humhub:humhub:1.18.0:beta6:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:humhub:humhub:1.2.0:beta1:*:*:*:*:*:*

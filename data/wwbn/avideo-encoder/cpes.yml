@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:wwbn:avideo-encoder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo-encoder:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo-encoder:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wwbn:avideo-encoder:3.7:*:*:*:*:*:*:*

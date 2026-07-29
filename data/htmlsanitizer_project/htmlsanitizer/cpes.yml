@@ -216,3 +216,8 @@ cpes:
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.0.884:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.0.886:*:*:*:*:*:*:*
   - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.0.889:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.1.878:beta:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.1.882:beta:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.1.885:beta:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.1.887:beta:*:*:*:*:*:*
+  - cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:9.1.891:beta:*:*:*:*:*:*

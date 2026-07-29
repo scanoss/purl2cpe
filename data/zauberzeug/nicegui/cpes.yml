@@ -313,3 +313,4 @@ cpes:
   - cpe:2.3:a:zauberzeug:nicegui:3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zauberzeug:nicegui:3.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zauberzeug:nicegui:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zauberzeug:nicegui:3.8.0:*:*:*:*:*:*:*
