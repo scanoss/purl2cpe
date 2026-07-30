@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/odata/webapi
+  - pkg:nuget/nuget/microsoft.data.odata

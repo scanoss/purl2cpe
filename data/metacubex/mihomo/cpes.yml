@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:metacubex:mihomo:1.19.11:*:*:*:*:*:*:*
   - cpe:2.3:a:metacubex:mihomo:1.9.11:*:*:*:*:*:*:*

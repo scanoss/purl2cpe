@@ -1,2 +1,10 @@
 cpes:
   - cpe:2.3:a:danielmiessler:fabric:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:0.9.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:danielmiessler:fabric:1.3.0:*:*:*:*:*:*:*

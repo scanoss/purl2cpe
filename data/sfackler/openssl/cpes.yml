@@ -50,8 +50,33 @@ cpes:
   - cpe:2.3:a:sfackler:openssl:0.10.52:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.53:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.54:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.55:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.56:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.57:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.58:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.59:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.60:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.61:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.62:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.63:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.64:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.65:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.66:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.67:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.68:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.69:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.70:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.71:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.72:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.73:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.74:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.75:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.76:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.77:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.78:*:*:*:*:rust:*:*
+  - cpe:2.3:a:sfackler:openssl:0.10.79:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.7:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.8:*:*:*:*:rust:*:*
   - cpe:2.3:a:sfackler:openssl:0.10.9:*:*:*:*:rust:*:*

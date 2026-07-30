@@ -374,6 +374,13 @@ cpes:
   - cpe:2.3:a:systeminformation:systeminformation:5.30.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.30.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:systeminformation:systeminformation:5.31.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:systeminformation:systeminformation:5.3.3:*:*:*:*:node.js:*:*

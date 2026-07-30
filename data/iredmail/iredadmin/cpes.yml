@@ -9,11 +9,18 @@ cpes:
   - cpe:2.3:a:iredmail:iredadmin:0.3.3:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.4.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.4.2:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.4.3:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.4:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.5:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.6.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.6.2:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.6.3:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.6:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.7:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.8:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.9.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.9.2:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:0.9.3:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.9.4:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.9.5:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:0.9.6:*:*:*:open_source:*:*:*
@@ -32,6 +39,7 @@ cpes:
   - cpe:2.3:a:iredmail:iredadmin:1.8.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:1.8:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:1.9.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:1.9:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:2.0:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:2.1:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:2.2:*:*:*:open_source:*:*:*
@@ -39,3 +47,4 @@ cpes:
   - cpe:2.3:a:iredmail:iredadmin:2.4:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:2.5:*:*:*:open_source:*:*:*
   - cpe:2.3:a:iredmail:iredadmin:*:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:iredmail:iredadmin:-:*:*:*:open_source:*:*:*

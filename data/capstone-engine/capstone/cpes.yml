@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:capstone-engine:capstone:5.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:5.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:5.0:post1:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:5.0:rc2:*:*:*:*:*:*
@@ -46,3 +47,5 @@ cpes:
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha3:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha4:*:*:*:*:*:*
   - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:capstone-engine:capstone:6.0.0:alpha7:*:*:*:*:*:*

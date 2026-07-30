@@ -18,8 +18,20 @@ cpes:
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.15:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.19.1:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:facelessuser:pymdown_extensions:10.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:facelessuser:pymdown_extensions:10.4:*:*:*:*:*:*:*

@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:arajajyothibabu:school_management_system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:arajajyothibabu:school_management_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:arajajyothibabu:school_management_system:2020-06-20:*:*:*:*:*:*:*
   - cpe:2.3:a:arajajyothibabu:school_management_system:bae5aa:*:*:*:*:*:*:*
