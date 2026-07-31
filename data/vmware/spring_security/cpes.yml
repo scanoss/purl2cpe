@@ -244,6 +244,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:5.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.7.22:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.7.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:5.7.24:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.7.5:*:*:*:*:*:*:*
@@ -268,6 +269,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.8.24:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.8.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:5.8.26:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:5.8.5:*:*:*:*:*:*:*
@@ -331,6 +333,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:6.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.3.15:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.3.17:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.3.4:*:*:*:*:*:*:*
@@ -349,6 +352,7 @@ cpes:
   - cpe:2.3:a:vmware:spring_security:6.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.4.15:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_security:6.4.17:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_security:6.4.4:*:*:*:*:*:*:*

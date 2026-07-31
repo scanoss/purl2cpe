@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xsoar:-:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:70066:*:*:*:*:*:*

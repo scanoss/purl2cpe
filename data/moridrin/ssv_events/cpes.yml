@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:moridrin:ssv_events:3.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:moridrin:ssv_events:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:moridrin:ssv_events:-:*:*:*:*:wordpress:*:*

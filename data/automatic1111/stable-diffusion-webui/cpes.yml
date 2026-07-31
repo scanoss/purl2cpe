@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:automatic1111:stable-diffusion-webui:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:automatic1111:stable-diffusion-webui:1.10.0:-:*:*:*:*:*:*
   - cpe:2.3:a:automatic1111:stable-diffusion-webui:2024-07-27*:*:*:*:*:*:*:*
   - cpe:2.3:a:automatic1111:stable-diffusion-webui:2024-07-27:*:*:*:*:*:*:*

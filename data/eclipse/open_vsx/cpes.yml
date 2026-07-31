@@ -1,5 +1,7 @@
 cpes:
   - cpe:2.3:a:eclipse:open_vsx:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:open_vsx:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:open_vsx:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:open_vsx:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:open_vsx:0.34.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:open_vsx:0.9.0:*:*:*:*:*:*:*

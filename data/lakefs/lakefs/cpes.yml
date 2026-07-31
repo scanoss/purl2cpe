@@ -251,6 +251,15 @@ cpes:
   - cpe:2.3:a:lakefs:lakefs:1.74.4:*:*:*:*:*:*:*
   - cpe:2.3:a:lakefs:lakefs:1.75.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lakefs:lakefs:1.76.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.77.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.77.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.78.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.79.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lakefs:lakefs:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.80.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.81.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lakefs:lakefs:1.83.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lakefs:lakefs:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lakefs:lakefs:1.9.1:*:*:*:*:*:*:*
