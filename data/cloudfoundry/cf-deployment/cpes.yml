@@ -218,18 +218,125 @@ cpes:
   - cpe:2.3:a:cloudfoundry:cf-deployment:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:40.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:40.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:41.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:41.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:41.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:41.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:42.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:43.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:44.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:45.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:45.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:46.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:47.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:47.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:48.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:49.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:49.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:50.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:50.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:50.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:50.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:50.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:51.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:52.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:53.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cf-deployment:54.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:cf-deployment:6.1.0:*:*:*:*:*:*:*

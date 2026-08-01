@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:aizuda:snail-job:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aizuda:snail-job:1.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:aizuda:snail-job:1.4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:aizuda:snail-job:1.4.0:beta2:*:*:*:*:*:*
