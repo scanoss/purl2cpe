@@ -100,10 +100,14 @@ cpes:
   - cpe:2.3:a:openstack:swift:2.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:swift:2.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:swift:2.36.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.37.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:swift:2.37.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:swift:2.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:swift:2.6.0:*:*:*:*:*:*:*

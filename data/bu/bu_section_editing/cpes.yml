@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:bu:bu_section_editing:0.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bu:bu_section_editing:*:*:*:*:*:wordpress:*:*

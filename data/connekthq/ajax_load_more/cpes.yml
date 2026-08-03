@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:connekthq:ajax_load_more:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:connekthq:ajax_load_more:2.8.1.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:connekthq:ajax_load_more:5.1.0.1:*:*:*:*:wordpress:*:*

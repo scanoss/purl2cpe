@@ -204,6 +204,7 @@ cpes:
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.80:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.6.90:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.10:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddyboss:buddyboss_platform:2.7.30:*:*:*:*:wordpress:*:*

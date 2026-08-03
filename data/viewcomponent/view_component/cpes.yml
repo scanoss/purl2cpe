@@ -169,6 +169,7 @@ cpes:
   - cpe:2.3:a:viewcomponent:view_component:3.23.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.23.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.24.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:viewcomponent:view_component:3.25.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.3.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.4.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:viewcomponent:view_component:3.5.0:*:*:*:*:ruby:*:*

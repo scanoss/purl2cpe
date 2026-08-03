@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:cert-manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.20.2:*:*:*:*:*:*:*

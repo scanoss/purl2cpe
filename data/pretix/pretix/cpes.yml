@@ -101,6 +101,8 @@ cpes:
   - cpe:2.3:a:pretix:pretix:2025.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2026.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2026.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2026.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:2026.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pretix:pretix:2.3.0:*:*:*:*:*:*:*

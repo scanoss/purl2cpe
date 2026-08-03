@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/baidu/brcc
+  - pkg:github/baidu/brcc
+  - pkg:maven/com.baidu.mapp/brcc-core

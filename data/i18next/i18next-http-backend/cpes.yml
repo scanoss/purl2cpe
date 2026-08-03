@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:i18next:i18next-http-backend:0.0.1:security:*:*:*:node.js:*:*
   - cpe:2.3:a:i18next:i18next-http-backend:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:i18next:i18next-http-backend:1.0.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:i18next:i18next-http-backend:1.0.11:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cert-manager/cert-manager
+  - pkg:golang/github.com/cert-manager/cert-manager

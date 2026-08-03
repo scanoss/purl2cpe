@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:bulktheme:wooexim:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:bulktheme:wooexim:*:*:*:*:*:wordpress:*:*

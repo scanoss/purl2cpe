@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:ajayrandhawa:user-management-php-mysql:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ajayrandhawa:user-management-php-mysql:2023-03-16:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:blakelong:tournament_bracket_generator:1.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:blakelong:tournament_bracket_generator:*:*:*:*:*:wordpress:*:*
