@@ -148,6 +148,9 @@ cpes:
   - cpe:2.3:a:postcss:postcss:7.0.34:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:7.0.35:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:7.0.36:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:7.0.37:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:7.0.38:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:7.0.39:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:7.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:7.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:7.0.5:*:*:*:*:node.js:*:*
@@ -197,5 +200,87 @@ cpes:
   - cpe:2.3:a:postcss:postcss:8.2.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:8.2.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:8.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:8.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:postcss:postcss:8.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.3.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.26:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.27:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.28:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.29:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.30:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.31:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.32:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.33:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.34:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.35:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.36:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.37:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.38:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.39:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.40:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.41:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.42:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.43:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.44:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.45:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.46:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.47:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.48:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.49:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.4.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:postcss:postcss:8.5.9:*:*:*:*:node.js:*:*
