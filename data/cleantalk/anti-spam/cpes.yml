@@ -443,4 +443,5 @@ cpes:
   - cpe:2.3:a:cleantalk:anti-spam:9.5.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:cleantalk:anti-spam:9.6.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:cleantalk:anti-spam:9.6.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:9.7.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:cleantalk:anti-spam:*:*:*:*:*:wordpress:*:*

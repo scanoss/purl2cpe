@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:webmin:webmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:-:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:0.21:*:*:*:*:*:*:*
@@ -252,3 +253,7 @@ cpes:
   - cpe:2.3:a:webmin:webmin:2.630:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2.640:*:*:*:*:*:*:*
   - cpe:2.3:a:webmin:webmin:2.641:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.650:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.651:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.652:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmin:webmin:2.653:*:*:*:*:*:*:*
