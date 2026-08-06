@@ -123,3 +123,5 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-fab:3.7.2:rc1:*:*:*:*:*:*

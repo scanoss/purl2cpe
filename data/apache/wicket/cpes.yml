@@ -21,6 +21,7 @@ cpes:
   - cpe:2.3:a:apache:wicket:10.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:10.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:10.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:10.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:1.0:rc3:*:*:*:*:*:*
@@ -252,6 +253,7 @@ cpes:
   - cpe:2.3:a:apache:wicket:9.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:wicket:9.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wicket:9.5.0:*:*:*:*:*:*:*

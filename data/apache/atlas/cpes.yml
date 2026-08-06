@@ -50,3 +50,8 @@ cpes:
   - cpe:2.3:a:apache:atlas:2.4.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:atlas:2.4.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:apache:atlas:2.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:atlas:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:atlas:2.5.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:atlas:2.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:atlas:2.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:atlas:2.5.0:rc3:*:*:*:*:*:*
