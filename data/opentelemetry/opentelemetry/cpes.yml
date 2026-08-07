@@ -205,3 +205,4 @@ cpes:
   - cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:go:*:*
   - cpe:2.3:a:opentelemetry:opentelemetry:-:*:*:*:*:go:*:*
   - cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:.net:*:*
+  - cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:rust:*:*

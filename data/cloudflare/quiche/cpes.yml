@@ -43,6 +43,19 @@ cpes:
   - cpe:2.3:a:cloudflare:quiche:0.24.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:quiche:0.24.3:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:quiche:0.24.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.24.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.24.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.24.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.24.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.24.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.25.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.26.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.26.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.27.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.28.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.29.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.29.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:quiche:0.29.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:quiche:0.3.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:quiche:0.4.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:cloudflare:quiche:0.5.0:*:*:*:*:rust:*:*

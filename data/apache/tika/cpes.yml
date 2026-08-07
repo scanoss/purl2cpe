@@ -70,3 +70,6 @@ cpes:
   - cpe:2.3:a:apache:tika:3.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:tika:3.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:tika:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tika:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tika:4.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tika:4.0.0:beta1-rc1:*:*:*:*:*:*

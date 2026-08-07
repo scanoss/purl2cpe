@@ -76,3 +76,15 @@ cpes:
   - cpe:2.3:a:bouncycastle:bc-java:1.72.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.72.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.73:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.77:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.78:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.78.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.79:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.83:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.84:*:*:*:*:*:*:*
