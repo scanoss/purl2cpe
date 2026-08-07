@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libcrypto%2B%2B
+  - pkg:deb/ubuntu/libcrypto%2B%2B
+  - pkg:github/weidai11/cryptopp
+  - pkg:rpm/fedora/cryptopp
+  - pkg:rpm/opensuse/libcryptopp
