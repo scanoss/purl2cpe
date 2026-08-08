@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:eclipse:theia:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:theia:-:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:theia:0.0.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:theia:0.0.1:alpha2:*:*:*:*:*:*
