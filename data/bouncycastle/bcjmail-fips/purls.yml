@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/bcgit/bc-csharp
+  - pkg:github/bcgit/bc-java
+  - pkg:github/bcgit/bc-kotlin
+  - pkg:github/org.bouncycastle/bcjmail-fips

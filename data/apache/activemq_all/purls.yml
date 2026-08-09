@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/activemq
+  - pkg:github/apache/activemq
+  - pkg:maven/org.apache.activemq/activemq-all

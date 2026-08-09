@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/appium/java-client
+  - pkg:maven/io.appium/java-client

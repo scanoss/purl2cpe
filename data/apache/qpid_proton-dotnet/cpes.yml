@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone10:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone11:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone6:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone7:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone8:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_proton-dotnet:1.0.0:milestone9:*:*:*:*:*:*

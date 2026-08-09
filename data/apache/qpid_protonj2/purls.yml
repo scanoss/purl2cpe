@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/qpid-protonj2
+  - pkg:maven/org.apache.qpid/protonj2

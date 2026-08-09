@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/koxudaxi/datamodel-code-generator
+  - pkg:pypi/datamodel-code-generator

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:zroger:formatter_field:1.0:beta1:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:1.0:beta2:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:1.0:beta3:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:1.0:beta5:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:1.0:-:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:zroger:formatter_field:*:*:*:*:*:drupal:*:*
