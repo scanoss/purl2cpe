@@ -366,7 +366,50 @@ cpes:
   - cpe:2.3:a:snyk:snyk_cli:1.1277.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.1278.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.128.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1280.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1280.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1281.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1282.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1282.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1283.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1283.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1284.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1285.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1285.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1286.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1286.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1286.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1286.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1286.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1287.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1288.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1288.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1289.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.129.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1290.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1291.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1291.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1292.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1292.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1292.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1292.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1292.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1293.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1293.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1294.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1294.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1294.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1295.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1295.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1295.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1295.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1295.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1296.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1296.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1296.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1297.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1297.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:snyk_cli:1.1297.2:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.130.0:*:*:*:*:*:*:*
   - cpe:2.3:a:snyk:snyk_cli:1.13.1:*:*:*:*:*:*:*
