@@ -24,3 +24,5 @@ cpes:
   - cpe:2.3:a:jorani:jorani:0.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:jorani:jorani:0.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:jorani:jorani:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jorani:jorani:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jorani:jorani:1.0.4:*:*:*:*:*:*:*

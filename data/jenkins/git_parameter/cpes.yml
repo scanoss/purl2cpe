@@ -35,3 +35,4 @@ cpes:
   - cpe:2.3:a:jenkins:git_parameter:0.9.8:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git_parameter:0.9.9:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:git_parameter:444.vca_b_84d3703c2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:git_parameter:462.vdcf3df2ed2ca:*:*:*:*:jenkins:*:*

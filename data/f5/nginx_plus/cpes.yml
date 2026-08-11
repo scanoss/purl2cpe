@@ -1,6 +1,9 @@
 cpes:
   - cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:37.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:37.0.0.1:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:37.0.1.1:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:37.0.2.1:*:*:*:long-term_support:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r1:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r22:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r23:*:*:*:*:*:*:*
@@ -28,15 +31,25 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r32:p6:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p7:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r33:-:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r33:p1:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r33:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:p3:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r33:p3:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r34:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r34:-:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r34:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r34:p1:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r34:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r34:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r35:-:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r35:p1:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r35:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p1:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p2:*:*:*:*:*:*
@@ -44,3 +57,4 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r36:p4:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p5:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p6:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p6:*:*:continuous_releases:*:*:*
