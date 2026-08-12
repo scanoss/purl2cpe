@@ -23,12 +23,19 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r31:p2:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r31:p3:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:-:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p1:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p3:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p3:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p4:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p4:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p5:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p5:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p6:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r32:p6:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r32:p7:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:-:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r33:-:*:*:continuous_releases:*:*:*
@@ -51,10 +58,16 @@ cpes:
   - cpe:2.3:a:f5:nginx_plus:r35:p2:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r35:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:-:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:-:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p1:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p1:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p2:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p2:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p3:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p3:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p4:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p4:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p5:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_plus:r36:p5:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p6:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_plus:r36:p6:*:*:continuous_releases:*:*:*
