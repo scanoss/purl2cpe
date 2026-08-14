@@ -356,6 +356,7 @@ cpes:
   - cpe:2.3:a:microsoft:visual_studio_code:1.130.0:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.131.0:*:*:*:*:-:*:*
+  - cpe:2.3:a:microsoft:visual_studio_code:1.132.0:*:*:*:*:-:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:visual_studio_code:1.14.2:*:*:*:*:*:*:*

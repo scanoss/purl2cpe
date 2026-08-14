@@ -6,6 +6,10 @@ cpes:
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.14:*:*:*:*:*:*:*
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cryptodev-linux:cryptodev-linux:1.4:*:*:*:*:*:*:*

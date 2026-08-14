@@ -164,6 +164,25 @@ cpes:
   - cpe:2.3:a:hasura:graphql_engine:2.4.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:hasura:graphql_engine:2.4.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:hasura:graphql_engine:2.4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.45.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.45.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.45.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.45.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.45.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.46.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.46.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.47.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.47.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hasura:graphql_engine:2.48.9:*:*:*:*:*:*:*
   - cpe:2.3:a:hasura:graphql_engine:2.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:hasura:graphql_engine:2.5.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:hasura:graphql_engine:2.5.1:*:*:*:*:*:*:*

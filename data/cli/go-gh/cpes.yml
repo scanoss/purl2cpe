@@ -1,2 +1,29 @@
 cpes:
   - cpe:2.3:a:cli:go-gh:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cli:go-gh:0.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:0.0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:0.0.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:0.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:0.1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:1.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:1.2.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.10.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.11.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.11.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.11.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.12.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.8.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:2.9.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:cli:go-gh:-:*:*:*:*:go:*:*
