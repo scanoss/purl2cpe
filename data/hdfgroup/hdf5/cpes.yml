@@ -73,3 +73,4 @@ cpes:
   - cpe:2.3:a:hdfgroup:hdf5:1.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:1.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:hdfgroup:hdf5:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hdfgroup:hdf5:2.1.0:*:*:*:*:*:*:*

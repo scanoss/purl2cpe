@@ -19,3 +19,6 @@ cpes:
   - cpe:2.3:a:elixir-ecto:postgrex:0.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elixir-ecto:postgrex:0.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elixir-ecto:postgrex:0.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elixir-ecto:postgrex:0.22.2:*:*:*:*:*:*:*

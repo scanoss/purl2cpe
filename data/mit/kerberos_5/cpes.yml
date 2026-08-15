@@ -97,8 +97,13 @@ cpes:
   - cpe:2.3:a:mit:kerberos_5:1.21:-:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mit:kerberos_5:1.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.21:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mit:kerberos_5:1.22:-:*:*:*:*:*:*
+  - cpe:2.3:a:mit:kerberos_5:1.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mit:kerberos_5:1.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mit:kerberos_5:1.22:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mit:kerberos_5:1.2.5:*:*:*:*:*:*:*
