@@ -21,3 +21,5 @@ cpes:
   - cpe:2.3:a:raylib:raylib:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:raylib:raylib:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:raylib:raylib:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:6.0:*:*:*:*:*:*:*

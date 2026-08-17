@@ -741,6 +741,7 @@ cpes:
   - cpe:2.3:a:angular:angular:19.2.21:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:19.2.22:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:19.2.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:19.2.24:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:19.2.25:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:19.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:19.2.3:*:*:*:*:node.js:*:*
@@ -890,6 +891,8 @@ cpes:
   - cpe:2.3:a:angular:angular:20.3.24:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:20.3.25:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:20.3.26:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:20.3.27:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:20.3.28:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:20.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:20.3.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:20.3.4:*:*:*:*:node.js:*:*
@@ -955,7 +958,9 @@ cpes:
   - cpe:2.3:a:angular:angular:21.2.16:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.17:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:21.2.19:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:21.2.20:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:21.2.4:*:*:*:*:node.js:*:*
@@ -988,11 +993,27 @@ cpes:
   - cpe:2.3:a:angular:angular:22.0.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:22.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:22.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.0:beta0:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.0:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next0:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next1:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next2:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next3:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next4:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next5:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:next6:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.0:rc0:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.1.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.2.0:next0:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.2.0:next1:*:*:*:node.js:*:*
+  - cpe:2.3:a:angular:angular:22.2.0:next2:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular:2.2.4:*:*:*:*:node.js:*:*
