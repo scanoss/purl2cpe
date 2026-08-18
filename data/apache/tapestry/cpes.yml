@@ -239,3 +239,11 @@ cpes:
   - cpe:2.3:a:apache:tapestry:5.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tapestry:5.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tapestry:5.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.9.0:preview:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tapestry:5.9.0:preview2:*:*:*:*:*:*

@@ -717,12 +717,48 @@ cpes:
   - cpe:2.3:a:ash-hq:ash_framework:3.21.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.21.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.23.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.24.7:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.25.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.27.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.29.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-hq:ash_framework:3.31.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-hq:ash_framework:3.4.0:*:*:*:*:*:*:*

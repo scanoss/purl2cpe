@@ -23,6 +23,10 @@ cpes:
   - cpe:2.3:a:ninenines:cowlib:2.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ninenines:cowlib:2.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ninenines:cowlib:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ninenines:cowlib:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ninenines:cowlib:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ninenines:cowlib:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ninenines:cowlib:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ninenines:cowlib:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ninenines:cowlib:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ninenines:cowlib:2.3.0:*:*:*:*:*:*:*

@@ -29,6 +29,7 @@ cpes:
   - cpe:2.3:a:apache:apr-util:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apr-util:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.2.10:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.2.11:*:*:*:*:*:*:*
@@ -69,6 +70,7 @@ cpes:
   - cpe:2.3:a:apache:apr-util:1.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apr-util:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:2.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apr-util:2.0.12:*:*:*:*:*:*:*
