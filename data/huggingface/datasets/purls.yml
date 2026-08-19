@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/huggingface/datasets
+  - pkg:pypi/datasets

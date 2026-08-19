@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:msiemens:rust_onenote_file_parser:1.1.0:*:*:*:*:rust:*:*

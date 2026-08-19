@@ -108,3 +108,22 @@ cpes:
   - cpe:2.3:a:eclipse:kura:5.4.1:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:kura:5.4.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:kura:5.4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.4.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.5.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.5.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:kura:5.6.1:rc6:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/css_parser
+  - pkg:github/premailer/css_parser

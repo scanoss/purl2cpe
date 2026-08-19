@@ -1,2 +1,9 @@
 cpes:
+  - cpe:2.3:a:stklcode:liveticker:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:1.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stklcode:liveticker:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stklcode:liveticker:-:*:*:*:*:wordpress:*:*

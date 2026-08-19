@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ncalc/ncalc
+  - pkg:nuget/ncalcsync.signed
