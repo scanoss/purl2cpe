@@ -115,6 +115,8 @@ cpes:
   - cpe:2.3:a:aria2_project:aria2:1.33.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aria2_project:aria2:1.33.1:*:*:*:*:*:*:*
   - cpe:2.3:a:aria2_project:aria2:1.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aria2_project:aria2:1.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aria2_project:aria2:1.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aria2_project:aria2:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:aria2_project:aria2:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:aria2_project:aria2:1.5.0:*:*:*:*:*:*:*

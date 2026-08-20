@@ -28,6 +28,7 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.13.0:pre1:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.13.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.13.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.13.1:*:*:*:*:*:*:*
@@ -46,6 +47,7 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.15.2:-:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.15.2:a:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.15.2:alpha:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.15.3:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.15.4:-:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.15.4:rc1:*:*:*:*:*:*
@@ -70,6 +72,12 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.18.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.18.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.18.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.18.5:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.2.3:*:*:*:*:*:*:*
