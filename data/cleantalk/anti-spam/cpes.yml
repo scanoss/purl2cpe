@@ -284,10 +284,40 @@ cpes:
   - cpe:2.3:a:cleantalk:anti-spam:6.22:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.23:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.25.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.27:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.28:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.29.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.29:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.30:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.32.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.32:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.33.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.33.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.33:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.34:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.36.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.37:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.38:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.39.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.39:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.41.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.42.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.43.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.43.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cleantalk:anti-spam:6.43:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:cleantalk:anti-spam:6.6:*:*:*:*:wordpress:*:*

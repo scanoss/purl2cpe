@@ -17,6 +17,7 @@ cpes:
   - cpe:2.3:a:libvips:libvips:8.10.6:-:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.10.6:beta:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.10.6:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:libvips:libvips:8.11:*:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.11.0:-:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.11.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libvips:libvips:8.11.1:*:*:*:*:*:*:*
