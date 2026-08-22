@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/101arrowz/fflate
+  - pkg:maven/org.webjars.bowergithub.101arrowz/fflate

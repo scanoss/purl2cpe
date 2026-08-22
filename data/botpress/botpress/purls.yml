@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/botpress/botpress
+  - pkg:npm/@botpress/sdk

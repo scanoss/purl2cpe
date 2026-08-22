@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/pgvector/pgvector
+  - pkg:github/pgvector/pgvector

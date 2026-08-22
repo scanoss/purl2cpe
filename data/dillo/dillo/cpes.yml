@@ -37,6 +37,7 @@ cpes:
   - cpe:2.3:a:dillo:dillo:0.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dillo:dillo:0.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dillo:dillo:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dillo:dillo:0.8.3:-:*:*:*:*:*:*
   - cpe:2.3:a:dillo:dillo:0.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:dillo:dillo:0.8.5:pre-dw-design1:*:*:*:*:*:*
   - cpe:2.3:a:dillo:dillo:0.8.5:pre-dw-design2:*:*:*:*:*:*
