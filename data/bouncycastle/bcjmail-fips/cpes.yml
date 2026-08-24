@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:bouncycastle:bcjmail-fips:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcjmail-fips:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcjmail-fips:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcjmail-fips:2.1.6:*:*:*:*:*:*:*

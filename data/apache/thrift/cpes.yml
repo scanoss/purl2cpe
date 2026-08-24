@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:thrift:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:thrift:0.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:apache:thrift:0.11.0:*:*:*:*:*:*:*

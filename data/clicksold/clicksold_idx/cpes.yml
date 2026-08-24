@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:clicksold:clicksold_idx:1.90:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:clicksold:clicksold_idx:*:*:*:*:*:wordpress:*:*

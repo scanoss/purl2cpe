@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_mobile:120.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:127.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:129.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:129.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:14.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:147.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:147.1:*:*:*:*:iphone_os:*:*

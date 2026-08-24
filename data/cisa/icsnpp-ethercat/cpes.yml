@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:cisa:icsnpp-ethercat:2023-06-07:*:*:*:*:zeek:*:*
   - cpe:2.3:a:cisa:icsnpp-ethercat:*:*:*:*:*:zeek:*:*
+  - cpe:2.3:a:cisa:icsnpp-ethercat:-:*:*:*:*:zeek:*:*

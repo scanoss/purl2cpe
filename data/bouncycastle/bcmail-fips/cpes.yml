@@ -5,3 +5,5 @@ cpes:
   - cpe:2.3:a:bouncycastle:bcmail-fips:1.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcmail-fips:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcmail-fips:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcmail-fips:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcmail-fips:2.1.6:*:*:*:*:*:*:*

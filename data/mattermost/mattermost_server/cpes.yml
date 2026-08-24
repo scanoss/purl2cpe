@@ -65,6 +65,8 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost_server:10.11.20:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.11.21:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.11.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.11.23:-:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_server:10.11.23:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.11.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.11.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost_server:10.11.3:*:*:*:*:*:*:*
