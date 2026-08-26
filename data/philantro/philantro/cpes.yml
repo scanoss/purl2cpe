@@ -1,3 +1,6 @@
 cpes:
   - cpe:2.3:a:philantro:philantro:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:philantro:philantro:5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:philantro:philantro:5.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:philantro:philantro:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:philantro:philantro:-:*:*:*:*:wordpress:*:*

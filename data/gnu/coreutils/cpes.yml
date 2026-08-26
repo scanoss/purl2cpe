@@ -61,6 +61,13 @@ cpes:
   - cpe:2.3:a:gnu:coreutils:8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:coreutils:8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:coreutils:8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.11:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:coreutils:9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:coreutils:9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:coreutils:9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:coreutils:9.9:*:*:*:*:*:*:*

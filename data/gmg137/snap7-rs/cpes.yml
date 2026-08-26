@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:gmg137:snap7-rs:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gmg137:snap7-rs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gmg137:snap7-rs:1.142.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gmg137:snap7-rs:-:*:*:*:*:rust:*:*

@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:google:nearby:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:nearby:-:*:*:*:*:*:*:*
