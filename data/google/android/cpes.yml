@@ -101,3 +101,4 @@ cpes:
   - cpe:2.3:o:google:android:8.0:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:8.1:*:*:*:*:*:*:*
   - cpe:2.3:o:google:android:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:google:android:f30.1.1:*:*:*:*:*:*:*

@@ -1,5 +1,110 @@
 cpes:
   - cpe:2.3:a:rangerstudio:directus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.7.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:10.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.12.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:11.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:6.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:6.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:6.0.7:*:*:*:*:*:*:*
@@ -299,6 +404,16 @@ cpes:
   - cpe:2.3:a:rangerstudio:directus:9.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:9.22.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:9.22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rangerstudio:directus:9.26.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:9.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:9.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rangerstudio:directus:9.4.1:*:*:*:*:*:*:*

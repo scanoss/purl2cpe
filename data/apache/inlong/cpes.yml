@@ -20,3 +20,4 @@ cpes:
   - cpe:2.3:a:apache:inlong:1.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:inlong:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:inlong:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:inlong:2.2.0:*:*:*:*:*:*:*

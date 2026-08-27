@@ -52,3 +52,4 @@ cpes:
   - cpe:2.3:a:sftpgo_project:sftpgo:2.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sftpgo_project:sftpgo:2.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sftpgo_project:sftpgo:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sftpgo_project:sftpgo:2.7.1:*:*:*:*:*:*:*

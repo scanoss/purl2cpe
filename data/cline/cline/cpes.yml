@@ -68,3 +68,4 @@ cpes:
   - cpe:2.3:a:cline:cline:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cline:cline:2.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cline:cline:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cline:cline:3.0.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:better-auth:better_auth:*:*:*:*:*:*:*:*
   - cpe:2.3:a:better-auth:better_auth:0.0.10:beta10:*:*:*:node.js:*:*
   - cpe:2.3:a:better-auth:better_auth:0.0.10:beta11:*:*:*:node.js:*:*
   - cpe:2.3:a:better-auth:better_auth:0.0.10:beta12:*:*:*:node.js:*:*

@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:michaelschwarz:ajax.net_professional:21.12.8.1:*:*:*:*:asp.net:*:*
   - cpe:2.3:a:michaelschwarz:ajax.net_professional:*:*:*:*:*:asp.net:*:*
   - cpe:2.3:a:michaelschwarz:ajax.net_professional:-:*:*:*:*:asp.net:*:*
+  - cpe:2.3:a:michaelschwarz:ajax.net_professional:*:*:*:*:*:.net:*:*

@@ -20,5 +20,11 @@ cpes:
   - cpe:2.3:a:libuser_project:libuser:0.58:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.59:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60-6:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.61:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.62:*:*:*:*:*:*:*
