@@ -159,3 +159,6 @@ cpes:
   - cpe:2.3:a:chainlit:chainlit:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:chainlit:chainlit:2.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:chainlit:chainlit:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainlit:chainlit:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainlit:chainlit:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainlit:chainlit:2.9.6:*:*:*:*:*:*:*

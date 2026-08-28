@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:servicenow:servicenow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:jakarta:p1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:jakarta:p2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:jakarta:p3:*:*:*:*:*:*
@@ -133,12 +134,24 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4a_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_4_hotfix_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:tokyo:patch_5_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_6:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_6_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_6_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_7a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_7b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_7_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_8_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_8_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:tokyo:patch_9:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:early_availability:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1:*:*:*:*:*:*
@@ -146,9 +159,13 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10a_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_10a_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_10b_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_10b_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_10_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:utah:patch_10_hotfix_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:utah:patch_1_hotfix_1b:*:*:*:*:*:*
@@ -194,6 +211,12 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_2b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_4:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_10_hotfix_5:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_1_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_2_hotfix_1:*:*:*:*:*:*
@@ -241,6 +264,7 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_9_hotfix_2a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_9_hotfix_2b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:patch_9_hotfix_3a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:vancouver:patch_9_hotfix_3b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_1a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:vancouver:ptach_7_hotifix_1b:*:*:*:*:*:*
@@ -269,6 +293,7 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix_2:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix_2a:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_4_hotfix_2b:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5_hotfix_1:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5_hotfix_2:*:*:*:*:*:*
@@ -277,6 +302,27 @@ cpes:
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5_hotfix_5:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_5_hotfix_6:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_6:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_6_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_6_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_6_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_7:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_7a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_7b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_8:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_8_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_8_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:washington_dc:patch_8_hotfix_3:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:xanadu:-:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:xanadu:early_availability:*:*:*:*:*:*
   - cpe:2.3:a:servicenow:servicenow:xanadu:early_availability_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_2a:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_2b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_1_hotfix_3b:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_2:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_2_hotfix_1:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_3:*:*:*:*:*:*
+  - cpe:2.3:a:servicenow:servicenow:xanadu:patch_3_hotfix_1:*:*:*:*:*:*

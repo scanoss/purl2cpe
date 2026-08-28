@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:civetweb_project:civetweb:-:*:*:*:*:*:*:*
   - cpe:2.3:a:civetweb_project:civetweb:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:civetweb_project:civetweb:1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:civetweb_project:civetweb:1.11:*:*:*:*:*:*:*

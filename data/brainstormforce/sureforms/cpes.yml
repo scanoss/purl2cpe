@@ -50,4 +50,6 @@ cpes:
   - cpe:2.3:a:brainstormforce:sureforms:1.7.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brainstormforce:sureforms:1.7.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brainstormforce:sureforms:1.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:sureforms:1.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:sureforms:1.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:brainstormforce:sureforms:*:*:*:*:*:wordpress:*:*

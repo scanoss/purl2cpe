@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:datahub:datahub-helm:0.1.143:*:*:*:*:*:*:*
   - cpe:2.3:a:datahub:datahub-helm:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:datahub:datahub-helm:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:datahub:datahub-helm:0.2.10:*:*:*:*:*:*:*

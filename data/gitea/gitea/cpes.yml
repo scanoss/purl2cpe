@@ -271,7 +271,16 @@ cpes:
   - cpe:2.3:a:gitea:gitea:1.25.2:*:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.25.3:*:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.25.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.0:-:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.26.0:dev:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.0:rc0:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.2:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.26.4:*:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.27.0:-:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.27.0:dev:*:*:*:-:*:*
+  - cpe:2.3:a:gitea:gitea:1.27.0:rc0:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:1.3.0:-:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:1.3.0:*:*:*:*:jenkins:*:*

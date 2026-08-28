@@ -104,3 +104,4 @@ cpes:
   - cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:3.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:3.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:*:*:*:*:*:wordpress:*:*

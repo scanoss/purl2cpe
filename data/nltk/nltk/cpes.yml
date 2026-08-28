@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:nltk:nltk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:2.0.1:rc3:*:*:*:*:*:*
@@ -17,6 +18,12 @@ cpes:
   - cpe:2.3:a:nltk:nltk:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nltk:nltk:3.10.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nltk:nltk:3.2.2:*:*:*:*:*:*:*

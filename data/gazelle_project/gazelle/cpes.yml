@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gazelle_project:gazelle:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gazelle_project:gazelle:2013-06-14:*:*:*:*:*:*:*
   - cpe:2.3:a:gazelle_project:gazelle:2013-06-15:*:*:*:*:*:*:*
   - cpe:2.3:a:gazelle_project:gazelle:2013-06-16:*:*:*:*:*:*:*

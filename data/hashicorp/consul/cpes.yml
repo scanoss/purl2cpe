@@ -373,20 +373,24 @@ cpes:
   - cpe:2.3:a:hashicorp:consul:1.16.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.16.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.16.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.18.12:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.19.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.20.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.20.8:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:community:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.1:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.21.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.21.5:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.21.6:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.1:*:*:*:community:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.22.0:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.2:*:*:*:community:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.2.3:*:*:*:*:*:*:*
@@ -493,6 +497,7 @@ cpes:
   - cpe:2.3:a:hashicorp:consul:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.7.3:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.7.3:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:hashicorp:consul:1.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.7.4:*:*:*:-:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.7.4:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:hashicorp:consul:1.7.5:*:*:*:-:*:*:*

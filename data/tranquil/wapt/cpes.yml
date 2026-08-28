@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tranquil:wapt:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tranquil:wapt:1.8.2.7373:*:*:*:community:*:*:*
   - cpe:2.3:a:tranquil:wapt:1.8.2.7373:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:tranquil:wapt:2.0.0.0:*:*:*:enterprise:*:*:*

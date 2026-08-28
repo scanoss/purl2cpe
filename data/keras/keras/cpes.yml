@@ -101,6 +101,8 @@ cpes:
   - cpe:2.3:a:keras:keras:3.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keras:keras:3.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keras:keras:3.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:keras:keras:3.3.0:*:*:*:*:*:*:*

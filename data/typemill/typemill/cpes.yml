@@ -53,4 +53,10 @@ cpes:
   - cpe:2.3:a:typemill:typemill:2.18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:typemill:typemill:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:typemill:typemill:2.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typemill:typemill:2.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:typemill:typemill:2.6.0:*:*:*:*:*:*:*

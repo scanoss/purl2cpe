@@ -1113,3 +1113,4 @@ cpes:
   - cpe:2.3:a:limesurvey:limesurvey:6.8.1:241120:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.8.2:241203:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:6.9.0:241218:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:7.0.5:*:*:*:*:*:*:*

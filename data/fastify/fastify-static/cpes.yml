@@ -20,6 +20,7 @@ cpes:
   - cpe:2.3:a:fastify:fastify-static:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:10.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastify:fastify-static:10.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fastify:fastify-static:2.1.0:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:opendap:hyrax:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opendap:hyrax:1.2:*:*:*:*:*:*:*

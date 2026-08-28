@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:decidim:decidim:*:*:*:*:*:*:*:*
   - cpe:2.3:a:decidim:decidim:0.0.1:alpha1:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.0.1:alpha2:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.0.1:alpha3:*:*:*:ruby:*:*
@@ -140,6 +141,9 @@ cpes:
   - cpe:2.3:a:decidim:decidim:0.31.0:rc1:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.31.0:rc2:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.31.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.31.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.31.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:decidim:decidim:0.31.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.3.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.3.2:*:*:*:*:ruby:*:*
   - cpe:2.3:a:decidim:decidim:0.4.0:*:*:*:*:ruby:*:*

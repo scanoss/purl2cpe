@@ -6,6 +6,10 @@ cpes:
   - cpe:2.3:a:triliumnotes:trilium:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.100.0:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.10.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.101.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.101.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.101.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.101.3:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.10.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.10.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.1.1:*:*:*:*:*:*:*

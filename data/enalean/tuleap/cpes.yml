@@ -187,6 +187,7 @@ cpes:
   - cpe:2.3:a:enalean:tuleap:17.0.99.1762456922:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:17.0.99.1763126988:*:*:*:community:*:*:*
   - cpe:2.3:a:enalean:tuleap:17.0.99.1763803709:*:*:*:community:*:*:*
+  - cpe:2.3:a:enalean:tuleap:17.0-9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:17.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:17.1:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:enalean:tuleap:17.2:*:*:*:enterprise:*:*:*

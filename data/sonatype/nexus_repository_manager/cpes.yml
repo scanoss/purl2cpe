@@ -282,5 +282,9 @@ cpes:
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:3.92.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.93.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.93.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.93.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonatype:nexus_repository_manager:3.94.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:*:*:*:*:open_source:*:*:*
   - cpe:2.3:a:sonatype:nexus_repository_manager:*:*:*:*:professional:*:*:*
