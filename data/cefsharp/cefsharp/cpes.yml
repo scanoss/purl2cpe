@@ -6,6 +6,37 @@ cpes:
   - cpe:2.3:a:cefsharp:cefsharp:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:100.0.120:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:100.0.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:100.0.230:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:101.0.150:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:101.0.180:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:102.0.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:102.0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:103.0.120:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:103.0.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:103.0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:104.4.180:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:104.4.240:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:105.3.330:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:105.3.390:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:106.0.260:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:106.0.290:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:107.1.120:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:107.1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:107.1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:107.1.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:108.4.130:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:109.1.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:110.0.250:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:110.0.280:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:110.0.300:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:111.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:111.2.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:112.2.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:112.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:113.1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:113.3.50:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:1.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:1.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:1.25.0:*:*:*:*:*:*:*
@@ -102,3 +133,46 @@ cpes:
   - cpe:2.3:a:cefsharp:cefsharp:85.3.121:pre:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:85.3.130:*:*:*:*:*:*:*
   - cpe:2.3:a:cefsharp:cefsharp:86.0.240:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:86.0.241:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:87.1.130:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:87.1.131:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:87.1.132:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:88.2.40:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:88.2.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:89.0.140:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:89.0.170:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:90.5.70:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:90.6.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:90.6.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:91.1.160:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:91.1.210:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:91.1.211:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:91.1.230:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:91.1.60:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:92.0.250:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:92.0.251:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:92.0.260:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:93.1.110:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:93.1.111:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:93.1.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:94.3.0:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:94.4.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:94.4.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:94.4.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:95.7.140:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:95.7.141:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:96.0.140:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:96.0.141:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:96.0.142:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:96.0.170:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:96.0.180:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:97.1.10:pre:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:97.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:97.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:97.1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:97.1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:98.1.190:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:98.1.210:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:99.2.120:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:99.2.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:cefsharp:cefsharp:99.2.90:*:*:*:*:*:*:*

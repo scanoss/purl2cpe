@@ -158,6 +158,10 @@ cpes:
   - cpe:2.3:a:strongswan:strongswan:5.9.11:dr2:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.11:dr3:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.12:dr1:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.12:dr2:*:*:*:*:*:*
+  - cpe:2.3:a:strongswan:strongswan:5.9.12:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.1:dr1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:strongswan:strongswan:5.9.2:-:*:*:*:*:*:*

@@ -76,6 +76,7 @@ cpes:
   - cpe:2.3:a:linkace:linkace:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:1.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:1.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:1.16.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:1.2.2:*:*:*:*:*:*:*
@@ -119,3 +120,8 @@ cpes:
   - cpe:2.3:a:linkace:linkace:2.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linkace:linkace:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkace:linkace:2.5.6:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+purls:
+  - pkg:maven/org.wso2.carbon/org.wso2.carbon.apimgt.impl

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/prowler-cloud/prowler
+  - pkg:pypi/prowler

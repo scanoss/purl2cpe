@@ -12,6 +12,9 @@ cpes:
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:10.12:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.4.0:*:*:*:*:*:*:*
@@ -25,8 +28,16 @@ cpes:
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.4:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:10.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.6:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hiawatha-webserver:hiawatha:11.8:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hiawatha-webserver:hiawatha:1.4.0:*:*:*:*:*:*:*

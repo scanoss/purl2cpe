@@ -33,6 +33,7 @@ cpes:
   - cpe:2.3:a:apple:swiftnio:1.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:1.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.100.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:2.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:2.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:2.14.0:*:*:*:*:*:*:*
@@ -77,3 +78,73 @@ cpes:
   - cpe:2.3:a:apple:swiftnio:2.41.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:2.41.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio:2.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.42.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.44.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.52.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.61.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.69.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.70.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.71.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.72.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.73.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.74.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.75.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.76.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.76.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.77.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.78.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.79.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.80.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.81.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.82.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.82.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.83.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.86.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.86.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.86.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.87.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.88.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.89.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.90.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.90.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.91.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.92.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.92.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.92.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.93.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.94.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.94.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.95.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.96.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.97.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.97.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.98.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio:2.99.0:*:*:*:*:*:*:*

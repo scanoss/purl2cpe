@@ -7,16 +7,128 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:prisma_access:4.0:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:4.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:4.2:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h10:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h10:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h21:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h21:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h22:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h22:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h31:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h31:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h33:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h33:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h46:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h46:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h48:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h48:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h53:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h53:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h60:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h60:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h61:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h61:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h66:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h66:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h68:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h68:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h69:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h69:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h71:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h71:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h73:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:h73:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:-:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:-:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.1:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.0.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.0:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.0:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h15:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h15:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h21:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h21:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h26:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h26:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h32:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h32:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h38:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h38:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h39:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h39:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h43:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h43:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h45:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h45:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h47:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h47:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h49:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h49:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h51:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h51:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h52:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h52:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h53:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h53:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h57:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h57:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h61:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:h61:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:-:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.0:-:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.1:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.1.1:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.1:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h14:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h14:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h16:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h16:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h18:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h18:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h20:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h20:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h24:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h24:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h29:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h29:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h35:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h35:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h36:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h36:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h38:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h38:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h40:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h40:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h41:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h41:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h47:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h47:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h49:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h49:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h60:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h60:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h69:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h69:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h71:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h71:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h81:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h81:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h84:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h84:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h87:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h87:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h91:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h91:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h95:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h95:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h99:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:h99:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:-:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.0:-:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.1:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.2:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:5.2.2:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2:*:*:*:innovation:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:5.2:*:*:*:preferred:*:*:*
   - cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:innovation:*:*:*

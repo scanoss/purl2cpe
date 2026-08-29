@@ -972,14 +972,82 @@ cpes:
   - cpe:2.3:a:hatchet:hatchet:0.83.36:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.37:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.39:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.49:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.59:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.5:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.5:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.83.61:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.7:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.8:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.83.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.84.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.85.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.21:-:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.21:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.6:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.6:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.6:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:hatchet:hatchet:0.86.9:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hatchet:hatchet:0.9.2:*:*:*:*:*:*:*

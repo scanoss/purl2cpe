@@ -11,5 +11,23 @@ cpes:
   - cpe:2.3:a:gobase_project:gobase:0.6.1:*:*:*:*:go:*:*
   - cpe:2.3:a:gobase_project:gobase:0.6.2:*:*:*:*:go:*:*
   - cpe:2.3:a:gobase_project:gobase:0.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.10:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.11:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.12:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.13:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.14:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.15:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.16:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.17:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.18:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.19:*:*:*:*:go:*:*
   - cpe:2.3:a:gobase_project:gobase:0.7.1:*:*:*:*:go:*:*
   - cpe:2.3:a:gobase_project:gobase:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.9:*:*:*:*:go:*:*

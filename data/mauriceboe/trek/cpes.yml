@@ -15,4 +15,28 @@ cpes:
   - cpe:2.3:a:mauriceboe:trek:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mauriceboe:trek:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mauriceboe:trek:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.13:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:2.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre4:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre5:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre6:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre7:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre8:*:*:*:*:*:*
+  - cpe:2.3:a:mauriceboe:trek:3.0.0:pre9:*:*:*:*:*:*
   - cpe:2.3:a:mauriceboe:trek:*:*:*:*:*:node.js:*:*

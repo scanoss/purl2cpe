@@ -1033,6 +1033,9 @@ cpes:
   - cpe:2.3:a:misskey:misskey:2026.2.0:beta0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2026.3.0:-:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2026.3.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.3.1:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:misskey:misskey:2026.3.2:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:misskey:misskey:2.22.0:*:*:*:*:*:*:*

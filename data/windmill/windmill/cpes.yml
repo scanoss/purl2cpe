@@ -1260,11 +1260,33 @@ cpes:
   - cpe:2.3:a:windmill:windmill:1.661.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.662.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.663.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.664.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.665.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.666.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.667.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.668.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.669.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.669.1:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.670.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.67.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.671.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.67.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.672.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.67.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.673.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.67.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.674.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.674.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.674.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.675.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.675.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:windmill:windmill:1.676.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.68.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.69.0:*:*:*:*:*:*:*
   - cpe:2.3:a:windmill:windmill:1.69.1:*:*:*:*:*:*:*

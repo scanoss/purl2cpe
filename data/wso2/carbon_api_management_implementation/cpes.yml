@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wso2:carbon_api_management_implementation:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wso2:carbon_api_management_implementation:-:*:*:*:*:*:*:*

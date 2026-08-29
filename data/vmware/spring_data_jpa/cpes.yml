@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vmware:spring_data_jpa:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_data_jpa:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_data_jpa:1.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_data_jpa:1.0.0:milestone2:*:*:*:*:*:*
@@ -216,3 +217,4 @@ cpes:
   - cpe:2.3:a:vmware:spring_data_jpa:2.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_data_jpa:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:vmware:spring_data_jpa:2.6.0:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_jpa:4.1.0:*:*:*:*:*:*:*

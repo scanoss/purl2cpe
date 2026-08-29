@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oras-project/oras
+  - pkg:golang/github.com/oras-project/oras-go

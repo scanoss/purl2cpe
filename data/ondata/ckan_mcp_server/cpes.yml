@@ -84,6 +84,21 @@ cpes:
   - cpe:2.3:a:ondata:ckan_mcp_server:0.4.82:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ondata:ckan_mcp_server:0.4.83:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ondata:ckan_mcp_server:0.4.84:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.85:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.86:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.87:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.88:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.89:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ondata:ckan_mcp_server:0.4.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.90:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.91:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.92:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.93:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.94:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.95:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.96:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.97:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.98:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ondata:ckan_mcp_server:0.4.99:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ondata:ckan_mcp_server:0.4.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:ondata:ckan_mcp_server:*:*:*:*:*:node.js:*:*

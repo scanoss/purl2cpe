@@ -434,11 +434,40 @@ cpes:
   - cpe:2.3:a:rsyslog:rsyslog:8.2202.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.2204.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.2204.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2206.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2206.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2208.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2210.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2212.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2302.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2304.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2306.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2308.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2310.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2312.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2402.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2404.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2406.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2406.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2406.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2406.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2408.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2410.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2412.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2502.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2504.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2506.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2508.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2510.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2512.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2602.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2604.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2606.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.29.0:*:*:*:*:*:*:*

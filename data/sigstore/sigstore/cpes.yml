@@ -4,4 +4,5 @@ cpes:
   - cpe:2.3:a:sigstore:sigstore:0.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sigstore:sigstore:0.2.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sigstore:sigstore:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sigstore:sigstore:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:*:*:*:*:*:ruby:*:*

@@ -526,3 +526,4 @@ cpes:
   - cpe:2.3:a:ffmpeg:ffmpeg:9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ffmpeg:ffmpeg:cvs:*:*:*:*:*:*:*
+  - cpe:2.3:a:ffmpeg:ffmpeg:n-122528-gdd2976b9e1:*:*:*:*:*:*:*

@@ -1,4 +1,27 @@
 cpes:
+  - cpe:2.3:a:m2team:nanazip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:preview2-update1:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:servicingupdate1-preview1:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:servicingupdate1-preview2:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.1:servicingupdate1-preview3:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.2.253:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:1.2:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:2.0.313:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:2.0.376:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:2.0.396:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:2.0.450:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:2.1.451:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.0.1000.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.0.756:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.0.996:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.1.1080.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.5.1000.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:3.5.996:*:*:*:*:*:*:*
+  - cpe:2.3:a:m2team:nanazip:5.0.1188.0:*:*:*:*:*:*:*
   - cpe:2.3:a:m2team:nanazip:5.0.1215.0:*:*:*:*:*:*:*
   - cpe:2.3:a:m2team:nanazip:5.0.1243.0:*:*:*:*:*:*:*
   - cpe:2.3:a:m2team:nanazip:5.0.1250.0:*:*:*:*:*:*:*

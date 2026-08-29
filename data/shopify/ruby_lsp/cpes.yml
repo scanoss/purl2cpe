@@ -16,6 +16,8 @@ cpes:
   - cpe:2.3:a:shopify:ruby_lsp:0.10.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.10.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.10.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.10.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:shopify:ruby_lsp:0.10.3:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.1.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.11.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:shopify:ruby_lsp:0.11.1:*:*:*:*:ruby:*:*

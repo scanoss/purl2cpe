@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-telemetry/opentelemetry-js
+  - pkg:npm/@opentelemetry/api

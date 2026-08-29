@@ -46,6 +46,8 @@ cpes:
   - cpe:2.3:a:freedom:securedrop-client:0.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.17.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:securedrop-client:0.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:securedrop-client:0.18.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.3.0:*:*:*:*:*:*:*
@@ -68,3 +70,5 @@ cpes:
   - cpe:2.3:a:freedom:securedrop-client:0.9.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.9.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:freedom:securedrop-client:0.9.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:securedrop-client:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:securedrop-client:1.0.0:rc2:*:*:*:*:*:*

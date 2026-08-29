@@ -426,11 +426,15 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:14.4:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:p4:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:p5:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:14.4:p6:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:14.4:p7:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:14.4:rc1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:1.5:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:-:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p1:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.0:p10:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.0:p11:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p3:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p4:*:*:*:*:*:*
@@ -439,7 +443,11 @@ cpes:
   - cpe:2.3:o:freebsd:freebsd:15.0:p7:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p8:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.0:p9:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.1:-:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.1:p1:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.1:p2:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:15.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:freebsd:freebsd:15.1:rc3-p1:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:o:freebsd:freebsd:2.0.5:*:*:*:*:*:*:*

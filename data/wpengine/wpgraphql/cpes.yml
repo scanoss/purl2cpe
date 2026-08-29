@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:wpengine:wpgraphql:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wpengine:wpgraphql:0.0.10:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpengine:wpgraphql:0.0.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpengine:wpgraphql:0.0.12:*:*:*:*:wordpress:*:*

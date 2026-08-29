@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/js-cookie/js-cookie
+  - pkg:github/js-cookie/js-cookie

@@ -30,6 +30,7 @@ cpes:
   - cpe:2.3:a:projectsend:projectsend:r1420:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r1584:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r1605:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectsend:projectsend:r2029:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r375:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r405:*:*:*:*:*:*:*
   - cpe:2.3:a:projectsend:projectsend:r412:*:*:*:*:*:*:*

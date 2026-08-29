@@ -91,6 +91,7 @@ cpes:
   - cpe:2.3:a:miniflux_project:miniflux:2.2.13:*:*:*:*:go:*:*
   - cpe:2.3:a:miniflux_project:miniflux:2.2.14:*:*:*:*:go:*:*
   - cpe:2.3:a:miniflux_project:miniflux:2.2.15:*:*:*:*:go:*:*
+  - cpe:2.3:a:miniflux_project:miniflux:2.2.16:*:*:*:*:go:*:*
   - cpe:2.3:a:miniflux_project:miniflux:2.2.1:*:*:*:*:go:*:*
   - cpe:2.3:a:miniflux_project:miniflux:2.2.2:*:*:*:*:go:*:*
   - cpe:2.3:a:miniflux_project:miniflux:2.2.3:*:*:*:*:go:*:*

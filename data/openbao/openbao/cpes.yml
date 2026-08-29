@@ -29,3 +29,4 @@ cpes:
   - cpe:2.3:a:openbao:openbao:2.5.0:beta20251125:*:*:*:*:*:*
   - cpe:2.3:a:openbao:openbao:2.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openbao:openbao:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.5.3:*:*:*:*:*:*:*

@@ -181,6 +181,7 @@ cpes:
   - cpe:2.3:a:openproject:openproject:17.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:17.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:17.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openproject:openproject:17.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openproject:openproject:3.0.11:*:*:*:*:*:*:*

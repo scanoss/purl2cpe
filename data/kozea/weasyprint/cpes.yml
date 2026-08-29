@@ -116,3 +116,5 @@ cpes:
   - cpe:2.3:a:kozea:weasyprint:65.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kozea:weasyprint:66.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kozea:weasyprint:67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kozea:weasyprint:68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kozea:weasyprint:68.1:*:*:*:*:*:*:*

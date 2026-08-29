@@ -262,6 +262,7 @@ cpes:
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.20:*:*:*:*:*:*:*
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.22:*:*:*:*:*:*:*
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:bigbluebutton:bigbluebutton:3.0.5:*:*:*:*:*:*:*
