@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fastify/busboy
+  - pkg:npm/%40fastify/busboy

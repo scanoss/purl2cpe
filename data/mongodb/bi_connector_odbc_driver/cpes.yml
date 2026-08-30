@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mongodb:bi_connector_odbc_driver:*:*:*:*:*:*:*:*

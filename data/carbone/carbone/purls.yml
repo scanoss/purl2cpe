@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/carboneio/carbone
+  - pkg:npm/carbone

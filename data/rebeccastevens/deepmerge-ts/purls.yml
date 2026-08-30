@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rebeccastevens/deepmerge-ts
+  - pkg:npm/deepmerge-ts

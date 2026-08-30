@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/speechbrain/speechbrain
+  - pkg:pypi/speechbrain
