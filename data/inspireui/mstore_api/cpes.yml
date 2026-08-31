@@ -192,5 +192,16 @@ cpes:
   - cpe:2.3:a:inspireui:mstore_api:4.17.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.17.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:4.17.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.17.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.17.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.17.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.17.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.18.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.18.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.18.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.18.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inspireui:mstore_api:4.20.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:inspireui:mstore_api:-:*:*:*:*:wordpress:*:*

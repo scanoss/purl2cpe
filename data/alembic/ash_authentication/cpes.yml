@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:alembic:ash_authentication:*:*:*:*:*:*:*:*
   - cpe:2.3:a:alembic:ash_authentication:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alembic:ash_authentication:4.4.9:*:*:*:*:*:*:*

@@ -78,6 +78,7 @@ cpes:
   - cpe:2.3:a:freeipa:freeipa:4.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:4.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:4.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freeipa:freeipa:4.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:4.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:freeipa:freeipa:4.2.0:*:*:*:*:*:*:*

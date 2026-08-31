@@ -59,3 +59,4 @@ cpes:
   - cpe:2.3:a:sumatrapdfreader:sumatrapdf:3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sumatrapdfreader:sumatrapdf:3.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:sumatrapdfreader:sumatrapdf:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sumatrapdfreader:sumatrapdf:3.6:*:*:*:*:*:*:*

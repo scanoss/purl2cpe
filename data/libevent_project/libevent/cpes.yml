@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libevent_project:libevent:*:*:*:*:*:*:*:*
   - cpe:2.3:a:libevent_project:libevent:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libevent_project:libevent:0.2b:*:*:*:*:*:*:*
   - cpe:2.3:a:libevent_project:libevent:0.3c:*:*:*:*:*:*:*

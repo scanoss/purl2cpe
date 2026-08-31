@@ -95,8 +95,11 @@ cpes:
   - cpe:2.3:a:tribulant:newsletters:4.0:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.0:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tribulant:newsletters:4.10:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:tribulant:newsletters:4.10:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.1.1:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.1.1:*:*:*:premium:wordpress:*:*
+  - cpe:2.3:a:tribulant:newsletters:4.11:*:*:*:premium:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.1.2:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:tribulant:newsletters:4.1.2:*:*:*:premium:wordpress:*:*

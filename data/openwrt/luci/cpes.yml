@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:openwrt:luci:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:-:*:*:*:*:*:*:*
   - cpe:2.3:a:openwrt:luci:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openwrt:luci:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openwrt:luci:0.11.1:*:*:*:*:*:*:*

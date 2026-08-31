@@ -402,3 +402,4 @@ cpes:
   - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:git_for_windows_project:git_for_windows:2.40.1:*:*:*:*:*:*:*

@@ -119,3 +119,7 @@ cpes:
   - cpe:2.3:a:pocket-id:pocket_id:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pocket-id:pocket_id:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pocket-id:pocket_id:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pocket-id:pocket_id:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pocket-id:pocket_id:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pocket-id:pocket_id:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pocket-id:pocket_id:2.7.0:*:*:*:*:*:*:*

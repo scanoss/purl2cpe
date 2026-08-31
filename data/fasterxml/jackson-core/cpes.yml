@@ -25,6 +25,7 @@ cpes:
   - cpe:2.3:a:fasterxml:jackson-core:2.18.4:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.18.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-core:2.18.6:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.19.0:-:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.19.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.19.0:rc2:*:*:*:*:*:*
@@ -37,6 +38,7 @@ cpes:
   - cpe:2.3:a:fasterxml:jackson-core:2.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-core:2.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:3.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:3.0.0:rc10:*:*:*:*:*:*
@@ -52,3 +54,5 @@ cpes:
   - cpe:2.3:a:fasterxml:jackson-core:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:fasterxml:jackson-core:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-core:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fasterxml:jackson-core:3.1.0:rc1:*:*:*:*:*:*

@@ -143,6 +143,11 @@ cpes:
   - cpe:2.3:a:milvus:milvus:2.6.10:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.11:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:2.6.18:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.4:*:*:*:*:*:*:*
@@ -151,3 +156,4 @@ cpes:
   - cpe:2.3:a:milvus:milvus:2.6.7:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.8:*:*:*:*:*:*:*
   - cpe:2.3:a:milvus:milvus:2.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:milvus:milvus:3.0.0:*:*:*:*:*:*:*

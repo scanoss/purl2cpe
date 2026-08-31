@@ -306,6 +306,7 @@ cpes:
   - cpe:2.3:a:hono:hono:4.12.24:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.25:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.26:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:hono:4.12.27:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:hono:4.12.4:*:*:*:*:node.js:*:*

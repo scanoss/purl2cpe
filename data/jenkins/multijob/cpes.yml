@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:jenkins:multijob:630.v80676e0dc658:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:multijob:659.v6633374ec624:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:multijob:662.vd2e0001f6b_b_d:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:multijob:669.v9d96a_d9c71b_0:*:*:*:*:jenkins:*:*

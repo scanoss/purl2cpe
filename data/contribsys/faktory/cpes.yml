@@ -33,4 +33,5 @@ cpes:
   - cpe:2.3:a:contribsys:faktory:1.6.1:*:*:*:*:go:*:*
   - cpe:2.3:a:contribsys:faktory:1.6.2:*:*:*:*:go:*:*
   - cpe:2.3:a:contribsys:faktory:1.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:contribsys:faktory:1.8.0:*:*:*:*:go:*:*
   - cpe:2.3:a:contribsys:faktory:-:*:*:*:*:go:*:*

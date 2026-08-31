@@ -130,6 +130,7 @@ cpes:
   - cpe:2.3:a:tar_project:tar:0.4.42:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.43:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.44:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tar_project:tar:0.4.45:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.4:*:*:*:*:rust:*:*
   - cpe:2.3:a:tar_project:tar:0.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:tar_project:tar:0.4.5:*:*:*:*:rust:*:*

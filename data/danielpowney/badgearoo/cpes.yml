@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:danielpowney:badgearoo:1.0.14:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:danielpowney:badgearoo:*:*:*:*:*:wordpress:*:*

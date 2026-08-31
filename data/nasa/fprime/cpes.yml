@@ -41,3 +41,4 @@ cpes:
   - cpe:2.3:a:nasa:fprime:4.0.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:nasa:fprime:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nasa:fprime:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nasa:fprime:4.2.2:*:*:*:*:*:*:*

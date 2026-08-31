@@ -71,6 +71,7 @@ cpes:
   - cpe:2.3:a:ericsson:codechecker:6.27.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.27.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.27.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ericsson:codechecker:6.27.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ericsson:codechecker:6.5:*:*:*:*:*:*:*

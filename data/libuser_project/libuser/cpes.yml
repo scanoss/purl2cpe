@@ -4,6 +4,7 @@ cpes:
   - cpe:2.3:a:libuser_project:libuser:0.56.11:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.56.12:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.56.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.13-8:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.56.14:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.56.15:*:*:*:*:*:*:*
   - cpe:2.3:a:libuser_project:libuser:0.56.16:*:*:*:*:*:*:*

@@ -123,4 +123,8 @@ cpes:
   - cpe:2.3:a:google:protobuf-java:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:4.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:4.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.28.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.28.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.28.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-java:4.28.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:google:protobuf-java:4.28.2:*:*:*:*:*:*:*

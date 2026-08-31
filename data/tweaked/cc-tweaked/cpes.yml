@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tweaked:cc-tweaked:1.106.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.12.2-1.81.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.12.2-1.81.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.12.2-1.82.0:*:*:*:*:minecraft:*:*
@@ -87,6 +88,7 @@ cpes:
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.100.9:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.101.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.101.2:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.101.3:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.97.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.98.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.16.5-1.98.1:*:*:*:*:minecraft:*:*
@@ -116,11 +118,16 @@ cpes:
   - cpe:2.3:a:tweaked:cc-tweaked:1.18.2-1.100.9:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.18.2-1.101.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.18.2-1.101.2:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.18.2-1.101.3:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19-1.100.6:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19-1.100.7:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19-1.100.8:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.1-1.100.9:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.2-1.100.10:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.2-1.101.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.2-1.101.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.2-1.101.2:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19.2-1.101.3:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.3-1.102.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.3-1.102.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.3-1.102.2:*:*:*:*:minecraft:*:*
@@ -128,7 +135,12 @@ cpes:
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.3-1.103.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.4-1.104.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.19.4-1.105.0:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19.4-1.106.0:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.19.4-1.106.1:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.20-1.105.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.20.1-1.105.0:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.20.1-1.106.0:*:*:*:*:minecraft:*:*
+  - cpe:2.3:a:tweaked:cc-tweaked:1.20.1-1.106.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.4.7-1.105.0:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:1.4.7-1.105.1:*:*:*:*:minecraft:*:*
   - cpe:2.3:a:tweaked:cc-tweaked:*:*:*:*:*:minecraft:*:*

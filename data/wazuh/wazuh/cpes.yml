@@ -134,3 +134,5 @@ cpes:
   - cpe:2.3:a:wazuh:wazuh:5.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:5.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:5.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:5.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:5.0.0:beta4:*:*:*:*:*:*

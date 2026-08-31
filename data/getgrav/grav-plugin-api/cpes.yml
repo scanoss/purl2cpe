@@ -13,3 +13,4 @@ cpes:
   - cpe:2.3:a:getgrav:grav-plugin-api:1.0.0:beta7:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav-plugin-api:1.0.0:beta8:*:*:*:*:*:*
   - cpe:2.3:a:getgrav:grav-plugin-api:1.0.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:getgrav:grav-plugin-api:*:*:*:*:*:grav:*:*

@@ -79,6 +79,8 @@ cpes:
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.7.6:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.7.7:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.7.8:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2023.7:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2023.7:*:*:*:*:macos:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.8.0:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.8.1:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2023.8.2:*:*:*:*:android:*:*
@@ -269,6 +271,10 @@ cpes:
   - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.0:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.1:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.2:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.3:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.4:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2026.5.5:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:2026.6.0:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2.1.0:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2.1.1:*:*:*:*:android:*:*
   - cpe:2.3:a:home-assistant:home_assistant_companion:2.2.0:*:*:*:*:android:*:*

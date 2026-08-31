@@ -39,4 +39,6 @@ cpes:
   - cpe:2.3:a:govcert.lu:eml_parser:1.8:*:*:*:*:python:*:*
   - cpe:2.3:a:govcert.lu:eml_parser:1.9:*:*:*:*:python:*:*
   - cpe:2.3:a:govcert.lu:eml_parser:2.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:govcert.lu:eml_parser:2.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:govcert.lu:eml_parser:3.0.0:*:*:*:*:python:*:*
   - cpe:2.3:a:govcert.lu:eml_parser:*:*:*:*:*:python:*:*

@@ -82,3 +82,5 @@ cpes:
   - cpe:2.3:a:russh_project:russh:0.58.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:russh_project:russh:0.59.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:russh_project:russh:0.60.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.60.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:russh_project:russh:0.60.2:*:*:*:*:rust:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mapfish:print:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mapfish:print:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mapfish:print:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mapfish:print:3.10.2:*:*:*:*:*:*:*

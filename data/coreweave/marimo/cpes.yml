@@ -243,6 +243,9 @@ cpes:
   - cpe:2.3:a:coreweave:marimo:0.22.4:*:*:*:*:python:*:*
   - cpe:2.3:a:coreweave:marimo:0.22.5:*:*:*:*:python:*:*
   - cpe:2.3:a:coreweave:marimo:0.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:coreweave:marimo:0.23.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:coreweave:marimo:0.23.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:coreweave:marimo:0.23.2:*:*:*:*:python:*:*
   - cpe:2.3:a:coreweave:marimo:0.2.3:*:*:*:*:python:*:*
   - cpe:2.3:a:coreweave:marimo:0.2.4:*:*:*:*:python:*:*
   - cpe:2.3:a:coreweave:marimo:0.2.5:*:*:*:*:python:*:*

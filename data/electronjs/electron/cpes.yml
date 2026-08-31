@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:electronjs:electron:*:*:*:*:*:*:*:*
   - cpe:2.3:a:electronjs:electron:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:electronjs:electron:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:electronjs:electron:0.10.0:*:*:*:*:node.js:*:*
@@ -2471,6 +2472,7 @@ cpes:
   - cpe:2.3:a:electronjs:electron:40.8.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:40.8.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:40.8.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:electronjs:electron:40.8.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:40.8.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:4.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:electronjs:electron:4.1.0:*:*:*:*:*:*:*
