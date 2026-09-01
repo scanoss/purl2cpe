@@ -215,8 +215,19 @@ cpes:
   - cpe:2.3:a:samba:rsync:3.2.3:-:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.2.3:pre1:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.4:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.4:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.4:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.4:pre4:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.5:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.5:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.2.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.2.7:pre1:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.3.0:pre1:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.4.2:*:*:*:*:*:*:*

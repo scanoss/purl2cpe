@@ -113,6 +113,7 @@ cpes:
   - cpe:2.3:a:openstack:ironic:29.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:29.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:29.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:29.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:30.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:31.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:32.0.0:*:*:*:*:*:*:*
@@ -124,8 +125,14 @@ cpes:
   - cpe:2.3:a:openstack:ironic:35.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:35.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:36.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:ironic:4.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:5.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:ironic:5.1.0:*:*:*:*:*:*:*

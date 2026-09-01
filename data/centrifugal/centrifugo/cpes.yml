@@ -146,3 +146,4 @@ cpes:
   - cpe:2.3:a:centrifugal:centrifugo:6.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:centrifugal:centrifugo:6.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:centrifugal:centrifugo:6.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:centrifugal:centrifugo:6.7.0:*:*:*:*:*:*:*
