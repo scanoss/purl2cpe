@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/goaccess
+  - pkg:deb/ubuntu/goaccess
+  - pkg:github/allinurl/goaccess
+  - pkg:rpm/fedora/goaccess

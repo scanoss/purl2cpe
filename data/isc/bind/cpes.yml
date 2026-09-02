@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:*:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:*:-:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:-:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:-:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:4:*:*:*:*:*:*:*
@@ -145,99 +146,166 @@ cpes:
   - cpe:2.3:a:isc:bind:9.1.0:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:a1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:a2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:alpha1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:alpha2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:b2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:beta2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:b2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:beta2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.1:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:p4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:p4:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.2:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:p4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:p4:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.3:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:b2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:b3:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:beta2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:beta3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p4:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p5:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p5:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p6:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p6:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p7:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:p8:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:p8:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.4:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:s2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.5:s4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.5:s4:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:s1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.10.6:s2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.6:s2:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.7:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.7:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.7:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.7:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.7:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.10.8:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.10.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.8:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.8:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.8:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.8:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.10.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.10.8:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.0:beta2:*:*:*:*:*:*
@@ -251,107 +319,175 @@ cpes:
   - cpe:2.3:a:isc:bind:9.1.1:-:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.1:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:a1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:a2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:a3:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:alpha1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:alpha2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:alpha3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:b1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:b2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:b3:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:beta2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:beta3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:p4:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:p5:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:p5:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.0:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.10:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.11:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.12:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.12:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.14:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.14-s1:*:*:*:preview:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.14:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.18:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.19:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.19-s1:*:*:*:preview:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.19:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.1:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.2:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.20:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.21:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.21:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.22:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.23:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.25:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.26:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.27:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.27:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.28:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.29:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.29:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.29:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.2:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.2:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.2:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.2:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.3:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.30:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.30:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.30:s1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.30:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.31:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.35:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.35:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.36:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.37:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.3:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.3:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.3:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:s2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.3:s2:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.3:s4:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.4:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.4:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.4:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.4:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.4:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.4:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.5:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.5:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.5:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:p4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.5:p4:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.5:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:s3:*:*:*:supported_preview:*:*
   - cpe:2.3:a:isc:bind:9.11.5:s3:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:s5:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.5:s6:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.6:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.6:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.6:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.6:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.6:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.6:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.7:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.8:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.11.8:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.11.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.11.9:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.1:p1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.1:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.1:p2:*:*:*:*:*:*
@@ -381,40 +517,72 @@ cpes:
   - cpe:2.3:a:isc:bind:9.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:a1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:alpha0:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:alpha1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:b2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:b2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:beta2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.0:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:b1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.1:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.2:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3.-:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.3:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.3:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.3:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3:p4:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.3:p4:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.3:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.4:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.4:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.4:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.4:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.4:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.12.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.12.4:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.2:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:*:*:*:*:*:*:*
@@ -422,15 +590,25 @@ cpes:
   - cpe:2.3:a:isc:bind:9.1.3:-:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.5:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.5:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.5:w1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.5:w1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.13.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.13.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:p1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:p2:*:*:*:*:*:*
@@ -444,32 +622,57 @@ cpes:
   - cpe:2.3:a:isc:bind:9.1.3:rc3:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.1.3:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.0:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.0:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.0:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.0:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.11:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.12:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.5:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.8:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.14.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.14.9:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.5:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.15.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.10:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.11:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.11:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.12:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.12:*:*:*:-:*:*:*
@@ -482,32 +685,44 @@ cpes:
   - cpe:2.3:a:isc:bind:9.16.15:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.19:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.21:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.21:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.22:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.32:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.36:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.36:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.37:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.43:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.43:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.44:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.45:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.45:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.48:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.48:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.50:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.8:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.16.8:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.16.8:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.16.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.16.9:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.17.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.1:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.10:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.11:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.17.11:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.12:*:*:*:-:*:*:*
@@ -516,16 +731,24 @@ cpes:
   - cpe:2.3:a:isc:bind:9.17.18:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.19:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.2:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.20:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.21:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.22:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.5:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.8:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.17.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.17.9:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.0:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.0:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.1:*:*:*:-:*:*:*
@@ -540,6 +763,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.18.21:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.21:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.24:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.18.24:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.25:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.26:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.27:*:*:*:-:*:*:*
@@ -567,6 +791,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.18.48:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.49:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.18.50:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.18.6:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.18.8:*:*:*:-:*:*:*
@@ -615,6 +840,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.20.21:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.22:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.23:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.20.24:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.20.3:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.4:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.5:*:*:*:-:*:*:*
@@ -622,6 +848,7 @@ cpes:
   - cpe:2.3:a:isc:bind:9.20.7:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.8:*:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.20.9:*:*:*:-:*:*:*
+  - cpe:2.3:a:isc:bind:9.20.9:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.2.0:a1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.2.0:a1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.2.0:a2:*:*:*:*:*:*
@@ -1531,31 +1758,52 @@ cpes:
   - cpe:2.3:a:isc:bind:9.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.1:-:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:p2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:p2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:p3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:p3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.10:rc3:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.10:s2:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.11:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.11:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.11:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.11:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.11:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.11:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.12:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.12:beta1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.12:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.12:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:s1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.12:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.9.13:-:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.13:-:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.13:p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.13:p1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.13:rc1:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.13:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:9.9.13:rc2:*:*:-:*:*:*
   - cpe:2.3:a:isc:bind:9.9.13:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:9.9.1:p1:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.1:p2:*:*:*:*:*:*
@@ -1645,5 +1893,6 @@ cpes:
   - cpe:2.3:a:isc:bind:9.9.9:s6:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.9:s7:*:*:*:*:*:*
   - cpe:2.3:a:isc:bind:9.9.9:s8:*:*:*:*:*:*
+  - cpe:2.3:a:isc:bind:*:*:*:*:preview:*:*:*
   - cpe:2.3:a:isc:bind:*:s1:*:*:supported_preview:*:*:*
   - cpe:2.3:a:isc:bind:*:*:*:*:supported_preview:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:grpc-ecosystem:grpc-gateway:2.28.0:*:*:*:*:*:*:*

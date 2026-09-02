@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elwerene/libreoffice-convert
+  - pkg:npm/libreoffice-convert

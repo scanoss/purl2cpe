@@ -115,6 +115,7 @@ cpes:
   - cpe:2.3:a:pivotal:reactor_netty:1.0.36:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.0.37:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.0.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:reactor_netty:1.0.39:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.0.6:*:*:*:*:*:*:*
@@ -132,6 +133,7 @@ cpes:
   - cpe:2.3:a:pivotal:reactor_netty:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:reactor_netty:1.1.13:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal:reactor_netty:1.1.4:*:*:*:*:*:*:*

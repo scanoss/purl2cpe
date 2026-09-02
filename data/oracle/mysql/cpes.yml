@@ -2,6 +2,7 @@ cpes:
   - cpe:2.3:a:oracle:mysql:*:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:-:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql:26.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:3.20:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:3.20.32a:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:mysql:3.21:*:*:*:*:*:*:*

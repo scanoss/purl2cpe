@@ -6713,9 +6713,13 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:7.2:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.2:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7f8e401f9e612df2a95c1ef76217c00181389bb5:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:9a8863e8a8def9d88583cd9c60db38a008e6b8cf:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm32:*
   - cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:arm64:*
+  - cpe:2.3:o:linux:linux_kernel:c712ed63e9b33d9a282fbd92ce25c64918c3129f:*:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:f6104e9ae04462523c372928b1173766a771ef95:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:git-6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:git9:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:*:*:ia32_64-bit:*:*:*:*:*

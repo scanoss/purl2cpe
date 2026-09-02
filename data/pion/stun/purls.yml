@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pion/stun
+  - pkg:golang/github.com/pion/stun

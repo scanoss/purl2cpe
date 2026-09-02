@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/senaite/senaite.core
+  - pkg:pypi/senaite.core

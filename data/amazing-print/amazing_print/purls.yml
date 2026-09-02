@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/amazing_print
+  - pkg:github/amazing-print/amazing_print

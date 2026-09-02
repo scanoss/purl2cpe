@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/grpc-ecosystem/grpc-gateway
+  - pkg:golang/github.com/grpc-ecosystem/grpc-gateway

@@ -157,10 +157,13 @@ cpes:
   - cpe:2.3:a:kamailio:kamailio:5.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:5.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kamailio:kamailio:5.8.8:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kamailio:kamailio:6.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:kamailio:kamailio:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kamailio:kamailio:6.1.1:*:*:*:*:*:*:*

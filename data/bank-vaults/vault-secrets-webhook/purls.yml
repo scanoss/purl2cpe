@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bank-vaults/vault-secrets-webhook
+  - pkg:golang/github.com/bank-vaults/vault-secrets-webhook
