@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mariadb-corporation/mariadb-connector-r2dbc
+  - pkg:maven/org.mariadb/r2dbc-mariadb

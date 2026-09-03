@@ -556,4 +556,5 @@ cpes:
   - cpe:2.3:a:elastic:kibana:9.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:kibana:9.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:kibana:9.5.0:*:*:*:*:*:*:*

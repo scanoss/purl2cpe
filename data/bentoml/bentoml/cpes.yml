@@ -203,6 +203,7 @@ cpes:
   - cpe:2.3:a:bentoml:bentoml:1.4.36:*:*:*:*:*:*:*
   - cpe:2.3:a:bentoml:bentoml:1.4.37:*:*:*:*:*:*:*
   - cpe:2.3:a:bentoml:bentoml:1.4.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:bentoml:bentoml:1.4.39:*:*:*:*:*:*:*
   - cpe:2.3:a:bentoml:bentoml:1.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:bentoml:bentoml:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bentoml:bentoml:1.4.6:*:*:*:*:*:*:*

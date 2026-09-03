@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pydio:cells:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pydio:cells:0.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydio:cells:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydio:cells:1.0.1:*:*:*:*:*:*:*

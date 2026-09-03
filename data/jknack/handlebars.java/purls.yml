@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jknack/handlebars.java
+  - pkg:maven/com.github.jknack/handlebars.java

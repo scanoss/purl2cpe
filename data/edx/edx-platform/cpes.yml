@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:edx:edx-platform:*:*:*:*:*:*:*:*
   - cpe:2.3:a:edx:edx-platform:-:*:*:*:*:*:*:*
   - cpe:2.3:a:edx:edx-platform:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:edx:edx-platform:2012-02-14:*:*:*:*:*:*:*

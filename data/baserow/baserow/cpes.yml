@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:baserow:baserow:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:baserow:baserow:2.3.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/temporalio/ui-server
+  - pkg:golang/github.com/temporalio/ui-server

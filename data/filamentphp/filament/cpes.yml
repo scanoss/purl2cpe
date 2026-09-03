@@ -530,6 +530,9 @@ cpes:
   - cpe:2.3:a:filamentphp:filament:4.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:4.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:4.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:4.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.0.0:beta2:*:*:*:*:*:*
@@ -554,3 +557,6 @@ cpes:
   - cpe:2.3:a:filamentphp:filament:5.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:filamentphp:filament:5.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:5.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:filamentphp:filament:5.4.1:*:*:*:*:*:*:*

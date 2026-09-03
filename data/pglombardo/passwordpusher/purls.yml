@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/pwpush
+  - pkg:github/pglombardo/passwordpusher

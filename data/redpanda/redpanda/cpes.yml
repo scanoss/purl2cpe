@@ -346,6 +346,9 @@ cpes:
   - cpe:2.3:a:redpanda:redpanda:23.1.2:-:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.1.20:-:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.1.20:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.1.21:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.1.21:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.1.21:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.1.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.1.2:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.1.2:rc3:*:*:*:*:*:*
@@ -389,6 +392,12 @@ cpes:
   - cpe:2.3:a:redpanda:redpanda:23.2.16:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.17:-:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.17:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.18:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.18:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.18:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.18:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.19:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.19:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.1:rc10:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.1:rc2:*:*:*:*:*:*
@@ -400,6 +409,11 @@ cpes:
   - cpe:2.3:a:redpanda:redpanda:23.2.1:rc8:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.1:rc9:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.20:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.20:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.21:-:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.2.21:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.2:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.3:-:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.3:rc1:*:*:*:*:*:*
@@ -421,3 +435,8 @@ cpes:
   - cpe:2.3:a:redpanda:redpanda:23.2.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:redpanda:redpanda:23.2.9:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.3.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.3.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.3.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:redpanda:redpanda:23.3.1:rc5:*:*:*:*:*:*

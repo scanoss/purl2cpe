@@ -185,6 +185,7 @@ cpes:
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.44:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.45:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpdiscuz:7.6.47:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:7.6.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gvectors:wpdiscuz:-:*:*:*:*:wordpress:*:*

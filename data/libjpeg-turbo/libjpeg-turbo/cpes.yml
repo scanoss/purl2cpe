@@ -51,4 +51,5 @@ cpes:
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:3.0.90:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:7.4:*:*:*:*:*:*:*

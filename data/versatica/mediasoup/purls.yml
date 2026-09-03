@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/versatica/mediasoup
+  - pkg:npm/mediasoup

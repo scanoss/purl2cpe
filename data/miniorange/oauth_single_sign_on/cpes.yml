@@ -104,6 +104,8 @@ cpes:
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.23.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.2:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:miniorange:oauth_single_sign_on:6.24.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:miniorange:oauth_single_sign_on:6.5.0:*:*:*:*:wordpress:*:*

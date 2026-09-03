@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:agno:agno:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:agno:agno:-:*:*:*:*:*:*:*
   - cpe:2.3:a:agno:agno:0.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:agno:agno:0.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:agno:agno:1.0.0:*:*:*:*:*:*:*

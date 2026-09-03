@@ -195,3 +195,4 @@ cpes:
   - cpe:2.3:a:elastic:apm_server:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_server:9.5.0:*:*:*:*:*:*:*

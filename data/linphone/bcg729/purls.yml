@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/linphone/bcg729
+  - pkg:rpm/fedora/bcg729

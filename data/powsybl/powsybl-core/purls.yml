@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/powsybl/powsybl-core
+  - pkg:maven/com.powsybl/powsybl-core

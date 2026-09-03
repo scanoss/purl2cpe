@@ -2,6 +2,7 @@ cpes:
   - cpe:2.3:a:duraspace:dspace:*:*:*:*:*:*:*:*
   - cpe:2.3:a:duraspace:dspace:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:duraspace:dspace:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:duraspace:dspace:10-rc1:*:*:*:*:*:*:*
   - cpe:2.3:a:duraspace:dspace:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:duraspace:dspace:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:duraspace:dspace:1.2:*:*:*:*:*:*:*

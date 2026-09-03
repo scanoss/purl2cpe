@@ -35,6 +35,7 @@ cpes:
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.14.3:*:*:*:*:*:*:*
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:7.3.0:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:openpanel:openpanel:-:*:*:*:*:*:*:*
   - cpe:2.3:a:openpanel:openpanel:0.3.4:*:*:*:*:*:*:*

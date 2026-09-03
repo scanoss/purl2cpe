@@ -1,10 +1,199 @@
 cpes:
+  - cpe:2.3:a:mage:mage-ai:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.1.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.1.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.2.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.3.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.19:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.20:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.4.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.5.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.5.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.5.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.6.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.100:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.102:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.103:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.19:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.20:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.21:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.22:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.23:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.24:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.25:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.26:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.27:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.28:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.29:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.30:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.32:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.33:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.34:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.35:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.36:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.37:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.38:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.39:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.40:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.41:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.42:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.43:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.44:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.45:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.46:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.47:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.48:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.49:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.50:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.51:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.53:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.54:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.55:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.56:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.57:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.58:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.59:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.60:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.61:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.62:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.63:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.65:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.66:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.67:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.68:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.69:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.70:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.71:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.72:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.73:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.74:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.75:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.76:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.77:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.78:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.79:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.80:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.81:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.82:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.83:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.84:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.85:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.86:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.87:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.88:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.89:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.90:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.91:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.92:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.93:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.94:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.95:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.96:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.97:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.98:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.99:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.7.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.19:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.20:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.21:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.22:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.23:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.24:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.25:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.26:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.27:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.28:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.29:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.30:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.31:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.32:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.33:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.34:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.35:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.36:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.37:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.38:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.39:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.3:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.40:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.41:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.42:*:*:*:*:python:*:*
@@ -15,6 +204,7 @@ cpes:
   - cpe:2.3:a:mage:mage-ai:0.8.47:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.48:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.49:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.4:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.50:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.51:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.52:*:*:*:*:python:*:*
@@ -25,6 +215,7 @@ cpes:
   - cpe:2.3:a:mage:mage-ai:0.8.57:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.58:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.59:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.5:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.60:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.61:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.62:*:*:*:*:python:*:*
@@ -34,7 +225,15 @@ cpes:
   - cpe:2.3:a:mage:mage-ai:0.8.67:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.68:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.69:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.6:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.70:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:0.8.71:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.72:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.73:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.74:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.75:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:mage:mage-ai:0.8.9:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:*:*:*:*:*:python:*:*
   - cpe:2.3:a:mage:mage-ai:-:*:*:*:*:python:*:*

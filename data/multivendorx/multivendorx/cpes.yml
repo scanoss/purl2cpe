@@ -125,6 +125,8 @@ cpes:
   - cpe:2.3:a:multivendorx:multivendorx:4.2.20:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:4.2.21:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:4.2.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.2.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multivendorx:multivendorx:4.2.24:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:4.2.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:4.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:multivendorx:multivendorx:4.2.4:*:*:*:*:wordpress:*:*
