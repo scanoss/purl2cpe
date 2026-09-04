@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/google-chat-notification-plugin
+  - pkg:maven/org.jenkins-ci.plugins/google-chat-notification

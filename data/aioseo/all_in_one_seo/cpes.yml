@@ -277,3 +277,4 @@ cpes:
   - cpe:2.3:a:aioseo:all_in_one_seo:4.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aioseo:all_in_one_seo:4.8.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:aioseo:all_in_one_seo:4.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:aioseo:all_in_one_seo:4.8.2:*:*:*:*:wordpress:*:*

@@ -20,6 +20,17 @@ cpes:
   - cpe:2.3:a:hashicorp:go-slug:0.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-slug:0.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-slug:0.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.16.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashicorp:go-slug:0.18.2:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-slug:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-slug:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hashicorp:go-slug:0.3.1:*:*:*:*:*:*:*

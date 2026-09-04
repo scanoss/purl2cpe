@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jeemok/better-npm-audit
+  - pkg:npm/better-npm-audit

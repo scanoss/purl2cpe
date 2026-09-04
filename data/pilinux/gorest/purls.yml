@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pilinux/gorest
+  - pkg:golang/github.com/pilinux/gorest

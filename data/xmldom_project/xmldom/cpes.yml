@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xmldom_project:xmldom:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:xmldom_project:xmldom:0.1.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:xmldom_project:xmldom:0.1.10:*:*:*:*:node.js:*:*

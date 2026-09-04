@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins_project:external_workspace_manager_plugin:*:*:*:*:*:*:*:*

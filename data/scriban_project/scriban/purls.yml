@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scriban/scriban
+  - pkg:nuget/scriban

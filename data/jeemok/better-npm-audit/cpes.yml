@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jeemok:better-npm-audit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeemok:better-npm-audit:4.0.0-rc.2:*:*:*:*:*:*:*

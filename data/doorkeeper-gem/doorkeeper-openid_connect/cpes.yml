@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:doorkeeper-gem:doorkeeper-openid_connect:*:*:*:*:*:*:*:*

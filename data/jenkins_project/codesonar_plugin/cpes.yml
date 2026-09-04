@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins_project:codesonar_plugin:*:*:*:*:*:jenkins:*:*

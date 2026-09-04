@@ -443,6 +443,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.111.16:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.17:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.18:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.111.21:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.4:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.7:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.8:*:*:*:*:-:*:*
@@ -450,6 +451,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.11.2:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.11.5:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.11.7:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.117.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.12:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.14:*:*:*:*:-:*:*
@@ -462,12 +464,14 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.117.22:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.23:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.24:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.117.28:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.5:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.7:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.8:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.11.8:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.12.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.12.3:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.125.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.11:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.12:*:*:*:*:-:*:*
@@ -475,6 +479,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.125.15:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.16:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.17:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.125.20:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.4:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.6:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.7:*:*:*:*:-:*:*
@@ -483,6 +488,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.12.6:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.12.8:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.12.9:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.133.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.12:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.15:*:*:*:*:-:*:*
@@ -496,8 +502,10 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.133.26:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.27:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.28:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.133.29:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.3:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.146.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.146.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.146.12:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.146.13:*:*:*:*:-:*:*

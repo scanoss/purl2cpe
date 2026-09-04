@@ -1,5 +1,53 @@
 cpes:
   - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:*:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:3.4.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/datarecce/recce
+  - pkg:pypi/recce

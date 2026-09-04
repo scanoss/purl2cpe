@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/masci/banks
+  - pkg:pypi/banks

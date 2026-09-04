@@ -6,3 +6,4 @@ cpes:
   - cpe:2.3:a:elastic:elastic_agent:8.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elastic_agent:8.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:elastic_agent:8.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_agent:9.5.0:*:*:*:*:*:*:*

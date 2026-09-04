@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dai-shi/use-reducer-async
+  - pkg:npm/use-reducer-async

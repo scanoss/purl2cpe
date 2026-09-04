@@ -64,5 +64,6 @@ cpes:
   - cpe:2.3:a:jenkins:ldap:776.vddf3e325103b_:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:ldap:780.vcb_33c9a_e4332:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:ldap:793.v754d6b_41b_ea_4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ldap:807.809.vd3a_4e5e4ec98:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:ldap:807.v7d7de30930cf:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:ldap:*:*:*:*:*:jenkins:*:*

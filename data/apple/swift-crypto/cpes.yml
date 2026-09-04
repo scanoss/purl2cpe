@@ -1,7 +1,43 @@
 cpes:
   - cpe:2.3:a:apple:swift-crypto:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.10.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.10.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.10.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.11.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.11.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.11.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.3:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.4:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.12.5:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.13.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.13.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.13.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.13.3:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.14.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.15.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.15.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.2.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.3.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.4.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.5.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.5.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.5.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.6.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.6.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.7.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.7.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.8.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.8.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.9.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:3.9.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.0.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.1.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.2.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.3.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:4.3.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:4.5.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:4.5.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:*:*:*:*:*:swift:*:*

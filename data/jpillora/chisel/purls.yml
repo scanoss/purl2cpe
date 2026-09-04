@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jpillora/chisel
+  - pkg:golang/github.com/jpillora/chisel

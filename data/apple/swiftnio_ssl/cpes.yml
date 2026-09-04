@@ -14,9 +14,41 @@ cpes:
   - cpe:2.3:a:apple:swiftnio_ssl:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.27.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.27.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.29.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.29.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.30.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:swiftnio_ssl:2.37.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:swiftnio_ssl:2.4.2:*:*:*:*:*:*:*

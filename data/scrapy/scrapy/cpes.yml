@@ -106,6 +106,12 @@ cpes:
   - cpe:2.3:a:scrapy:scrapy:2.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:2.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scrapy:scrapy:2.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:scrapy:scrapy:2.3.0:*:*:*:*:*:*:*

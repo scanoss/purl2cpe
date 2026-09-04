@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seriousm4x/upsnap
+  - pkg:golang/github.com/seriousm4x/upsnap

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins_project:webhook_secret_credentials_provider:*:*:*:*:*:*:*:*

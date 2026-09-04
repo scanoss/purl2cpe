@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tursodatabase/turso-cli
+  - pkg:golang/github.com/tursodatabase/turso-cli

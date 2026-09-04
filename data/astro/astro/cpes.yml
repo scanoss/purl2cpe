@@ -784,4 +784,15 @@ cpes:
   - cpe:2.3:a:astro:astro:6.4.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:6.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:6.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:6.4.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:beta3:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:beta4:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:beta5:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:beta6:*:*:*:node.js:*:*
+  - cpe:2.3:a:astro:astro:7.0.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:astro:astro:*:*:*:*:*:node.js:*:*
