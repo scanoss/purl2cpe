@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkinsci:stapler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkinsci:stapler:2088.2093.vd7c3e58008a_6:*:*:*:*:*:*:*

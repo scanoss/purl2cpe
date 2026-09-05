@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/regclient/regclient
+  - pkg:golang/github.com/regclient/regclient

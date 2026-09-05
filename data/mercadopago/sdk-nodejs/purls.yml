@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mercadopago/sdk-nodejs
+  - pkg:npm/mercadopago

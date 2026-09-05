@@ -834,3 +834,4 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:8.3.7:*:*:*:-:*:*:*
   - cpe:2.3:a:mongodb:mongodb:8.3.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:mongodb:mongodb:*:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:visual_studio_code:*:*

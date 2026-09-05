@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/getkin/kin-openapi
+  - pkg:golang/github.com/getkin/kin-openapi

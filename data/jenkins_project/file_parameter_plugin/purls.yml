@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/file-parameters-plugin
+  - pkg:maven/io.jenkins.plugins/file-parameters

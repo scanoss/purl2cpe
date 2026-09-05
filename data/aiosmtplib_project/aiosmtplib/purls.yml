@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cole/aiosmtplib
+  - pkg:pypi/aiosmtplib

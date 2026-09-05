@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mariadb-corporation/mariadb-connector-nodejs
+  - pkg:npm/mariadb

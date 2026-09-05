@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/taubyte/tau
+  - pkg:golang/github.com/taubyte/tau

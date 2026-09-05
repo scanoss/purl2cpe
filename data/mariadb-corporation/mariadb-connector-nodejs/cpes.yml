@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mariadb-corporation:mariadb-connector-nodejs:*:*:*:*:*:*:*:*

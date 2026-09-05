@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kedacore/keda
+  - pkg:golang/github.com/kedacore/keda

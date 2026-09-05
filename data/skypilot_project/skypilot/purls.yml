@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/skypilot-org/skypilot
+  - pkg:pypi/skypilot

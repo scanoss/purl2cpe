@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/thumbor/thumbor
+  - pkg:pypi/thumbor

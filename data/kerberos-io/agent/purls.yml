@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kerberos-io/agent
+  - pkg:golang/github.com/kerberos-io/agent

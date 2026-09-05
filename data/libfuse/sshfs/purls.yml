@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sshfs
+  - pkg:deb/ubuntu/sshfs
+  - pkg:github/libfuse/sshfs
+  - pkg:rpm/fedora/fuse-sshfs
+  - pkg:rpm/opensuse/fuse-sshfs
+  - pkg:rpm/rpmfind/fuse-sshfs

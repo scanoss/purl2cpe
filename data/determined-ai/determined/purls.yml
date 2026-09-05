@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/determined-ai/determined
+  - pkg:golang/github.com/determined-ai/determined

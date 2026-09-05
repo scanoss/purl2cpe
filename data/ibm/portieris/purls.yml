@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ibm/portieris
+  - pkg:golang/github.com/ibm/portieris

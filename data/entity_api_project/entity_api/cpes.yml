@@ -44,3 +44,4 @@ cpes:
   - cpe:2.3:a:entity_api_project:entity_api:8.x-1.0:rc2:*:*:*:drupal:*:*
   - cpe:2.3:a:entity_api_project:entity_api:8.x-1.0:rc3:*:*:*:drupal:*:*
   - cpe:2.3:a:entity_api_project:entity_api:8.x-1.x:dev:*:*:*:drupal:*:*
+  - cpe:2.3:a:entity_api_project:entity_api:*:*:*:*:*:drupal:*:*

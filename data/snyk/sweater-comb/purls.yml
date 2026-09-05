@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/snyk/sweater-comb
+  - pkg:npm/%40snyk/sweater-comb

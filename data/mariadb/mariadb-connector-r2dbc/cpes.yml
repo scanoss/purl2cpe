@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mariadb:mariadb-connector-r2dbc:*:*:*:*:*:*:*:*
