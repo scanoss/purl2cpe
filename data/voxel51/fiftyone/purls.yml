@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/voxel51/fiftyone
+  - pkg:pypi/fiftyone

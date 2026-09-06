@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rabbitmq/amqp091-go
+  - pkg:golang/github.com/rabbitmq/amqp091-go

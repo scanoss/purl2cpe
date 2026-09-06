@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/coroot/coroot
+  - pkg:golang/github.com/coroot/coroot
