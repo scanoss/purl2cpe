@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:vmware:spring_cloud_stream:*:*:*:*:*:*:*:*

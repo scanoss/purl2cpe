@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/builderio/gpt-crawler
+  - pkg:npm/@builder.io/gpt-crawler

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/omnivore-app/omnivore
+  - pkg:npm/@omnivore-app/api

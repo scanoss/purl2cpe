@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/keploy/keploy
+  - pkg:golang/github.com/keploy/keploy
+  - pkg:maven/io.keploy/keploy-sdk

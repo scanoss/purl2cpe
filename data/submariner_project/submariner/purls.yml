@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/submariner-io/submariner
+  - pkg:golang/github.com/submariner-io/submariner

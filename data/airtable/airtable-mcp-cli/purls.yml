@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/airtable/airtable-mcp-cli
+  - pkg:npm/@airtable/mcp-cli

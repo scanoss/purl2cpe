@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/coderaiser/cloudcmd
+  - pkg:github/coderaiser/cloudcmd
+  - pkg:npm/cloudcmd

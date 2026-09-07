@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aws-amplify/amplify-cli
+  - pkg:npm/@aws-amplify/cli

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pdfme/pdfme
+  - pkg:npm/@pdfme/generator

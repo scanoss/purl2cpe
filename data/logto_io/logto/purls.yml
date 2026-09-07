@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/logto-io/logto
+  - pkg:npm/@logto/js

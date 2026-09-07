@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/openzipkin/zipkin
+  - pkg:github/openzipkin/zipkin
+  - pkg:maven/io.zipkin.java/zipkin-server

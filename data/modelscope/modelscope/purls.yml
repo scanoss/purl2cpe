@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/modelscope/modelscope
+  - pkg:pypi/modelscope

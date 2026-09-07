@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:abhiphile:fermat_mcp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:abhiphile:fermat_mcp:2025-10-08:*:*:*:*:*:*:*

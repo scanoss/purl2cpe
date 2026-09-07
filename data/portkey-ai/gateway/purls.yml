@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/portkey-ai/gateway
+  - pkg:npm/%40portkey-ai/gateway
