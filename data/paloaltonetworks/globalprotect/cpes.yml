@@ -182,6 +182,8 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.13:*:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.14:*:*:*:*:android:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.14:*:*:*:*:chrome:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.15:*:*:*:*:linux:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.15:*:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.1:*:*:*:*:android:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.1:*:*:*:*:chrome:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.0.1:*:*:*:*:iphone_os:*:*
@@ -324,6 +326,7 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h2:*:*:*:linux:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h2:*:*:*:macos:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h2:*:*:*:windows:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h3:*:*:*:linux:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h3:*:*:*:macos:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h3:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:h4:*:*:*:macos:*:*
@@ -343,6 +346,8 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:-:*:*:*:universal_windows_platform:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:*:*:*:*:windows:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.3:-:*:*:*:windows:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.4:*:*:*:*:android:*:*
+  - cpe:2.3:a:paloaltonetworks:globalprotect:6.3.4:*:*:*:*:chrome:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:android:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:-:*:*:*:*:android:*:*
   - cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:chrome:*:*

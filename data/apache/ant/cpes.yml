@@ -7,6 +7,21 @@ cpes:
   - cpe:2.3:a:apache:ant:1.10.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:ant:1.10.11:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:ant:1.10.11:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.12:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.12:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.13:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.14:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.15:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.15:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.15:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.16:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.16:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.16:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.17:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ant:1.10.17:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:ant:1.10.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:ant:1.10.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:ant:1.10.2:rc1:*:*:*:*:*:*
