@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:nvidia:apex:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:apex:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:apex:22.03:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:apex:23.05:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:apex:23.06:*:*:*:*:*:*:*
