@@ -351,6 +351,7 @@ cpes:
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.172.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.177.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_cloud_development_kit:2.178.2:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:aws_cloud_development_kit:2.2.0:*:*:*:*:*:*:*

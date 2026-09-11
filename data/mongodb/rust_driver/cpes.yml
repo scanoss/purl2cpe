@@ -40,3 +40,10 @@ cpes:
   - cpe:2.3:a:mongodb:rust_driver:2.7.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:rust_driver:2.8.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:rust_driver:2.8.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.5.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.5.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.5.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.6.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.7.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.8.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:rust_driver:3.8.1:*:*:*:*:mongodb:*:*

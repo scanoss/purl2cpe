@@ -99,12 +99,19 @@ cpes:
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.9:*:*:*:critical_environment:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.100:-:*:*:critical_environment:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.100:hf:*:*:critical_environment:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3.2:*:*:*:-:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.3:*:*:*:critical_environment:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.4.1:-:*:*:-:*:*:*
+  - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.4.1:hf:*:*:-:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:8.9.0:-:*:*:-:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:9.0.0:-:*:*:-:*:*:*
   - cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:content_update:*:*:*

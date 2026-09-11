@@ -31,6 +31,7 @@ cpes:
   - cpe:2.3:a:mongodb:mongodb:0.6.9:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.7.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:0.8.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:mongodb:mongodb:1.13.0:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:mongodb:mongodb:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:mongodb:1.6.0:*:*:*:*:*:*:*

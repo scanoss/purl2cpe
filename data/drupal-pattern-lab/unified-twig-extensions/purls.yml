@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/drupal-pattern-lab/unified-twig-extensions
+  - pkg:github/drupal-pattern-lab/unified-twig-extensions
