@@ -109,6 +109,8 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:3.11.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.1.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:3.12.10:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:3.12.11:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.3:*:*:*:*:mongodb:*:*
@@ -117,6 +119,7 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:3.12.6:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.7:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.12.8:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:3.12.9:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.2.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.2.0:rc0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:3.2.1:*:*:*:*:mongodb:*:*
@@ -160,6 +163,10 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:4.0.4:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.0.5:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.0.6:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.10.0:alpha1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.10.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.10.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.10.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.1.0:beta1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.1.0:beta2:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.1.0:-:*:*:*:mongodb:*:*
@@ -176,9 +183,36 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:4.2.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.3.0:beta1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:4.3.0:beta2:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.0:beta3:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.0:beta4:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.3.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.4.0:beta1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.4.0:beta2:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.4.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.4.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.4.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.5.0:beta0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.5.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.5.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.6.0:alpha0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.6.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.7.0:beta0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.7.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.7.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.7.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.8.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.8.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.8.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.9.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:4.9.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.0.0:beta2:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.0.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.0.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:5.10.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.2:*:*:*:*:mongodb:*:*
@@ -210,3 +244,4 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:5.8.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.9.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.9.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:5.9.2:*:*:*:*:mongodb:*:*
