@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:aws_c_http_project:aws-c-http:*:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mosaicml:composer:0.32.1:*:*:*:*:*:*:*

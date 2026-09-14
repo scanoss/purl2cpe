@@ -18,7 +18,12 @@ cpes:
   - cpe:2.3:a:webmproject:libwebm:1.0.0.25:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.26:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libwebm:1.0.0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libwebm:1.0.0.29:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libwebm:1.0.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libwebm:1.0.0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:webmproject:libwebm:1.0.0.32:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:webmproject:libwebm:1.0.0.6:*:*:*:*:*:*:*

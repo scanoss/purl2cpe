@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/edgewall/genshi
+  - pkg:pypi/genshi

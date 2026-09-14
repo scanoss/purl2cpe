@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/awslabs/aws-c-http
+  - pkg:rpm/fedora/aws-c-http
+  - pkg:rpm/rpmfind/aws-c-http

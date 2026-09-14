@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:seagate:openseachest:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:seagate:openseachest:26.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:seagate:openseachest:26.03.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/awslabs/aws-athena-query-federation
+  - pkg:maven/com.amazonaws/aws-athena-query-federation

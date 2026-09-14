@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/sidekiq-cron
+  - pkg:github/sidekiq-cron/sidekiq-cron

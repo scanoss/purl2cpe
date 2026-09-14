@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/openseachest
+  - pkg:deb/ubuntu/openseachest
+  - pkg:github/seagate/openseachest
+  - pkg:rpm/opensuse/openseachest
