@@ -109,6 +109,11 @@ cpes:
   - cpe:2.3:a:mongodb:python_driver:3.1.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.12.0:b0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.12.0:b1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:3.12.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:3.12.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:3.12.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:3.12.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:3.13.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.1:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.1:rc0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.2.1:*:*:*:*:mongodb:*:*
@@ -132,3 +137,56 @@ cpes:
   - cpe:2.3:a:mongodb:python_driver:3.9.0:b0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.9.0:b1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:3.9.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.0.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.0.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.10.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.10.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.1.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.11.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.11.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.11.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.1.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.11:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.12.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.12.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.13.0:dev0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.13.0:dev1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.13.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.13.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.13.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.14.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.14.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.15.5:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.16.0:dev0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.16.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.17.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.18.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.2.0:beta0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.2.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.3.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.3.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.3.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.3.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.4.0:beta0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.4.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.4.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.5.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.6.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.6.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.6.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.6.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.7.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.7.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.7.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.7.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.8.0:beta0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.8.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.9.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.9.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.9:*:*:*:*:mongodb:*:*

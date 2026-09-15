@@ -1,2 +1,13 @@
 cpes:
+  - cpe:2.3:a:webtamarin:mk_google_directions:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webtamarin:mk_google_directions:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtamarin:mk_google_directions:-:*:*:*:*:wordpress:*:*

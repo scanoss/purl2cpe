@@ -136,6 +136,8 @@ cpes:
   - cpe:2.3:a:mongodb:ruby_driver:2.14.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.14.0:rc1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.15.0:alpha:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.18.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.0:rc0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.1:*:*:*:*:mongodb:*:*
