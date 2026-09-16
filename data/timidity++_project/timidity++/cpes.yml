@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.13.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:timidity\+\+_project:timidity\+\+:2.15.0:*:*:*:*:*:*:*

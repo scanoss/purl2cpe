@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tintin++
+  - pkg:deb/ubuntu/tintin++
+  - pkg:github/scandum/tintin
+  - pkg:github/tintinplusplus/tintin
+  - pkg:rpm/fedora/tintin
+  - pkg:rpm/opensuse/tintin
+  - pkg:sourceforge/tintin

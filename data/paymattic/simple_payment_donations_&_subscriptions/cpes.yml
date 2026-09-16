@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:1.9.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymattic:simple_payment_donations_\&_subscriptions:4.2.2:*:*:*:*:wordpress:*:*

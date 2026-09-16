@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/lightdm-gtk-greeter
+  - pkg:deb/ubuntu/lightdm-gtk-greeter
+  - pkg:github/xubuntu/lightdm-gtk-greeter
+  - pkg:rpm/opensuse/lightdm-gtk-greeter

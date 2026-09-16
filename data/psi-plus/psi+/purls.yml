@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/psiplus
+  - pkg:deb/ubuntu/psiplus
+  - pkg:github/psi-plus/psi-plus-snapshots
+  - pkg:sourceforge/psiplus

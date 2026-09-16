@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/magics++
+  - pkg:deb/ubuntu/magics++
+  - pkg:github/ecmwf/magics
+  - pkg:rpm/opensuse/magics

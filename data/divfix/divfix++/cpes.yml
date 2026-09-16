@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:divfix:divfix\+\+:0.10:beta:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:divfix:divfix\+\+:0.34:*:*:*:*:*:*:*

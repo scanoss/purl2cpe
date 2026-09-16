@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/timidity
+  - pkg:deb/ubuntu/timidity
+  - pkg:github/chiptunes-swift/timidity
+  - pkg:github/geofft/timidity
+  - pkg:rpm/fedora/timidity++
+  - pkg:rpm/opensuse/timidity
+  - pkg:sourceforge/timidity

@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:randall_hand:yerase\'s_tnef_stream_reader:2.6:*:*:*:*:*:*:*

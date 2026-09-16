@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/svn2github/divfixpp
+  - pkg:rpm/fedora/divfix++
+  - pkg:rpm/opensuse/divfix++
+  - pkg:sourceforge/divfixpp

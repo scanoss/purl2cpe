@@ -123,6 +123,7 @@ cpes:
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:4.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:4.9.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:4.9.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:contracts_upgradeable:4.9.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:5.0.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:5.0.0:rc0:*:*:*:node.js:*:*
   - cpe:2.3:a:openzeppelin:contracts_upgradeable:5.0.0:rc1:*:*:*:node.js:*:*

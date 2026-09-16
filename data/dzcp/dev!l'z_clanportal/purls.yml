@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/dzcp-community/dzcp-1.5
+  - pkg:github/dzcp-community/dzcp-1.6
+  - pkg:github/dzcp-community/dzcp-1.7
+  - pkg:github/idragonfire/dzcp

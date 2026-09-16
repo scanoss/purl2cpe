@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mickem/nscp
+  - pkg:rpm/opensuse/nscp
+  - pkg:sourceforge/nscplus

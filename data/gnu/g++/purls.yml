@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gcc
+  - pkg:deb/ubuntu/gcc
+  - pkg:github/gcc-mirror/gcc
+  - pkg:gitlab/redhat/gcc
+  - pkg:gnu/gcc
+  - pkg:rpm/centos/gcc
+  - pkg:rpm/fedora/gcc
+  - pkg:rpm/opensuse/gcc

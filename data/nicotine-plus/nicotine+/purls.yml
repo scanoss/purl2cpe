@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/nicotine
+  - pkg:deb/ubuntu/nicotine
+  - pkg:docker/thismachine/nicotine-python3
+  - pkg:github/alexdelorenzo/nicotine-plus
+  - pkg:github/nicotine-plus/nicotine-plus
+  - pkg:pypi/nicotine-plus
+  - pkg:rpm/fedora/nicotine+

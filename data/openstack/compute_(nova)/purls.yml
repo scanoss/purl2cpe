@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/openstackhelm/nova
+  - pkg:github/openstack/nova
+  - pkg:maven/org.apache.jclouds.api/openstack-nova
+  - pkg:npm/opifex.nova
+  - pkg:pypi/nova
+  - pkg:rpm/opensuse/openstack-nova

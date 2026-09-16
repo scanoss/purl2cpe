@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/ceilometer
+  - pkg:pypi/ceilometer
+  - pkg:rpm/opensuse/openstack-ceilometer

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gwyn\'s_imagemap_selector_project:gwyn\'s_imagemap_selector:0.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gwyn\'s_imagemap_selector_project:gwyn\'s_imagemap_selector:0.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gwyn\'s_imagemap_selector_project:gwyn\'s_imagemap_selector:-:*:*:*:*:wordpress:*:*

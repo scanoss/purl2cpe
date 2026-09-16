@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openstackhelm/glance
+  - pkg:github/openstack/glance
+  - pkg:pypi/glance
+  - pkg:rpm/opensuse/openstack-glance

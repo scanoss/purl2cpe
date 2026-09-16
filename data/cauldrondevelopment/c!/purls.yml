@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/cauldrondevelopment/cbang
+  - pkg:github/cauldrondevelopmentllc/cbang
+  - pkg:rpm/opensuse/cbang

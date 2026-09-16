@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wp-plugins/zm-ajax-login-register
+  - pkg:github/wpplugins/zm-ajax-login-register
+  - pkg:github/zanematthew/zm-ajax-login-register

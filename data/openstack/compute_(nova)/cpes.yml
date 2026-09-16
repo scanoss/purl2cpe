@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:openstack:compute_\(nova\):13.0.0:*:*:*:*:*:*:*

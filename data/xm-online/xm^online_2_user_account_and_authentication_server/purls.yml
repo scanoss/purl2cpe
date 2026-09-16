@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/xmonline/xm-uaa
+  - pkg:github/xm-online/xm-uaa

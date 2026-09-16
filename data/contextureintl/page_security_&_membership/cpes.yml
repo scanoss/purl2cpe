@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:contextureintl:page_security_\&_membership:1.5.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contextureintl:page_security_\&_membership:-:*:*:*:*:wordpress:*:*

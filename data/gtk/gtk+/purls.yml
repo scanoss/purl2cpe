@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gtk+3.0
+  - pkg:deb/ubuntu/gtk+3.0
+  - pkg:github/gnome/gtk
+  - pkg:rpm/fedora/gtk+
+  - pkg:rpm/opensuse/gtk+

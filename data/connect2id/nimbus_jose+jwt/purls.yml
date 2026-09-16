@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/connect2id/nimbus-jose-jwt
+  - pkg:github/felx/nimbus-jose-jwt
+  - pkg:github/gesellix/nimbus-jose-jwt
+  - pkg:maven/com.nimbusds/nimbus-jose-jwt
