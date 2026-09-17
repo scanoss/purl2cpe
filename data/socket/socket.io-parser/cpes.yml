@@ -24,6 +24,7 @@ cpes:
   - cpe:2.3:a:socket:socket.io-parser:3.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:3.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:3.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:socket.io-parser:3.3.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:3.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:3.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:3.4.2:*:*:*:*:node.js:*:*
@@ -44,3 +45,5 @@ cpes:
   - cpe:2.3:a:socket:socket.io-parser:4.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:4.2.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io-parser:4.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:socket.io-parser:4.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:socket:socket.io-parser:4.2.5:*:*:*:*:node.js:*:*

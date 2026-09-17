@@ -647,13 +647,36 @@ cpes:
   - cpe:2.3:a:svelte:kit:2.57.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.57.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.5.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.58.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.5.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.59.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.59.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.5.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.60.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.60.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.61.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.61.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.62.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.63.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.63.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.64.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.65.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.65.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.65.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.66.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.67.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.68.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.69.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.69.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.69.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.69.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.70.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.70.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.2:*:*:*:*:node.js:*:*
