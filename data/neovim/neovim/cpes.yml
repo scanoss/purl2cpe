@@ -1,5 +1,7 @@
 cpes:
   - cpe:2.3:a:neovim:neovim:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.11.6:*:*:*:*:*:*:*
@@ -22,3 +24,25 @@ cpes:
   - cpe:2.3:a:neovim:neovim:0.3.6:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:neovim:neovim:0.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:neovim:neovim:0.9.5:*:*:*:*:*:*:*

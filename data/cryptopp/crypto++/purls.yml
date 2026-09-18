@@ -1,5 +1,7 @@
 purls:
   - pkg:bitbucket/jdkoftinoff/cryptopp
+  - pkg:deb/debian/libcrypto++
+  - pkg:deb/ubuntu/libcrypto++
   - pkg:github/weidai11/cryptopp
   - pkg:nuget/cryptopp
   - pkg:rpm/fedora/cryptopp

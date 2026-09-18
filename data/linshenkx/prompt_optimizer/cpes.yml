@@ -1,2 +1,6 @@
 cpes:
   - cpe:2.3:a:linshenkx:prompt_optimizer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linshenkx:prompt_optimizer:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linshenkx:prompt_optimizer:1.3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:linshenkx:prompt_optimizer:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linshenkx:prompt_optimizer:1.4.2:*:*:*:*:*:*:*

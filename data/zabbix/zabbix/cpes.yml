@@ -1106,6 +1106,8 @@ cpes:
   - cpe:2.3:a:zabbix:zabbix:7.2.12:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.2.13:-:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.2.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:7.2.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:zabbix:zabbix:7.2.14:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.2.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.2.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:zabbix:zabbix:7.2.1:rc3:*:*:*:*:*:*
