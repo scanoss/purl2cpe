@@ -45,6 +45,9 @@ cpes:
   - cpe:2.3:a:apache:freemarker:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:freemarker:2.3.30:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:freemarker:2.3.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:freemarker:2.3.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:freemarker:2.3.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:freemarker:2.3.34:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:freemarker:2.3.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:freemarker:2.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:freemarker:2.3.6:*:*:*:*:*:*:*
