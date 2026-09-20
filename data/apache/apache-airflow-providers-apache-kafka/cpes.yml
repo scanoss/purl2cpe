@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-kafka:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-kafka:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-apache-kafka:1.16.0:*:*:*:*:*:*:*
