@@ -168,6 +168,7 @@ cpes:
   - cpe:2.3:a:elastic:apm_server:8.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.14.2:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_server:8.19.20:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.2.2:*:*:*:*:*:*:*
@@ -195,4 +196,5 @@ cpes:
   - cpe:2.3:a:elastic:apm_server:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:8.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:apm_server:9.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:elastic:apm_server:9.5.0:*:*:*:*:*:*:*

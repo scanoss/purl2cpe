@@ -1,2 +1,10 @@
 cpes:
+  - cpe:2.3:a:whisperfish:phonenumber:0.1.0\+8.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.2.0\+8.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.2.1\+8.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.2.3\+8.10.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.2.4\+8.11.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.3.0\+8.12.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.3.1\+8.12.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:whisperfish:phonenumber:0.3.2\+8.13.9:*:*:*:*:rust:*:*
   - cpe:2.3:a:whisperfish:phonenumber:*:*:*:*:*:rust:*:*

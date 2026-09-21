@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:google:tink_c\+\+:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.3.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:tink_c\+\+:2.1.2:*:*:*:*:*:*:*

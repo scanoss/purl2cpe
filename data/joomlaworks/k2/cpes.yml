@@ -1,2 +1,18 @@
 cpes:
+  - cpe:2.3:a:joomlaworks:k2:2.10.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.13:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.14:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.15:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.16:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.17:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.18:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.19:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.20:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.21:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.22:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.23:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.24:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.25:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:2.26:*:*:*:*:joomla\!:*:*
   - cpe:2.3:a:joomlaworks:k2:2.8.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:joomlaworks:k2:-:*:*:*:*:joomla\!:*:*

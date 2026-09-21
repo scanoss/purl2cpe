@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redux:gutenberg_template_library_\&_redux_framework:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redux:gutenberg_template_library_\&_redux_framework:3.0.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:redux:gutenberg_template_library_\&_redux_framework:3.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:redux:gutenberg_template_library_\&_redux_framework:3.0.6:*:*:*:*:wordpress:*:*

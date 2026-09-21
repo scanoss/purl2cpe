@@ -1,0 +1,8 @@
+purls:
+  - pkg:composer/breadbutter/breadbutter-php
+  - pkg:github/breadbutter/breadbutter-java
+  - pkg:github/breadbutter/breadbutter-net
+  - pkg:github/breadbutter/breadbutter-node
+  - pkg:github/breadbutter/breadbutter-php
+  - pkg:maven/io.breadbutter/breadbutter-java
+  - pkg:nuget/nuget/breadbutter.client

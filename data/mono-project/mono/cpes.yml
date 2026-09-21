@@ -307,6 +307,7 @@ cpes:
   - cpe:2.3:a:mono-project:mono:5.16.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:5.18.0.225:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:5.18.0.240:*:*:*:*:*:*:*
+  - cpe:2.3:a:mono-project:mono:5.18.0.240\+dfsg-3:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:5.18.0.245:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:5.18.0.268:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:5.18.1.0:*:*:*:*:*:*:*
@@ -339,3 +340,4 @@ cpes:
   - cpe:2.3:a:mono-project:mono:5.8.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:6.0.0.176:*:*:*:*:*:*:*
   - cpe:2.3:a:mono-project:mono:6.0.0.313:*:*:*:*:*:*:*
+  - cpe:2.3:a:mono-project:mono:6.8.0.105\+dfsg-3:*:*:*:*:*:*:*

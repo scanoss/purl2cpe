@@ -1,3 +1,4 @@
 cpes:
+  - cpe:2.3:a:st:stm32cube_mcu_\&_mpu_packages:*:*:*:*:*:*:*:*
   - cpe:2.3:a:st:stm32cube_mcu_\&_mpu_packages:-:*:*:*:*:*:*:*
   - cpe:2.3:a:st:stm32cube_mcu_\&_mpu_packages:1.8.0:*:*:*:*:*:*:*

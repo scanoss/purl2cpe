@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/turn
+  - pkg:github/turn-project/turn

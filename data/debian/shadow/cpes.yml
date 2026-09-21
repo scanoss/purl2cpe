@@ -1,6 +1,7 @@
 cpes:
   - cpe:2.3:a:debian:shadow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:shadow:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:shadow:1\:4.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:shadow:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:shadow:4.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:debian:shadow:4.0.10:*:*:*:*:*:*:*

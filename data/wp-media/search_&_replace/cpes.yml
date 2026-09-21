@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:wp-media:search_\&_replace:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-media:search_\&_replace:-:*:*:*:*:wordpress:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:*:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:1.2:*:*:*:*:*:*:*
@@ -34,15 +35,18 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.8.5:*:*:*:*:*:*:*
@@ -50,6 +54,7 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:4.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.1:*:*:*:*:*:*:*
@@ -66,19 +71,36 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:5.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:6.1:*:*:*:*:*:*:*
@@ -155,6 +177,8 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.5.1:*:*:*:*:*:*:*
@@ -171,6 +195,7 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.6.6:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.7.1:*:*:*:*:*:*:*
@@ -188,3 +213,83 @@ cpes:
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:7.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.6.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad-plus-plus:notepad\+\+:8.9.6.4:*:*:*:*:*:*:*

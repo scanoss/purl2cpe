@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:0.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accredible:accredible_certificates_\&_open_badges:1.4.8:*:*:*:*:wordpress:*:*

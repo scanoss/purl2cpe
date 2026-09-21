@@ -168,3 +168,4 @@ cpes:
   - cpe:2.3:a:videolan:vlc_media_player:3.0.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:macos:*:*
+  - cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:macos\/iphone_os:*:*

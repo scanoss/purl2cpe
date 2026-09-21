@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pytorch:pytorch:2.6.0\+cu124:*:*:*:*:*:*:*

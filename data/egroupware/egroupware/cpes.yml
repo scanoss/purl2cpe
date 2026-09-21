@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:egroupware:egroupware:1.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:1.2.106-2:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:1.4.001:*:*:*:*:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:1.4.001\+.002:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:1.4.002:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:14.1.20140417:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:14.1.20140419:*:*:*:community:*:*:*
@@ -88,6 +89,7 @@ cpes:
   - cpe:2.3:a:egroupware:egroupware:14.3.20160525:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:14.3.20160708:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:1.6.001:*:*:*:*:*:*:*
+  - cpe:2.3:a:egroupware:egroupware:1.6.001\+.002:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:1.6.002:*:*:*:*:*:*:*
   - cpe:2.3:a:egroupware:egroupware:16.1.20160603:*:*:*:community:*:*:*
   - cpe:2.3:a:egroupware:egroupware:16.1.20160621:*:*:*:community:*:*:*

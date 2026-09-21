@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rancid
+  - pkg:deb/ubuntu/rancid
+  - pkg:github/haussli/rancid
+  - pkg:rpm/fedora/rancid
+  - pkg:rpm/opensuse/rancid

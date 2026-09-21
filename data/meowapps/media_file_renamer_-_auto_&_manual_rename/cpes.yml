@@ -68,4 +68,36 @@ cpes:
   - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.2.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.2.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:5.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:meowapps:media_file_renamer_-_auto_\&_manual_rename:-:*:*:*:*:wordpress:*:*

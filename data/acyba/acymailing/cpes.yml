@@ -114,3 +114,4 @@ cpes:
   - cpe:2.3:a:acyba:acymailing:6:alpha2:*:*:*:joomla\!:*:*
   - cpe:2.3:a:acyba:acymailing:6:alpha3:*:*:*:joomla\!:*:*
   - cpe:2.3:a:acyba:acymailing:6:beta:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acyba:acymailing:*:*:*:*:*:joomla\!:*:*

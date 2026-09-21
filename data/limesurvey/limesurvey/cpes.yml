@@ -711,6 +711,7 @@ cpes:
   - cpe:2.3:a:limesurvey:limesurvey:4.1.10:200311:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:4.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:4.1.11:200316:*:*:*:*:*:*
+  - cpe:2.3:a:limesurvey:limesurvey:4.1.11\+200316:*:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:4.1.12:-:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:4.1.1:200203:*:*:*:*:*:*
   - cpe:2.3:a:limesurvey:limesurvey:4.1.12:200324:*:*:*:*:*:*

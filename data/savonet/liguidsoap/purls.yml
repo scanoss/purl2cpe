@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/liquidsoap
+  - pkg:deb/ubuntu/liquidsoap
+  - pkg:github/savonet/liquidsoap
+  - pkg:rpm/opensuse/liquidsoap

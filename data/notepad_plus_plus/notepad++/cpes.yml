@@ -14,3 +14,4 @@ cpes:
   - cpe:2.3:a:notepad_plus_plus:notepad\+\+:5.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad_plus_plus:notepad\+\+:5.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:notepad_plus_plus:notepad\+\+:5.9.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:notepad_plus_plus:notepad\+\+:7.3.3:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/pytorch/pytorch
+  - pkg:github/pytorch/pytorch
+  - pkg:rpm/opensuse/python-pytorch

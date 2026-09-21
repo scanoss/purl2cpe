@@ -53,3 +53,4 @@ cpes:
   - cpe:2.3:a:gwesystems:jevents:3.4.7:*:*:*:*:joomla\!:*:*
   - cpe:2.3:a:gwesystems:jevents:3.4.8:*:*:*:*:joomla\!:*:*
   - cpe:2.3:a:gwesystems:jevents:3.4.9:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:gwesystems:jevents:*:*:*:*:*:joomla\!:*:*

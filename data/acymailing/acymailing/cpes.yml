@@ -1,122 +1,436 @@
 cpes:
+  - cpe:2.3:a:acymailing:acymailing:10.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.0.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.10.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.10.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.10.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.1.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.11.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.1.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.1.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.1.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.1.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.2.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.2.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.2.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.3.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.4.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.5.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.5.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.6.7:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.7.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.7.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.0.7:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.8.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.8.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.9.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:10.9.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.1.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.1.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.1.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.1.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.2.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.2.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.3.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.4.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.4.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.5.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.7.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.7.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.8.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.8.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:1.9.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:2.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.7.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:3.9.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.0.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.1.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.2.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.3.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.3.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.3.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.4.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.4.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.5.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.6.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.7.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.7.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.7.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.8.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.9.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.9.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.9.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.9.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:4.9.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.0.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.0.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.10:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.11:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.12:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.13:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.14:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.15:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.16:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.17:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.18:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.19:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.20:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.21:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.22:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.23:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.24:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.25:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.26:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.27:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.28:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.7:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.8:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.10.9:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.1.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.5:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.7:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.11.8:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.12.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.13.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.2.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.6.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.7.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.8.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:5.9.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.0:alpha1:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.0:alpha2:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.0:alpha3:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.0:beta:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.0.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.10.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.10.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.10.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.10.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.10.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.10:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.11.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.11.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.12.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.12.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.12.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.13.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.13.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.13.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.13.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.13.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.14.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.14.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.14.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.14.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.15.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.15.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.15.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.16.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.16.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.16.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.16.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.16.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.16.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.16.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.16.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.16.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.16.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.6:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.17.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.17.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.17.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.17.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.7:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.18.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.18.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:acymailing:acymailing:6.18.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.18.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.18.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:acymailing:acymailing:6.18.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.8:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.19.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.19.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.19.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.19.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.19.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.19.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.19.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.19.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.1.9:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.2.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.2.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.2.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.3.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.3.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.4.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.5.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.6.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.7.0:*:*:*:enterprise:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.7:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.8:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:acymailing:acymailing:6.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.9.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:6.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:6.9:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.0.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.0.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.0.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.0.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.0.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.1.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.1.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.1.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.2.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.2.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.2.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.3.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.3.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.4.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.4.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.10:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.11:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.12:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.6:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.7:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.8:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.5.9:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.6.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.6.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.6.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.5:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.7.6:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.8.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.8.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.8.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.8.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.5:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.6:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.7:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:7.9.8:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:7.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.0.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.0.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.2:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.1.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.2.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.2.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.3.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.3.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.5:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.4.6:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.5.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.6.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.6.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.6.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.6.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.0:*:*:*:enterprise:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.3:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.7.4:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:8.8.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:8.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.0.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.0.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.0.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.3:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.4:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.10.5:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.1.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.11.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.11.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.2.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.3.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.3.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.4.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.4.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.5.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.5.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.6.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.7.0:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.7.1:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.7.2:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:9.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.8.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.8.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.9.0:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.9.1:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:9.9.2:*:*:*:-:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:-:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:acymailing:acymailing:-:*:*:*:-:joomla\!:*:*
   - cpe:2.3:a:acymailing:acymailing:-:*:*:*:*:wordpress:*:*

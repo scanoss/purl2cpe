@@ -133,6 +133,8 @@ cpes:
   - cpe:2.3:a:openstack:horizon:25.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:horizon:25.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:horizon:25.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:horizon:25.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:horizon:26.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:horizon:8.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:horizon:8.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:horizon:8.0.2:*:*:*:*:*:*:*

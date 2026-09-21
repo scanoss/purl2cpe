@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:zm_ajax_login_\&_register_project:zm_ajax_login_\&_register:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zm_ajax_login_\&_register_project:zm_ajax_login_\&_register:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zm_ajax_login_\&_register_project:zm_ajax_login_\&_register:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zm_ajax_login_\&_register_project:zm_ajax_login_\&_register:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zm_ajax_login_\&_register_project:zm_ajax_login_\&_register:-:*:*:*:*:wordpress:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nicotine-plus:nicotine\+:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nicotine-plus:nicotine\+:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:nicotine-plus:nicotine\+:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nicotine-plus:nicotine\+:3.0.5:*:*:*:*:*:*:*

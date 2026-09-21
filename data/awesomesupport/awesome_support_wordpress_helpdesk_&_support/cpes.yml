@@ -69,3 +69,5 @@ cpes:
   - cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\&_support:6.0.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\&_support:6.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\&_support:6.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\&_support:6.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awesomesupport:awesome_support_wordpress_helpdesk_\&_support:-:*:*:*:*:wordpress:*:*

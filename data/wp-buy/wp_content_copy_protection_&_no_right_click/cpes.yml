@@ -32,4 +32,20 @@ cpes:
   - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:3.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:*:*:*:*:pro:wordpress:*:*
+  - cpe:2.3:a:wp-buy:wp_content_copy_protection_\&_no_right_click:-:*:*:*:*:wordpress:*:*

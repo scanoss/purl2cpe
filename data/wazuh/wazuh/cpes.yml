@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:wazuh:wazuh:3.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:3.13.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:3.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:3.13.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:3.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:3.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:3.2.2:*:*:*:*:*:*:*
@@ -70,6 +71,8 @@ cpes:
   - cpe:2.3:a:wazuh:wazuh:4.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:4.10.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:4.10.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.11.1:*:*:*:*:*:*:*
@@ -87,7 +90,9 @@ cpes:
   - cpe:2.3:a:wazuh:wazuh:4.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:4.14.7:-:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.14.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:wazuh:wazuh:4.14.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:wazuh:wazuh:4.2.1:*:*:*:*:*:*:*

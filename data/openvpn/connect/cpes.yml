@@ -8,9 +8,15 @@ cpes:
   - cpe:2.3:a:openvpn:connect:1.1.25:*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:1.1.26:*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:1.1.27:*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.0_\(820\):*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.0_\(870\):*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:3.0.0:*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:3.0.0:beta:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:3.0.0:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.1_\(884\):*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.1_\(885\):*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.1_\(895\):*:*:*:*:android:*:*
+  - cpe:2.3:a:openvpn:connect:3.0.1_\(918\):*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:3.0.1:beta:*:*:*:macos:*:*
   - cpe:2.3:a:openvpn:connect:3.0.2:*:*:*:*:android:*:*
   - cpe:2.3:a:openvpn:connect:3.0.2:beta:*:*:*:macos:*:*

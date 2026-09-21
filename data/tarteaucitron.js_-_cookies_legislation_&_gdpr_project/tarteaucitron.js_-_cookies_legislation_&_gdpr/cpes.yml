@@ -24,3 +24,4 @@ cpes:
   - cpe:2.3:a:tarteaucitron.js_-_cookies_legislation_\&_gdpr_project:tarteaucitron.js_-_cookies_legislation_\&_gdpr:1.5.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tarteaucitron.js_-_cookies_legislation_\&_gdpr_project:tarteaucitron.js_-_cookies_legislation_\&_gdpr:1.6.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:tarteaucitron.js_-_cookies_legislation_\&_gdpr_project:tarteaucitron.js_-_cookies_legislation_\&_gdpr:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tarteaucitron.js_-_cookies_legislation_\&_gdpr_project:tarteaucitron.js_-_cookies_legislation_\&_gdpr:*:*:*:*:*:wordpress:*:*

@@ -407,4 +407,7 @@ cpes:
   - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:4.33:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:4.55:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:4.58:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:4.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:4.67:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:smartypantsplugins:sp_project_\&_document_manager:-:*:*:*:*:wordpress:*:*
