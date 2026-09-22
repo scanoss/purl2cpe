@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:unidata:netcdf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:unidata:netcdf:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:unidata:netcdf:4.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unidata:netcdf:4.9.3:*:*:*:*:*:*:*
