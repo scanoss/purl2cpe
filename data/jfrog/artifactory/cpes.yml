@@ -435,6 +435,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.10.5:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.10.6:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.11.1:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.111.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.10:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.11:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.12:*:*:*:*:-:*:*
@@ -443,6 +444,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.111.16:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.17:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.18:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.111.20:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.21:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.4:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.111.7:*:*:*:*:-:*:*
@@ -464,6 +466,8 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.117.22:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.23:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.24:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.117.25:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.117.27:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.28:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.5:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.117.7:*:*:*:*:-:*:*
@@ -479,6 +483,8 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.125.15:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.16:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.17:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.125.18:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.125.19:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.20:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.4:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.125.6:*:*:*:*:-:*:*
@@ -490,6 +496,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.12.9:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.0:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.10:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.133.11:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.12:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.15:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.16:*:*:*:*:-:*:*

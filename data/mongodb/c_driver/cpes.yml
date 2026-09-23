@@ -194,5 +194,6 @@ cpes:
   - cpe:2.3:a:mongodb:c_driver:2.5.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:2.5.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:2.5.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:c_driver:2.5.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:-:*:*:*:*:mongodb:*:*
