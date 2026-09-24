@@ -311,6 +311,7 @@ cpes:
   - cpe:2.3:a:langflow:langflow:1.10.1:rc0:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.10.1:rc3:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev0:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev1:*:*:*:*:*:*
@@ -343,13 +344,31 @@ cpes:
   - cpe:2.3:a:langflow:langflow:1.11.0:dev34:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev35:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev36:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev37:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev38:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev39:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev4:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev40:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev41:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev42:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev43:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev44:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev45:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev46:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev47:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev48:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev49:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev5:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.0:dev50:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev6:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev7:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev8:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.0:dev9:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:langflow:langflow:1.11.5:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:langflow:langflow:1.1.4:*:*:*:*:*:*:*
