@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apple:containerization:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apple:containerization:0.10.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.10.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.1.0:*:*:*:*:swift:*:*

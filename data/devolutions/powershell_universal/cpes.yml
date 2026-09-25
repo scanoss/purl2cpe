@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:devolutions:powershell_universal:*:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:powershell_universal:2025.3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:powershell_universal:2025.3.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:powershell_universal:2025.3.12.0:*:*:*:*:*:*:*

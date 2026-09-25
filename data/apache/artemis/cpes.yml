@@ -64,6 +64,8 @@ cpes:
   - cpe:2.3:a:apache:artemis:2.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:artemis:2.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:artemis:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:artemis:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:artemis:2.56.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:artemis:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:artemis:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:artemis:2.6.2:*:*:*:*:*:*:*

@@ -129,3 +129,4 @@ cpes:
   - cpe:2.3:a:booking_calendar_project:booking_calendar:9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking_calendar_project:booking_calendar:9.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:booking_calendar_project:booking_calendar:9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:booking_calendar_project:booking_calendar:*:*:*:*:*:wordpress:*:*

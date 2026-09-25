@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hapifhir:hl7_fhir_core:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:1.1.67:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:hapifhir:hl7_fhir_core:4.1.0:*:*:*:*:*:*:*

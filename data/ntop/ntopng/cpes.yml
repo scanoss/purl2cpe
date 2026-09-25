@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ntop:ntopng:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ntop:ntopng:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ntop:ntopng:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ntop:ntopng:1.2.1:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tftp-hpa_project:tftp-hpa:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tftp-hpa_project:tftp-hpa:0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:tftp-hpa_project:tftp-hpa:0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:tftp-hpa_project:tftp-hpa:0.17:*:*:*:*:*:*:*

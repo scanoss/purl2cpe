@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:shaneisrael:fireshare:*:*:*:*:*:*:*:*
   - cpe:2.3:a:shaneisrael:fireshare:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shaneisrael:fireshare:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:shaneisrael:fireshare:1.1.1:*:*:*:*:*:*:*

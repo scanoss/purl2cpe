@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:node-opcua_project:node-opcua:*:*:*:*:*:*:*:*
   - cpe:2.3:a:node-opcua_project:node-opcua:0.0.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:node-opcua_project:node-opcua:0.0.13:*:*:*:*:node.js:*:*
   - cpe:2.3:a:node-opcua_project:node-opcua:0.0.16:*:*:*:*:node.js:*:*

@@ -33,6 +33,9 @@ cpes:
   - cpe:2.3:a:exim:exim:4.04:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.05:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.100:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.100:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.100:rc3:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.12:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.14:*:*:*:*:*:*:*
@@ -176,6 +179,7 @@ cpes:
   - cpe:2.3:a:exim:exim:4.99.2:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.99.3:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.99.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.99.5:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.99:rc1:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.99:rc2:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.99:rc3:*:*:*:*:*:*

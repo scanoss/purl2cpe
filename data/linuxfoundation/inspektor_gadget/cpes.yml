@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:linuxfoundation:inspektor_gadget:*:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:inspektor_gadget:0.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:inspektor_gadget:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:inspektor_gadget:0.1.0:alpha1:*:*:*:*:*:*

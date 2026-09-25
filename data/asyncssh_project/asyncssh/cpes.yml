@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:asyncssh_project:asyncssh:*:*:*:*:*:*:*:*
   - cpe:2.3:a:asyncssh_project:asyncssh:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asyncssh_project:asyncssh:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asyncssh_project:asyncssh:0.3.0:*:*:*:*:*:*:*

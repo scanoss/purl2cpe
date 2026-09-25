@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:woodpecker-ci:woodpecker:*:*:*:*:*:*:*:*
   - cpe:2.3:a:woodpecker-ci:woodpecker:-:*:*:*:*:*:*:*
   - cpe:2.3:a:woodpecker-ci:woodpecker:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:woodpecker-ci:woodpecker:0.11.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apereo:opencast:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:opencast:10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:opencast:10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apereo:opencast:10.10:*:*:*:*:*:*:*

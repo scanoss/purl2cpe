@@ -245,6 +245,7 @@ cpes:
   - cpe:2.3:a:quarkus:quarkus:2.9.0:candidate_release1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:quarkus:quarkus:3:*:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:quarkus:quarkus:3.0.0:alpha2:*:*:*:*:*:*

@@ -221,4 +221,5 @@ cpes:
   - cpe:2.3:a:contest-gallery:contest_gallery:*:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:contest-gallery:contest_gallery:-:*:*:*:pro:wordpress:*:*
   - cpe:2.3:a:contest-gallery:contest_gallery:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contest-gallery:contest_gallery:*:*:*:*:wordpress:*:*:*
   - cpe:2.3:a:contest-gallery:contest_gallery:-:*:*:*:*:wordpress:*:*

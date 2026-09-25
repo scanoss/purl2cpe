@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nuxt:og_image:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nuxt:og_image:0.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nuxt:og_image:0.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nuxt:og_image:0.0.3:*:*:*:*:node.js:*:*

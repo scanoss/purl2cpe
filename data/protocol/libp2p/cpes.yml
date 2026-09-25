@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:protocol:libp2p:*:*:*:*:*:*:*:*
   - cpe:2.3:a:protocol:libp2p:0.0.10:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:libp2p:0.0.11:*:*:*:*:go:*:*
   - cpe:2.3:a:protocol:libp2p:0.0.12:*:*:*:*:go:*:*

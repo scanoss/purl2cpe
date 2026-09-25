@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:mupdf:-:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:artifex:mupdf:0.8:*:*:*:*:*:*:*

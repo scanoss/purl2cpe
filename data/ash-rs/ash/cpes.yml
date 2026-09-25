@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
   - cpe:2.3:a:ash-rs:ash:0.10.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:ash-rs:ash:0.1.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:ash-rs:ash:0.11.0:*:*:*:*:rust:*:*

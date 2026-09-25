@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:coredns.io:coredns:*:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:-:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:001:*:*:*:*:*:*:*
   - cpe:2.3:a:coredns.io:coredns:0.9.10:*:*:*:*:*:*:*
