@@ -187,3 +187,13 @@ cpes:
   - cpe:2.3:a:diracgrid:dirac:8.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:diracgrid:dirac:8.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:diracgrid:dirac:8.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:diracgrid:dirac:9.1.9:*:*:*:*:*:*:*
