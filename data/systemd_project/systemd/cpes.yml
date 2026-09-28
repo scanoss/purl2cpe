@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:systemd_project:systemd:-:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:1:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:10:*:*:*:*:*:*:*
   - cpe:2.3:a:systemd_project:systemd:11:*:*:*:*:*:*:*

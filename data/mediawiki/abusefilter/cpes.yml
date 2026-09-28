@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mediawiki:abusefilter:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:abusefilter:1.19:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:abusefilter:1.20:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:abusefilter:1.21:*:*:*:*:mediawiki:*:*

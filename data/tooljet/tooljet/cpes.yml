@@ -505,12 +505,65 @@ cpes:
   - cpe:2.3:a:tooljet:tooljet:3.20.178:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.179:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.17:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.180:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.181:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.182:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.183:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.184:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.185:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.186:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.187:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.188:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.189:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.18:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.190:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.191:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.192:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.193:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.194:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.195:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.196:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.197:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.198:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.199:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.19:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.200:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.201:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.202:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.203:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.204:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.205:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.206:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.207:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.208:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.209:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.20:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.210:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.211:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.212:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.213:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.214:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.215:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.216:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.217:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.218:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.219:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.21:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.220:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.221:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.222:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.223:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.224:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.225:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.226:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.227:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.228:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.229:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.22:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.230:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.231:*:*:*:lts:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.20.232:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.23:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.24:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.25:*:*:*:lts:*:*:*
@@ -596,6 +649,72 @@ cpes:
   - cpe:2.3:a:tooljet:tooljet:3.20.99:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.20.9:*:*:*:lts:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.2.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.10:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.11:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.12:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.13:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.14:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.15:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.16:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.17:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.18:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.19:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.20:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.21:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.23:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.24:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.25:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.26:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.27:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.28:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.29:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.30:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.31:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.32:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.33:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.34:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.35:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.36:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.37:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.38:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.39:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.40:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.41:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.42:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.43:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.44:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.45:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.46:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.47:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.48:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.49:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.50:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.51:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.52:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.53:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.54:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.55:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.56:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.57:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.58:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.59:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.60:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.61:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.62:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.63:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.64:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.65:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.66:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.67:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.68:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.69:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.6:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.70:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.71:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.72:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.7:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.8:beta:*:*:-:*:*:*
+  - cpe:2.3:a:tooljet:tooljet:3.21.9:beta:*:*:-:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.2.1:*:*:*:community:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.2.2:*:*:*:community:*:*:*
   - cpe:2.3:a:tooljet:tooljet:3.8.0:*:*:*:-:*:*:*

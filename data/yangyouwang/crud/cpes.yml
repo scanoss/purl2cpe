@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:yangyouwang:crud:*:*:*:*:*:*:*:*
   - cpe:2.3:a:yangyouwang:crud:1.0.0:*:*:*:*:*:*:*

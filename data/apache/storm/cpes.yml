@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:storm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:storm:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:storm:0.10.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:storm:0.10.1:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:craftcms:craft_commerce:*:*:*:*:*:*:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.0.0:beta1:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.0.0:beta2:*:*:*:craft_cms:*:*
   - cpe:2.3:a:craftcms:craft_commerce:4.0.0:-:*:*:*:craft_cms:*:*

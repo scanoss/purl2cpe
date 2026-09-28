@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*
   - cpe:2.3:a:xpdfreader:xpdf:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xpdfreader:xpdf:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:xpdfreader:xpdf:0.4:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:rubyzip_project:rubyzip:*:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyzip_project:rubyzip:-:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyzip_project:rubyzip:0.9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:rubyzip_project:rubyzip:0.9.5:*:*:*:*:ruby:*:*

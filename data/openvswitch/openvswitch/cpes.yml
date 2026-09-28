@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:openvswitch:openvswitch:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:-:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:1.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:1.10.0:*:*:*:*:*:*:*
@@ -179,3 +180,4 @@ cpes:
   - cpe:2.3:a:openvswitch:openvswitch:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:3.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvswitch:openvswitch:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvswitch:openvswitch:3.6.90:*:*:*:*:*:*:*

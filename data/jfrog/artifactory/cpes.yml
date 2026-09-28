@@ -502,6 +502,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.133.16:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.17:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.18:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.133.21:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.22:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.23:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.133.24:*:*:*:*:-:*:*
@@ -526,6 +527,7 @@ cpes:
   - cpe:2.3:a:jfrog:artifactory:7.146.35:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.146.36:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.146.7:*:*:*:*:-:*:*
+  - cpe:2.3:a:jfrog:artifactory:7.146.8:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.15.3:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.15.4:*:*:*:*:-:*:*
   - cpe:2.3:a:jfrog:artifactory:7.15.5:*:*:*:*:-:*:*

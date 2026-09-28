@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dogtagpki:dogtagpki:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dogtagpki:dogtagpki:10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dogtagpki:dogtagpki:10.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dogtagpki:dogtagpki:10.0.3:*:*:*:*:*:*:*

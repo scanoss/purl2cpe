@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:opensuse:wicked:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:wicked:-:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:wicked:0.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:opensuse:wicked:0.5.10:*:*:*:*:*:*:*

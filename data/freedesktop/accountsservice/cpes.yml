@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:freedesktop:accountsservice:-:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:accountsservice:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:accountsservice:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:freedesktop:accountsservice:0.4:*:*:*:*:*:*:*

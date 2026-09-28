@@ -50,6 +50,7 @@ cpes:
   - cpe:2.3:a:redhat:quay:2.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:quay:2.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:quay:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:quay:3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:quay:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:quay:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:quay:3.0.2:*:*:*:*:*:*:*

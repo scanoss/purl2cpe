@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:digitalbazaar:forge:*:*:*:*:*:*:*:*
   - cpe:2.3:a:digitalbazaar:forge:0.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:digitalbazaar:forge:0.1.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:digitalbazaar:forge:0.1.11:*:*:*:*:node.js:*:*

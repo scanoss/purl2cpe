@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:selinuxproject:policycoreutils:*:*:*:*:*:*:*:*
   - cpe:2.3:a:selinuxproject:policycoreutils:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:selinuxproject:policycoreutils:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:selinuxproject:policycoreutils:2.2.2:*:*:*:*:*:*:*

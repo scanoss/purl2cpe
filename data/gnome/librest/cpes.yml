@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:librest:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librest:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librest:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librest:0.4:*:*:*:*:*:*:*

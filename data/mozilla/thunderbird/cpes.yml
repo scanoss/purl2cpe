@@ -280,6 +280,8 @@ cpes:
   - cpe:2.3:a:mozilla:thunderbird:154.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:155.0:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:155.0.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:156.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:mozilla:thunderbird:156.0.1:*:*:*:-:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.5:beta1:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.5:beta2:*:*:*:*:*:*
   - cpe:2.3:a:mozilla:thunderbird:1.5:rc1:*:*:*:*:*:*

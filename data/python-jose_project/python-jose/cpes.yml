@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:python-jose_project:python-jose:*:*:*:*:*:*:*:*
   - cpe:2.3:a:python-jose_project:python-jose:0.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:python-jose_project:python-jose:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:python-jose_project:python-jose:0.5.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dalibo:postgresql_anonymizer:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dalibo:postgresql_anonymizer:0.0.1:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:dalibo:postgresql_anonymizer:0.0.3:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:dalibo:postgresql_anonymizer:0.10.0:*:*:*:*:postgresql:*:*

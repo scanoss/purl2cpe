@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cloudfoundry:user_account_and_authentication:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:user_account_and_authentication:-:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:user_account_and_authentication:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudfoundry:user_account_and_authentication:1.0.1:*:*:*:*:*:*:*

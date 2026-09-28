@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nvidia:tensorrt-llm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt-llm:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt-llm:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt-llm:0.12.0:*:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jugmac00:flask-reuploaded:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jugmac00:flask-reuploaded:*:*:*:*:*:python:*:*

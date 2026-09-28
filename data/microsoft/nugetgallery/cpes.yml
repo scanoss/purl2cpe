@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:microsoft:nugetgallery:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nugetgallery:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2016.10:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2016.12:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:nugetgallery:2017.01:*:*:*:*:*:*:*

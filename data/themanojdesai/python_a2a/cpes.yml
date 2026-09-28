@@ -1,2 +1,12 @@
 cpes:
   - cpe:2.3:a:themanojdesai:python_a2a:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.4.3a:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:themanojdesai:python_a2a:0.5.4:*:*:*:*:*:*:*

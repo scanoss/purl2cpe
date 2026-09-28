@@ -1318,5 +1318,7 @@ cpes:
   - cpe:2.3:a:wordpress:wordpress:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:7.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:7.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:7.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:wordpress:wordpress:7.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wordpress:7.1.2:*:*:*:*:*:*:*

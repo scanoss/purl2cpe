@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:langchain:langgraph:*:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langgraph:0.1.10:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langgraph:0.1.11:*:*:*:*:*:*:*
   - cpe:2.3:a:langchain:langgraph:0.1.12:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:bzip2_project:bzip2:*:*:*:*:*:*:*:*
   - cpe:2.3:a:bzip2_project:bzip2:0.0.1:*:*:*:*:rust:*:*
   - cpe:2.3:a:bzip2_project:bzip2:0.0.2:*:*:*:*:rust:*:*
   - cpe:2.3:a:bzip2_project:bzip2:0.0.3:*:*:*:*:rust:*:*

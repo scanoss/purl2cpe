@@ -1,8 +1,10 @@
 cpes:
+  - cpe:2.3:a:redhat:jboss_fuse:*:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:6.1.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_fuse:7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:7.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:jboss_fuse:7.1:*:*:*:*:*:*:*

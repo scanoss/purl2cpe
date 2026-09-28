@@ -1,6 +1,46 @@
 cpes:
   - cpe:2.3:a:mendix:mendix:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.24:lts:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.12:lts:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.6:mts:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:6.1.0:*:*:*:*:*:*:*
@@ -160,16 +200,39 @@ cpes:
   - cpe:2.3:a:mendix:mendix:8.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:8.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:8.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.10:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.5:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:mendix:mendix:9.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:mendix:9.9:*:*:*:*:*:*:*

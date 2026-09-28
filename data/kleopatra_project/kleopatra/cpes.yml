@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:kleopatra_project:kleopatra:*:*:*:*:*:*:*:*
   - cpe:2.3:a:kleopatra_project:kleopatra:16.03.80:*:*:*:*:gnupg:*:*
   - cpe:2.3:a:kleopatra_project:kleopatra:16.03.90:*:*:*:*:gnupg:*:*
   - cpe:2.3:a:kleopatra_project:kleopatra:16.04.0:*:*:*:*:gnupg:*:*

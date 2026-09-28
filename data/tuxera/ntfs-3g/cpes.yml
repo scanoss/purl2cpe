@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:tuxera:ntfs-3g:*:*:*:*:*:*:*:*
   - cpe:2.3:a:tuxera:ntfs-3g:-:*:*:*:*:*:*:*
   - cpe:2.3:a:tuxera:ntfs-3g:2009.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tuxera:ntfs-3g:2009.11.14:*:*:*:*:*:*:*

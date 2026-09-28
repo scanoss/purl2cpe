@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dracut_project:dracut:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dracut_project:dracut:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dracut_project:dracut:001:*:*:*:*:*:*:*
   - cpe:2.3:a:dracut_project:dracut:002:*:*:*:*:*:*:*

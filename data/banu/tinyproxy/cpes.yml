@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:banu:tinyproxy:*:*:*:*:*:*:*:*
   - cpe:2.3:a:banu:tinyproxy:1.4.0:pre1:*:*:*:*:*:*
   - cpe:2.3:a:banu:tinyproxy:1.4.0:pre3:*:*:*:*:*:*
   - cpe:2.3:a:banu:tinyproxy:1.4.0:pre4:*:*:*:*:*:*

@@ -124,6 +124,7 @@ cpes:
   - cpe:2.3:a:langgenius:dify:1.11.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.11.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.11.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:langgenius:dify:1.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:langgenius:dify:1.11.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:langgenius:dify:1.12.0:*:*:*:*:node.js:*:*

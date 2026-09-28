@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:cloud_foundry_uaa:10:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:cloud_foundry_uaa:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pivotal_software:cloud_foundry_uaa:1.0.1:*:*:*:*:*:*:*
