@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:opplus:springboot-admin:*:*:*:*:*:*:*:*
   - cpe:2.3:a:opplus:springboot-admin:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opplus:springboot-admin:2017-12-26:*:*:*:*:*:*:*

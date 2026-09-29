@@ -34,3 +34,4 @@ cpes:
   - cpe:2.3:a:ganglia:ganglia-web:3.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ganglia:ganglia-web:3.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ganglia:ganglia-web:3.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ganglia:ganglia-web:3.7.6:*:*:*:*:*:*:*

@@ -23,3 +23,6 @@ cpes:
   - cpe:2.3:a:continew:continew_admin:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:continew:continew_admin:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:continew:continew_admin:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:continew:continew_admin:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:continew:continew_admin:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:continew:continew_admin:4.1.0:*:*:*:*:*:*:*

@@ -46,6 +46,8 @@ cpes:
   - cpe:2.3:a:znuny:znuny:6.5.18:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.19:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.1:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.20:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.21:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.4:*:*:*:lts:*:*:*
