@@ -211,6 +211,7 @@ cpes:
   - cpe:2.3:a:coollabs:coolify:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:3.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:3.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta100:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta101:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta102:*:*:*:*:*:*
@@ -607,7 +608,22 @@ cpes:
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta458:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta459:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta46:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta460:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta461:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta462:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta463:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta464:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta465:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta466:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta467:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta468:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta469:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta47:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta470:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta471:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta472:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta473:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.0.0:beta474:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta48:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta49:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta50:*:*:*:*:*:*
@@ -660,4 +676,7 @@ cpes:
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta97:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta98:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:4.0.0:beta99:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coollabs:coolify:4.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:coollabs:coolify:*:beta100:*:*:*:*:*:*
