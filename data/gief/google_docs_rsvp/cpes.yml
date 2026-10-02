@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:gief:google_docs_rsvp:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:gief:google_docs_rsvp:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gief:google_docs_rsvp:-:*:*:*:*:wordpress:*:*

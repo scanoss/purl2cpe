@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:wss4j:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wss4j:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wss4j:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:wss4j:1.5.0:*:*:*:*:*:*:*

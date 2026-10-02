@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:amazon:aws_amplify_cli:*:*:*:*:*:-:*:*
+  - cpe:2.3:a:amazon:aws_amplify_cli:-:*:*:*:*:-:*:*
   - cpe:2.3:a:amazon:aws_amplify_cli:*:*:*:*:*:node.js:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:nextendweb:nextend_social_login:-:*:*:*:free:wordpress:*:*
   - cpe:2.3:a:nextendweb:nextend_social_login:*:*:*:*:*:wordpress:*:*

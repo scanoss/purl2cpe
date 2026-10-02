@@ -1,2 +1,7 @@
 cpes:
+  - cpe:2.3:a:kainex:wise_chat:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kainex:wise_chat:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kainex:wise_chat:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kainex:wise_chat:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kainex:wise_chat:3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:kainex:wise_chat:*:*:*:*:*:wordpress:*:*
