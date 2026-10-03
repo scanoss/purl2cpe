@@ -6725,6 +6725,8 @@ cpes:
   - cpe:2.3:o:linux:linux_kernel:7.2:rc6:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.2:rc7:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:linux:linux_kernel:7.3:rc3:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:7f8e401f9e612df2a95c1ef76217c00181389bb5:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:9a8863e8a8def9d88583cd9c60db38a008e6b8cf:*:*:*:*:*:*:*
   - cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:arm:*

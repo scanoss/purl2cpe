@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:cncf:envoy:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cncf:envoy:1.13.0:*:*:*:*:*:*:*
