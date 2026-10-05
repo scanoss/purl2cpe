@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:jozoor:shortcode_cleaner_lite:1.0.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:jozoor:shortcode_cleaner_lite:*:*:*:*:*:wordpress:*:*

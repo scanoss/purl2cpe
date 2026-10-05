@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:exrick:xboot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exrick:xboot:3.3.4:*:*:*:*:*:*:*

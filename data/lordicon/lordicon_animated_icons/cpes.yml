@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:lordicon:lordicon_animated_icons:2.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:lordicon:lordicon_animated_icons:*:*:*:*:*:wordpress:*:*

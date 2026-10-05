@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:nokautpl:nokaut_offers_box:1.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:nokautpl:nokaut_offers_box:*:*:*:*:*:wordpress:*:*

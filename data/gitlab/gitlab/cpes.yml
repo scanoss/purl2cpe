@@ -2217,6 +2217,8 @@ cpes:
   - cpe:2.3:a:gitlab:gitlab:19.2.5:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:19.2.6:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:19.2.6:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:19.2.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:gitlab:gitlab:19.2.7:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:19.3.0:*:*:*:community:*:*:*
   - cpe:2.3:a:gitlab:gitlab:19.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:gitlab:gitlab:19.3.1:*:*:*:community:*:*:*

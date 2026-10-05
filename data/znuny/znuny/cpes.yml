@@ -48,6 +48,10 @@ cpes:
   - cpe:2.3:a:znuny:znuny:6.5.1:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.20:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.21:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.22:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.23:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.24:*:*:*:lts:*:*:*
+  - cpe:2.3:a:znuny:znuny:6.5.25:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.2:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:6.5.4:*:*:*:lts:*:*:*
@@ -86,5 +90,11 @@ cpes:
   - cpe:2.3:a:znuny:znuny:7.2.2:*:*:*:-:*:*:*
   - cpe:2.3:a:znuny:znuny:7.2.3:*:*:*:-:*:*:*
   - cpe:2.3:a:znuny:znuny:7.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:znuny:znuny:7.3.7:*:*:*:-:*:*:*
   - cpe:2.3:a:znuny:znuny:*:*:*:*:lts:*:*:*
   - cpe:2.3:a:znuny:znuny:-:*:*:*:lts:*:*:*

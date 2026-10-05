@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:codervivek:vigybag:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:codervivek:vigybag:1.0:*:*:*:*:*:*:*

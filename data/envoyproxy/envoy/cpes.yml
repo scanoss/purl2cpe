@@ -248,6 +248,8 @@ cpes:
   - cpe:2.3:a:envoyproxy:envoy:1.35.9:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.36.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.36.11:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.2:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.3:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.36.4:*:*:*:*:*:*:*
@@ -262,11 +264,17 @@ cpes:
   - cpe:2.3:a:envoyproxy:envoy:1.37.3:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.37.4:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.37.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.37.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.37.7:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.38.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.38.1:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.38.2:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.38.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.38.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.38.5:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.39.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:envoyproxy:envoy:1.39.2:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:envoyproxy:envoy:1.6.0:*:*:*:*:*:*:*

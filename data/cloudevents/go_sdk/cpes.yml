@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:cloudevents:go_sdk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudevents:go_sdk:2.15.1:*:*:*:*:*:*:*

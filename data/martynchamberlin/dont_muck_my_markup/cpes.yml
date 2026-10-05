@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:martynchamberlin:dont_muck_my_markup:1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:martynchamberlin:dont_muck_my_markup:*:*:*:*:*:wordpress:*:*

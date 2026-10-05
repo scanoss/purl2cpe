@@ -210,6 +210,7 @@ cpes:
   - cpe:2.3:a:xwiki:xwiki-rendering:14.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.9:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:14.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.0:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:15.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:15.1:-:*:*:*:*:*:*
   - cpe:2.3:a:xwiki:xwiki-rendering:15.10:-:*:*:*:*:*:*

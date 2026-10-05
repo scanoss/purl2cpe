@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:flightgear:simgear:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:simgear:2020.3.19:*:*:*:*:*:*:*
