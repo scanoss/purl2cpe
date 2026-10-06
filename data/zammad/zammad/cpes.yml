@@ -92,12 +92,19 @@ cpes:
   - cpe:2.3:a:zammad:zammad:6.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.5.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:6.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:6.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:6.6.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.0.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.1.0:-:*:*:*:*:*:*
   - cpe:2.3:a:zammad:zammad:7.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zammad:zammad:7.1.3:*:*:*:*:*:*:*

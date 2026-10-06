@@ -49,8 +49,11 @@ cpes:
   - cpe:2.3:a:mozilla:firefox_mobile:153.1:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:153.2:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:153.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:154.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:154.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:154.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:155.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:156.0:*:*:*:*:android:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:16.0:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:16.1:*:*:*:*:iphone_os:*:*
   - cpe:2.3:a:mozilla:firefox_mobile:16.2:*:*:*:*:iphone_os:*:*

@@ -2,6 +2,7 @@ cpes:
   - cpe:2.3:a:apache:qpid_broker-j:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:qpid_broker-j:10.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:qpid_broker-j:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_broker-j:10.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:qpid_broker-j:6.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:qpid_broker-j:6.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:qpid_broker-j:6.0.2:*:*:*:*:*:*:*
