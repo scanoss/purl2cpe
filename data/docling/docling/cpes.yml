@@ -46,10 +46,39 @@ cpes:
   - cpe:2.3:a:docling:docling:1.9.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.0.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.10.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.108.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.109.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.110.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.11.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.111.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.112.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.113.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.114.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.115.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.116.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.117.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.118.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.118.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.119.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.120.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.120.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.120.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.120.3:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.12.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.121.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.122.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.123.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.123.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.124.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.125.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.126.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.127.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.128.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.129.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.130.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.13.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:docling:docling:2.131.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.14.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.15.0:*:*:*:*:python:*:*
   - cpe:2.3:a:docling:docling:2.15.1:*:*:*:*:python:*:*
