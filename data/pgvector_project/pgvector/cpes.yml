@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pgvector_project:pgvector:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pgvector_project:pgvector:0.1.0:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgvector_project:pgvector:0.1.1:*:*:*:*:postgresql:*:*
   - cpe:2.3:a:pgvector_project:pgvector:0.1.2:*:*:*:*:postgresql:*:*

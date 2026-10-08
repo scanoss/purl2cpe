@@ -1,6 +1,15 @@
 cpes:
+  - cpe:2.3:a:wikimedia:wikibase:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wikimedia:wikibase:1.39:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.43.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.43.10:*:*:*:mediawiki:*:*:*
   - cpe:2.3:a:wikimedia:wikibase:1.43:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:wikimedia:wikibase:1.44:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.45.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.45.5:*:*:*:mediawiki:*:*:*
   - cpe:2.3:a:wikimedia:wikibase:1.45:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:1.46:*:*:*:*:*:*:*
   - cpe:2.3:a:wikimedia:wikibase:*:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:wikimedia:wikibase:*:*:*:*:mediawiki:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:angular:angular_cli:*:*:*:*:*:*:*:*
   - cpe:2.3:a:angular:angular_cli:17.0.0:next0:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular_cli:17.0.0:next1:*:*:*:node.js:*:*
   - cpe:2.3:a:angular:angular_cli:17.0.0:next2:*:*:*:node.js:*:*

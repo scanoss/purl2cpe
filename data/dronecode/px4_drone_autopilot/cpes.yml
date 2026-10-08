@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:dronecode:px4_drone_autopilot:*:*:*:*:*:*:*:*
   - cpe:2.3:a:dronecode:px4_drone_autopilot:-:*:*:*:*:*:*:*
   - cpe:2.3:a:dronecode:px4_drone_autopilot:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dronecode:px4_drone_autopilot:1.0.0:beta1:*:*:*:*:*:*

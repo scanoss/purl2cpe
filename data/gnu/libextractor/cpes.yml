@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:libextractor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libextractor:0.5.20c:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libextractor:0.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libextractor:0.5.22:*:*:*:*:*:*:*

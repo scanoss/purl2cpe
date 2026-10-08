@@ -118,9 +118,33 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.10.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.1.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.11.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.12.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.14.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.14.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.15.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.15.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.16.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.16.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.16.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.16.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.16.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.17.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.2.1:-:*:*:*:*:*:*
@@ -132,3 +156,17 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.3.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.3.1:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.8.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.9.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.9.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-snowflake:6.9.1:rc1:*:*:*:*:*:*

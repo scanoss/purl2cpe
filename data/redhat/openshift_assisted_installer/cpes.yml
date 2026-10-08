@@ -51,3 +51,4 @@ cpes:
   - cpe:2.3:a:redhat:openshift_assisted_installer:1.0.9.3:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_assisted_installer:1.0.9.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_assisted_installer:1.0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_assisted_installer:2:*:*:*:*:*:*:*

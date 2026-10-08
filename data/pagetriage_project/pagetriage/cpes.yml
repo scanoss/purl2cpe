@@ -1,2 +1,5 @@
 cpes:
+  - cpe:2.3:a:pagetriage_project:pagetriage:1.43:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:pagetriage_project:pagetriage:1.45:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:pagetriage_project:pagetriage:1.46:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:pagetriage_project:pagetriage:-:*:*:*:*:mediawiki:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*
   - cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*
   - cpe:2.3:a:graphicsmagick:graphicsmagick:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.1:*:*:*:*:*:*:*

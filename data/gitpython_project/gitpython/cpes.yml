@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gitpython_project:gitpython:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gitpython_project:gitpython:0.1.4:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:0.1.5:*:*:*:*:python:*:*
   - cpe:2.3:a:gitpython_project:gitpython:0.1.6:*:*:*:*:python:*:*

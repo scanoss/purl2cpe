@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnupg:gnupg:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:*:*:*:*:-:*:*:*
   - cpe:2.3:a:gnupg:gnupg:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnupg:gnupg:0.0.0:-:*:*:*:*:*:*

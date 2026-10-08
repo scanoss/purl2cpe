@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:axios:axios:*:*:*:*:*:*:*:*
   - cpe:2.3:a:axios:axios:0.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:axios:axios:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:axios:axios:0.11.0:*:*:*:*:node.js:*:*

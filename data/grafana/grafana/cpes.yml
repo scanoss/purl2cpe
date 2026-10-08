@@ -412,6 +412,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:11.6.9:security01:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:11.6.9:security01:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:-:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.0:*:*:*:enterprise:*:*:*
@@ -452,6 +453,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:12.0.9:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.0.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.1:*:*:*:-:*:*:*
@@ -485,6 +487,7 @@ cpes:
   - cpe:2.3:a:grafana:grafana:12.1.9:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.1.9:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:1.2.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:grafana:grafana:12.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.0:*:*:*:-:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:grafana:grafana:12.2.1:*:*:*:-:*:*:*

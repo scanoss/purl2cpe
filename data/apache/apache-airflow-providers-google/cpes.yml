@@ -112,6 +112,15 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-google:22.2.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:22.2.2:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:22.2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.3.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-google:22.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-google:4.0.0:*:*:*:*:*:*:*
