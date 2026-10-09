@@ -6,7 +6,53 @@ cpes:
   - cpe:2.3:a:apache:log4net:1.2.12:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:1.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:1.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.9:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:1.2.9_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.17:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:2.0.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:2.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.0:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.0:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.0:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.1:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.1:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.2:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.3:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.4:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.5:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.0.5:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.1.0:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.2.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.3.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.4.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.4.1:preview1:*:*:*:*:*:*

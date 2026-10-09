@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:geode:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:geode:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:geode:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:geode:1.10.0:*:*:*:*:*:*:*

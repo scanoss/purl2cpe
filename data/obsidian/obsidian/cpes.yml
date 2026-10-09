@@ -111,3 +111,4 @@ cpes:
   - cpe:2.3:a:obsidian:obsidian:0.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:obsidian:obsidian:0.9.9:*:*:*:*:*:*:*
   - cpe:2.3:a:obsidian:obsidian:1.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:obsidian:obsidian:1.2.8:*:*:*:*:*:*:*

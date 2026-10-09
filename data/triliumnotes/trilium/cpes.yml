@@ -11,7 +11,11 @@ cpes:
   - cpe:2.3:a:triliumnotes:trilium:0.101.2:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.101.3:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.10.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.102.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.102.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.102.2:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.10.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.103.0:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.11.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.11.1:*:*:*:*:*:*:*
@@ -296,6 +300,7 @@ cpes:
   - cpe:2.3:a:triliumnotes:trilium:0.62.5:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.62.6:*:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.63.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:triliumnotes:trilium:0.63.1.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.63.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.63.1.:beta:*:*:*:*:*:*
   - cpe:2.3:a:triliumnotes:trilium:0.63.2:beta:*:*:*:*:*:*

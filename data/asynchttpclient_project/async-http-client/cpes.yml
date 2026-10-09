@@ -261,6 +261,7 @@ cpes:
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.12.4:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:asynchttpclient_project:async-http-client:2.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:2.3.0:*:*:*:*:*:*:*
@@ -288,6 +289,8 @@ cpes:
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:asynchttpclient_project:async-http-client:3.0.4:*:*:*:*:*:*:*

@@ -477,6 +477,8 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.46.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.46.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.46.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.46.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.46.7:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.47.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.47.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.47.0:next1:*:*:*:*:*:*
@@ -485,6 +487,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.47.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.47.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.47.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.47.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.0:next1:*:*:*:*:*:*
@@ -494,6 +497,7 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.48.3:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.48.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.48.6:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.49.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.49.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.49.0:next1:*:*:*:*:*:*
@@ -501,14 +505,65 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.49.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.49.2:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.49.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.49.7:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.50.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.50.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.50.7:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.0:next3:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.0:next3:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.51.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.52.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.52.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.52.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.52.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.53.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.0:next3:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.54.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.0:next2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:next1:*:*:*:*:*:*
@@ -587,3 +642,5 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:2021-06-10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:2021-1-7:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:plugin-kubernetes-backend:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:plugin-techdocs-backend:*:*

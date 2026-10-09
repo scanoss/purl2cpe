@@ -167,6 +167,7 @@ cpes:
   - cpe:2.3:a:mongodb:python_driver:4.16.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:4.17.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:4.18.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:python_driver:4.18.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:4.2.0:beta0:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:4.2.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:python_driver:4.3.0:*:*:*:*:mongodb:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:cloud_foundry:bosh:*:*:*:*:*:*:*:*
   - cpe:2.3:a:cloud_foundry:bosh:258:*:*:*:*:*:*:*
   - cpe:2.3:a:cloud_foundry:bosh:259:*:*:*:*:*:*:*
   - cpe:2.3:a:cloud_foundry:bosh:260:*:*:*:*:*:*:*

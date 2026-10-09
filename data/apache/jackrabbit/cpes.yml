@@ -218,9 +218,11 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.23.2:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.6:*:*:*:*:*:*:*

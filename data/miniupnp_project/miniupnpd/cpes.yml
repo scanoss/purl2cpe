@@ -127,6 +127,7 @@ cpes:
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:miniupnp_project:miniupnpd:2.3.4:*:*:*:*:*:*:*

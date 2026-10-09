@@ -70,6 +70,7 @@ cpes:
   - cpe:2.3:a:mongodb:libmongocrypt:1.20.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:libmongocrypt:1.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:libmongocrypt:1.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongodb:libmongocrypt:1.20.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:libmongocrypt:1.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mongodb:libmongocrypt:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:libmongocrypt:1.2.1:*:*:*:*:node.js:*:*
