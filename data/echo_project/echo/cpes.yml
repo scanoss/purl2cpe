@@ -1,2 +1,4 @@
 cpes:
+  - cpe:2.3:a:echo_project:echo:1.44.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:echo_project:echo:1.45.2:*:*:*:*:*:*:*
   - cpe:2.3:a:echo_project:echo:-:*:*:*:*:mediawiki:*:*

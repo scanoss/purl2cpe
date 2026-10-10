@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnome:eye_of_gnome:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:eye_of_gnome:3.16.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:eye_of_gnome:3.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:eye_of_gnome:3.17.2:*:*:*:*:*:*:*

@@ -78,6 +78,7 @@ cpes:
   - cpe:2.3:a:mongodb:go_driver:1.16.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:1.17.0:beta1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:1.17.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:go_driver:1.17.10:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:1.17.1:cloud1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:1.17.1:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:1.17.2:*:*:*:*:mongodb:*:*
@@ -164,3 +165,4 @@ cpes:
   - cpe:2.3:a:mongodb:go_driver:2.8.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:2.8.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:go_driver:2.9.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:go_driver:2.9.1:*:*:*:*:mongodb:*:*

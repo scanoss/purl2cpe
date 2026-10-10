@@ -31,3 +31,4 @@ cpes:
   - cpe:2.3:a:lwip_project:lwip:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lwip_project:lwip:2.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lwip_project:lwip:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lwip_project:lwip:2.2.1:*:*:*:*:*:*:*

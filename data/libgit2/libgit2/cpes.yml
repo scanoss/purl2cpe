@@ -98,4 +98,6 @@ cpes:
   - cpe:2.3:a:libgit2:libgit2:1.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:libgit2:libgit2:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libgit2:libgit2:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2:libgit2:1.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:libgit2:libgit2:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2:libgit2:1.7.2:*:*:*:*:*:*:*

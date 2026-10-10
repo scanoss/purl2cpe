@@ -19,14 +19,21 @@ cpes:
   - cpe:2.3:a:ovn:open_virtual_network:22.03.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.03.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.03.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:22.03.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.03.4:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.06.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.06.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.09.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.09.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:22.09.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.09.3:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:22.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:22.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:23.03.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:23.03.1:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:23.03.2:*:*:*:*:*:*:*
   - cpe:2.3:a:ovn:open_virtual_network:23.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:23.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:23.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:open_virtual_network:23.09.0:*:*:*:*:*:*:*

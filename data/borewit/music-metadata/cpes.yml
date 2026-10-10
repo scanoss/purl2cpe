@@ -129,6 +129,7 @@ cpes:
   - cpe:2.3:a:borewit:music-metadata:11.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:borewit:music-metadata:11.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:borewit:music-metadata:11.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:borewit:music-metadata:11.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:borewit:music-metadata:11.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:borewit:music-metadata:11.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:borewit:music-metadata:11.2.2:*:*:*:*:*:*:*

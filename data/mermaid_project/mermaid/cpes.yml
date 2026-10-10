@@ -1,38 +1,71 @@
 cpes:
+  - cpe:2.3:a:mermaid_project:mermaid:0.1.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.1.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.10:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.13:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.14:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.15:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.16:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.5:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.6:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.7:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.8:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.2.9:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.2.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.3.5:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.4.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.5:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.6:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.7:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:0.5.8:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:0.5.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:10.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:10.0.1:*:*:*:*:node.js:*:*
@@ -93,7 +126,9 @@ cpes:
   - cpe:2.3:a:mermaid_project:mermaid:11.8.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:11.8.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:11.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:6.0.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:6.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:7.0.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.11:*:*:*:*:node.js:*:*
@@ -105,9 +140,12 @@ cpes:
   - cpe:2.3:a:mermaid_project:mermaid:7.0.17:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.18:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:7.0.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:7.0.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:7.0.5:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:7.0.7:*:*:*:*:node.js:*:*
@@ -142,12 +180,16 @@ cpes:
   - cpe:2.3:a:mermaid_project:mermaid:8.0.0:rc6:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.0.0:rc7:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.0.0:rc8:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.10.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.10.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.1.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.11.0:-:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.11.0:rc2:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.0:rc2:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.11.2:*:*:*:*:node.js:*:*
@@ -169,41 +211,72 @@ cpes:
   - cpe:2.3:a:mermaid_project:mermaid:8.13.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.13.9:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.5:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.2.6:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.3.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.6:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.4.8:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.4.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.5.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.5.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.6.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.6.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.6.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.6.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.6.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.7.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.8.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.8.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.8.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.8.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.8.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.8.4:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.8.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.9.0:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.9.1:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.9.2:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mermaid_project:mermaid:8.9.3:*:*:*:*:node-js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:8.9.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:9.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:mermaid_project:mermaid:9.0.1:*:*:*:*:node.js:*:*

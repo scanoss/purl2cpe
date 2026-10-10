@@ -269,3 +269,4 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:2.9.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.9.1:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:*:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:*:-:*:*:*:python:*:*

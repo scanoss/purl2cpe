@@ -64,3 +64,4 @@ cpes:
   - cpe:2.3:a:courtbouillon:cairosvg:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:courtbouillon:cairosvg:2.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:courtbouillon:cairosvg:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:courtbouillon:cairosvg:2.9.0:*:*:*:*:*:*:*

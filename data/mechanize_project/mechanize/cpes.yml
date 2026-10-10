@@ -13,6 +13,7 @@ cpes:
   - cpe:2.3:a:mechanize_project:mechanize:0.4.3:*:*:*:*:python:*:*
   - cpe:2.3:a:mechanize_project:mechanize:0.4.4:*:*:*:*:python:*:*
   - cpe:2.3:a:mechanize_project:mechanize:0.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:mechanize_project:mechanize:0.4.6:*:*:*:*:python:*:*
   - cpe:2.3:a:mechanize_project:mechanize:0.7.6:*:*:*:*:ruby:*:*
   - cpe:2.3:a:mechanize_project:mechanize:0.7.7:*:*:*:*:ruby:*:*
   - cpe:2.3:a:mechanize_project:mechanize:0.7.8:*:*:*:*:ruby:*:*

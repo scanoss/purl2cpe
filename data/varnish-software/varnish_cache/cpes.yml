@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:varnish-software:varnish_cache:*:*:*:*:*:*:*:*
   - cpe:2.3:a:varnish-software:varnish_cache:4.1.0:beta1:*:*:lts:*:*:*
   - cpe:2.3:a:varnish-software:varnish_cache:4.1.0:-:*:*:lts:*:*:*
   - cpe:2.3:a:varnish-software:varnish_cache:4.1.0:technology_preview1:*:*:lts:*:*:*

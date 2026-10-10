@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gitea:gitea:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:*:*:*:*:*:-:*:*
   - cpe:2.3:a:gitea:gitea:0.9.99:*:*:*:*:*:*:*
   - cpe:2.3:a:gitea:gitea:0.9.99:*:*:*:*:-:*:*

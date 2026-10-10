@@ -82,3 +82,7 @@ cpes:
   - cpe:2.3:a:thoughtworks:gocd:24.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thoughtworks:gocd:24.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thoughtworks:gocd:24.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thoughtworks:gocd:24.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thoughtworks:gocd:25.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thoughtworks:gocd:25.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thoughtworks:gocd:25.3.0:*:*:*:*:*:*:*
