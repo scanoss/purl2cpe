@@ -5,6 +5,7 @@ cpes:
   - cpe:2.3:a:mtrudel:bandit:1.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mtrudel:bandit:1.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:mtrudel:bandit:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mtrudel:bandit:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mtrudel:bandit:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mtrudel:bandit:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mtrudel:bandit:1.4.2:*:*:*:*:*:*:*

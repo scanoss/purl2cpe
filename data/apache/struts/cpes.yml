@@ -175,6 +175,7 @@ cpes:
   - cpe:2.3:a:apache:struts:6.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:6.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:struts:6.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:6.1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:6.1.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:6.2.0:*:*:*:*:*:*:*
@@ -213,3 +214,4 @@ cpes:
   - cpe:2.3:a:apache:struts:7.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:7.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:struts:7.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:struts:7.4.0:*:*:*:*:*:*:*

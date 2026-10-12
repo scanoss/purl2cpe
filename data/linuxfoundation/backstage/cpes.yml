@@ -564,6 +564,11 @@ cpes:
   - cpe:2.3:a:linuxfoundation:backstage:1.55.0:next1:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.55.0:next2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.55.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.55.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.56.0:next0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.56.0:next1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:backstage:1.56.0:next2:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:next0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:backstage:1.6.0:next1:*:*:*:*:*:*

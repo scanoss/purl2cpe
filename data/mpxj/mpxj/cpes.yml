@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:a:mpxj:mpxj:10.14.0:*:*:*:*:-:*:*
   - cpe:2.3:a:mpxj:mpxj:10.14.0:*:*:*:*:python:*:*
   - cpe:2.3:a:mpxj:mpxj:10.14.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:mpxj:mpxj:10.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mpxj:mpxj:10.14.1:*:*:*:*:-:*:*
   - cpe:2.3:a:mpxj:mpxj:10.14.1:*:*:*:*:python:*:*
   - cpe:2.3:a:mpxj:mpxj:10.14.1:*:*:*:*:ruby:*:*

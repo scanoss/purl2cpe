@@ -37,6 +37,9 @@ cpes:
   - cpe:2.3:a:psd-tools_project:psd-tools:1.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:psd-tools_project:psd-tools:1.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:psd-tools_project:psd-tools:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:psd-tools_project:psd-tools:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:psd-tools_project:psd-tools:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:psd-tools_project:psd-tools:1.13.1:*:*:*:*:*:*:*
   - cpe:2.3:a:psd-tools_project:psd-tools:1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:psd-tools_project:psd-tools:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:psd-tools_project:psd-tools:1.4:*:*:*:*:*:*:*

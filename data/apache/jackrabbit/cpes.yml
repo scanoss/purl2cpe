@@ -172,6 +172,7 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.20.15:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.16:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.20.18:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.2:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.20.4:*:*:*:*:*:*:*

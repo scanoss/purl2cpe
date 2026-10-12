@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:netbsd:netbsd:*:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:-:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:0.8:*:*:*:*:*:*:*
   - cpe:2.3:o:netbsd:netbsd:0.9:*:*:*:*:*:*:*
