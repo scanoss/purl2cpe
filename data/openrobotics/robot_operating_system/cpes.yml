@@ -9,6 +9,17 @@ cpes:
   - cpe:2.3:a:openrobotics:robot_operating_system:2:foxy:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:2:humble:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:2:iron:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:crystal_clemmys:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:dashing_diademata:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:eloquent_elusor:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:foxy_fitzroy:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:galactic_geochelone:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:humble_hawksbill:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:iron_irwini:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:jazzy_jalisco:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:kilted_kaiju:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:lyrical_luth:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrobotics:robot_operating_system:rolling_ridley:*:*:*:*:*:*:*
   - cpe:2.3:o:openrobotics:robot_operating_system:-:*:*:*:*:*:*:*
   - cpe:2.3:o:openrobotics:robot_operating_system:2:humble:*:*:*:*:*:*
   - cpe:2.3:o:openrobotics:robot_operating_system:indigo_igloo:*:*:*:*:*:*:*

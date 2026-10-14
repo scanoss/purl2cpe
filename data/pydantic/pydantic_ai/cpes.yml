@@ -96,6 +96,7 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:0.7.6:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.8.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.8.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:1.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:1.0.0:beta1:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:1.0.0:-:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:1.0.10:*:*:*:*:python:*:*
@@ -236,12 +237,19 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:1.97.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:1.98.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:1.99.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta2:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta3:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta4:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta5:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta5:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta6:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta6:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta7:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:beta7:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.0.0:-:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.10.0:*:*:*:*:python:*:*
@@ -259,9 +267,40 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:2.20.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.2.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.21.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.29.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.35.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.39.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.41.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.42.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.43.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.45.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.5.1:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.6.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.7.0:*:*:*:*:python:*:*
