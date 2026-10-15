@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:centreon:centreon:*:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon:-:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon:1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:centreon:centreon:1.4.1:*:*:*:*:*:*:*

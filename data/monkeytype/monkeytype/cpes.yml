@@ -209,3 +209,17 @@ cpes:
   - cpe:2.3:a:monkeytype:monkeytype:24.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:24.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.46.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:26.6.0:*:*:*:*:*:*:*
