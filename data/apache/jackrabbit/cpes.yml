@@ -224,6 +224,8 @@ cpes:
   - cpe:2.3:a:apache:jackrabbit:2.23.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.23.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.23.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:jackrabbit:2.23.5:beta:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:jackrabbit:2.2.6:*:*:*:*:*:*:*

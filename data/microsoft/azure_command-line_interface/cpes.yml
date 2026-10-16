@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:microsoft:azure_command-line_interface:*:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:-:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:0.1.1:beta1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:azure_command-line_interface:0.1.1:beta2:*:*:*:*:*:*

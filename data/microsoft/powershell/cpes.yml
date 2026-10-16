@@ -252,6 +252,7 @@ cpes:
   - cpe:2.3:a:microsoft:powershell:7.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell:7.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.6:preview1:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.6:preview2:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:powershell:7.6:preview3:*:*:*:*:*:*

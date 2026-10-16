@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:redhat:cloudforms:-:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:cloudforms:1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:cloudforms:1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:cloudforms:3.0:*:*:*:*:*:*:*

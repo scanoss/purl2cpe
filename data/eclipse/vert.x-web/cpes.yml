@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:eclipse:vert.x-web:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:3.0.0:milestone2:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:3.0.0:milestone3:*:*:*:*:*:*
@@ -120,6 +121,7 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x-web:4.5.21:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:4.5.22:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:4.5.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x-web:4.5.24:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:4.5.5:*:*:*:*:*:*:*
@@ -141,3 +143,4 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x-web:5.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x-web:5.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x-web:5.0.7:*:*:*:*:*:*:*

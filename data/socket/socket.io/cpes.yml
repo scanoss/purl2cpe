@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:socket:socket.io:*:*:*:*:*:*:*:*
   - cpe:2.3:a:socket:socket.io:0.3.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io:0.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:socket:socket.io:0.4.1:*:*:*:*:node.js:*:*

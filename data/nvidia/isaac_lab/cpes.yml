@@ -17,3 +17,5 @@ cpes:
   - cpe:2.3:a:nvidia:isaac_lab:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:isaac_lab:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:isaac_lab:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:isaac_lab:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:isaac_lab:2.3.1:*:*:*:*:*:*:*
