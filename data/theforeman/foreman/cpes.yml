@@ -339,3 +339,4 @@ cpes:
   - cpe:2.3:a:theforeman:foreman:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:foreman:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:theforeman:foreman:5.0.0:*:*:*:*:*:*:*
