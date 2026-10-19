@@ -177,3 +177,4 @@ cpes:
   - cpe:2.3:a:oisf:suricata:8.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:suricata:8.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:oisf:suricata:8.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oisf:suricata:8.0.7:*:*:*:*:*:*:*

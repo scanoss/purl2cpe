@@ -90,4 +90,8 @@ cpes:
   - cpe:2.3:a:teleogistic:invite_anyone:1.4.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teleogistic:invite_anyone:1.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teleogistic:invite_anyone:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teleogistic:invite_anyone:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teleogistic:invite_anyone:1.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teleogistic:invite_anyone:1.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:teleogistic:invite_anyone:1.4.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:teleogistic:invite_anyone:-:*:*:*:*:wordpress:*:*

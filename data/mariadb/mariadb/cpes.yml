@@ -65,6 +65,7 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.17:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.11.19:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.1.13:*:*:*:*:*:*:*
@@ -292,6 +293,7 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:10.6.26:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.27:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.27:-:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:10.6.28:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.2:rc:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:10.6.4:*:*:*:*:*:*:*
@@ -359,6 +361,7 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:11.4.11:-:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.11:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.4.13:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.4.4:*:*:*:*:*:*:*
@@ -387,6 +390,7 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:11.8.7:-:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.7:beta:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:11.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:11.8.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.1.1:*:*:*:*:*:*:*
@@ -395,7 +399,10 @@ cpes:
   - cpe:2.3:a:mariadb:mariadb:12.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:12.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:12.3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:13.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mariadb:mariadb:13.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.0:alpha:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.1:beta:*:*:*:node.js:*:*
   - cpe:2.3:a:mariadb:mariadb:2.0.2:rc:*:*:*:node.js:*:*

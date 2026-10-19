@@ -535,6 +535,8 @@ cpes:
   - cpe:2.3:a:moodle:moodle:4.5.11:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:4.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:4.5.15:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:4.5.4:*:*:*:*:*:*:*
@@ -549,6 +551,8 @@ cpes:
   - cpe:2.3:a:moodle:moodle:5.0.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.0.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.0.4:*:*:*:*:*:*:*
@@ -567,8 +571,14 @@ cpes:
   - cpe:2.3:a:moodle:moodle:5.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.1.8:*:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.2.0:beta:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.2.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:moodle:moodle:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:moodle:moodle:5.3.0:rc2:*:*:*:*:*:*

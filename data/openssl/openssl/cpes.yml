@@ -267,6 +267,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:1.0.2zp:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zq:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zr:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:1.0.2zs:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0:*:openvms:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.0:-:*:*:*:*:*:*
@@ -327,6 +328,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:1.1.1zg:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1zh:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1zi:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:1.1.1zj:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.0:alpha1:*:*:*:*:*:*
@@ -360,6 +362,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:3.0.20:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.21:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:3.0.23:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.0.5:*:*:*:*:*:*:*
@@ -404,6 +407,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:3.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:3.4.8:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.5.0:alpha1:*:*:*:*:*:*
@@ -416,6 +420,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:3.5.6:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.5.7:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:3.5.9:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.6.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.6.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.6.0:beta1:*:*:*:*:*:*
@@ -423,8 +428,10 @@ cpes:
   - cpe:2.3:a:openssl:openssl:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:3.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:3.6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:4.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:a.00.09.07l:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:*:*:openvms:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:*:*:*:*:*:ruby:*:*

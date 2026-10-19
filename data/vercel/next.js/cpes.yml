@@ -2538,6 +2538,7 @@ cpes:
   - cpe:2.3:a:vercel:next.js:15.5.20:-:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.21:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vercel:next.js:15.5.27:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.2:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:15.5.3:canary0:*:*:*:node.js:*:*
