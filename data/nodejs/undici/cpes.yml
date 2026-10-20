@@ -198,6 +198,7 @@ cpes:
   - cpe:2.3:a:nodejs:undici:6.26.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:6.27.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:6.28.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodejs:undici:6.28.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:6.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:6.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:6.5.0:*:*:*:*:node.js:*:*
@@ -257,6 +258,7 @@ cpes:
   - cpe:2.3:a:nodejs:undici:7.27.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:7.28.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:7.29.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodejs:undici:7.29.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:7.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:7.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:7.5.0:*:*:*:*:node.js:*:*
@@ -270,6 +272,7 @@ cpes:
   - cpe:2.3:a:nodejs:undici:8.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:8.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:8.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodejs:undici:8.10.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:8.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:8.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nodejs:undici:8.3.0:*:*:*:*:node.js:*:*
