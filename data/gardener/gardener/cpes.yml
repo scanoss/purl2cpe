@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gardener:gardener:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:0.10.1:*:*:*:*:*:*:*
@@ -182,21 +183,59 @@ cpes:
   - cpe:2.3:a:gardener:gardener:1.116.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.116.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.116.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.116.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.117.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.117.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.117.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.117.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.117.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.117.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.117.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.118.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.118.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.118.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.118.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.119.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.119.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.119.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.1.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.120.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.120.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.120.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.120.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.120.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.121.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.122.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.122.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.122.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.122.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.123.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.124.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.124.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.124.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.124.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.125.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.125.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.125.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.125.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gardener:gardener:1.126.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gardener:gardener:1.12.9:*:*:*:*:*:*:*

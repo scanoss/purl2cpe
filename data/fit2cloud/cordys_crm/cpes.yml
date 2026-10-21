@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:fit2cloud:cordys_crm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:cordys_crm:1.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:cordys_crm:1.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:fit2cloud:cordys_crm:1.1.7:*:*:*:*:*:*:*

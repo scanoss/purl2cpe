@@ -307,7 +307,21 @@ cpes:
   - cpe:2.3:a:filezilla-project:filezilla_client:3.61.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.62.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.62.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.62.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.62.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.63.0:*:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.63.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.63.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.64.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.64.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.65.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.65.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:filezilla-project:filezilla_client:3.66.5:*:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0:-:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:filezilla-project:filezilla_client:3.7.0.2:*:*:*:*:*:*:*

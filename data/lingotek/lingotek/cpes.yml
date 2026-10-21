@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lingotek:lingotek:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lingotek:lingotek:6.x-1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lingotek:lingotek:6.x-1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lingotek:lingotek:6.x-1.3:*:*:*:*:*:*:*

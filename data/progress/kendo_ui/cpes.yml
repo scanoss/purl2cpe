@@ -63,3 +63,45 @@ cpes:
   - cpe:2.3:a:progress:kendo_ui:2019.1.220:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendo_ui:2019.2.514:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendo_ui:2019.2.619:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2021.2.511:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2021.2.616:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2021.3.1109:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2021.3.1207:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2021.3.914:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.1.119:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.1.301:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.1.412:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.2.510:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.2.621:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.2.802:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.3.1109:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2022.3.913:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.1.117:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.1.314:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.1.425:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.2.606:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.2.718:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.2.829:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.3.1010:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2023.3.1114:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.1.130:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.1.319:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.2.514:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.3.1015:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.3.806:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2024.4.1112:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.1.211:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.1.227:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.2.520:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.2.702:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.3.1002:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.3.812:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.3.825:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.4.1111:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.4.1217:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2025.4.1321:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2026.1.212:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2026.1.325:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2026.1.415:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2026.2.520:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendo_ui:2026.3.811:*:*:*:*:*:*:*

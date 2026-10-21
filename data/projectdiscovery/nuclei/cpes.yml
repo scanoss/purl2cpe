@@ -111,5 +111,6 @@ cpes:
   - cpe:2.3:a:projectdiscovery:nuclei:3.6.2:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:3.7.0:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:3.7.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:projectdiscovery:nuclei:3.8.0:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:*:*:*:*:*:go:*:*
   - cpe:2.3:a:projectdiscovery:nuclei:-:*:*:*:*:go:*:*

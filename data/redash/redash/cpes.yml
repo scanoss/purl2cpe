@@ -53,6 +53,12 @@ cpes:
   - cpe:2.3:a:redash:redash:26.02.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:redash:redash:26.03.0:-:*:*:*:*:*:*
   - cpe:2.3:a:redash:redash:26.03.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.04.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.05.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.06.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.07.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.07.1:dev:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:26.08.0:dev:*:*:*:*:*:*
   - cpe:2.3:a:redash:redash:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redash:redash:4.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redash:redash:4.0.1:*:*:*:*:*:*:*

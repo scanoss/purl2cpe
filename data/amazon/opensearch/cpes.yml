@@ -103,4 +103,5 @@ cpes:
   - cpe:2.3:a:amazon:opensearch:*:*:*:*:*:docker:*:*
   - cpe:2.3:a:amazon:opensearch:*:*:*:*:*:maven:*:*
   - cpe:2.3:a:amazon:opensearch:-:*:*:*:*:maven:*:*
+  - cpe:2.3:a:amazon:opensearch:*:*:*:*:*:opensearch-dashboards:*:*
   - cpe:2.3:a:amazon:opensearch:-:*:*:*:*:ruby:*:*

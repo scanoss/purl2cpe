@@ -63,3 +63,5 @@ cpes:
   - cpe:2.3:a:nextgen:mirth_connect:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextgen:mirth_connect:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nextgen:mirth_connect:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextgen:mirth_connect:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextgen:mirth_connect:4.4.2:*:*:*:*:*:*:*

@@ -52,6 +52,7 @@ cpes:
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.15.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.15.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.15.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:follow-redirects_project:follow-redirects:1.16.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.2.0:*:*:*:node.js:*:*:*
   - cpe:2.3:a:follow-redirects_project:follow-redirects:1.2.1:*:*:*:*:node.js:*:*

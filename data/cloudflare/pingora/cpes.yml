@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:a:cloudflare:pingora:0.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudflare:pingora:0.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cloudflare:pingora:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:pingora:0.8.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:o:siderolabs:talos_linux:*:*:*:*:*:*:*:*
   - cpe:2.3:o:siderolabs:talos_linux:-:*:*:*:*:*:*:*
   - cpe:2.3:o:siderolabs:talos_linux:0.1.0:-:*:*:*:*:*:*
   - cpe:2.3:o:siderolabs:talos_linux:0.10.0:-:*:*:*:*:*:*

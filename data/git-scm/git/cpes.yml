@@ -968,7 +968,15 @@ cpes:
   - cpe:2.3:a:git-scm:git:2.51.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.51.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.52.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.52.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.52.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.52.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.53.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.53.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.53.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:git-scm:git:2.53.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:git-scm:git:2.5.6:*:*:*:*:*:*:*

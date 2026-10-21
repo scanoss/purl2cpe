@@ -163,6 +163,7 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:3.7.1:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.7.2:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:3.7.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:3.7.3:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.0.0:rc2:*:*:*:*:*:*
@@ -187,4 +188,8 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:4.4.0:rc3:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.4.1:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.4.2:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.5.0:rc2:*:*:*:*:*:*
