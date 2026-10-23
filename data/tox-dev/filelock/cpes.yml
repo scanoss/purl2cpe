@@ -94,3 +94,4 @@ cpes:
   - cpe:2.3:a:tox-dev:filelock:3.8.2:*:*:*:*:python:*:*
   - cpe:2.3:a:tox-dev:filelock:3.9.0:*:*:*:*:python:*:*
   - cpe:2.3:a:tox-dev:filelock:3.9.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:tox-dev:filelock:*:*:*:*:*:python:*:*

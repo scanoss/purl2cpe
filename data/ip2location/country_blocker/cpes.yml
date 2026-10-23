@@ -181,6 +181,8 @@ cpes:
   - cpe:2.3:a:ip2location:country_blocker:2.37.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.3.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ip2location:country_blocker:2.38.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ip2location:country_blocker:2.38.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.3:*:*:*:*:wordpress:*:*
@@ -189,6 +191,7 @@ cpes:
   - cpe:2.3:a:ip2location:country_blocker:2.38.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.38.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ip2location:country_blocker:2.38.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.3.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.3.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:ip2location:country_blocker:2.4.0:*:*:*:*:wordpress:*:*

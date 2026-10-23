@@ -107,6 +107,10 @@ cpes:
   - cpe:2.3:a:netdata:netdata:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.2.1:*:*:*:*:*:*:*
@@ -116,3 +120,26 @@ cpes:
   - cpe:2.3:a:netdata:netdata:2.2.5:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.2.6:*:*:*:*:*:*:*
   - cpe:2.3:a:netdata:netdata:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netdata:netdata:2.9.0:*:*:*:*:*:*:*

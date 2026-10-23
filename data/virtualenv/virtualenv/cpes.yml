@@ -237,6 +237,7 @@ cpes:
   - cpe:2.3:a:virtualenv:virtualenv:20.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:20.35.4:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:20.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:virtualenv:virtualenv:20.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:20.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:20.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:virtualenv:virtualenv:20.4.2:*:*:*:*:*:*:*

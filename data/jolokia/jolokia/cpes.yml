@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:jolokia:jolokia:*:*:*:*:*:*:*:*
   - cpe:2.3:a:jolokia:jolokia:0.80:*:*:*:*:*:*:*
   - cpe:2.3:a:jolokia:jolokia:0.81:*:*:*:*:*:*:*
   - cpe:2.3:a:jolokia:jolokia:0.82:*:*:*:*:*:*:*

@@ -33,6 +33,7 @@ cpes:
   - cpe:2.3:a:exim:exim:4.04:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.05:*:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:exim:exim:4.100:-:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.100:rc1:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.100:rc2:*:*:*:*:*:*
   - cpe:2.3:a:exim:exim:4.100:rc3:*:*:*:*:*:*

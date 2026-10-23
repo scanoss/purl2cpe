@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:khyrenz:parseusbs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:khyrenz:parseusbs:1.8:*:*:*:*:*:*:*

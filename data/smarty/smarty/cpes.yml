@@ -126,6 +126,7 @@ cpes:
   - cpe:2.3:a:smarty:smarty:3.1.45:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:3.1.46:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:3.1.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:smarty:smarty:3.1.48:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:3.1.6:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:3.1.7:*:*:*:*:*:*:*
@@ -143,4 +144,5 @@ cpes:
   - cpe:2.3:a:smarty:smarty:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:4.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smarty:smarty:4.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:smarty:smarty:*:*:*:*:*:wordpress:*:*

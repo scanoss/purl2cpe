@@ -223,3 +223,4 @@ cpes:
   - cpe:2.3:a:getoutline:outline:1.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:1.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:getoutline:outline:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getoutline:outline:1.7.1:*:*:*:*:*:*:*
