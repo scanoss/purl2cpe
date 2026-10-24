@@ -163,3 +163,5 @@ cpes:
   - cpe:2.3:a:webpack.js:webpack-dev-server:5.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:webpack.js:webpack-dev-server:5.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:webpack.js:webpack-dev-server:5.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:webpack.js:webpack-dev-server:5.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:webpack.js:webpack-dev-server:6.0.0:*:*:*:*:*:*:*

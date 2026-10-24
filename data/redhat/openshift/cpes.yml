@@ -5,7 +5,10 @@ cpes:
   - cpe:2.3:a:redhat:openshift:1.0:*:*:*:-:*:*:*
   - cpe:2.3:a:redhat:openshift:1.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:1.0:-:enterprise:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift:1.18:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:1.1:-:enterprise:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift:1.20:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:1.2.1:*:enterprise:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift:1.2.2:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:redhat:openshift:1.2.2:-:enterprise:*:*:*:*:*

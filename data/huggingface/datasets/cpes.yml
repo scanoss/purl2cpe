@@ -124,3 +124,4 @@ cpes:
   - cpe:2.3:a:huggingface:datasets:4.8.4:*:*:*:*:python:*:*
   - cpe:2.3:a:huggingface:datasets:4.8.5:*:*:*:*:python:*:*
   - cpe:2.3:a:huggingface:datasets:5.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:huggingface:datasets:5.0.1:*:*:*:*:python:*:*

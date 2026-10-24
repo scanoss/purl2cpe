@@ -147,3 +147,9 @@ cpes:
   - cpe:2.3:a:snowflake:snowflake_jdbc:3.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:snowflake_jdbc:3.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:snowflake:snowflake_jdbc:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snowflake:snowflake_jdbc:4.3.1:*:*:*:*:*:*:*

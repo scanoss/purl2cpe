@@ -66,6 +66,21 @@ cpes:
   - cpe:2.3:a:p11-kit_project:p11-kit:0.23.7:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.23.8:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.23.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.25.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:p11-kit_project:p11-kit:0.26.1:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:p11-kit_project:p11-kit:0.5:*:*:*:*:*:*:*

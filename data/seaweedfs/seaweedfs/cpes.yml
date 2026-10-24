@@ -344,3 +344,6 @@ cpes:
   - cpe:2.3:a:seaweedfs:seaweedfs:4.35:*:*:*:*:*:*:*
   - cpe:2.3:a:seaweedfs:seaweedfs:4.36:*:*:*:*:*:*:*
   - cpe:2.3:a:seaweedfs:seaweedfs:4.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:seaweedfs:seaweedfs:4.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:seaweedfs:seaweedfs:4.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:seaweedfs:seaweedfs:4.40:*:*:*:*:*:*:*

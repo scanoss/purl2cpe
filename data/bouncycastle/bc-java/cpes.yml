@@ -88,5 +88,6 @@ cpes:
   - cpe:2.3:a:bouncycastle:bc-java:1.82:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.83:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.84:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.85:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.85.1:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bc-java:1.85.2:*:*:*:*:*:*:*

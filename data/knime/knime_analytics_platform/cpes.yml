@@ -54,3 +54,4 @@ cpes:
   - cpe:2.3:a:knime:knime_analytics_platform:4.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:knime:knime_analytics_platform:4.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:knime:knime_analytics_platform:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:knime:knime_analytics_platform:5.2.0:*:*:*:*:*:*:*

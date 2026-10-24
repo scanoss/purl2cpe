@@ -7,6 +7,7 @@ cpes:
   - cpe:2.3:a:oracle:helidon:2.0.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:27.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.2:*:*:*:*:*:*:*
@@ -27,6 +28,7 @@ cpes:
   - cpe:2.3:a:oracle:helidon:3.2.19:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:3.2.21:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.2.4:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.2.5:*:*:*:*:*:*:*
@@ -75,3 +77,4 @@ cpes:
   - cpe:2.3:a:oracle:helidon:4.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:4.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:4.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:4.5.5:*:*:*:*:*:*:*

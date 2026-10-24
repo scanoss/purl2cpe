@@ -118,6 +118,7 @@ cpes:
   - cpe:2.3:a:mongodb:c_driver:1.30.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.30.10:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.30.11:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:c_driver:1.30.13:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.30.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.30.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:1.30.3:*:*:*:*:mongodb:*:*
@@ -197,5 +198,6 @@ cpes:
   - cpe:2.3:a:mongodb:c_driver:2.5.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:2.5.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:2.5.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:c_driver:2.5.6:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:c_driver:-:*:*:*:*:mongodb:*:*
