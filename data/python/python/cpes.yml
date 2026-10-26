@@ -166,6 +166,7 @@ cpes:
   - cpe:2.3:a:python:python:3.10.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.20:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.10.22:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.10.5:*:*:*:*:*:*:*
@@ -322,6 +323,7 @@ cpes:
   - cpe:2.3:a:python:python:3.15.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.16.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:beta1:*:*:*:*:*:*

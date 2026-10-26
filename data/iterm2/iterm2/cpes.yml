@@ -285,6 +285,8 @@ cpes:
   - cpe:2.3:a:iterm2:iterm2:3.6.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.0:beta4:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.6.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.6.10:beta1:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.3:-:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.3:beta1:*:*:*:*:*:*

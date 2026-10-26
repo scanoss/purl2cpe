@@ -1893,4 +1893,6 @@ cpes:
   - cpe:2.3:a:jetbrains:kotlin:2.4.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:kotlin:2.4.0:rc:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:kotlin:2.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:kotlin:2.4.10:-:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:kotlin:2.4.10:rc:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:kotlin:2.4.10:rc2:*:*:*:*:*:*

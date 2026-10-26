@@ -239,6 +239,9 @@ cpes:
   - cpe:2.3:a:net-snmp:net-snmp:5.9.4:pre2:*:*:*:*:*:*
   - cpe:2.3:a:net-snmp:net-snmp:5.9.4:pre3:*:*:*:*:*:*
   - cpe:2.3:a:net-snmp:net-snmp:5.9.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:net-snmp:net-snmp:5.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:net-snmp:net-snmp:5.9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:net-snmp:net-snmp:5.9.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:net-snmp:net-snmp:5.9:rc2:*:*:*:*:*:*
   - cpe:2.3:a:net-snmp:net-snmp:5.9:verfix:*:*:*:*:*:*
   - cpe:2.3:a:net-snmp:net-snmp:*:pre1:*:*:*:*:*:*

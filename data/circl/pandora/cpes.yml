@@ -8,3 +8,4 @@ cpes:
   - cpe:2.3:a:circl:pandora:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:circl:pandora:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:circl:pandora:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.3.1:*:*:*:*:*:*:*

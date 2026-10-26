@@ -23,4 +23,9 @@ cpes:
   - cpe:2.3:a:eclipse:threadx:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx:6.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx:6.4.3.202503:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx:6.4.5.202504:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx:6.5.0.202601:-:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx:6.5.0.202601:pre:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx:6.5.1.202602:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx:6.5.1.202602a:*:*:*:*:*:*:*
   - cpe:2.3:o:eclipse:threadx:*:*:*:*:*:*:*:*

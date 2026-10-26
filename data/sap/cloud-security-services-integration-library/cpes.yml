@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:sap:cloud-security-services-integration-library:*:*:*:*:*:*:*:*
   - cpe:2.3:a:sap:cloud-security-services-integration-library:1.1.0:*:*:*:*:java:*:*
   - cpe:2.3:a:sap:cloud-security-services-integration-library:1.2.0:*:*:*:*:java:*:*
   - cpe:2.3:a:sap:cloud-security-services-integration-library:1.3.0:*:*:*:*:java:*:*

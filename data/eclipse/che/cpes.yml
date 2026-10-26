@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:eclipse:che:*:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:che:4.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:che:4.0.0:rc10:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:che:4.0.0:rc11:*:*:*:*:*:*

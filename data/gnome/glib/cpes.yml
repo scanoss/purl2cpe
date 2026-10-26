@@ -1,5 +1,6 @@
 cpes:
   - cpe:2.3:a:gnome:glib:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:glib:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:1.1.12:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:glib:1.1.12-1:*:*:*:*:*:*:*

@@ -21,4 +21,5 @@ cpes:
   - cpe:2.3:a:dropbox:samly:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:dropbox:samly:1.0.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:dropbox:samly:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dropbox:samly:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dropbox:samly:*:*:*:*:*:elixir:*:*

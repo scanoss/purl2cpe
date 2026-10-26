@@ -109,8 +109,17 @@ cpes:
   - cpe:2.3:a:puppet:puppet_enterprise:2023.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2023.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2023.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2023.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2023.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2025.3:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2025.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet_enterprise:2025.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet_enterprise:2.5.1:*:*:*:*:*:*:*

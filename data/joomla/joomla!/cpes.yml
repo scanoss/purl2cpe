@@ -641,6 +641,8 @@ cpes:
   - cpe:2.3:a:joomla:joomla\!:5.4.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:5.4.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:5.4.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.1:rc2:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.2:-:*:*:*:*:*:*
@@ -657,6 +659,8 @@ cpes:
   - cpe:2.3:a:joomla:joomla\!:5.4.8:-:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.8:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:5.4.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:5.4.9:-:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:5.4.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.0.0:alpha2:*:*:*:*:*:*
@@ -695,6 +699,14 @@ cpes:
   - cpe:2.3:a:joomla:joomla\!:6.1.3:-:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.1.3:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.1.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.1.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.1.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.2.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:6.2.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:joomla:joomla\!:6.2.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:joomla:joomla\!:*:*:*:*:elts:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:google:gerrit:*:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gerrit:2.14:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gerrit:2.14.1:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gerrit:2.14.10:*:*:*:*:*:*:*

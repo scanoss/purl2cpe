@@ -19,4 +19,7 @@ cpes:
   - cpe:2.3:a:free5gc:smf:1.4.1:*:*:*:*:go:*:*
   - cpe:2.3:a:free5gc:smf:1.4.2:*:*:*:*:go:*:*
   - cpe:2.3:a:free5gc:smf:1.4.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:smf:1.4.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:smf:1.4.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:smf:1.4.6:*:*:*:*:go:*:*
   - cpe:2.3:a:free5gc:smf:*:*:*:*:*:go:*:*

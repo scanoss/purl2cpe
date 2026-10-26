@@ -45,6 +45,7 @@ cpes:
   - cpe:2.3:a:orthanc-server:orthanc:1.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:orthanc-server:orthanc:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:orthanc-server:orthanc:1.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:orthanc-server:orthanc:1.12.11:*:*:*:*:*:*:*
   - cpe:2.3:a:orthanc-server:orthanc:1.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:orthanc-server:orthanc:1.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:orthanc-server:orthanc:1.12.4:*:*:*:*:*:*:*

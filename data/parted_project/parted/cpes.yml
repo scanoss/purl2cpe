@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:parted_project:parted:-:*:*:*:*:*:*:*
   - cpe:2.3:a:parted_project:parted:1.6.25.1:*:*:*:*:*:*:*
   - cpe:2.3:a:parted_project:parted:1.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:parted_project:parted:1.8.0:*:*:*:*:*:*:*
