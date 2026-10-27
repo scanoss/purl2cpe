@@ -342,3 +342,6 @@ cpes:
   - cpe:2.3:a:netty:netty:5.0.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:5.0.0.alpha2:*:*:*:*:*:*:*
   - cpe:2.3:a:netty:netty:5.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:5.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:5.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:netty:netty:5.0.0:alpha5:*:*:*:*:*:*

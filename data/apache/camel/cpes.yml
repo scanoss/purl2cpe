@@ -159,6 +159,7 @@ cpes:
   - cpe:2.3:a:apache:camel:2.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:2.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:2.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:camel:3:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:apache:camel:3.0.0:milestone2:*:*:*:*:*:*

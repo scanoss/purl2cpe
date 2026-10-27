@@ -77,6 +77,8 @@ cpes:
   - cpe:2.3:a:messagepack:messagepack:2.5.192:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:2.5.198:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:2.5.205:*:*:*:*:c\#:*:*
+  - cpe:2.3:a:messagepack:messagepack:2.5.301:*:*:*:*:c\#:*:*
+  - cpe:2.3:a:messagepack:messagepack:2.5.302:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:2.5.64:alpha:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:2.5.94:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:3.0.111:alpha:*:*:*:c\#:*:*
@@ -97,3 +99,4 @@ cpes:
   - cpe:2.3:a:messagepack:messagepack:3.1.4:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:3.1.5:*:*:*:*:c\#:*:*
   - cpe:2.3:a:messagepack:messagepack:3.1.6:*:*:*:*:c\#:*:*
+  - cpe:2.3:a:messagepack:messagepack:3.1.7:*:*:*:*:c\#:*:*

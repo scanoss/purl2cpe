@@ -468,6 +468,7 @@ cpes:
   - cpe:2.3:a:rsyslog:rsyslog:8.2602.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.2604.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.2606.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rsyslog:rsyslog:8.2608.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.27.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.28.0:*:*:*:*:*:*:*
   - cpe:2.3:a:rsyslog:rsyslog:8.29.0:*:*:*:*:*:*:*

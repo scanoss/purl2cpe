@@ -3039,6 +3039,8 @@ cpes:
   - cpe:2.3:a:n8n:n8n:2.37.5:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.37.6:*:*:*:community:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.37.6:*:*:*:enterprise:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.37.7:*:*:*:community:node.js:*:*
+  - cpe:2.3:a:n8n:n8n:2.37.7:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.38.0:*:*:*:community:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.38.0:*:*:*:enterprise:node.js:*:*
   - cpe:2.3:a:n8n:n8n:2.38.1:*:*:*:community:node.js:*:*

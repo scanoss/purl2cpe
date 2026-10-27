@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/netty
+  - pkg:deb/ubuntu/netty
+  - pkg:github/netty/netty
+  - pkg:rpm/opensuse/netty

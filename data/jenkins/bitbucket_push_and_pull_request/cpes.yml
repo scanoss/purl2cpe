@@ -55,3 +55,4 @@ cpes:
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:3.3.6:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:3.3.7:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:3.3.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bitbucket_push_and_pull_request:3.3.9:*:*:*:*:jenkins:*:*

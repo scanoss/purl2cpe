@@ -34,6 +34,8 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:10.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.9:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:10.11.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.10.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.1.9:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.2.0:rc1:*:*:*:*:*:*
@@ -52,6 +54,7 @@ cpes:
   - cpe:2.3:a:mattermost:mattermost:11.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost:11.5.8:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mattermost:mattermost:11.6.2:*:*:*:*:*:*:*

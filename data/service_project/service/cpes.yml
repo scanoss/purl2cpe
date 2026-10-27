@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:service_project:service:3:*:*:*:*:*:*:*
   - cpe:2.3:a:service_project:service:-:*:*:*:*:go:*:*

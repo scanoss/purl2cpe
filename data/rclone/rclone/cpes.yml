@@ -136,3 +136,4 @@ cpes:
   - cpe:2.3:a:rclone:rclone:1.74.3:*:*:*:*:*:*:*
   - cpe:2.3:a:rclone:rclone:1.74.4:*:*:*:*:*:*:*
   - cpe:2.3:a:rclone:rclone:1.75.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rclone:rclone:1.75.1:*:*:*:*:*:*:*

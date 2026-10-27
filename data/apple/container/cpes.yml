@@ -18,4 +18,8 @@ cpes:
   - cpe:2.3:a:apple:container:0.9.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:1.0.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:1.1.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:1.2.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:1.2.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:1.2.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:container:1.3.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:container:*:*:*:*:*:swift:*:*

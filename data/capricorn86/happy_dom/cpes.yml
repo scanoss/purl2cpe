@@ -869,8 +869,18 @@ cpes:
   - cpe:2.3:a:capricorn86:happy_dom:20.0.9:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:2.0.0:*:*:*:*:nodejs:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.10.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.1.0:*:*:*:*:nodejs:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.11.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.11.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.1.1:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.2.0:*:*:*:*:node.js:*:*
@@ -945,6 +955,9 @@ cpes:
   - cpe:2.3:a:capricorn86:happy_dom:20.8.7:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.8.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:20.8.8:*:*:*:*:nodejs:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.8.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.8.9:*:*:*:*:nodejs:*:*
+  - cpe:2.3:a:capricorn86:happy_dom:20.9.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:2.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:capricorn86:happy_dom:2.10.0:*:*:*:*:nodejs:*:*
   - cpe:2.3:a:capricorn86:happy_dom:2.10.1:*:*:*:*:node.js:*:*

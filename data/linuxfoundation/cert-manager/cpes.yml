@@ -1,5 +1,9 @@
 cpes:
   - cpe:2.3:a:linuxfoundation:cert-manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.17.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.17.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.17.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:cert-manager:1.17.1:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:-:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:cert-manager:1.18.0:beta0:*:*:*:*:*:*

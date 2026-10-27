@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:microsoft:lightgbm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:microsoft:lightgbm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:lightgbm:4.6.0:*:*:*:*:*:*:*

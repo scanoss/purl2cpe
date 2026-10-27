@@ -1,3 +1,5 @@
 cpes:
   - cpe:2.3:a:geeeeeeeek:dingfanzu:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:geeeeeeeek:dingfanzu:-:*:*:*:*:*:*:*
   - cpe:2.3:a:geeeeeeeek:dingfanzu:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:geeeeeeeek:dingfanzu:2024-01-31:*:*:*:*:*:*:*

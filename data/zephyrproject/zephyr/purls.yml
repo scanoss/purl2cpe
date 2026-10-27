@@ -1,2 +1,4 @@
 purls:
+  - pkg:github/nrfconnect/sdk-zephyr
   - pkg:github/zephyrproject-rtos/zephyr
+  - pkg:sourceforge/zephyr-project.mirror

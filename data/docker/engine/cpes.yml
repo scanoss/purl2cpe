@@ -328,3 +328,7 @@ cpes:
   - cpe:2.3:a:docker:engine:29.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:docker:engine:29.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:docker:engine:29.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:docker:engine:29.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:engine:29.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:engine:29.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:engine:29.6.0:rc1:*:*:*:*:*:*
