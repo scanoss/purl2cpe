@@ -209,6 +209,9 @@ cpes:
   - cpe:2.3:a:openstack:cinder:23.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:23.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:24.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:cinder:27.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:cinder:28.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:cinder:29.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:7.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:7.0.0:alpha0:*:*:*:*:*:*
   - cpe:2.3:a:openstack:cinder:7.0.0:beta1:*:*:*:*:*:*

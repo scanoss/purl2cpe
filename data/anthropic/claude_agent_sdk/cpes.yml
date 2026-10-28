@@ -57,8 +57,24 @@ cpes:
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.53:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.54:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.55:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.56:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.57:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.58:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.59:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.60:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.61:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.62:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.63:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.64:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.65:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.66:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.67:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.68:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.69:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.70:*:*:*:*:python:*:*
+  - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.71:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.7:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.8:*:*:*:*:python:*:*
   - cpe:2.3:a:anthropic:claude_agent_sdk:0.1.9:*:*:*:*:python:*:*

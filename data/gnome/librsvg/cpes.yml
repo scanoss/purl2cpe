@@ -157,9 +157,17 @@ cpes:
   - cpe:2.3:a:gnome:librsvg:2.46.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.46.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.46.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.46.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.46.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.47.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.47.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.47.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.47.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.48.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.48.12:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.4:*:*:*:*:*:*:*
@@ -168,6 +176,12 @@ cpes:
   - cpe:2.3:a:gnome:librsvg:2.48.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.48.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.49.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.50.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.50.1:*:*:*:*:*:*:*
@@ -177,8 +191,17 @@ cpes:
   - cpe:2.3:a:gnome:librsvg:2.50.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.50.6:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.50.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.50.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.50.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.51.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.51.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.51.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.51.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.51.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.52.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.52.11:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.4:*:*:*:*:*:*:*
@@ -187,18 +210,29 @@ cpes:
   - cpe:2.3:a:gnome:librsvg:2.52.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.8:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.52.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.53.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.53.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.53.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.4:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.54.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.54.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.54.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.55.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.55.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.55.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.55.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.55.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.55.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.55.92:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.56.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.56.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.56.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.56.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:librsvg:2.56.90:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnome:librsvg:2.6.2:*:*:*:*:*:*:*

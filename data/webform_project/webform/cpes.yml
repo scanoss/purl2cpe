@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:webform_project:webform:*:*:*:*:*:*:*:*
   - cpe:2.3:a:webform_project:webform:6.x-3.0:*:*:*:*:drupal:*:*
   - cpe:2.3:a:webform_project:webform:6.x-3.10:*:*:*:*:drupal:*:*
   - cpe:2.3:a:webform_project:webform:6.x-3.11:*:*:*:*:drupal:*:*
@@ -49,3 +50,4 @@ cpes:
   - cpe:2.3:a:webform_project:webform:7.x-4.2:*:*:*:*:drupal:*:*
   - cpe:2.3:a:webform_project:webform:7.x-4.3:*:*:*:*:drupal:*:*
   - cpe:2.3:a:webform_project:webform:7.x-4.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:webform_project:webform:*:*:*:*:*:drupal:*:*

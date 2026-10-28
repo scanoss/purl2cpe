@@ -204,3 +204,32 @@ cpes:
   - cpe:2.3:a:google:gvisor:20240930.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gvisor:20241007.0:*:*:*:*:*:*:*
   - cpe:2.3:a:google:gvisor:20241021.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241028.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241104.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241118.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241202.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241210.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20241217.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250106.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250113.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250120.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250127.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250203.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250210.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250217.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250224.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250304.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250319.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250326.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250331.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250407.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250414.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250421.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250429.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250505.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250512.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250611.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250616.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250625.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250707.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:20250715.0:*:*:*:*:*:*:*

@@ -37,4 +37,11 @@ cpes:
   - cpe:2.3:a:agent-zero:agent-zero:0.9.3:pre:*:*:*:*:*:*
   - cpe:2.3:a:agent-zero:agent-zero:0.9.4:-:*:*:*:*:*:*
   - cpe:2.3:a:agent-zero:agent-zero:0.9.4:pre:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.5:pre:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.6:pre:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:agent-zero:agent-zero:0.9.7:pre:*:*:*:*:*:*
   - cpe:2.3:a:agent-zero:agent-zero:0.9.8:-:*:*:*:*:*:*

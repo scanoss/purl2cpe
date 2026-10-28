@@ -316,3 +316,4 @@ cpes:
   - cpe:2.3:a:argoproj:argo_workflows:4.0.3:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:4.0.4:*:*:*:*:go:*:*
   - cpe:2.3:a:argoproj:argo_workflows:4.0.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:argoproj:argo_workflows:4.1.0:rc1:*:*:*:go:*:*

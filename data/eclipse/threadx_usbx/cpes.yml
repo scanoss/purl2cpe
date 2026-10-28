@@ -20,4 +20,6 @@ cpes:
   - cpe:2.3:a:eclipse:threadx_usbx:6.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx_usbx:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:threadx_usbx:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx_usbx:6.4.3.2025:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:threadx_usbx:6.4.3.202503:*:*:*:*:*:*:*
   - cpe:2.3:o:eclipse:threadx_usbx:*:*:*:*:*:*:*:*

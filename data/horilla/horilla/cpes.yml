@@ -1,6 +1,8 @@
 cpes:
   - cpe:2.3:a:horilla:horilla:*:*:*:*:*:*:*:*
   - cpe:2.3:a:horilla:horilla:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horilla:horilla:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horilla:horilla:1.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:horilla:horilla:1.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:horilla:horilla:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:horilla:horilla:1.2.1:*:*:*:*:*:*:*

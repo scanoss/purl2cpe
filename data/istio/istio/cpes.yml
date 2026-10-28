@@ -314,6 +314,7 @@ cpes:
   - cpe:2.3:a:istio:istio:1.28.3:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.28.4:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.28.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.28.6:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.2.9:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.29.0:-:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.29.0:alpha0:*:*:*:*:*:*
@@ -323,9 +324,14 @@ cpes:
   - cpe:2.3:a:istio:istio:1.29.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.29.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.29.2:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.30.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.30.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.30.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:istio:istio:1.30.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:istio:istio:1.3.0:rc2:*:*:*:*:*:*

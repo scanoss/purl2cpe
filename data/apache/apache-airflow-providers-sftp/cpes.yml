@@ -130,3 +130,5 @@ cpes:
   - cpe:2.3:a:apache:apache-airflow-providers-sftp:5.7.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-sftp:5.8.0:-:*:*:*:*:*:*
   - cpe:2.3:a:apache:apache-airflow-providers-sftp:5.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-sftp:5.8.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-sftp:5.8.1:rc1:*:*:*:*:*:*

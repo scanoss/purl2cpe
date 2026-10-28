@@ -70,6 +70,11 @@ cpes:
   - cpe:2.3:a:dani-garcia:vaultwarden:1.35.2:*:*:*:*:*:*:*
   - cpe:2.3:a:dani-garcia:vaultwarden:1.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:dani-garcia:vaultwarden:1.35.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dani-garcia:vaultwarden:1.35.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dani-garcia:vaultwarden:1.35.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dani-garcia:vaultwarden:1.35.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dani-garcia:vaultwarden:1.35.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dani-garcia:vaultwarden:1.36.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dani-garcia:vaultwarden:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dani-garcia:vaultwarden:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dani-garcia:vaultwarden:1.6.0:*:*:*:*:*:*:*
