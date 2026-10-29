@@ -363,21 +363,29 @@ cpes:
   - cpe:2.3:a:clickhouse:clickhouse:22.1:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.2:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.3.12.19:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.6.6.16:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.7.4.16:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.8:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.8.2.11:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:22.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:22.9.1.2603:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.10:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.10.2.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.10.4.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.10.5.20:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.12.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.12.6.19:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.16.7:*:*:*:lts:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.17.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3.18.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.3.22.3:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.3:*:*:*:lts:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.8.12.13:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.6.16:*:*:*:lts:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.7.24:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.8.8.20:*:*:*:*:*:*:*
@@ -385,6 +393,8 @@ cpes:
   - cpe:2.3:a:clickhouse:clickhouse:23.9:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.9.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:23.9.5.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:23.9.6.20:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:24.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clickhouse:clickhouse:24.1.1.2048:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:24.3.3.102:*:*:*:*:*:*:*
   - cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:lts:*:*:*

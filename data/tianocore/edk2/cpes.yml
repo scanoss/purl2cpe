@@ -34,4 +34,15 @@ cpes:
   - cpe:2.3:a:tianocore:edk2:202402*:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:202402:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:202405:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202408:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202408.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202411:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202502:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202505:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202508:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202508.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202511:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202602:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202605:*:*:*:*:*:*:*
+  - cpe:2.3:a:tianocore:edk2:202608:*:*:*:*:*:*:*
   - cpe:2.3:a:tianocore:edk2:svn_16280:*:*:*:*:*:*:*

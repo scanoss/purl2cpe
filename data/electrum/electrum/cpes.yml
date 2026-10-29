@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:electrum:electrum:*:*:*:*:*:*:*:*
   - cpe:2.3:a:electrum:electrum:0.56:*:*:*:*:*:*:*
   - cpe:2.3:a:electrum:electrum:0.57:*:*:*:*:*:*:*
   - cpe:2.3:a:electrum:electrum:0.58:*:*:*:*:*:*:*

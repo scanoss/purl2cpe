@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:digium:certified_asterisk:*:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:certified_asterisk:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:certified_asterisk:0.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:digium:certified_asterisk:0.1.10:*:*:*:*:*:*:*

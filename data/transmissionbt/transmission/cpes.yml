@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:transmissionbt:transmission:*:*:*:*:*:*:*:*
   - cpe:2.3:a:transmissionbt:transmission:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:transmissionbt:transmission:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:transmissionbt:transmission:0.3:*:*:*:*:*:*:*

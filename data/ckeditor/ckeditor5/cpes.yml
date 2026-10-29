@@ -141,3 +141,15 @@ cpes:
   - cpe:2.3:a:ckeditor:ckeditor5:47.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:47.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:ckeditor:ckeditor5:47.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:47.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ckeditor:ckeditor5:48.3.0:*:*:*:*:*:*:*
