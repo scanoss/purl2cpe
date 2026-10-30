@@ -35,6 +35,7 @@ cpes:
   - cpe:2.3:a:hono:node-server:1.19.10:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.19.11:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.19.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:hono:node-server:1.19.13:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.19.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.19.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.19.3:*:*:*:*:node.js:*:*

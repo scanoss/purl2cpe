@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:highcharts:highcharts:*:*:*:*:*:*:*:*
   - cpe:2.3:a:highcharts:highcharts:2.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:highcharts:highcharts:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:highcharts:highcharts:2.0.4:*:*:*:*:*:*:*

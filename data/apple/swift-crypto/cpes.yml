@@ -40,4 +40,9 @@ cpes:
   - cpe:2.3:a:apple:swift-crypto:4.3.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.5.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:4.5.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:4.5.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:5.0.0:beta1:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:5.0.0:beta2:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:5.0.0:beta4:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:swift-crypto:5.0.0:beta6:*:*:*:swift:*:*
   - cpe:2.3:a:apple:swift-crypto:*:*:*:*:*:swift:*:*

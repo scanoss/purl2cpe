@@ -1400,9 +1400,40 @@ cpes:
   - cpe:2.3:a:ggml:llama.cpp:b11858:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b11860:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b11861:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11865:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11866:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11867:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11868:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11869:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1187:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11870:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11871:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11873:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11874:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11875:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11876:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11877:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11878:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11879:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1188:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11880:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11881:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11882:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11883:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11884:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11886:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11887:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11888:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11889:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1189:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11890:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11895:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11896:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11897:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11898:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11899:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11900:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11901:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1192:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1193:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1194:*:*:*:*:*:*:*

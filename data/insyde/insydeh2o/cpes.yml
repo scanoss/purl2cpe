@@ -1,3 +1,10 @@
 cpes:
   - cpe:2.3:o:insyde:insydeh2o:*:*:*:*:*:*:*:*
   - cpe:2.3:o:insyde:insydeh2o:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.44.45.0029:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.47.24.0058:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.56.23.0022:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.56.23.0037:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.62.29.0038:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.72.17.0032:*:*:*:*:*:*:*
+  - cpe:2.3:o:insyde:insydeh2o:05.72.18.0010:*:*:*:*:*:*:*

@@ -75,4 +75,7 @@ cpes:
   - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.2.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:3.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpzoom:recipe_card_blocks_for_gutenberg_\&_elementor:-:*:*:*:*:wordpress:*:*

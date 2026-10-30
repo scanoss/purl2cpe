@@ -136,6 +136,16 @@ cpes:
   - cpe:2.3:a:metabox:meta_box:4.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.10.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.1.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.1.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.1.2:*:*:*:*:wordpress:*:*
@@ -201,7 +211,15 @@ cpes:
   - cpe:2.3:a:metabox:meta_box:5.8.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.9.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.9.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:5.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metabox:meta_box:5.9.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:metabox:meta_box:-:*:*:*:*:wordpress:*:*

@@ -21,6 +21,9 @@ cpes:
   - cpe:2.3:a:apple:containerization:0.20.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.20.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.2.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.21.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.21.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.22.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.3.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.4.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.4.1:*:*:*:*:swift:*:*

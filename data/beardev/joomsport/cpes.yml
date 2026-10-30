@@ -37,5 +37,13 @@ cpes:
   - cpe:2.3:a:beardev:joomsport:5.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:5.5.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:5.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.13:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:5.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:beardev:joomsport:5.6.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:beardev:joomsport:-:*:*:*:*:wordpress:*:*

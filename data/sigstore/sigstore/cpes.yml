@@ -1,8 +1,19 @@
 cpes:
+  - cpe:2.3:a:sigstore:sigstore:0.0.1:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.0.1:alpha2:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.0.1:alpha3:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.0.1:alpha4:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.0.1:alpha5:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.1.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:0.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.1.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:0.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:0.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sigstore:sigstore:0.2.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:sigstore:sigstore:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:sigstore:sigstore:0.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:sigstore:sigstore:*:*:*:*:*:ruby:*:*

@@ -23,4 +23,5 @@ cpes:
   - cpe:2.3:a:pyasn1:pyasn1:0.6.1:*:*:*:*:python:*:*
   - cpe:2.3:a:pyasn1:pyasn1:0.6.2:*:*:*:*:python:*:*
   - cpe:2.3:a:pyasn1:pyasn1:0.6.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:pyasn1:pyasn1:0.6.4:*:*:*:*:python:*:*
   - cpe:2.3:a:pyasn1:pyasn1:*:*:*:*:*:python:*:*

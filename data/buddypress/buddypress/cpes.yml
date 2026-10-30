@@ -59,6 +59,9 @@ cpes:
   - cpe:2.3:a:buddypress:buddypress:1.2:-:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddypress:buddypress:14.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddypress:buddypress:14.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddypress:buddypress:14.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddypress:buddypress:14.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddypress:buddypress:14.3.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddypress:buddypress:1.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddypress:buddypress:1.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:buddypress:buddypress:1.5.3.1:*:*:*:*:wordpress:*:*

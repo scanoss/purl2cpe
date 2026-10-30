@@ -41,6 +41,9 @@ cpes:
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1815:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1826:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.1832:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1870:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.1903:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.5.10.2149:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.30:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41:*:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.10.41.2:*:*:*:*:*:*:*
@@ -58,3 +61,4 @@ cpes:
   - cpe:2.3:a:fogproject:fogproject:1.5.9:-:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.9:rc1:*:*:*:*:*:*
   - cpe:2.3:a:fogproject:fogproject:1.5.9:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fogproject:1.6.0:beta2313:*:*:*:*:*:*

@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:python-markdown:markdown:*:*:*:*:*:*:*:*
   - cpe:2.3:a:python-markdown:markdown:3.8:*:*:*:*:python:*:*

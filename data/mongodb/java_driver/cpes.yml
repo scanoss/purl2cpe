@@ -214,6 +214,7 @@ cpes:
   - cpe:2.3:a:mongodb:java_driver:5.0.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.10.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:java_driver:5.11.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:java_driver:5.1.3:*:*:*:*:mongodb:*:*

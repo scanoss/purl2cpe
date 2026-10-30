@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vitejs:vite:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vitejs:vite:1.0.0:rc10:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:1.0.0:rc11:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:1.0.0:rc13:*:*:*:node.js:*:*

@@ -122,6 +122,7 @@ cpes:
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.23.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.2.5:*:*:*:*:wordpress:*:*
@@ -135,6 +136,12 @@ cpes:
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.15:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.3:*:*:*:*:wordpress:*:*
@@ -142,5 +149,7 @@ cpes:
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:-:*:*:*:*:wordpress:*:*
