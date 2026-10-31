@@ -124,3 +124,4 @@ cpes:
   - cpe:2.3:a:pi-hole:pi-hole:6.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:pi-hole:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:pi-hole:6.4.3:*:*:*:*:*:*:*

@@ -41,6 +41,7 @@ cpes:
   - cpe:2.3:o:amazon:freertos:11.1.0:*:*:*:-:*:*:*
   - cpe:2.3:o:amazon:freertos:11.2.0:*:*:*:-:*:*:*
   - cpe:2.3:o:amazon:freertos:11.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:o:amazon:freertos:11.3.1:*:*:*:-:*:*:*
   - cpe:2.3:o:amazon:freertos:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:o:amazon:freertos:1.2.1:*:*:*:*:*:*:*
   - cpe:2.3:o:amazon:freertos:1.2.2:*:*:*:*:*:*:*

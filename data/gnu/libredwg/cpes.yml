@@ -296,6 +296,50 @@ cpes:
   - cpe:2.3:a:gnu:libredwg:0.12.4.4660:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.12.5:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.12.5.6384:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7371:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7377:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7385:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7405:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7409:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7411:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7412:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7414:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7420:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7424:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7426:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7429:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7431:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7434:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7437:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7442:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7445:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7453:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7456:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7460:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7466:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7469:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7472:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7473:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7483:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7491:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7501:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7507:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7516:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7533:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7534:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7535:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7539:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7545:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7551:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7552:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7554:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7557:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7558:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.3.7562:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.13.3.7571:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.13.3.7574:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.13.3.7577:*:*:*:*:*:*:*
@@ -345,6 +389,48 @@ cpes:
   - cpe:2.3:a:gnu:libredwg:0.13.3.7816:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.13.3.7819:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.13.3.7835:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.7969:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.7974:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.7976:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.7985:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.7998:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8001:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8014:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8018:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8028:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8029:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8036:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8043:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8051:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8055:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8085:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8091:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8104:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8112:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8115:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8118:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8123:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8129:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8131:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8140:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8144:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8149:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8160:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8163:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8166:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8168:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8169:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8171:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8174:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8178:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8187:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8198:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8200:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8214:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8216:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8229:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:libredwg:0.13.4.8230:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.4.361:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:libredwg:0.4.377:*:*:*:*:*:*:*

@@ -522,3 +522,4 @@ cpes:
   - cpe:2.3:a:phpmyadmin:phpmyadmin:5.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:5.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:phpmyadmin:phpmyadmin:5.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyadmin:phpmyadmin:5.2.1:*:*:*:*:*:*:*

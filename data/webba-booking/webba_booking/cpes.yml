@@ -218,6 +218,8 @@ cpes:
   - cpe:2.3:a:webba-booking:webba_booking:5.0.47:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:5.0.48:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:5.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webba-booking:webba_booking:5.0.51:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:5.0.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:5.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:webba-booking:webba_booking:5.0.7:*:*:*:*:wordpress:*:*

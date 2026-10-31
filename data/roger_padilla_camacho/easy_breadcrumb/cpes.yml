@@ -11,3 +11,4 @@ cpes:
   - cpe:2.3:a:roger_padilla_camacho:easy_breadcrumb:7.x-2.7:*:*:*:*:drupal:*:*
   - cpe:2.3:a:roger_padilla_camacho:easy_breadcrumb:7.x-2.8:*:*:*:*:drupal:*:*
   - cpe:2.3:a:roger_padilla_camacho:easy_breadcrumb:7.x-2.9:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:roger_padilla_camacho:easy_breadcrumb:*:*:*:*:*:drupal:*:*

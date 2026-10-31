@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openvm:openvm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:openvm:openvm:0.1.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:openvm:openvm:0.1.1:alpha:*:*:*:*:*:*
   - cpe:2.3:a:openvm:openvm:1.0.0:-:*:*:*:*:*:*
@@ -44,3 +45,4 @@ cpes:
   - cpe:2.3:a:openvm:openvm:1.5.0:-:*:*:*:*:*:*
   - cpe:2.3:a:openvm:openvm:1.5.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:openvm:openvm:1.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openvm:openvm:1.6.0:*:*:*:*:*:*:*

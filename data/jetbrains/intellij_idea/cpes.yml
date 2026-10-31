@@ -235,5 +235,6 @@ cpes:
   - cpe:2.3:a:jetbrains:intellij_idea:2026.2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2026.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:2026.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbrains:intellij_idea:2026.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:jetbrains:intellij_idea:9.0.4:*:*:*:*:*:*:*

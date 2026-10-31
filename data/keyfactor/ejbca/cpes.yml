@@ -2,3 +2,4 @@ cpes:
   - cpe:2.3:a:keyfactor:ejbca:*:*:*:*:*:*:*:*
   - cpe:2.3:a:keyfactor:ejbca:-:*:*:*:*:*:*:*
   - cpe:2.3:a:keyfactor:ejbca:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keyfactor:ejbca:9:*:*:*:*:*:*:*

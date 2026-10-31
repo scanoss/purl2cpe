@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:blender:blender:*:*:*:*:*:*:*:*
   - cpe:2.3:a:blender:blender:2.25:*:*:*:*:*:*:*
   - cpe:2.3:a:blender:blender:2.26:*:*:*:*:*:*:*
   - cpe:2.3:a:blender:blender:2.27:*:*:*:*:*:*:*

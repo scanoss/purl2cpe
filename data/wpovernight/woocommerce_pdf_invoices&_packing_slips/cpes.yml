@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\&_packing_slips:*:*:*:*:*:*:*:*
   - cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\&_packing_slips:1.6.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\&_packing_slips:2.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:wpovernight:woocommerce_pdf_invoices\&_packing_slips:2.0.10:*:*:*:*:wordpress:*:*
