@@ -148,6 +148,7 @@ cpes:
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.25.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.25.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.25.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iptanus:wordpress_file_upload:4.25.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.3.2:*:*:*:*:wordpress:*:*
@@ -163,5 +164,6 @@ cpes:
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.8.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.9.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:4.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:iptanus:wordpress_file_upload:5.0.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:iptanus:wordpress_file_upload:-:*:*:*:*:wordpress:*:*

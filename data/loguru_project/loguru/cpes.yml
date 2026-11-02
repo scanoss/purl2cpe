@@ -16,4 +16,5 @@ cpes:
   - cpe:2.3:a:loguru_project:loguru:0.5.1:*:*:*:*:python:*:*
   - cpe:2.3:a:loguru_project:loguru:0.5.2:*:*:*:*:python:*:*
   - cpe:2.3:a:loguru_project:loguru:0.5.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:loguru_project:loguru:0.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:loguru_project:loguru:-:*:*:*:*:python:*:*

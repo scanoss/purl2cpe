@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:andrewhhan:browserpilot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrewhhan:browserpilot:0.2.51:*:*:*:*:*:*:*

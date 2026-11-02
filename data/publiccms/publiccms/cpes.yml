@@ -1,5 +1,10 @@
 cpes:
   - cpe:2.3:a:publiccms:publiccms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:2016:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:2017.0708:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:2019.b:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:2019.d:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:2021.a:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.180707:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:4.0.180825:*:*:*:*:*:*:*
@@ -36,3 +41,5 @@ cpes:
   - cpe:2.3:a:publiccms:publiccms:5.202506.b:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:5.202506.d:*:*:*:*:*:*:*
   - cpe:2.3:a:publiccms:publiccms:6.202506.d:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:6.202506.e:*:*:*:*:*:*:*
+  - cpe:2.3:a:publiccms:publiccms:6.202608.a:*:*:*:*:*:*:*

@@ -49,4 +49,9 @@ cpes:
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2022.0204:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2022.0208:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feedwordpress_project:feedwordpress:2022.0222:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:2024.0428:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:2024.0511:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:2024.1119:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:2025.1211:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:feedwordpress_project:feedwordpress:2026.0517:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:feedwordpress_project:feedwordpress:*:*:*:*:*:wordpress:*:*

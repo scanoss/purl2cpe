@@ -96,5 +96,6 @@ cpes:
   - cpe:2.3:a:boldgrid:w3_total_cache:2.7.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:w3_total_cache:2.7.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:w3_total_cache:2.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:boldgrid:w3_total_cache:2.8.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:w3_total_cache:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:boldgrid:w3_total_cache:-:*:*:*:*:wordpress:*:*

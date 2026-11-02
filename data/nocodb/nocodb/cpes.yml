@@ -146,6 +146,7 @@ cpes:
   - cpe:2.3:a:nocodb:nocodb:0.265.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.265.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.300.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.301.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.301.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.301.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.2:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:lightsaml:lightsaml:*:*:*:*:*:*:*:*
   - cpe:2.3:a:lightsaml:lightsaml:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lightsaml:lightsaml:1.0.0:-:*:*:*:*:*:*
   - cpe:2.3:a:lightsaml:lightsaml:1.0.0:beta1:*:*:*:*:*:*
