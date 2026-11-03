@@ -8,6 +8,8 @@ cpes:
   - cpe:2.3:a:oracle:helidon:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:27.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:27.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:27.0.0:milestone1:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oracle:helidon:3.0.2:*:*:*:*:*:*:*

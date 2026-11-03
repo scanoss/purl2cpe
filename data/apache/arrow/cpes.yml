@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:apache:arrow:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:arrow:0.10.0:*:*:*:*:*:*:*

@@ -61,6 +61,7 @@ cpes:
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:sleuthkit:the_sleuth_kit:4.3.1:*:*:*:*:*:*:*

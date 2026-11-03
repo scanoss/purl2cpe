@@ -14,6 +14,7 @@ cpes:
   - cpe:2.3:a:nlnetlabs:krill:0.12.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:krill:0.12.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:krill:0.12.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:nlnetlabs:krill:0.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:krill:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:krill:0.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nlnetlabs:krill:0.4.0:*:*:*:*:*:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:netpbm_project:netpbm:*:*:*:*:*:*:*:*
   - cpe:2.3:a:netpbm_project:netpbm:10.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:netpbm_project:netpbm:10.35.98:*:*:*:*:*:*:*
   - cpe:2.3:a:netpbm_project:netpbm:10.36.0:*:*:*:*:*:*:*
