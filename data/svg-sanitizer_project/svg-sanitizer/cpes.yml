@@ -20,7 +20,9 @@ cpes:
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.15.1:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.15.4:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.3.0:*:*:*:*:*:*:*

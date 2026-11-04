@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:coraza:coraza:*:*:*:*:*:*:*:*
   - cpe:2.3:a:coraza:coraza:3.0.0:*:*:*:*:go:*:*

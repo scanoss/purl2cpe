@@ -1104,6 +1104,8 @@ cpes:
   - cpe:2.3:a:strapi:strapi:5.47.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.47.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.48.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:strapi:strapi:5.48.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:strapi:strapi:5.49.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:strapi:strapi:5.5.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:strapi:strapi:5.5.1:*:*:*:*:*:*:*

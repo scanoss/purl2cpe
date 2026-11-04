@@ -37,3 +37,4 @@ cpes:
   - cpe:2.3:a:idrix:veracrypt:1.24:update6:*:*:*:*:*:*
   - cpe:2.3:a:idrix:veracrypt:1.24:update7:*:*:*:*:*:*
   - cpe:2.3:a:idrix:veracrypt:1.24:update8:*:*:*:*:*:*
+  - cpe:2.3:a:idrix:veracrypt:1.26.29:*:*:*:*:*:*:*

@@ -465,4 +465,8 @@ cpes:
   - cpe:2.3:a:nuxt:og_image:6.2.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nuxt:og_image:6.2.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nuxt:og_image:6.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nuxt:og_image:6.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nuxt:og_image:6.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nuxt:og_image:6.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nuxt:og_image:6.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nuxt:og_image:*:*:*:*:*:node.js:*:*

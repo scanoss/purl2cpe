@@ -1,4 +1,31 @@
 cpes:
+  - cpe:2.3:a:progress:kendoreact:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:10.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:11.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.10.1:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.11.0:*:*:*:*:*:*:*
@@ -9,6 +36,12 @@ cpes:
   - cpe:2.3:a:progress:kendoreact:3.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:3.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:3.7.0:*:*:*:*:*:*:*
@@ -61,3 +94,6 @@ cpes:
   - cpe:2.3:a:progress:kendoreact:9.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:9.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendoreact:9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:progress:kendoreact:9.5.0:*:*:*:*:*:*:*

@@ -45,5 +45,6 @@ cpes:
   - cpe:2.3:a:netgate:pfsense:2.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:netgate:pfsense:2.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:netgate:pfsense:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netgate:pfsense:2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:netgate:pfsense:*:*:*:*:community:*:*:*
   - cpe:2.3:a:netgate:pfsense:*:*:*:*:plus:*:*:*

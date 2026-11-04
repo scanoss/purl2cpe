@@ -2,3 +2,4 @@ cpes:
   - cpe:2.3:a:moov:signedxml:*:*:*:*:*:*:*:*
   - cpe:2.3:a:moov:signedxml:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:moov:signedxml:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:moov:signedxml:1.1.0:*:*:*:*:go:*:*

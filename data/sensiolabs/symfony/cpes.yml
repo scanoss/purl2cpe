@@ -644,6 +644,7 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:5.4.50:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:5.4.51:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:5.4.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:5.4.53:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:5.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:5.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:5.4.8:*:*:*:*:*:*:*
@@ -768,6 +769,8 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:6.4.39:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:6.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:6.4.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:6.4.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:6.4.42:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:6.4.5:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:6.4.6:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:6.4.7:*:*:*:*:*:*:*
@@ -841,6 +844,8 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:7.4.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:7.4.11:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:7.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:7.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:7.4.14:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:7.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:7.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:7.4.4:*:*:*:*:*:*:*
@@ -859,6 +864,8 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:8.0.10:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.11:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.0.14:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.4:*:*:*:*:*:*:*
@@ -867,3 +874,9 @@ cpes:
   - cpe:2.3:a:sensiolabs:symfony:8.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:sensiolabs:symfony:8.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:sensiolabs:symfony:8.1.1:*:*:*:*:*:*:*

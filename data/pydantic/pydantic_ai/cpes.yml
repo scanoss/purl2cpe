@@ -1,8 +1,26 @@
 cpes:
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.12:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.13:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.14:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.19:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.20:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.21:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.22:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.23:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.24:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.25:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.26:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.27:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.28:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.29:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.2:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.30:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.31:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.32:*:*:*:*:python:*:*
@@ -13,6 +31,7 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.37:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.38:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.39:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.3:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.40:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.41:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.42:*:*:*:*:python:*:*
@@ -23,12 +42,20 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.47:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.48:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.49:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.4:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.50:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.51:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.52:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.53:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.54:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.55:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.6:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.6:alpha4:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.6:-:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:0.0.9:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.1.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.1.10:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.1.11:*:*:*:*:python:*:*

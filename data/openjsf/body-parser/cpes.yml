@@ -42,6 +42,7 @@ cpes:
   - cpe:2.3:a:openjsf:body-parser:1.20.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:1.20.4:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:1.20.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:body-parser:1.20.6:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:1.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:1.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:1.2.2:*:*:*:*:node.js:*:*
@@ -81,5 +82,6 @@ cpes:
   - cpe:2.3:a:openjsf:body-parser:2.2.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:2.2.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:2.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openjsf:body-parser:2.3.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:openjsf:body-parser:-:*:*:*:*:node.js:*:*

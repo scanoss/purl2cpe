@@ -572,6 +572,7 @@ cpes:
   - cpe:2.3:a:vitejs:vite:6.4.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:6.4.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:6.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:6.4.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:7.0.0:beta0:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:7.0.0:beta1:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:7.0.0:beta2:*:*:*:node.js:*:*
@@ -613,6 +614,7 @@ cpes:
   - cpe:2.3:a:vitejs:vite:7.3.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:7.3.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:7.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:7.3.5:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.0:beta0:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.0:beta10:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.0:beta11:*:*:*:node.js:*:*
@@ -640,6 +642,7 @@ cpes:
   - cpe:2.3:a:vitejs:vite:8.0.13:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.14:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:8.0.16:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.3:*:*:*:*:node.js:*:*
@@ -649,4 +652,6 @@ cpes:
   - cpe:2.3:a:vitejs:vite:8.0.7:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.8:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:8.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:8.1.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:vitejs:vite:8.1.0:-:*:*:*:node.js:*:*
   - cpe:2.3:a:vitejs:vite:*:*:*:*:*:node.js:*:*

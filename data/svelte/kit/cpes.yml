@@ -677,6 +677,8 @@ cpes:
   - cpe:2.3:a:svelte:kit:2.69.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.70.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.70.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.70.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:svelte:kit:2.70.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:svelte:kit:2.7.2:*:*:*:*:node.js:*:*

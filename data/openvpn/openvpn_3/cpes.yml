@@ -1,4 +1,14 @@
 cpes:
+  - cpe:2.3:a:openvpn:openvpn_3:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn_3:3.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn_3:3.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn_3:3.3.2:*:*:*:*:*:*:*
@@ -30,3 +40,5 @@ cpes:
   - cpe:2.3:a:openvpn:openvpn_3:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn_3:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:openvpn:openvpn_3:3.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvpn:openvpn_3:3.9:*:*:*:*:*:*:*

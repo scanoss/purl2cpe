@@ -14,11 +14,23 @@ cpes:
   - cpe:2.3:a:redhat:advanced_cluster_security:4.0:*:*:*:*:kubernates:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.0:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.10:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10.3:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.10.9:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.10:*:*:*:*:kubernates:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.3:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.11.6:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.1.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.1.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.1.3:*:*:*:*:kubernetes:*:*
@@ -98,6 +110,8 @@ cpes:
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.9.10:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.9.11:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.1:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.2:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.3:*:*:*:*:kubernetes:*:*
@@ -106,4 +120,5 @@ cpes:
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.6:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.7:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:4.9.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.9.9:*:*:*:*:kubernetes:*:*
   - cpe:2.3:a:redhat:advanced_cluster_security:*:*:*:*:*:kubernetes:*:*

@@ -30,3 +30,4 @@ cpes:
   - cpe:2.3:a:gotify:server:2.1.7:*:*:*:*:*:*:*
   - cpe:2.3:a:gotify:server:2.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gotify:server:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gotify:server:2.2.2:*:*:*:*:*:*:*
