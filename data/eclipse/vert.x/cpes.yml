@@ -132,6 +132,7 @@ cpes:
   - cpe:2.3:a:eclipse:vert.x:4.5.32:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.33:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:vert.x:4.5.35:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.5:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:vert.x:4.5.6:*:*:*:*:*:*:*

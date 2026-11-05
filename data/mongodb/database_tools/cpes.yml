@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:database_tools:100.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:database_tools:100.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:database_tools:100.0.2:*:*:*:*:*:*:*

@@ -224,6 +224,7 @@ cpes:
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2026.3.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.7.0:*:*:*:*:*:*:*

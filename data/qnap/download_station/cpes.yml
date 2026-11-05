@@ -1,7 +1,37 @@
 cpes:
   - cpe:2.3:a:qnap:download_station:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:4.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.69:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.0.98:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.10.0.291:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.10.0.304:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.10.0.305:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.11.0.303:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.109:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.113:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.121:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.1.97:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.7.0.191:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.7.0.194:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.7.0.196:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.1.226:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.2.247:*:*:*:*:*:*:*
@@ -10,3 +40,8 @@ cpes:
   - cpe:2.3:a:qnap:download_station:5.8.4.261:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.5.266:*:*:*:*:*:*:*
   - cpe:2.3:a:qnap:download_station:5.8.6.280:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.8.6.283:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.8.6.285:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.9.0.268:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.9.0.270:*:*:*:*:*:*:*
+  - cpe:2.3:a:qnap:download_station:5.9.0.272:*:*:*:*:*:*:*

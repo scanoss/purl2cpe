@@ -168,3 +168,4 @@ cpes:
   - cpe:2.3:a:redhat:resteasy:4.7.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:5.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:resteasy:6.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:resteasy:7.0.2.final:*:*:*:*:*:*:*
