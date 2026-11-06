@@ -234,3 +234,4 @@ cpes:
   - cpe:2.3:a:samba:rsync:3.4.3:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:samba:rsync:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:samba:rsync:3.5.1:*:*:*:*:*:*:*

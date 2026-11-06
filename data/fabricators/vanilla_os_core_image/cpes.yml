@@ -1,2 +1,5 @@
 cpes:
   - cpe:2.3:a:fabricators:vanilla_os_core_image:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fabricators:vanilla_os_core_image:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fabricators:vanilla_os_core_image:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fabricators:vanilla_os_core_image:1.1.0:*:*:*:*:*:*:*
