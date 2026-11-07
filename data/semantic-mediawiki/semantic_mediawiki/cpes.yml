@@ -103,5 +103,9 @@ cpes:
   - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:4.0.1:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:4.0.2:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:4.1.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:4.2.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:5.0.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:7.2.1:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:7.3.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:*:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:-:*:*:*:*:mediawiki:*:*

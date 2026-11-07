@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:hono:node-server:*:*:*:*:*:*:*:*
   - cpe:2.3:a:hono:node-server:1.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.10.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:hono:node-server:1.11.0:*:*:*:*:node.js:*:*

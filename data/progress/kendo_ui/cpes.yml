@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:progress:kendo_ui:*:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendo_ui:2011.2.804:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendo_ui:2011.3.1007:*:*:*:*:*:*:*
   - cpe:2.3:a:progress:kendo_ui:2011.3.1129:*:*:*:*:*:*:*

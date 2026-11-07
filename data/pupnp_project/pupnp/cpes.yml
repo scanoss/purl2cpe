@@ -5,12 +5,43 @@ cpes:
   - cpe:2.3:a:pupnp_project:pupnp:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.19:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.29:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.31:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.14.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.14.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:1.18.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.4.2:*:*:*:*:*:*:*
@@ -53,3 +84,7 @@ cpes:
   - cpe:2.3:a:pupnp_project:pupnp:1.8.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pupnp_project:pupnp:1.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pupnp_project:pupnp:22.0.3:*:*:*:*:*:*:*

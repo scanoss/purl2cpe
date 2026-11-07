@@ -364,6 +364,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.13.67:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.13.68:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.13.69:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.13.71:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.1.38:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.13.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.13.9:*:*:*:*:*:*:*
@@ -504,6 +505,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.15.64:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.15.65:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.15.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.15.68:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.15.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.15.9:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.1.6:*:*:*:*:*:*:*
@@ -568,6 +570,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.62:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.63:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.16.69:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.16.9:*:*:*:*:*:*:*
@@ -624,6 +627,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.54:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.55:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.17.57:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.58:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.59:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.17.6:*:*:*:*:*:*:*
@@ -672,6 +676,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.43:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.44:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.18.54:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.18.8:*:*:*:*:*:*:*
@@ -707,6 +712,7 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.33:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.34:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:4.19.36:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.4:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.5:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.19.6:*:*:*:*:*:*:*

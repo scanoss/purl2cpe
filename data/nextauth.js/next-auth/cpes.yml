@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nextauth.js:next-auth:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nextauth.js:next-auth:1.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:1.10.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:nextauth.js:next-auth:1.1.0:*:*:*:*:node.js:*:*

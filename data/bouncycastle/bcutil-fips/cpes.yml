@@ -4,6 +4,8 @@ cpes:
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcutil-fips:2.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bouncycastle:bcutil-fips:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bcutil-fips:2.1.7:*:*:*:*:*:*:*

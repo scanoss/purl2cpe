@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:loofah_project:loofah:*:*:*:*:*:*:*:*
   - cpe:2.3:a:loofah_project:loofah:0.2.0:*:*:*:*:ruby:*:*
   - cpe:2.3:a:loofah_project:loofah:0.2.1:*:*:*:*:ruby:*:*
   - cpe:2.3:a:loofah_project:loofah:0.2.2:*:*:*:*:ruby:*:*

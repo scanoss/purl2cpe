@@ -2427,3 +2427,4 @@ cpes:
   - cpe:2.3:a:sangoma:freepbx:2.9.0:rc1.4:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:2.9.0:rc1.5:*:*:*:*:*:*
   - cpe:2.3:a:sangoma:freepbx:2.9.0:rc1.6:*:*:*:*:*:*
+  - cpe:2.3:a:sangoma:freepbx:*:*:*:*:*:tts:*:*
