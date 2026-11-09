@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:libtirpc_project:libtirpc:-:*:*:*:*:*:*:*
   - cpe:2.3:a:libtirpc_project:libtirpc:0.0.10:-:*:*:*:*:*:*
   - cpe:2.3:a:libtirpc_project:libtirpc:0.0.10:rc1:*:*:*:*:*:*
   - cpe:2.3:a:libtirpc_project:libtirpc:0.0.9:rc1:*:*:*:*:*:*

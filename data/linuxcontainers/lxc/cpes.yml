@@ -140,3 +140,4 @@ cpes:
   - cpe:2.3:a:linuxcontainers:lxc:6.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxcontainers:lxc:6.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxcontainers:lxc:6.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxcontainers:lxc:7.0.0:*:*:*:*:*:*:*

@@ -194,5 +194,7 @@ cpes:
   - cpe:2.3:o:zephyrproject:zephyr:4.4.2:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.4.2:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.5.0:-:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.5.0:rc1:*:*:*:*:*:*
   - cpe:2.3:o:zephyrproject:zephyr:4.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:o:zephyrproject:zephyr:4.5.0:rc3:*:*:*:*:*:*
