@@ -149,6 +149,9 @@ cpes:
   - cpe:2.3:a:nocodb:nocodb:0.301.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.301.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.301.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.301.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.301.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:0.301.5:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.4.5:*:*:*:*:*:*:*
@@ -209,3 +212,17 @@ cpes:
   - cpe:2.3:a:nocodb:nocodb:0.96.2:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.96.4:*:*:*:*:*:*:*
   - cpe:2.3:a:nocodb:nocodb:0.97.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.04.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.05.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.05.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.05.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.05.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.06.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nocodb:nocodb:2026.07.0:*:*:*:*:*:*:*

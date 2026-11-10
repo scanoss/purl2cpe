@@ -1026,3 +1026,4 @@ cpes:
   - cpe:2.3:a:redhat:openshift_container_platform:4.9.7:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.9.8:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:openshift_container_platform:4.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_container_platform:5:*:*:*:*:*:*:*

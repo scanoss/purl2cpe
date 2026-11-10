@@ -304,3 +304,5 @@ cpes:
   - cpe:2.3:a:iterm2:iterm2:3.6.9:*:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.9:-:*:*:*:*:*:*
   - cpe:2.3:a:iterm2:iterm2:3.6.9:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.7.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:iterm2:iterm2:3.7.0:beta2:*:*:*:*:*:*

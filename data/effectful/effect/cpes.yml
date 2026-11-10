@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:effectful:effect:*:*:*:*:*:*:*:*
   - cpe:2.3:a:effectful:effect:2.0.0:next0:*:*:*:node.js:*:*
   - cpe:2.3:a:effectful:effect:2.0.0:next10:*:*:*:node.js:*:*
   - cpe:2.3:a:effectful:effect:2.0.0:next11:*:*:*:node.js:*:*

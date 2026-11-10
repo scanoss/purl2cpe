@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:theforeman:openscap:-:*:*:*:*:*:*:*
   - cpe:2.3:a:theforeman:openscap:0.0.1:*:*:*:*:forman:*:*
   - cpe:2.3:a:theforeman:openscap:0.1.0:*:*:*:*:forman:*:*
   - cpe:2.3:a:theforeman:openscap:0.3.0:*:*:*:*:forman:*:*

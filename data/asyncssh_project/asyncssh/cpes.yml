@@ -60,3 +60,6 @@ cpes:
   - cpe:2.3:a:asyncssh_project:asyncssh:2.21.0:*:*:*:*:*:*:*
   - cpe:2.3:a:asyncssh_project:asyncssh:2.21.1:*:*:*:*:*:*:*
   - cpe:2.3:a:asyncssh_project:asyncssh:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:asyncssh_project:asyncssh:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:asyncssh_project:asyncssh:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:asyncssh_project:asyncssh:2.24.0:*:*:*:*:*:*:*

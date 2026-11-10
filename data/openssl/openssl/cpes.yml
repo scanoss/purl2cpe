@@ -263,6 +263,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:1.0.2zh:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zi:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zj:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:1.0.2zl:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zn:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zp:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.0.2zq:*:*:*:*:*:*:*
@@ -324,6 +325,7 @@ cpes:
   - cpe:2.3:a:openssl:openssl:1.1.1v:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1w:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1x:*:*:*:*:*:*:*
+  - cpe:2.3:a:openssl:openssl:1.1.1zb:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1ze:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1zg:*:*:*:*:*:*:*
   - cpe:2.3:a:openssl:openssl:1.1.1zh:*:*:*:*:*:*:*

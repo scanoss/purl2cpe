@@ -85,6 +85,7 @@ cpes:
   - cpe:2.3:a:redhat:ansible:1.9.6:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ansible:1.9.6-0.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ansible:1.9.6-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:ansible:2:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ansible:2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ansible:2.0.0.0-1:*:*:*:*:*:*:*
   - cpe:2.3:a:redhat:ansible:2.0.0-0.1:alpha1:*:*:*:*:*:*
