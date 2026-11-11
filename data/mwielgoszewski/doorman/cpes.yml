@@ -1,2 +1,9 @@
 cpes:
   - cpe:2.3:a:mwielgoszewski:doorman:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mwielgoszewski:doorman:0.6:*:*:*:*:*:*:*

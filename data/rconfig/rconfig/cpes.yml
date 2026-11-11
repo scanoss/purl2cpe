@@ -47,4 +47,5 @@ cpes:
   - cpe:2.3:a:rconfig:rconfig:8.2.0:*:*:*:pro:*:*:*
   - cpe:2.3:a:rconfig:rconfig:8.2.1:*:*:*:pro:*:*:*
   - cpe:2.3:a:rconfig:rconfig:8.2.2:*:*:*:pro:*:*:*
+  - cpe:2.3:a:rconfig:rconfig:8.3.0:*:*:*:pro:*:*:*
   - cpe:2.3:a:rconfig:rconfig:*:*:*:*:core:*:*:*

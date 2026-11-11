@@ -219,12 +219,16 @@ cpes:
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.20.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2026.2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2026.2.23.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.2.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2026.3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:devolutions:devolutions_server:2026.3.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.6.0:*:*:*:*:*:*:*
   - cpe:2.3:a:devolutions:devolutions_server:2026.3.7.0:*:*:*:*:*:*:*

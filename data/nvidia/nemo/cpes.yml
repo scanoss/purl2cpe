@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:nvidia:nemo:*:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:nemo:-:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:nemo:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:nemo:0.10.1:*:*:*:*:*:*:*

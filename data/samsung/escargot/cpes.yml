@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:samsung:escargot:-:*:*:*:*:*:*:*
   - cpe:2.3:a:samsung:escargot:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:samsung:escargot:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:samsung:escargot:2026-03-26:*:*:*:*:*:*:*

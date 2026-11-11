@@ -1,8 +1,10 @@
 cpes:
+  - cpe:2.3:a:apache:tomee:*:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:-:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomee:11.0.0-m1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:tomee:1.5.2:*:*:*:*:*:*:*
