@@ -102,6 +102,8 @@ cpes:
   - cpe:2.3:a:microsoft:windows_app:2.0.1193.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.1246.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.1247.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:windows_app:2.0.1314.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:windows_app:2.0.1315.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.285.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.294.0:*:*:*:*:windows:*:*
   - cpe:2.3:a:microsoft:windows_app:2.0.297.0:*:*:*:*:windows:*:*
