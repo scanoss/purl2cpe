@@ -1,2 +1,9 @@
 cpes:
   - cpe:2.3:a:w3:css_validator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:201801:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:20190320:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:20211001:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:20211112:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:20220105:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3:css_validator:20231124:*:*:*:*:*:*:*

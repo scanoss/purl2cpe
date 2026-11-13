@@ -1434,8 +1434,33 @@ cpes:
   - cpe:2.3:a:ggml:llama.cpp:b11899:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b11900:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b11901:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11902:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11903:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11904:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11905:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11906:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11907:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11908:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11909:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11910:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11912:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11913:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11918:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11919:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1192:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11921:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11922:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11923:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11925:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11926:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11927:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11928:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11929:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1193:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11930:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11932:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11933:*:*:*:*:*:*:*
+  - cpe:2.3:a:ggml:llama.cpp:b11934:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1194:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1195:*:*:*:*:*:*:*
   - cpe:2.3:a:ggml:llama.cpp:b1197:*:*:*:*:*:*:*

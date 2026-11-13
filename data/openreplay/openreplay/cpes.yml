@@ -8,6 +8,10 @@ cpes:
   - cpe:2.3:a:openreplay:openreplay:1.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openreplay:openreplay:1.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openreplay:openreplay:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openreplay:openreplay:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openreplay:openreplay:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openreplay:openreplay:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openreplay:openreplay:1.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openreplay:openreplay:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openreplay:openreplay:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openreplay:openreplay:1.3.5:*:*:*:*:*:*:*

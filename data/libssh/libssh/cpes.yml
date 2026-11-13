@@ -11,6 +11,8 @@ cpes:
   - cpe:2.3:a:libssh:libssh:0.11.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libssh:libssh:0.11.1:*:*:*:*:*:*:*
   - cpe:2.3:a:libssh:libssh:0.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libssh:libssh:0.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libssh:libssh:0.11.4:*:*:*:*:*:*:*
   - cpe:2.3:a:libssh:libssh:0.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:libssh:libssh:0.4.7:*:*:*:*:*:*:*
   - cpe:2.3:a:libssh:libssh:0.4.8:*:*:*:*:*:*:*

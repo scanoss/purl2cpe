@@ -1,2 +1,6 @@
 cpes:
   - cpe:2.3:a:xiaoyunjie:openvpn-cms-flask:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiaoyunjie:openvpn-cms-flask:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiaoyunjie:openvpn-cms-flask:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiaoyunjie:openvpn-cms-flask:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiaoyunjie:openvpn-cms-flask:1.2.7:*:*:*:*:*:*:*

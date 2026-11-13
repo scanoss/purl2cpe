@@ -1,2 +1,8 @@
 cpes:
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.1.0:*:*:*:data:*:*:*
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.2.0:*:*:*:data:*:*:*
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.2.1:*:*:*:data:*:*:*
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.3.0:*:*:*:data:*:*:*
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.3.1:*:*:*:data:*:*:*
+  - cpe:2.3:a:unitycatalog:unitycatalog:0.4.0:*:*:*:data:*:*:*
   - cpe:2.3:a:unitycatalog:unitycatalog:*:*:*:*:data:*:*:*
