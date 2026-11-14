@@ -84,5 +84,6 @@ cpes:
   - cpe:2.3:a:open-emr:openemr:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:8.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:8.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-emr:openemr:8.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:*:patch_5:*:*:*:*:*:*
   - cpe:2.3:a:open-emr:openemr:*:patch_7:*:*:*:*:*:*
