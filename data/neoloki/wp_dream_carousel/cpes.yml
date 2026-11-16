@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:neoloki:wp_dream_carousel:1.0.1b:*:*:*:wordpress:*:*:*
   - cpe:2.3:a:neoloki:wp_dream_carousel:*:*:*:*:wordpress:*:*:*

@@ -97,6 +97,7 @@ cpes:
   - cpe:2.3:a:phoenixframework:phoenix:1.5.12:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.5.13:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.5.15:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.5.2:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.5.4:*:*:*:*:*:*:*

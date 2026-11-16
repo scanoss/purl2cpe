@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:nugine:wgp:0.2.0:*:*:*:*:rust:*:*
   - cpe:2.3:a:nugine:wgp:*:*:*:*:*:rust:*:*
