@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:vercel:next.js:*:*:*:*:*:*:*:*
   - cpe:2.3:a:vercel:next.js:10.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:10.0.10:canary0:*:*:*:node.js:*:*
   - cpe:2.3:a:vercel:next.js:10.0.10:canary10:*:*:*:node.js:*:*

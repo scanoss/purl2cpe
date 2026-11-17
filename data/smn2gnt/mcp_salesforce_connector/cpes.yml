@@ -1,2 +1,7 @@
 cpes:
   - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:0.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:0.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:smn2gnt:mcp_salesforce_connector:0.1.9:*:*:*:*:*:*:*

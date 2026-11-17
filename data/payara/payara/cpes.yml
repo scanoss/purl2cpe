@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:payara:payara:*:*:*:*:*:*:*:*
   - cpe:2.3:a:payara:payara:4.1.2.181:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:4.1.2.191.46:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:4.1.2.1919.1:*:*:*:community:*:*:*
@@ -33,6 +34,7 @@ cpes:
   - cpe:2.3:a:payara:payara:5.2022.2:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:5.2022.3:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:5.2022.4:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:5.2022.5:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:5.21.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.22.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.23.0:*:*:*:enterprise:*:*:*
@@ -81,6 +83,7 @@ cpes:
   - cpe:2.3:a:payara:payara:5.65.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.66.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:5.67.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:payara:payara:5.68.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.0.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.10.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.1.0:*:*:*:enterprise:*:*:*
@@ -119,7 +122,9 @@ cpes:
   - cpe:2.3:a:payara:payara:6.2024.8:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2024.9:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2025.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:payara:payara:6.2025.3:*:*:*:community:*:*:*
   - cpe:2.3:a:payara:payara:6.2.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:payara:payara:6.24.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.3.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.4.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:payara:payara:6.5.0:*:*:*:enterprise:*:*:*

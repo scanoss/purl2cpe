@@ -90,6 +90,7 @@ cpes:
   - cpe:2.3:a:owasp:modsecurity:2.9.12:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:2.9.13:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:2.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:modsecurity:2.9.15:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:2.9.1:rc1:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:2.9.2:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:2.9.3:*:*:*:*:*:*:*
@@ -106,12 +107,14 @@ cpes:
   - cpe:2.3:a:owasp:modsecurity:3.0.12:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.13:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:modsecurity:3.0.15:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.16:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.4:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.5:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:modsecurity:3.0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.8:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:3.0.9:*:*:*:*:*:*:*
   - cpe:2.3:a:owasp:modsecurity:*:rc3:*:*:*:*:*:*

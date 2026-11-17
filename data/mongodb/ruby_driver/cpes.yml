@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mongodb:ruby_driver:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:ruby_driver:0.10.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:0.10:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:0.11.1:*:*:*:*:mongodb:*:*

@@ -142,3 +142,26 @@ cpes:
   - cpe:2.3:a:exceljs_project:exceljs:1.9.1:*:*:*:*:node.js:*:*
   - cpe:2.3:a:exceljs_project:exceljs:2.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:exceljs_project:exceljs:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.8.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:3.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exceljs_project:exceljs:4.4.0:*:*:*:*:node.js:*:*

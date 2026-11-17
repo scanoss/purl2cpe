@@ -24,3 +24,4 @@ cpes:
   - cpe:2.3:a:pixar:openusd:20.05:*:*:*:*:*:*:*
   - cpe:2.3:a:pixar:openusd:20.08:*:*:*:*:*:*:*
   - cpe:2.3:a:pixar:openusd:20.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:v26.03:*:*:*:*:*:*:*

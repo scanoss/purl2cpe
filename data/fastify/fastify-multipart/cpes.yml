@@ -14,6 +14,7 @@ cpes:
   - cpe:2.3:a:fastify:fastify-multipart:10.0.0:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.0:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:10.1.0:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.1:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.1:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.2:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.3:*:*:*:*:fastify:*:*

@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:inducer:relate:*:*:*:*:*:*:*:*
   - cpe:2.3:a:inducer:relate:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:inducer:relate:2024.1:*:*:*:*:*:*:*

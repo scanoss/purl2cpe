@@ -47,11 +47,28 @@ cpes:
   - cpe:2.3:a:impresscms:impresscms:1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.10:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.11:-:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.11:beta:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.11:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.11:rc:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.11:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.3.12:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.1:final:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.5:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.3.6.1:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.1:beta:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.2:rc:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.3:rc:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.5:*:*:*:*:*:*:*

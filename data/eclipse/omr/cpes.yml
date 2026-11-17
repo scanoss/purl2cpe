@@ -3,6 +3,7 @@ cpes:
   - cpe:2.3:a:eclipse:omr:-:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:omr:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.3:*:*:*:*:*:*:*
@@ -14,3 +15,4 @@ cpes:
   - cpe:2.3:a:eclipse:omr:0.7:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.7.0:*:*:*:*:*:*:*
   - cpe:2.3:a:eclipse:omr:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:omr:0.9.0:*:*:*:*:*:*:*

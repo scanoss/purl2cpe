@@ -70,13 +70,19 @@ cpes:
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.32.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.33.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.34.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.5.90:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.36.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.6.90:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.6.91:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.37.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.8:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.38.1:*:*:*:-:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.3.9:*:*:*:*:*:*:*
@@ -124,7 +130,23 @@ cpes:
   - cpe:2.3:a:oneidentity:syslog-ng:3.7.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.7.2:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:3.74.74:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.8.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.8.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:oneidentity:syslog-ng:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.4.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oneidentity:syslog-ng:4.8.1:*:*:*:*:*:*:*
