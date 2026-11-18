@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:plug_project:plug:*:*:*:*:*:*:*:*
   - cpe:2.3:a:plug_project:plug:0.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plug_project:plug:0.10.0:*:*:*:*:*:*:*
   - cpe:2.3:a:plug_project:plug:0.11.0:*:*:*:*:*:*:*

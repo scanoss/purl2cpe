@@ -451,7 +451,13 @@ cpes:
   - cpe:2.3:a:puppet:puppet:8.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.15.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.19.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:8.22.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.3.1:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.4.0:*:*:*:*:*:*:*
@@ -462,5 +468,7 @@ cpes:
   - cpe:2.3:a:puppet:puppet:8.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:8.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppet:puppet:9.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:puppet:puppet:*:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:puppet:puppet:-:*:*:*:enterprise:*:*:*

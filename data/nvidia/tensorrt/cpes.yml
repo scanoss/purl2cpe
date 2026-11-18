@@ -12,6 +12,7 @@ cpes:
   - cpe:2.3:a:nvidia:tensorrt:10.14:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt:10.15:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt:10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:tensorrt:10.16.1:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt:10.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt:10.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:nvidia:tensorrt:10.4.0:*:*:*:*:*:*:*

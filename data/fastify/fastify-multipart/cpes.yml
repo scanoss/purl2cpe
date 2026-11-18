@@ -15,6 +15,13 @@ cpes:
   - cpe:2.3:a:fastify:fastify-multipart:1.0.0:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:10.1.0:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:10.1.1:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.2:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.3:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.4:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.5:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.6:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.7:*:*:*:*:fastify:*:*
+  - cpe:2.3:a:fastify:fastify-multipart:10.1.8:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.1:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.2:*:*:*:*:fastify:*:*
   - cpe:2.3:a:fastify:fastify-multipart:1.0.3:*:*:*:*:fastify:*:*

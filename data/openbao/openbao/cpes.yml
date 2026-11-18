@@ -32,3 +32,12 @@ cpes:
   - cpe:2.3:a:openbao:openbao:2.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:openbao:openbao:2.5.4:*:*:*:*:*:*:*
   - cpe:2.3:a:openbao:openbao:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.0:beta20260622:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.7.0:beta20260909:*:*:*:*:*:*
+  - cpe:2.3:a:openbao:openbao:2.7.1:*:*:*:*:*:*:*
