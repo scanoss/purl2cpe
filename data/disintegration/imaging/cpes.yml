@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:disintegration:imaging:1.6.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:disintegration:imaging:3.6.2:*:*:*:*:*:*:*

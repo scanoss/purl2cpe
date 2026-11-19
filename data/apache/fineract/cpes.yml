@@ -20,6 +20,9 @@ cpes:
   - cpe:2.3:a:apache:fineract:1.12.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.12.1:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fineract:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fineract:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:fineract:1.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.2.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:apache:fineract:1.4.0:*:*:*:*:*:*:*

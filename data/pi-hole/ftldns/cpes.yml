@@ -124,3 +124,4 @@ cpes:
   - cpe:2.3:a:pi-hole:ftldns:6.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.5:*:*:*:*:*:*:*
   - cpe:2.3:a:pi-hole:ftldns:6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pi-hole:ftldns:6.6.1:*:*:*:*:*:*:*

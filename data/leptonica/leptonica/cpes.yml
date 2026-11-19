@@ -38,3 +38,4 @@ cpes:
   - cpe:2.3:a:leptonica:leptonica:1.80.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leptonica:leptonica:1.81.0:*:*:*:*:*:*:*
   - cpe:2.3:a:leptonica:leptonica:1.81.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:leptonica:leptonica:1.87.0:*:*:*:*:*:*:*

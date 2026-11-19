@@ -21,5 +21,11 @@ cpes:
   - cpe:2.3:a:plist_project:plist:3.0.2:*:*:*:*:node.js:*:*
   - cpe:2.3:a:plist_project:plist:3.0.3:*:*:*:*:node.js:*:*
   - cpe:2.3:a:plist_project:plist:3.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:5.0.0:*:*:*:*:node.js:*:*
   - cpe:2.3:a:plist_project:plist:*:*:*:*:*:node.js:*:*
   - cpe:2.3:a:plist_project:plist:-:*:*:*:*:node.js:*:*

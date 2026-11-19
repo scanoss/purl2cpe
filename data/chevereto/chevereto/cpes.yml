@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:chevereto:chevereto:*:*:*:*:*:*:*:*
   - cpe:2.3:a:chevereto:chevereto:1.0.0:*:*:*:free:*:*:*
   - cpe:2.3:a:chevereto:chevereto:1.0.10:*:*:*:free:*:*:*
   - cpe:2.3:a:chevereto:chevereto:1.0.11:*:*:*:free:*:*:*

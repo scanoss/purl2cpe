@@ -78,7 +78,19 @@ cpes:
   - cpe:2.3:a:rustls_project:rustls:0.23.31:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.32:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.39:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.23.45:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.5:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.6:*:*:*:*:*:*:*
   - cpe:2.3:a:rustls_project:rustls:0.23.7:*:*:*:*:*:*:*

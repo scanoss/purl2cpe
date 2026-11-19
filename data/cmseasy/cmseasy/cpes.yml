@@ -81,6 +81,7 @@ cpes:
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmseasy:cmseasy:7.7.5_20210919:*:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5:20211012:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5_20211012:*:*:*:*:*:*:*
   - cpe:2.3:a:cmseasy:cmseasy:7.7.5.3:*:*:*:*:*:*:*

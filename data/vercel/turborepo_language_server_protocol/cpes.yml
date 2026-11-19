@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:vercel:turborepo_language_server_protocol:2.9.12002:*:*:*:*:visual_studio_code:*:*
   - cpe:2.3:a:vercel:turborepo_language_server_protocol:*:*:*:*:*:visual_studio_code:*:*
