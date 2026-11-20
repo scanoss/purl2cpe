@@ -57,6 +57,12 @@ cpes:
   - cpe:2.3:a:neo4j:neo4j:2026.05.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:neo4j:neo4j:2026.06.0:*:*:*:community:*:*:*
   - cpe:2.3:a:neo4j:neo4j:2026.06.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.07.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.07.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.07.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.07.1:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.08.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:neo4j:neo4j:2026.08.0:*:*:*:enterprise:*:*:*
   - cpe:2.3:a:neo4j:neo4j:3.4.0:alpha01:*:*:community:*:*:*
   - cpe:2.3:a:neo4j:neo4j:3.4.0:alpha01:*:*:enterprise:*:*:*
   - cpe:2.3:a:neo4j:neo4j:3.4.0:alpha02:*:*:community:*:*:*

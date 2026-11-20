@@ -115,10 +115,26 @@ cpes:
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.1:*:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r10:*:*:*:long-term_support:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r1:*:*:*:long-term_support:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r2:*:*:*:long-term_support:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r3:*:*:*:long-term_support:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r4:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r5:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r6:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r7:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r8:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026-lts-r9:*:*:*:long-term_support:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r10:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r1:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r2:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r3:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r4:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r5:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r6:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r7:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r8:*:*:*:lts:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:2026:r9:*:*:*:lts:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.2:*:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.3:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:2.0.3:*:*:*:continuous_releases:*:*:*
@@ -209,3 +225,8 @@ cpes:
   - cpe:2.3:a:f5:nginx_ingress_controller:5.5.3:*:*:*:*:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:5.5.3:*:*:*:continuous_releases:*:*:*
   - cpe:2.3:a:f5:nginx_ingress_controller:5.5.4:*:*:*:continuous_releases:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:5.6.0:*:*:*:continuous_releases:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:5.6.3:*:*:*:continuous_releases:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:5.7.0:*:*:*:continuous_releases:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:5.7.1:*:*:*:continuous_releases:*:*:*
+  - cpe:2.3:a:f5:nginx_ingress_controller:*:*:*:*:continuous_releases:*:*:*

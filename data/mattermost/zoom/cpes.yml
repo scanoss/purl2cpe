@@ -17,10 +17,15 @@ cpes:
   - cpe:2.3:a:mattermost:zoom:1.10.0:-:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.10.0:rc1:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.10.0:rc2:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:zoom:11.0.11:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.1.0:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.11.0:-:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.11.0:rc1:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:zoom:11.11.7:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.1.1:*:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:zoom:1.12.0:-:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:zoom:1.12.0:rc1:*:*:*:mattermost:*:*
+  - cpe:2.3:a:mattermost:zoom:11.2.10.0:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.1.2:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.2.0:*:*:*:*:mattermost:*:*
   - cpe:2.3:a:mattermost:zoom:1.3.0:*:*:*:*:mattermost:*:*

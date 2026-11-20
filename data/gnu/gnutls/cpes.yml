@@ -361,6 +361,8 @@ cpes:
   - cpe:2.3:a:gnu:gnutls:3.8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:3.8.1:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:3.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnutls:3.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnutls:3.8.12:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:3.8.13:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:3.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:gnutls:3.8.3:*:*:*:*:*:*:*

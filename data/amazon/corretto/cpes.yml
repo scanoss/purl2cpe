@@ -2,4 +2,11 @@ cpes:
   - cpe:2.3:a:amazon:corretto:*:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:corretto:27:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.0.33.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.0.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.0.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.0.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.1.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.1.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:27.0.1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:corretto:8:*:*:*:*:*:*:*
