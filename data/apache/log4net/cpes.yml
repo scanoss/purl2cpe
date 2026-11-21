@@ -56,3 +56,6 @@ cpes:
   - cpe:2.3:a:apache:log4net:3.4.0:preview1:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:3.4.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:apache:log4net:3.4.1:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:3.5.0:rc2:*:*:*:*:*:*
