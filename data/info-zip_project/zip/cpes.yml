@@ -1,2 +1,3 @@
 cpes:
+  - cpe:2.3:a:info-zip_project:zip:*:*:*:*:*:*:*:*
   - cpe:2.3:a:info-zip_project:zip:3.0:*:*:*:*:*:*:*

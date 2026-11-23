@@ -186,6 +186,8 @@ cpes:
   - cpe:2.3:a:updraftplus:updraftplus:1.22.25:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:updraftplus:1.22.9:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:updraftplus:1.23.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:updraftplus:1.23.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:updraftplus:updraftplus:1.23.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:updraftplus:1.2.31:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:updraftplus:1.23.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:updraftplus:updraftplus:1.23.2:*:*:*:*:wordpress:*:*

@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:postfixadmin_project:postfixadmin:*:*:*:*:*:*:*:*
   - cpe:2.3:a:postfixadmin_project:postfixadmin:1.3.7:*:*:*:*:*:*:*
   - cpe:2.3:a:postfixadmin_project:postfixadmin:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:postfixadmin_project:postfixadmin:1.5.0:*:*:*:*:*:*:*

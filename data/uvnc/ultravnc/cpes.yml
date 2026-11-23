@@ -34,3 +34,4 @@ cpes:
   - cpe:2.3:a:uvnc:ultravnc:1.6.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.6.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:uvnc:ultravnc:1.8.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:uvnc:ultravnc:1.8.2.4:*:*:*:*:*:*:*

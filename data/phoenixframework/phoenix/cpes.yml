@@ -117,6 +117,7 @@ cpes:
   - cpe:2.3:a:phoenixframework:phoenix:1.6.14:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.6.15:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.6.17:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.6.2:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.6.3:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.6.4:*:*:*:*:*:*:*
@@ -146,6 +147,7 @@ cpes:
   - cpe:2.3:a:phoenixframework:phoenix:1.7.21:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.7.22:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.7.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.7.24:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.7.3:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.7.4:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.7.5:*:*:*:*:*:*:*
@@ -160,6 +162,13 @@ cpes:
   - cpe:2.3:a:phoenixframework:phoenix:1.8.0:rc3:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.0:rc4:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.16:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.2:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.3:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.4:*:*:*:*:*:*:*
@@ -167,3 +176,4 @@ cpes:
   - cpe:2.3:a:phoenixframework:phoenix:1.8.6:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.7:*:*:*:*:*:*:*
   - cpe:2.3:a:phoenixframework:phoenix:1.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixframework:phoenix:1.8.9:*:*:*:*:*:*:*

@@ -17,8 +17,12 @@ cpes:
   - cpe:2.3:a:luckypennysoftware:automapper:15.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:15.0.1:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:15.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luckypennysoftware:automapper:15.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luckypennysoftware:automapper:15.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:luckypennysoftware:automapper:15.1.3:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:16.0.0:beta1:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luckypennysoftware:automapper:16.1.1:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:2.0.0:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:2.1.267:*:*:*:*:*:*:*
   - cpe:2.3:a:luckypennysoftware:automapper:2.2.0:*:*:*:*:*:*:*

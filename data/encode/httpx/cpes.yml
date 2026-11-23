@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:encode:httpx:*:*:*:*:*:*:*:*
   - cpe:2.3:a:encode:httpx:0.0.1:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:httpx:0.0.2:*:*:*:*:python:*:*
   - cpe:2.3:a:encode:httpx:0.0.3:*:*:*:*:python:*:*

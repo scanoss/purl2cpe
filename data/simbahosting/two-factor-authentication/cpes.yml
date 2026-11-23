@@ -74,3 +74,4 @@ cpes:
   - cpe:2.3:a:simbahosting:two-factor-authentication:1.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simbahosting:two-factor-authentication:1.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:simbahosting:two-factor-authentication:1.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simbahosting:two-factor-authentication:*:*:*:*:wordpress:*:*:*

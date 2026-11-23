@@ -134,18 +134,53 @@ cpes:
   - cpe:2.3:a:mongodb:ruby_driver:2.13.0:rc1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.13.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.13.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.13.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.14.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.14.0:rc1:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.14.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.15.0:alpha:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.15.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.0:alpha1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.16.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.16.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.17.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.17.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.17.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.17.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.17.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.18.0:beta1:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.18.0:-:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.18.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.18.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.18.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.19.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.19.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.19.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.19.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.20.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.20.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.20.2:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.0:-:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.0:rc0:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.21.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.21.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.21.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.21.3:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.1:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.22.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.2:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.23.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.23.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.3:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.24.0:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.24.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.4:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.25.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.5:*:*:*:*:mongodb:*:*
+  - cpe:2.3:a:mongodb:ruby_driver:2.26.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.6:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.2.7:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:ruby_driver:2.3.0:*:*:*:*:mongodb:*:*

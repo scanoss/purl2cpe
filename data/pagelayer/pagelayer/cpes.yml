@@ -104,5 +104,7 @@ cpes:
   - cpe:2.3:a:pagelayer:pagelayer:1.9.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:1.9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:1.9.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:2.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pagelayer:pagelayer:2.1.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:*:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:pagelayer:pagelayer:-:*:*:*:*:wordpress:*:*

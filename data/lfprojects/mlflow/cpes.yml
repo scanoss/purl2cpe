@@ -160,6 +160,10 @@ cpes:
   - cpe:2.3:a:lfprojects:mlflow:3.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.16.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:mlflow:3.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.2.0:-:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.2.0:rc0:*:*:*:*:*:*
   - cpe:2.3:a:lfprojects:mlflow:3.3.0:-:*:*:*:*:*:*

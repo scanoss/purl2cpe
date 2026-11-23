@@ -211,6 +211,7 @@ cpes:
   - cpe:2.3:a:monkeytype:monkeytype:24.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:25.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:25.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:monkeytype:monkeytype:25.44.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:25.46.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:25.48.0:*:*:*:*:*:*:*
   - cpe:2.3:a:monkeytype:monkeytype:25.49.0:*:*:*:*:*:*:*

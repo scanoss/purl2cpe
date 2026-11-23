@@ -119,7 +119,16 @@ cpes:
   - cpe:2.3:a:thecodingmachine:gotenberg:8.30.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.31.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.36.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.37.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.38.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.39.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:8.40.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.5.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.6.0:*:*:*:*:*:*:*
@@ -129,3 +138,13 @@ cpes:
   - cpe:2.3:a:thecodingmachine:gotenberg:8.9.0:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.9.1:*:*:*:*:*:*:*
   - cpe:2.3:a:thecodingmachine:gotenberg:8.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thecodingmachine:gotenberg:9.7.0:*:*:*:*:*:*:*

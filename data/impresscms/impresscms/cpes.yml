@@ -72,3 +72,5 @@ cpes:
   - cpe:2.3:a:impresscms:impresscms:1.4.3:rc2:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.4:*:*:*:*:*:*:*
   - cpe:2.3:a:impresscms:impresscms:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:impresscms:impresscms:1.4.5:alpha:*:*:*:*:*:*

@@ -108,3 +108,4 @@ cpes:
   - cpe:2.3:a:doorkeeper_project:doorkeeper:5.6.3:*:*:*:*:ruby:*:*
   - cpe:2.3:a:doorkeeper_project:doorkeeper:5.6.4:*:*:*:*:ruby:*:*
   - cpe:2.3:a:doorkeeper_project:doorkeeper:5.6.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:doorkeeper_project:doorkeeper:5.6.6:*:*:*:*:ruby:*:*

@@ -255,4 +255,7 @@ cpes:
   - cpe:2.3:a:fleetdm:fleet:4.91.0:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.91.1:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:4.91.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fleetdm:fleet:4.92.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fleetdm:fleet:4.92.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fleetdm:fleet:4.92.2:*:*:*:*:*:*:*
   - cpe:2.3:a:fleetdm:fleet:*:*:*:*:*:node.js:*:*

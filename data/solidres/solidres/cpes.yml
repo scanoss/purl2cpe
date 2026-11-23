@@ -20,4 +20,5 @@ cpes:
   - cpe:2.3:a:solidres:solidres:0.9.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:solidres:solidres:0.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:solidres:solidres:2.5.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:solidres:solidres:*:*:*:*:*:joomla\!:*:*
   - cpe:2.3:a:solidres:solidres:-:*:*:*:*:wordpress:*:*
