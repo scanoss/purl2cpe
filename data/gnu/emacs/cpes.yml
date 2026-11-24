@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:gnu:emacs:*:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:-:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:13:*:*:*:*:*:*:*
   - cpe:2.3:a:gnu:emacs:15.10:*:*:*:*:*:*:*

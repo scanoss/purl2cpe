@@ -340,6 +340,9 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic_ai:2.51.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.5.1:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.52.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.53.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.54.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic_ai:2.55.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.6.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.7.0:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:2.8.0:*:*:*:*:python:*:*

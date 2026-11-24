@@ -178,3 +178,14 @@ cpes:
   - cpe:2.3:a:xibosignage:xibo:4.3.2:*:*:*:*:*:*:*
   - cpe:2.3:a:xibosignage:xibo:4.4.0:alpha:*:*:*:*:*:*
   - cpe:2.3:a:xibosignage:xibo:4.4.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.4.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibosignage:xibo:4.5.2:*:*:*:*:*:*:*

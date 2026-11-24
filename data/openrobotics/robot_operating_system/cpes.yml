@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:openrobotics:robot_operating_system:0.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:1:kinetic:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:1:melodic:*:*:*:*:*:*
   - cpe:2.3:a:openrobotics:robot_operating_system:1:noetic:*:*:*:*:*:*

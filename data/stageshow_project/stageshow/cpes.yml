@@ -7,7 +7,11 @@ cpes:
   - cpe:2.3:a:stageshow_project:stageshow:0.9.4:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:0.9.5:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:10.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:10.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:10.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:10.0:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:1.0.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:1.0.3:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:1.0.4:*:*:*:*:wordpress:*:*
@@ -249,4 +253,53 @@ cpes:
   - cpe:2.3:a:stageshow_project:stageshow:8.0.6:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:8.0.7:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:9.8:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:stageshow_project:stageshow:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stageshow_project:stageshow:-:*:*:*:*:wordpress:*:*

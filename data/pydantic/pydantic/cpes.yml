@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pydantic:pydantic:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:-:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:0.0.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:0.0.3:*:*:*:*:*:*:*
@@ -72,7 +73,19 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic:1.10.10:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.11:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.19:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:1.10.24:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.4:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:1.10.5:*:*:*:*:*:*:*
@@ -115,7 +128,31 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic:2.0:beta2:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.0:beta3:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.10.6:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.11.9:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.12.0:-:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.12.0:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.12.0:beta1:*:*:*:*:*:*
@@ -128,3 +165,32 @@ cpes:
   - cpe:2.3:a:pydantic:pydantic:2.2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.5.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.8.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pydantic:pydantic:2.9.2:*:*:*:*:*:*:*

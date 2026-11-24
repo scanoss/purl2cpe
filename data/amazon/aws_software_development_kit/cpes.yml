@@ -4215,13 +4215,41 @@ cpes:
   - cpe:2.3:a:amazon:aws_software_development_kit:3.287.1:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.28.7:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.288.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.288.1:*:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.28.8:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.289.0:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.28.9:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.290.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.290.1:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.291.0:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.1:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.292.0:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.2:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.10:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.1:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.2:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.3:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.4:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.5:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.6:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.7:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.8:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.293.9:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.3:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.1:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.2:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.3:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.4:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.294.5:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.4:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.295.0:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.295.1:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.295.2:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.295.3:-:*:*:*:php:*:*
+  - cpe:2.3:a:amazon:aws_software_development_kit:3.295.4:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.5:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.6:-:*:*:*:php:*:*
   - cpe:2.3:a:amazon:aws_software_development_kit:3.29.7:-:*:*:*:php:*:*
