@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mediawiki:visual_editor:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.20:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.21:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.22:*:*:*:*:mediawiki:*:*
@@ -9,5 +10,8 @@ cpes:
   - cpe:2.3:a:mediawiki:visual_editor:1.34:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.39.0:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.43.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.43.4:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:1.44.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:mediawiki:visual_editor:1.47:*:*:*:*:mediawiki:*:*
   - cpe:2.3:a:mediawiki:visual_editor:*:*:*:*:*:mediawiki:*:*

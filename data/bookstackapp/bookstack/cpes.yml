@@ -235,3 +235,4 @@ cpes:
   - cpe:2.3:a:bookstackapp:bookstack:26.05.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bookstackapp:bookstack:26.09:*:*:*:*:*:*:*
   - cpe:2.3:a:bookstackapp:bookstack:26.09.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bookstackapp:bookstack:26.09.2:*:*:*:*:*:*:*

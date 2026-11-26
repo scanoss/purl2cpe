@@ -24,10 +24,62 @@ cpes:
   - cpe:2.3:a:apple:containerization:0.21.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.21.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.22.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.23.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.23.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.23.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.3:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.4:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.24.5:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.25.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.25.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.3:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.4:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.26.5:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.27.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.28.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.29.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.30.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.30.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.3.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.31.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.32.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.32.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.32.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.33.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.33.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.33.2:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.33.3:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.33.4:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.34.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.35.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.36.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.37.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.38.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.39.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.40.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.40.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.40.2:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.4.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.41.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.4.1:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.42.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.43.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.44.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.45.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.46.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.47.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.48.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.49.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.50.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.5.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.51.0:*:*:*:*:swift:*:*
+  - cpe:2.3:a:apple:containerization:0.52.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.6.0:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.6.1:*:*:*:*:swift:*:*
   - cpe:2.3:a:apple:containerization:0.6.2:*:*:*:*:swift:*:*

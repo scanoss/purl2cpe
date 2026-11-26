@@ -120,7 +120,17 @@ cpes:
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1208.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1260.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.127.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1374.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1446.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1476.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1511.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1575.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1634.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1732.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1767.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1856.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.192.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.1927.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.282.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.338.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.426.0:*:*:*:*:*:*:*
@@ -133,3 +143,68 @@ cpes:
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.821.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.90.0:*:*:*:*:*:*:*
   - cpe:2.3:a:amazon:amazon_ssm_agent:3.1.941.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1041.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1186.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1241.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1297.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1377.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1478.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1542.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1630.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1705.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.1798.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.183.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.2016.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.2086.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.2143.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.2222.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.2303.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.286.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.345.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.419.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.532.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.574.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.582.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.815.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.923.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.2.985.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1142.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1230.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.131.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1311.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1345.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1611.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1802.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.1957.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.217.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.2299.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.2471.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.2656.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.2746.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.2958.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3050.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3185.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3270.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.337.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3572.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3598.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3797.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.380.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.3883.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.40.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4108.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4121.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4177.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.418.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4268.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4364.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4515.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4624.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4793.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.484.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.4851.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.5068.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.551.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.808.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.859.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_ssm_agent:3.3.987.0:*:*:*:*:*:*:*

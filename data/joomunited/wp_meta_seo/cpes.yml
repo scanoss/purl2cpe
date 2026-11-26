@@ -105,6 +105,9 @@ cpes:
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.11:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.12:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joomunited:wp_meta_seo:4.5.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joomunited:wp_meta_seo:4.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:joomunited:wp_meta_seo:4.5.17:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.1:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.2:*:*:*:*:wordpress:*:*
   - cpe:2.3:a:joomunited:wp_meta_seo:4.5.3:*:*:*:*:wordpress:*:*

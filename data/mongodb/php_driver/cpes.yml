@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:mongodb:php_driver:*:*:*:*:*:*:*:*
   - cpe:2.3:a:mongodb:php_driver:0.1.0:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:0.1.1:*:*:*:*:mongodb:*:*
   - cpe:2.3:a:mongodb:php_driver:0.1.2:*:*:*:*:mongodb:*:*

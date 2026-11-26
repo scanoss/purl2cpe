@@ -8,6 +8,9 @@ cpes:
   - cpe:2.3:a:linuxfoundation:pytorch:2.10.0:rc5:*:*:*:python:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:2.10.0:rc6:*:*:*:python:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:2.10.0:rc7:*:*:*:python:*:*
+  - cpe:2.3:a:linuxfoundation:pytorch:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:pytorch:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:pytorch:2.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:2.2.0:-:*:*:*:python:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:2.2.0:rc1:*:*:*:python:*:*
   - cpe:2.3:a:linuxfoundation:pytorch:2.2.0:rc2:*:*:*:python:*:*
