@@ -31,3 +31,5 @@ cpes:
   - cpe:2.3:a:dromara:ruoyi-vue-plus:5.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:dromara:ruoyi-vue-plus:5.4.1:*:*:*:*:*:*:*
   - cpe:2.3:a:dromara:ruoyi-vue-plus:5.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dromara:ruoyi-vue-plus:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dromara:ruoyi-vue-plus:5.5.1:*:*:*:*:*:*:*

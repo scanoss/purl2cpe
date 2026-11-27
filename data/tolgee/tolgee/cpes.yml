@@ -183,6 +183,10 @@ cpes:
   - cpe:2.3:a:tolgee:tolgee:3.166.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tolgee:tolgee:3.166.1:*:*:*:*:*:*:*
   - cpe:2.3:a:tolgee:tolgee:3.166.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tolgee:tolgee:3.166.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tolgee:tolgee:3.167.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tolgee:tolgee:3.167.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tolgee:tolgee:3.167.2:*:*:*:*:*:*:*
   - cpe:2.3:a:tolgee:tolgee:3.17.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tolgee:tolgee:3.18.0:*:*:*:*:*:*:*
   - cpe:2.3:a:tolgee:tolgee:3.18.1:*:*:*:*:*:*:*

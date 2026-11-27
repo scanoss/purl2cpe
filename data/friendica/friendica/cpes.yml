@@ -15,8 +15,23 @@ cpes:
   - cpe:2.3:a:friendica:friendica:2020.09:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2020.09-1:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2021.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2021.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2021.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2021.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2022.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2022.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2022.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2022.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2022.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2023.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2023.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2023.04-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2023.05:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2023.12:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2024.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2024.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2024.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:friendica:friendica:2024.12-1:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2.1:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:friendica:friendica:2.21:*:*:*:*:*:*:*

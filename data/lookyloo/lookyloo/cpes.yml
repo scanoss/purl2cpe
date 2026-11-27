@@ -36,6 +36,7 @@ cpes:
   - cpe:2.3:a:lookyloo:lookyloo:1.35.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lookyloo:lookyloo:1.35.1:*:*:*:*:*:*:*
   - cpe:2.3:a:lookyloo:lookyloo:1.35.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lookyloo:lookyloo:1.35.3:*:*:*:*:*:*:*
   - cpe:2.3:a:lookyloo:lookyloo:1.4.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lookyloo:lookyloo:1.5.0:*:*:*:*:*:*:*
   - cpe:2.3:a:lookyloo:lookyloo:1.6.0:*:*:*:*:*:*:*

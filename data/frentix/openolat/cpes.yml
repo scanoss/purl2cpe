@@ -468,6 +468,9 @@ cpes:
   - cpe:2.3:a:frentix:openolat:20.2.2:*:*:*:*:*:*:*
   - cpe:2.3:a:frentix:openolat:20.2.3:*:*:*:*:*:*:*
   - cpe:2.3:a:frentix:openolat:20.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:frentix:openolat:20.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:frentix:openolat:20.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:frentix:openolat:20.3.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frentix:openolat:7.1.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frentix:openolat:8.0:*:*:*:*:*:*:*
   - cpe:2.3:a:frentix:openolat:8.0.2:*:*:*:*:*:*:*

@@ -17,3 +17,4 @@ cpes:
   - cpe:2.3:a:bioinformatics:htmlawed:1.1.4:*:*:*:*:*:*:*
   - cpe:2.3:a:bioinformatics:htmlawed:1.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:bioinformatics:htmlawed:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bioinformatics:htmlawed:*:*:*:*:*:drupal:*:*

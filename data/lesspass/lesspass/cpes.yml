@@ -1,3 +1,4 @@
 cpes:
   - cpe:2.3:a:lesspass:lesspass:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspass:lesspass:-:*:*:*:*:*:*:*
   - cpe:2.3:a:lesspass:lesspass:9.6.9:*:*:*:*:*:*:*

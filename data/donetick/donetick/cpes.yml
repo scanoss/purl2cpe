@@ -39,3 +39,5 @@ cpes:
   - cpe:2.3:a:donetick:donetick:0.1.40:*:*:*:*:*:*:*
   - cpe:2.3:a:donetick:donetick:0.1.41:*:*:*:*:*:*:*
   - cpe:2.3:a:donetick:donetick:0.1.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:donetick:donetick:0.1.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:donetick:donetick:0.1.45:*:*:*:*:*:*:*

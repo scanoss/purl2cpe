@@ -9,3 +9,4 @@ cpes:
   - cpe:2.3:a:smart_trim_project:smart_trim:8.x-1.0:beta1:*:*:*:drupal:*:*
   - cpe:2.3:a:smart_trim_project:smart_trim:8.x-1.0:-:*:*:*:drupal:*:*
   - cpe:2.3:a:smart_trim_project:smart_trim:8.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:smart_trim_project:smart_trim:*:*:*:*:*:drupal:*:*
