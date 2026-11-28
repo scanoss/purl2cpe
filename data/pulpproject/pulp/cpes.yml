@@ -135,9 +135,23 @@ cpes:
   - cpe:2.3:a:pulpproject:pulp:3.118.1:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.119.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.119.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.119.2:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.120.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.121.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.121.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.121.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.121.3:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.122.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.122.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.122.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.123.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.123.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.123.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.123.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pulpproject:pulp:3.124.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.13.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.14.0:*:*:*:*:*:*:*
   - cpe:2.3:a:pulpproject:pulp:3.14.1:*:*:*:*:*:*:*

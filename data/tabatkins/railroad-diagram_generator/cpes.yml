@@ -1,2 +1,3 @@
 cpes:
   - cpe:2.3:a:tabatkins:railroad-diagram_generator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tabatkins:railroad-diagram_generator:-:*:*:*:*:*:*:*

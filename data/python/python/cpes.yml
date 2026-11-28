@@ -201,6 +201,7 @@ cpes:
   - cpe:2.3:a:python:python:3.11.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.11.16:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.11.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.11.18:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.11.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.11.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.11.4:*:*:*:*:*:*:*
@@ -236,6 +237,7 @@ cpes:
   - cpe:2.3:a:python:python:3.12.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.12.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.2150:*:*:*:*:*:x64:*
+  - cpe:2.3:a:python:python:3.12.16:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.12.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.12.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.12.4:*:*:*:*:*:*:*
@@ -268,6 +270,7 @@ cpes:
   - cpe:2.3:a:python:python:3.13.14:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.13.15:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.13.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.13.18:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.13.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.13.3:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.13.4:*:*:*:*:*:*:*
@@ -294,6 +297,7 @@ cpes:
   - cpe:2.3:a:python:python:3.14.6:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.14.7:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.14.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.14.9:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.4:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:-:*:*:*:*:*:*
@@ -322,9 +326,12 @@ cpes:
   - cpe:2.3:a:python:python:3.15.0:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.15.0:rc2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.15.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.15.2:*:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1.5:rc2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.16.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:python:python:3.16.0:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:alpha1:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:alpha2:*:*:*:*:*:*
   - cpe:2.3:a:python:python:3.1:beta1:*:*:*:*:*:*

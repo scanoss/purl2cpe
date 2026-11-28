@@ -1,4 +1,5 @@
 cpes:
+  - cpe:2.3:a:pydantic:pydantic_ai:*:*:*:*:*:*:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.10:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.11:*:*:*:*:python:*:*
   - cpe:2.3:a:pydantic:pydantic_ai:0.0.12:*:*:*:*:python:*:*

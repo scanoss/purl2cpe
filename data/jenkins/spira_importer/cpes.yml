@@ -1,4 +1,5 @@
 cpes:
   - cpe:2.3:a:jenkins:spira_importer:3.2.2:*:*:*:*:jenkins:*:*
   - cpe:2.3:a:jenkins:spira_importer:3.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:spira_importer:*:*:*:*:jenkins:*:*:*
   - cpe:2.3:a:jenkins:spira_importer:-:*:*:*:*:jenkins:*:*
